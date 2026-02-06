@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-02-06 03:10 UTC",
+  "lastUpdated": "2026-02-06 03:15 UTC",
   "games": [
     {
-      "homeTeam": "Michigan",
-      "awayTeam": "Penn State",
-      "homeScore": 110,
-      "awayScore": 69,
-      "status": "FINAL"
+      "homeTeam": "Maryland",
+      "awayTeam": "Ohio State",
+      "homeScore": 39,
+      "awayScore": 52,
+      "status": "2nd Half - Live on FS1"
     },
     {
       "homeTeam": "Cincinnati",
       "awayTeam": "West Virginia",
       "homeScore": 0,
       "awayScore": 0,
-      "status": "Saturday - 7:00 PM ET"
+      "status": "Live on ESPN2"
     },
     {
-      "homeTeam": "Maryland",
-      "awayTeam": "Ohio State",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Saturday - 8:30 PM ET"
+      "homeTeam": "Michigan",
+      "awayTeam": "Penn State",
+      "homeScore": 110,
+      "awayScore": 69,
+      "status": "FINAL"
     }
   ]
 }
