@@ -1,5 +1,5 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-02-14 21:12:33*
+*Updated: 2026-02-14 21:12:44*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
@@ -10,7 +10,7 @@
 | #24 Louisville Cardinals @ Baylor Bears | 2 - 4 | 17:21 - 1st Half | ESPN |
 | Stanford Cardinal @ Wake Forest Demon Deacons | 6 - 7 | 15:57 - 1st Half | ACC Network |
 | Georgia State Panthers @ Old Dominion Monarchs | 20 - 24 | 6:51 - 1st Half | ESPN+ |
-| Florida A&M Rattlers @ Jackson State Tigers | 15 - 24 | 4:29 - 1st Half | HBCU Go |
+| Florida A&M Rattlers @ Jackson State Tigers | 15 - 24 | 4:23 - 1st Half | HBCU Go |
 | UL Monroe Warhawks @ Texas State Bobcats | 55 - 55 | 15:44 - 2nd Half | ESPN+ |
 | North Florida Ospreys @ Jacksonville Dolphins | 10 - 15 | 14:06 - 1st Half | ESPN+ |
 | South Alabama Jaguars @ Arkansas State Red Wolves | 42 - 48 | 15:01 - 2nd Half | ESPN+ |

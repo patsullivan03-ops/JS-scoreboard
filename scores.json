@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-02-14 21:12:33",
+    "lastUpdated": "2026-02-14 21:12:44",
     "games": [
         {
             "awayTeam": "#25 Kentucky Wildcats",
@@ -76,9 +76,9 @@
             "awayScore": "15",
             "homeTeam": "Jackson State Tigers",
             "homeScore": "24",
-            "status": "4:29 - 1st Half",
+            "status": "4:23 - 1st Half",
             "tv": "HBCU Go",
-            "winProb": 0.808,
+            "winProb": 0.795,
             "state": "in"
         },
         {
@@ -88,7 +88,7 @@
             "homeScore": "55",
             "status": "15:44 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.835,
+            "winProb": 0.834,
             "state": "in"
         },
         {
