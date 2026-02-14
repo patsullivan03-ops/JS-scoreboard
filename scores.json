@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-02-14 19:50:02",
+    "lastUpdated": "2026-02-14 19:54:24",
     "games": [
         {
             "awayTeam": "Florida State Seminoles",
@@ -42,53 +42,53 @@
             "state": "in"
         },
         {
+            "awayTeam": "SMU Mustangs",
+            "awayScore": "37",
+            "homeTeam": "Syracuse Orange",
+            "homeScore": "35",
+            "status": "1:43 - 1st Half",
+            "tv": "The CW Network",
+            "winProb": 0.379,
+            "state": "in"
+        },
+        {
             "awayTeam": "Villanova Wildcats",
             "awayScore": "11",
             "homeTeam": "Creighton Bluejays",
             "homeScore": "7",
-            "status": "11:51 - 1st Half",
+            "status": "11:10 - 1st Half",
             "tv": "FOX",
-            "winProb": 0.301,
-            "state": "in"
-        },
-        {
-            "awayTeam": "SMU Mustangs",
-            "awayScore": "37",
-            "homeTeam": "Syracuse Orange",
-            "homeScore": "27",
-            "status": "3:43 - 1st Half",
-            "tv": "The CW Network",
-            "winProb": 0.197,
+            "winProb": 0.3,
             "state": "in"
         },
         {
             "awayTeam": "#17 St. John's Red Storm",
-            "awayScore": "52",
+            "awayScore": "56",
             "homeTeam": "Providence Friars",
-            "homeScore": "45",
-            "status": "11:36 - 2nd Half",
+            "homeScore": "50",
+            "status": "10:14 - 2nd Half",
             "tv": "TNT, truTV",
-            "winProb": 0.163,
+            "winProb": 0.154,
             "state": "in"
         },
         {
             "awayTeam": "Texas A&M Aggies",
-            "awayScore": "57",
+            "awayScore": "59",
             "homeTeam": "#19 Vanderbilt Commodores",
-            "homeScore": "64",
-            "status": "6:14 - 2nd Half",
+            "homeScore": "69",
+            "status": "4:23 - 2nd Half",
             "tv": "SEC Network",
-            "winProb": 0.913,
+            "winProb": 0.973,
             "state": "in"
         },
         {
             "awayTeam": "#9 Kansas Jayhawks",
-            "awayScore": "51",
+            "awayScore": "56",
             "homeTeam": "#5 Iowa State Cyclones",
             "homeScore": "68",
-            "status": "5:35 - 2nd Half",
+            "status": "3:56 - 2nd Half",
             "tv": "ABC",
-            "winProb": 0.995,
+            "winProb": 0.99,
             "state": "in"
         },
         {
@@ -182,26 +182,6 @@
             "state": "pre"
         },
         {
-            "awayTeam": "Duquesne Dukes",
-            "awayScore": "0",
-            "homeTeam": "St. Bonaventure Bonnies",
-            "homeScore": "0",
-            "status": "Sat, February 14th at 4:00 PM EST",
-            "tv": "ESPN+",
-            "winProb": 0.5,
-            "state": "pre"
-        },
-        {
-            "awayTeam": "Arkansas-Pine Bluff Golden Lions",
-            "awayScore": "0",
-            "homeTeam": "Alabama State Hornets",
-            "homeScore": "0",
-            "status": "Sat, February 14th at 4:00 PM EST",
-            "tv": "N/A",
-            "winProb": 0.5,
-            "state": "pre"
-        },
-        {
             "awayTeam": "Stanford Cardinal",
             "awayScore": "0",
             "homeTeam": "Wake Forest Demon Deacons",
@@ -218,16 +198,6 @@
             "homeScore": "0",
             "status": "Sat, February 14th at 4:00 PM EST",
             "tv": "ESPN2",
-            "winProb": 0.5,
-            "state": "pre"
-        },
-        {
-            "awayTeam": "App State Mountaineers",
-            "awayScore": "0",
-            "homeTeam": "James Madison Dukes",
-            "homeScore": "0",
-            "status": "Sat, February 14th at 4:00 PM EST",
-            "tv": "ESPN+",
             "winProb": 0.5,
             "state": "pre"
         },

@@ -1,5 +1,5 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-02-14 19:50:09*
+*Updated: 2026-02-14 19:54:24*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
@@ -7,11 +7,11 @@
 | West Georgia Wolves @ Central Arkansas Bears | 35 - 44 | Halftime | ESPN+ |
 | Stetson Hatters @ Florida Gulf Coast Eagles | 44 - 44 | Halftime | ESPN+ |
 | Louisiana Tech Bulldogs @ Florida International Panthers | 31 - 33 | Halftime | ESPN+ |
-| Villanova Wildcats @ Creighton Bluejays | 11 - 7 | 11:40 - 1st Half | FOX |
-| SMU Mustangs @ Syracuse Orange | 37 - 29 | 3:43 - 1st Half | The CW Network |
-| #17 St. John's Red Storm @ Providence Friars | 52 - 45 | 11:36 - 2nd Half | TNT, truTV |
-| Texas A&M Aggies @ #19 Vanderbilt Commodores | 57 - 66 | 6:14 - 2nd Half | SEC Network |
-| #9 Kansas Jayhawks @ #5 Iowa State Cyclones | 51 - 68 | 5:35 - 2nd Half | ABC |
+| SMU Mustangs @ Syracuse Orange | 37 - 35 | 1:43 - 1st Half | The CW Network |
+| Villanova Wildcats @ Creighton Bluejays | 11 - 7 | 11:10 - 1st Half | FOX |
+| #17 St. John's Red Storm @ Providence Friars | 56 - 50 | 10:14 - 2nd Half | TNT, truTV |
+| Texas A&M Aggies @ #19 Vanderbilt Commodores | 59 - 69 | 4:23 - 2nd Half | SEC Network |
+| #9 Kansas Jayhawks @ #5 Iowa State Cyclones | 56 - 68 | 3:56 - 2nd Half | ABC |
 | #25 Kentucky Wildcats @ #14 Florida Gators | 0 - 0 | Sat, February 14th at 3:00 PM EST | ABC |
 | UL Monroe Warhawks @ Texas State Bobcats | 0 - 0 | Sat, February 14th at 3:00 PM EST | ESPN+ |
 | South Alabama Jaguars @ Arkansas State Red Wolves | 0 - 0 | Sat, February 14th at 3:00 PM EST | ESPN+ |
@@ -21,11 +21,8 @@
 | Georgia Bulldogs @ Oklahoma Sooners | 0 - 0 | Sat, February 14th at 3:30 PM EST | SEC Network |
 | Kansas State Wildcats @ #3 Houston Cougars | 0 - 0 | Sat, February 14th at 4:00 PM EST | Peacock |
 | #24 Louisville Cardinals @ Baylor Bears | 0 - 0 | Sat, February 14th at 4:00 PM EST | ESPN |
-| Duquesne Dukes @ St. Bonaventure Bonnies | 0 - 0 | Sat, February 14th at 4:00 PM EST | ESPN+ |
-| Arkansas-Pine Bluff Golden Lions @ Alabama State Hornets | 0 - 0 | Sat, February 14th at 4:00 PM EST | N/A |
 | Stanford Cardinal @ Wake Forest Demon Deacons | 0 - 0 | Sat, February 14th at 4:00 PM EST | ACC Network |
 | Miami Hurricanes @ NC State Wolfpack | 0 - 0 | Sat, February 14th at 4:00 PM EST | ESPN2 |
-| App State Mountaineers @ James Madison Dukes | 0 - 0 | Sat, February 14th at 4:00 PM EST | ESPN+ |
 | North Florida Ospreys @ Jacksonville Dolphins | 0 - 0 | Sat, February 14th at 4:00 PM EST | ESPN+ |
 | Lamar Cardinals @ Texas A&M-Corpus Christi Islanders | 0 - 0 | Sat, February 14th at 4:30 PM EST | ESPN+ |
 | Southeast Missouri State Redhawks @ Lindenwood Lions | 0 - 0 | Sat, February 14th at 4:30 PM EST | ESPN+ |
