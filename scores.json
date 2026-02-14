@@ -1,135 +1,135 @@
 {
-    "lastUpdated": "2026-02-14 20:44:40",
+    "lastUpdated": "2026-02-14 20:50:19",
     "games": [
         {
-            "awayTeam": "Florida A&M Rattlers",
-            "awayScore": "2",
-            "homeTeam": "Jackson State Tigers",
-            "homeScore": "2",
-            "status": "17:09 - 1st Half",
-            "tv": "HBCU Go",
-            "winProb": 0.529,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Georgia Bulldogs",
-            "awayScore": "11",
-            "homeTeam": "Oklahoma Sooners",
-            "homeScore": "7",
-            "status": "15:31 - 1st Half",
-            "tv": "SEC Network",
-            "winProb": 0.441,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Stetson Hatters",
-            "awayScore": "70",
-            "homeTeam": "Florida Gulf Coast Eagles",
-            "homeScore": "73",
-            "status": "2:00 - 2nd Half",
+            "awayTeam": "UL Monroe Warhawks",
+            "awayScore": "43",
+            "homeTeam": "Texas State Bobcats",
+            "homeScore": "45",
+            "status": "Halftime",
             "tv": "ESPN+",
-            "winProb": 0.708,
+            "winProb": 0.5,
+            "state": "in"
+        },
+        {
+            "awayTeam": "South Alabama Jaguars",
+            "awayScore": "32",
+            "homeTeam": "Arkansas State Red Wolves",
+            "homeScore": "41",
+            "status": "Halftime",
+            "tv": "ESPN+",
+            "winProb": 0.5,
             "state": "in"
         },
         {
             "awayTeam": "Delaware Blue Hens",
             "awayScore": "35",
             "homeTeam": "Missouri State Bears",
-            "homeScore": "23",
-            "status": "0:42 - 1st Half",
+            "homeScore": "25",
+            "status": "Halftime",
             "tv": "ESPN+",
-            "winProb": 0.24,
+            "winProb": 0.5,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Georgia Bulldogs",
+            "awayScore": "11",
+            "homeTeam": "Oklahoma Sooners",
+            "homeScore": "12",
+            "status": "13:58 - 1st Half",
+            "tv": "SEC Network",
+            "winProb": 0.531,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Stetson Hatters",
+            "awayScore": "76",
+            "homeTeam": "Florida Gulf Coast Eagles",
+            "homeScore": "75",
+            "status": "0:26 - 2nd Half",
+            "tv": "ESPN+",
+            "winProb": 0.447,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Florida A&M Rattlers",
+            "awayScore": "4",
+            "homeTeam": "Jackson State Tigers",
+            "homeScore": "9",
+            "status": "14:46 - 1st Half",
+            "tv": "HBCU Go",
+            "winProb": 0.648,
             "state": "in"
         },
         {
             "awayTeam": "SMU Mustangs",
-            "awayScore": "66",
+            "awayScore": "71",
             "homeTeam": "Syracuse Orange",
-            "homeScore": "61",
-            "status": "8:55 - 2nd Half",
+            "homeScore": "67",
+            "status": "6:53 - 2nd Half",
             "tv": "The CW Network",
-            "winProb": 0.201,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Villanova Wildcats",
-            "awayScore": "47",
-            "homeTeam": "Creighton Bluejays",
-            "homeScore": "40",
-            "status": "17:08 - 2nd Half",
-            "tv": "FOX",
-            "winProb": 0.191,
-            "state": "in"
-        },
-        {
-            "awayTeam": "UL Monroe Warhawks",
-            "awayScore": "43",
-            "homeTeam": "Texas State Bobcats",
-            "homeScore": "45",
-            "status": "0:53 - 1st Half",
-            "tv": "ESPN+",
-            "winProb": 0.897,
-            "state": "in"
-        },
-        {
-            "awayTeam": "South Alabama Jaguars",
-            "awayScore": "31",
-            "homeTeam": "Arkansas State Red Wolves",
-            "homeScore": "41",
-            "status": "0:02 - 1st Half",
-            "tv": "ESPN+",
-            "winProb": 0.907,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Louisiana Tech Bulldogs",
-            "awayScore": "57",
-            "homeTeam": "Florida International Panthers",
-            "homeScore": "65",
-            "status": "3:55 - 2nd Half",
-            "tv": "ESPN+",
-            "winProb": 0.944,
-            "state": "in"
-        },
-        {
-            "awayTeam": "#25 Kentucky Wildcats",
-            "awayScore": "17",
-            "homeTeam": "#14 Florida Gators",
-            "homeScore": "32",
-            "status": "7:28 - 1st Half",
-            "tv": "ABC",
-            "winProb": 0.962,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Florida State Seminoles",
-            "awayScore": "70",
-            "homeTeam": "Virginia Tech Hokies",
-            "homeScore": "57",
-            "status": "7:30 - 2nd Half",
-            "tv": "ACC Network",
-            "winProb": 0.038,
-            "state": "in"
-        },
-        {
-            "awayTeam": "West Georgia Wolves",
-            "awayScore": "60",
-            "homeTeam": "Central Arkansas Bears",
-            "homeScore": "75",
-            "status": "1:27 - 2nd Half",
-            "tv": "ESPN+",
-            "winProb": 0.999,
+            "winProb": 0.264,
             "state": "in"
         },
         {
             "awayTeam": "Georgia State Panthers",
             "awayScore": "0",
             "homeTeam": "Old Dominion Monarchs",
-            "homeScore": "0",
-            "status": "Sat, February 14th at 3:30 PM EST",
+            "homeScore": "2",
+            "status": "19:27 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.5,
-            "state": "pre"
+            "winProb": 0.746,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Villanova Wildcats",
+            "awayScore": "52",
+            "homeTeam": "Creighton Bluejays",
+            "homeScore": "42",
+            "status": "15:16 - 2nd Half",
+            "tv": "FOX",
+            "winProb": 0.105,
+            "state": "in"
+        },
+        {
+            "awayTeam": "#25 Kentucky Wildcats",
+            "awayScore": "21",
+            "homeTeam": "#14 Florida Gators",
+            "homeScore": "32",
+            "status": "5:45 - 1st Half",
+            "tv": "ABC",
+            "winProb": 0.933,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Louisiana Tech Bulldogs",
+            "awayScore": "57",
+            "homeTeam": "Florida International Panthers",
+            "homeScore": "69",
+            "status": "2:30 - 2nd Half",
+            "tv": "ESPN+",
+            "winProb": 0.995,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Florida State Seminoles",
+            "awayScore": "80",
+            "homeTeam": "Virginia Tech Hokies",
+            "homeScore": "60",
+            "status": "4:50 - 2nd Half",
+            "tv": "ACC Network",
+            "winProb": 0.001,
+            "state": "in"
+        },
+        {
+            "awayTeam": "West Georgia Wolves",
+            "awayScore": "62",
+            "homeTeam": "Central Arkansas Bears",
+            "homeScore": "77",
+            "status": "0:55 - 2nd Half",
+            "tv": "ESPN+",
+            "winProb": 0.999,
+            "state": "in"
         },
         {
             "awayTeam": "Kansas State Wildcats",
@@ -402,16 +402,6 @@
             "state": "pre"
         },
         {
-            "awayTeam": "#17 St. John's Red Storm",
-            "awayScore": "79",
-            "homeTeam": "Providence Friars",
-            "homeScore": "69",
-            "status": "Final",
-            "tv": "TNT, truTV",
-            "winProb": 0.5,
-            "state": "post"
-        },
-        {
             "awayTeam": "#20 Clemson Tigers",
             "awayScore": "54",
             "homeTeam": "#4 Duke Blue Devils",
@@ -428,6 +418,16 @@
             "homeScore": "74",
             "status": "Final",
             "tv": "ABC",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "awayTeam": "#17 St. John's Red Storm",
+            "awayScore": "79",
+            "homeTeam": "Providence Friars",
+            "homeScore": "69",
+            "status": "Final",
+            "tv": "TNT, truTV",
             "winProb": 0.5,
             "state": "post"
         },
