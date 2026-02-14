@@ -1,14 +1,14 @@
 {
-    "lastUpdated": "2026-02-14 20:44:22",
+    "lastUpdated": "2026-02-14 20:44:40",
     "games": [
         {
             "awayTeam": "Florida A&M Rattlers",
-            "awayScore": "0",
+            "awayScore": "2",
             "homeTeam": "Jackson State Tigers",
             "homeScore": "2",
-            "status": "17:20 - 1st Half",
+            "status": "17:09 - 1st Half",
             "tv": "HBCU Go",
-            "winProb": 0.557,
+            "winProb": 0.529,
             "state": "in"
         },
         {
@@ -38,7 +38,17 @@
             "homeScore": "23",
             "status": "0:42 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.261,
+            "winProb": 0.24,
+            "state": "in"
+        },
+        {
+            "awayTeam": "SMU Mustangs",
+            "awayScore": "66",
+            "homeTeam": "Syracuse Orange",
+            "homeScore": "61",
+            "status": "8:55 - 2nd Half",
+            "tv": "The CW Network",
+            "winProb": 0.201,
             "state": "in"
         },
         {
@@ -52,13 +62,13 @@
             "state": "in"
         },
         {
-            "awayTeam": "SMU Mustangs",
-            "awayScore": "66",
-            "homeTeam": "Syracuse Orange",
-            "homeScore": "58",
-            "status": "9:29 - 2nd Half",
-            "tv": "The CW Network",
-            "winProb": 0.173,
+            "awayTeam": "UL Monroe Warhawks",
+            "awayScore": "43",
+            "homeTeam": "Texas State Bobcats",
+            "homeScore": "45",
+            "status": "0:53 - 1st Half",
+            "tv": "ESPN+",
+            "winProb": 0.897,
             "state": "in"
         },
         {
@@ -69,16 +79,6 @@
             "status": "0:02 - 1st Half",
             "tv": "ESPN+",
             "winProb": 0.907,
-            "state": "in"
-        },
-        {
-            "awayTeam": "UL Monroe Warhawks",
-            "awayScore": "41",
-            "homeTeam": "Texas State Bobcats",
-            "homeScore": "45",
-            "status": "1:20 - 1st Half",
-            "tv": "ESPN+",
-            "winProb": 0.917,
             "state": "in"
         },
         {
@@ -116,7 +116,7 @@
             "awayScore": "60",
             "homeTeam": "Central Arkansas Bears",
             "homeScore": "75",
-            "status": "2:01 - 2nd Half",
+            "status": "1:27 - 2nd Half",
             "tv": "ESPN+",
             "winProb": 0.999,
             "state": "in"
