@@ -1,6 +1,16 @@
 {
-    "lastUpdated": "2026-02-14 20:44:12",
+    "lastUpdated": "2026-02-14 20:44:22",
     "games": [
+        {
+            "awayTeam": "Florida A&M Rattlers",
+            "awayScore": "0",
+            "homeTeam": "Jackson State Tigers",
+            "homeScore": "2",
+            "status": "17:20 - 1st Half",
+            "tv": "HBCU Go",
+            "winProb": 0.557,
+            "state": "in"
+        },
         {
             "awayTeam": "Georgia Bulldogs",
             "awayScore": "11",
@@ -12,23 +22,13 @@
             "state": "in"
         },
         {
-            "awayTeam": "Florida A&M Rattlers",
-            "awayScore": "0",
-            "homeTeam": "Jackson State Tigers",
-            "homeScore": "2",
-            "status": "17:32 - 1st Half",
-            "tv": "HBCU Go",
-            "winProb": 0.579,
-            "state": "in"
-        },
-        {
             "awayTeam": "Stetson Hatters",
             "awayScore": "70",
             "homeTeam": "Florida Gulf Coast Eagles",
             "homeScore": "73",
             "status": "2:00 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.718,
+            "winProb": 0.708,
             "state": "in"
         },
         {
@@ -36,29 +36,29 @@
             "awayScore": "35",
             "homeTeam": "Missouri State Bears",
             "homeScore": "23",
-            "status": "0:54 - 1st Half",
+            "status": "0:42 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.246,
-            "state": "in"
-        },
-        {
-            "awayTeam": "SMU Mustangs",
-            "awayScore": "64",
-            "homeTeam": "Syracuse Orange",
-            "homeScore": "58",
-            "status": "9:29 - 2nd Half",
-            "tv": "The CW Network",
-            "winProb": 0.173,
+            "winProb": 0.261,
             "state": "in"
         },
         {
             "awayTeam": "Villanova Wildcats",
             "awayScore": "47",
             "homeTeam": "Creighton Bluejays",
-            "homeScore": "37",
-            "status": "17:19 - 2nd Half",
+            "homeScore": "40",
+            "status": "17:08 - 2nd Half",
             "tv": "FOX",
-            "winProb": 0.136,
+            "winProb": 0.191,
+            "state": "in"
+        },
+        {
+            "awayTeam": "SMU Mustangs",
+            "awayScore": "66",
+            "homeTeam": "Syracuse Orange",
+            "homeScore": "58",
+            "status": "9:29 - 2nd Half",
+            "tv": "The CW Network",
+            "winProb": 0.173,
             "state": "in"
         },
         {
@@ -116,7 +116,7 @@
             "awayScore": "60",
             "homeTeam": "Central Arkansas Bears",
             "homeScore": "75",
-            "status": "2:09 - 2nd Half",
+            "status": "2:01 - 2nd Half",
             "tv": "ESPN+",
             "winProb": 0.999,
             "state": "in"

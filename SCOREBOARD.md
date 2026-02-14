@@ -1,20 +1,20 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-02-14 20:39:29*
+*Updated: 2026-02-14 20:44:22*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Delaware Blue Hens @ Missouri State Bears | 32 - 23 | 2:53 - 1st Half | ESPN+ |
-| Georgia Bulldogs @ Oklahoma Sooners | 9 - 4 | 16:25 - 1st Half | SEC Network |
-| Stetson Hatters @ Florida Gulf Coast Eagles | 70 - 73 | 3:34 - 2nd Half | ESPN+ |
-| Louisiana Tech Bulldogs @ Florida International Panthers | 55 - 62 | 6:11 - 2nd Half | ESPN+ |
-| SMU Mustangs @ Syracuse Orange | 61 - 52 | 11:28 - 2nd Half | The CW Network |
-| South Alabama Jaguars @ Arkansas State Red Wolves | 30 - 38 | 2:10 - 1st Half | ESPN+ |
-| Florida State Seminoles @ Virginia Tech Hokies | 68 - 57 | 8:17 - 2nd Half | ACC Network |
-| Villanova Wildcats @ Creighton Bluejays | 41 - 27 | Halftime | FOX |
-| UL Monroe Warhawks @ Texas State Bobcats | 36 - 42 | 2:58 - 1st Half | ESPN+ |
-| #25 Kentucky Wildcats @ #14 Florida Gators | 17 - 32 | 9:23 - 1st Half | ABC |
-| West Georgia Wolves @ Central Arkansas Bears | 60 - 68 | 3:32 - 2nd Half | ESPN+ |
-| Florida A&M Rattlers @ Jackson State Tigers | 0 - 0 | Sat, February 14th at 3:30 PM EST | HBCU Go |
+| Florida A&M Rattlers @ Jackson State Tigers | 0 - 2 | 17:20 - 1st Half | HBCU Go |
+| Georgia Bulldogs @ Oklahoma Sooners | 11 - 7 | 15:31 - 1st Half | SEC Network |
+| Stetson Hatters @ Florida Gulf Coast Eagles | 70 - 73 | 2:00 - 2nd Half | ESPN+ |
+| Delaware Blue Hens @ Missouri State Bears | 35 - 23 | 0:42 - 1st Half | ESPN+ |
+| Villanova Wildcats @ Creighton Bluejays | 47 - 40 | 17:08 - 2nd Half | FOX |
+| SMU Mustangs @ Syracuse Orange | 66 - 58 | 9:29 - 2nd Half | The CW Network |
+| South Alabama Jaguars @ Arkansas State Red Wolves | 31 - 41 | 0:02 - 1st Half | ESPN+ |
+| UL Monroe Warhawks @ Texas State Bobcats | 41 - 45 | 1:20 - 1st Half | ESPN+ |
+| Louisiana Tech Bulldogs @ Florida International Panthers | 57 - 65 | 3:55 - 2nd Half | ESPN+ |
+| #25 Kentucky Wildcats @ #14 Florida Gators | 17 - 32 | 7:28 - 1st Half | ABC |
+| Florida State Seminoles @ Virginia Tech Hokies | 70 - 57 | 7:30 - 2nd Half | ACC Network |
+| West Georgia Wolves @ Central Arkansas Bears | 60 - 75 | 2:01 - 2nd Half | ESPN+ |
 | Georgia State Panthers @ Old Dominion Monarchs | 0 - 0 | Sat, February 14th at 3:30 PM EST | ESPN+ |
 | Kansas State Wildcats @ #3 Houston Cougars | 0 - 0 | Sat, February 14th at 4:00 PM EST | Peacock |
 | #24 Louisville Cardinals @ Baylor Bears | 0 - 0 | Sat, February 14th at 4:00 PM EST | ESPN |
