@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-02-14 20:55:25",
+    "lastUpdated": "2026-02-14 20:55:37",
     "games": [
         {
             "awayTeam": "UL Monroe Warhawks",
@@ -32,6 +32,16 @@
             "state": "in"
         },
         {
+            "awayTeam": "SMU Mustangs",
+            "awayScore": "76",
+            "homeTeam": "Syracuse Orange",
+            "homeScore": "77",
+            "status": "3:16 - 2nd Half",
+            "tv": "The CW Network",
+            "winProb": 0.516,
+            "state": "in"
+        },
+        {
             "awayTeam": "Georgia Bulldogs",
             "awayScore": "21",
             "homeTeam": "Oklahoma Sooners",
@@ -52,16 +62,6 @@
             "state": "in"
         },
         {
-            "awayTeam": "SMU Mustangs",
-            "awayScore": "76",
-            "homeTeam": "Syracuse Orange",
-            "homeScore": "75",
-            "status": "3:50 - 2nd Half",
-            "tv": "The CW Network",
-            "winProb": 0.374,
-            "state": "in"
-        },
-        {
             "awayTeam": "Georgia State Panthers",
             "awayScore": "4",
             "homeTeam": "Old Dominion Monarchs",
@@ -69,16 +69,6 @@
             "status": "15:44 - 1st Half",
             "tv": "ESPN+",
             "winProb": 0.809,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Villanova Wildcats",
-            "awayScore": "55",
-            "homeTeam": "Creighton Bluejays",
-            "homeScore": "44",
-            "status": "13:48 - 2nd Half",
-            "tv": "FOX",
-            "winProb": 0.105,
             "state": "in"
         },
         {
@@ -92,13 +82,23 @@
             "state": "in"
         },
         {
+            "awayTeam": "Villanova Wildcats",
+            "awayScore": "55",
+            "homeTeam": "Creighton Bluejays",
+            "homeScore": "44",
+            "status": "13:39 - 2nd Half",
+            "tv": "FOX",
+            "winProb": 0.081,
+            "state": "in"
+        },
+        {
             "awayTeam": "Stetson Hatters",
             "awayScore": "76",
             "homeTeam": "Florida Gulf Coast Eagles",
             "homeScore": "78",
-            "status": "0:03 - 2nd Half",
+            "status": "0:02 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.951,
+            "winProb": 0.95,
             "state": "in"
         },
         {
@@ -116,7 +116,7 @@
             "awayScore": "61",
             "homeTeam": "Florida International Panthers",
             "homeScore": "75",
-            "status": "0:34 - 2nd Half",
+            "status": "0:33 - 2nd Half",
             "tv": "ESPN+",
             "winProb": 0.999,
             "state": "in"
