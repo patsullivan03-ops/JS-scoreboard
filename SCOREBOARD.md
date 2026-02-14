@@ -1,19 +1,19 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-02-14 20:22:03*
+*Updated: 2026-02-14 20:23:32*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Florida State Seminoles @ Virginia Tech Hokies | 50 - 49 | 14:59 - 2nd Half | ACC Network |
-| Delaware Blue Hens @ Missouri State Bears | 20 - 16 | 11:18 - 1st Half | ESPN+ |
-| Louisiana Tech Bulldogs @ Florida International Panthers | 52 - 47 | 11:30 - 2nd Half | ESPN+ |
-| South Alabama Jaguars @ Arkansas State Red Wolves | 14 - 22 | 9:10 - 1st Half | ESPN+ |
-| SMU Mustangs @ Syracuse Orange | 51 - 41 | 16:46 - 2nd Half | The CW Network |
-| #25 Kentucky Wildcats @ #14 Florida Gators | 7 - 13 | 15:09 - 1st Half | ABC |
-| Villanova Wildcats @ Creighton Bluejays | 39 - 27 | 1:01 - 1st Half | FOX |
-| Stetson Hatters @ Florida Gulf Coast Eagles | 59 - 65 | 10:04 - 2nd Half | ESPN+ |
-| West Georgia Wolves @ Central Arkansas Bears | 53 - 59 | 10:48 - 2nd Half | ESPN+ |
-| #17 St. John's Red Storm @ Providence Friars | 73 - 64 | 3:17 - 2nd Half | TNT, truTV |
-| UL Monroe Warhawks @ Texas State Bobcats | 12 - 22 | 10:49 - 1st Half | ESPN+ |
+| Villanova Wildcats @ Creighton Bluejays | 41 - 27 | Halftime | FOX |
+| Florida State Seminoles @ Virginia Tech Hokies | 52 - 49 | 14:15 - 2nd Half | ACC Network |
+| Delaware Blue Hens @ Missouri State Bears | 20 - 16 | 9:41 - 1st Half | ESPN+ |
+| Louisiana Tech Bulldogs @ Florida International Panthers | 52 - 48 | 10:52 - 2nd Half | ESPN+ |
+| South Alabama Jaguars @ Arkansas State Red Wolves | 17 - 24 | 8:10 - 1st Half | ESPN+ |
+| Stetson Hatters @ Florida Gulf Coast Eagles | 62 - 67 | 9:20 - 2nd Half | ESPN+ |
+| #25 Kentucky Wildcats @ #14 Florida Gators | 8 - 14 | 15:01 - 1st Half | ABC |
+| SMU Mustangs @ Syracuse Orange | 51 - 41 | 16:33 - 2nd Half | The CW Network |
+| West Georgia Wolves @ Central Arkansas Bears | 53 - 59 | 10:13 - 2nd Half | ESPN+ |
+| #17 St. John's Red Storm @ Providence Friars | 73 - 64 | 2:14 - 2nd Half | TNT, truTV |
+| UL Monroe Warhawks @ Texas State Bobcats | 12 - 22 | 10:27 - 1st Half | ESPN+ |
 | Florida A&M Rattlers @ Jackson State Tigers | 0 - 0 | Sat, February 14th at 3:30 PM EST | HBCU Go |
 | Georgia State Panthers @ Old Dominion Monarchs | 0 - 0 | Sat, February 14th at 3:30 PM EST | ESPN+ |
 | Georgia Bulldogs @ Oklahoma Sooners | 0 - 0 | Sat, February 14th at 3:30 PM EST | SEC Network |
