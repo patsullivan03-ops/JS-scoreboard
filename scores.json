@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-02-14 19:55:35",
+    "lastUpdated": "2026-02-14 19:55:40",
     "games": [
         {
             "awayTeam": "Florida State Seminoles",
@@ -8,16 +8,6 @@
             "homeScore": "42",
             "status": "Halftime",
             "tv": "ACC Network",
-            "winProb": 0.5,
-            "state": "in"
-        },
-        {
-            "awayTeam": "West Georgia Wolves",
-            "awayScore": "35",
-            "homeTeam": "Central Arkansas Bears",
-            "homeScore": "44",
-            "status": "Halftime",
-            "tv": "ESPN+",
             "winProb": 0.5,
             "state": "in"
         },
@@ -56,19 +46,29 @@
             "awayScore": "13",
             "homeTeam": "Creighton Bluejays",
             "homeScore": "7",
-            "status": "10:33 - 1st Half",
+            "status": "10:16 - 1st Half",
             "tv": "FOX",
-            "winProb": 0.253,
+            "winProb": 0.247,
             "state": "in"
         },
         {
             "awayTeam": "#17 St. John's Red Storm",
-            "awayScore": "56",
+            "awayScore": "58",
             "homeTeam": "Providence Friars",
             "homeScore": "50",
-            "status": "9:17 - 2nd Half",
+            "status": "9:10 - 2nd Half",
             "tv": "TNT, truTV",
-            "winProb": 0.174,
+            "winProb": 0.145,
+            "state": "in"
+        },
+        {
+            "awayTeam": "West Georgia Wolves",
+            "awayScore": "35",
+            "homeTeam": "Central Arkansas Bears",
+            "homeScore": "44",
+            "status": "Halftime",
+            "tv": "ESPN+",
+            "winProb": 0.938,
             "state": "in"
         },
         {
