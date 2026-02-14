@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-02-14 20:33:59",
+    "lastUpdated": "2026-02-14 20:34:17",
     "games": [
         {
             "awayTeam": "Villanova Wildcats",
@@ -18,17 +18,17 @@
             "homeScore": "23",
             "status": "4:15 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.549,
+            "winProb": 0.515,
             "state": "in"
         },
         {
             "awayTeam": "Georgia Bulldogs",
-            "awayScore": "0",
+            "awayScore": "3",
             "homeTeam": "Oklahoma Sooners",
             "homeScore": "0",
-            "status": "19:23 - 1st Half",
+            "status": "18:56 - 1st Half",
             "tv": "SEC Network",
-            "winProb": 0.562,
+            "winProb": 0.476,
             "state": "in"
         },
         {
@@ -38,7 +38,7 @@
             "homeScore": "51",
             "status": "11:36 - 2nd Half",
             "tv": "ACC Network",
-            "winProb": 0.215,
+            "winProb": 0.224,
             "state": "in"
         },
         {
@@ -46,19 +46,9 @@
             "awayScore": "55",
             "homeTeam": "Florida International Panthers",
             "homeScore": "60",
-            "status": "7:19 - 2nd Half",
+            "status": "7:15 - 2nd Half",
             "tv": "ESPN+",
             "winProb": 0.82,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Stetson Hatters",
-            "awayScore": "65",
-            "homeTeam": "Florida Gulf Coast Eagles",
-            "homeScore": "71",
-            "status": "6:08 - 2nd Half",
-            "tv": "ESPN+",
-            "winProb": 0.89,
             "state": "in"
         },
         {
@@ -66,9 +56,29 @@
             "awayScore": "26",
             "homeTeam": "Arkansas State Red Wolves",
             "homeScore": "35",
-            "status": "3:58 - 1st Half",
+            "status": "3:42 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.907,
+            "winProb": 0.9,
+            "state": "in"
+        },
+        {
+            "awayTeam": "SMU Mustangs",
+            "awayScore": "59",
+            "homeTeam": "Syracuse Orange",
+            "homeScore": "47",
+            "status": "13:02 - 2nd Half",
+            "tv": "The CW Network",
+            "winProb": 0.069,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Stetson Hatters",
+            "awayScore": "65",
+            "homeTeam": "Florida Gulf Coast Eagles",
+            "homeScore": "71",
+            "status": "5:41 - 2nd Half",
+            "tv": "ESPN+",
+            "winProb": 0.936,
             "state": "in"
         },
         {
@@ -82,23 +92,13 @@
             "state": "in"
         },
         {
-            "awayTeam": "SMU Mustangs",
-            "awayScore": "59",
-            "homeTeam": "Syracuse Orange",
-            "homeScore": "47",
-            "status": "13:23 - 2nd Half",
-            "tv": "The CW Network",
-            "winProb": 0.056,
-            "state": "in"
-        },
-        {
             "awayTeam": "UL Monroe Warhawks",
             "awayScore": "26",
             "homeTeam": "Texas State Bobcats",
             "homeScore": "33",
             "status": "6:14 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.957,
+            "winProb": 0.951,
             "state": "in"
         },
         {
@@ -106,9 +106,9 @@
             "awayScore": "55",
             "homeTeam": "Central Arkansas Bears",
             "homeScore": "65",
-            "status": "5:26 - 2nd Half",
+            "status": "5:14 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.978,
+            "winProb": 0.967,
             "state": "in"
         },
         {

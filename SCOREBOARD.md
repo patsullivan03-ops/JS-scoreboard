@@ -1,19 +1,19 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-02-14 20:33:59*
+*Updated: 2026-02-14 20:34:17*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
 | Villanova Wildcats @ Creighton Bluejays | 41 - 27 | Halftime | FOX |
 | Delaware Blue Hens @ Missouri State Bears | 28 - 23 | 4:15 - 1st Half | ESPN+ |
-| Georgia Bulldogs @ Oklahoma Sooners | 0 - 0 | 19:23 - 1st Half | SEC Network |
+| Georgia Bulldogs @ Oklahoma Sooners | 3 - 0 | 18:56 - 1st Half | SEC Network |
 | Florida State Seminoles @ Virginia Tech Hokies | 59 - 51 | 11:36 - 2nd Half | ACC Network |
-| Louisiana Tech Bulldogs @ Florida International Panthers | 55 - 60 | 7:19 - 2nd Half | ESPN+ |
-| Stetson Hatters @ Florida Gulf Coast Eagles | 65 - 71 | 6:08 - 2nd Half | ESPN+ |
-| South Alabama Jaguars @ Arkansas State Red Wolves | 26 - 35 | 3:58 - 1st Half | ESPN+ |
+| Louisiana Tech Bulldogs @ Florida International Panthers | 55 - 60 | 7:15 - 2nd Half | ESPN+ |
+| South Alabama Jaguars @ Arkansas State Red Wolves | 26 - 35 | 3:42 - 1st Half | ESPN+ |
+| SMU Mustangs @ Syracuse Orange | 59 - 47 | 13:02 - 2nd Half | The CW Network |
+| Stetson Hatters @ Florida Gulf Coast Eagles | 65 - 71 | 5:41 - 2nd Half | ESPN+ |
 | #25 Kentucky Wildcats @ #14 Florida Gators | 13 - 24 | 11:17 - 1st Half | ABC |
-| SMU Mustangs @ Syracuse Orange | 59 - 47 | 13:23 - 2nd Half | The CW Network |
 | UL Monroe Warhawks @ Texas State Bobcats | 26 - 33 | 6:14 - 1st Half | ESPN+ |
-| West Georgia Wolves @ Central Arkansas Bears | 55 - 65 | 5:26 - 2nd Half | ESPN+ |
+| West Georgia Wolves @ Central Arkansas Bears | 55 - 65 | 5:14 - 2nd Half | ESPN+ |
 | Florida A&M Rattlers @ Jackson State Tigers | 0 - 0 | Sat, February 14th at 3:30 PM EST | HBCU Go |
 | Georgia State Panthers @ Old Dominion Monarchs | 0 - 0 | Sat, February 14th at 3:30 PM EST | ESPN+ |
 | Kansas State Wildcats @ #3 Houston Cougars | 0 - 0 | Sat, February 14th at 4:00 PM EST | Peacock |
