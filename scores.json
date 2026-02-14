@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-02-14 21:01:09",
+    "lastUpdated": "2026-02-14 21:01:19",
     "games": [
         {
             "awayTeam": "UL Monroe Warhawks",
@@ -25,18 +25,18 @@
             "awayTeam": "Georgia Bulldogs",
             "awayScore": "27",
             "homeTeam": "Oklahoma Sooners",
-            "homeScore": "28",
-            "status": "8:14 - 1st Half",
+            "homeScore": "30",
+            "status": "8:13 - 1st Half",
             "tv": "SEC Network",
             "winProb": 0.559,
             "state": "in"
         },
         {
             "awayTeam": "Florida A&M Rattlers",
-            "awayScore": "7",
+            "awayScore": "9",
             "homeTeam": "Jackson State Tigers",
             "homeScore": "11",
-            "status": "9:32 - 1st Half",
+            "status": "9:18 - 1st Half",
             "tv": "HBCU Go",
             "winProb": 0.633,
             "state": "in"
@@ -75,7 +75,7 @@
             "awayTeam": "#25 Kentucky Wildcats",
             "awayScore": "32",
             "homeTeam": "#14 Florida Gators",
-            "homeScore": "39",
+            "homeScore": "41",
             "status": "2:08 - 1st Half",
             "tv": "ABC",
             "winProb": 0.913,
@@ -98,7 +98,7 @@
             "homeScore": "69",
             "status": "0:03 - 2nd Half",
             "tv": "ACC Network",
-            "winProb": 0.001,
+            "winProb": 0.0,
             "state": "in"
         },
         {
