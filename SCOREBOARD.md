@@ -1,17 +1,17 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-02-14 19:57:40*
+*Updated: 2026-02-14 20:00:46*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
 | Florida State Seminoles @ Virginia Tech Hokies | 39 - 42 | Halftime | ACC Network |
-| Stetson Hatters @ Florida Gulf Coast Eagles | 44 - 44 | Halftime | ESPN+ |
+| SMU Mustangs @ Syracuse Orange | 39 - 35 | Halftime | The CW Network |
 | Louisiana Tech Bulldogs @ Florida International Panthers | 31 - 33 | Halftime | ESPN+ |
-| SMU Mustangs @ Syracuse Orange | 39 - 35 | 0:28 - 1st Half | The CW Network |
-| Villanova Wildcats @ Creighton Bluejays | 19 - 10 | 9:12 - 1st Half | FOX |
-| #17 St. John's Red Storm @ Providence Friars | 58 - 52 | 8:29 - 2nd Half | TNT, truTV |
+| Stetson Hatters @ Florida Gulf Coast Eagles | 44 - 44 | 18:59 - 2nd Half | ESPN+ |
+| #17 St. John's Red Storm @ Providence Friars | 62 - 54 | 7:46 - 2nd Half | TNT, truTV |
+| Villanova Wildcats @ Creighton Bluejays | 25 - 10 | 7:17 - 1st Half | FOX |
 | West Georgia Wolves @ Central Arkansas Bears | 35 - 44 | Halftime | ESPN+ |
-| Texas A&M Aggies @ #19 Vanderbilt Commodores | 59 - 69 | 4:06 - 2nd Half | SEC Network |
-| #9 Kansas Jayhawks @ #5 Iowa State Cyclones | 56 - 68 | 3:56 - 2nd Half | ABC |
+| Texas A&M Aggies @ #19 Vanderbilt Commodores | 59 - 73 | 3:21 - 2nd Half | SEC Network |
+| #9 Kansas Jayhawks @ #5 Iowa State Cyclones | 56 - 71 | 1:55 - 2nd Half | ABC |
 | #25 Kentucky Wildcats @ #14 Florida Gators | 0 - 0 | Sat, February 14th at 3:00 PM EST | ABC |
 | UL Monroe Warhawks @ Texas State Bobcats | 0 - 0 | Sat, February 14th at 3:00 PM EST | ESPN+ |
 | South Alabama Jaguars @ Arkansas State Red Wolves | 0 - 0 | Sat, February 14th at 3:00 PM EST | ESPN+ |
