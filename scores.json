@@ -1,33 +1,495 @@
 {
-  "lastUpdated": "2026-02-06 03:20 UTC",
-  "games": [
-    {
-      "homeTeam": "Maryland",
-      "awayTeam": "Ohio State",
-      "homeScore": 42,
-      "awayScore": 52,
-      "status": "2nd Half - Live on FS1"
-    },
-    {
-      "homeTeam": "Michigan",
-      "awayTeam": "Penn State",
-      "homeScore": 110,
-      "awayScore": 69,
-      "status": "FINAL"
-    },
-    {
-      "homeTeam": "UAB",
-      "awayTeam": "Memphis",
-      "homeScore": 35,
-      "awayScore": 44,
-      "status": "Halftime - Live on ESPN2"
-    },
-    {
-      "homeTeam": "Cincinnati",
-      "awayTeam": "West Virginia",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Saturday - 7:00 PM ET"
-    }
-  ]
+    "lastUpdated": "2026-02-14 19:34:26",
+    "games": [
+        {
+            "awayTeam": "#17 St. John's Red Storm",
+            "awayScore": "39",
+            "homeTeam": "Providence Friars",
+            "homeScore": "40",
+            "status": "14:25 - 2nd Half",
+            "tv": "TNT, truTV",
+            "winProb": 0.403,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Louisiana Tech Bulldogs",
+            "awayScore": "22",
+            "homeTeam": "Florida International Panthers",
+            "homeScore": "26",
+            "status": "4:54 - 1st Half",
+            "tv": "ESPN+",
+            "winProb": 0.664,
+            "state": "in"
+        },
+        {
+            "awayTeam": "SMU Mustangs",
+            "awayScore": "24",
+            "homeTeam": "Syracuse Orange",
+            "homeScore": "20",
+            "status": "8:37 - 1st Half",
+            "tv": "The CW Network",
+            "winProb": 0.318,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Stetson Hatters",
+            "awayScore": "33",
+            "homeTeam": "Florida Gulf Coast Eagles",
+            "homeScore": "28",
+            "status": "5:02 - 1st Half",
+            "tv": "ESPN+",
+            "winProb": 0.746,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Florida State Seminoles",
+            "awayScore": "26",
+            "homeTeam": "Virginia Tech Hokies",
+            "homeScore": "30",
+            "status": "6:35 - 1st Half",
+            "tv": "ACC Network",
+            "winProb": 0.816,
+            "state": "in"
+        },
+        {
+            "awayTeam": "TCU Horned Frogs",
+            "awayScore": "93",
+            "homeTeam": "Oklahoma State Cowboys",
+            "homeScore": "87",
+            "status": "1:35 - OT",
+            "tv": "ESPN2",
+            "winProb": 0.088,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Texas A&M Aggies",
+            "awayScore": "43",
+            "homeTeam": "#19 Vanderbilt Commodores",
+            "homeScore": "56",
+            "status": "10:26 - 2nd Half",
+            "tv": "SEC Network",
+            "winProb": 0.964,
+            "state": "in"
+        },
+        {
+            "awayTeam": "West Georgia Wolves",
+            "awayScore": "24",
+            "homeTeam": "Central Arkansas Bears",
+            "homeScore": "43",
+            "status": "6:25 - 1st Half",
+            "tv": "ESPN+",
+            "winProb": 0.988,
+            "state": "in"
+        },
+        {
+            "awayTeam": "#9 Kansas Jayhawks",
+            "awayScore": "40",
+            "homeTeam": "#5 Iowa State Cyclones",
+            "homeScore": "62",
+            "status": "11:23 - 2nd Half",
+            "tv": "ABC",
+            "winProb": 0.998,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Villanova Wildcats",
+            "awayScore": "0",
+            "homeTeam": "Creighton Bluejays",
+            "homeScore": "0",
+            "status": "Sat, February 14th at 2:30 PM EST",
+            "tv": "FOX",
+            "winProb": 0.5,
+            "state": "pre"
+        },
+        {
+            "awayTeam": "#25 Kentucky Wildcats",
+            "awayScore": "0",
+            "homeTeam": "#14 Florida Gators",
+            "homeScore": "0",
+            "status": "Sat, February 14th at 3:00 PM EST",
+            "tv": "ABC",
+            "winProb": 0.5,
+            "state": "pre"
+        },
+        {
+            "awayTeam": "UL Monroe Warhawks",
+            "awayScore": "0",
+            "homeTeam": "Texas State Bobcats",
+            "homeScore": "0",
+            "status": "Sat, February 14th at 3:00 PM EST",
+            "tv": "ESPN+",
+            "winProb": 0.5,
+            "state": "pre"
+        },
+        {
+            "awayTeam": "South Alabama Jaguars",
+            "awayScore": "0",
+            "homeTeam": "Arkansas State Red Wolves",
+            "homeScore": "0",
+            "status": "Sat, February 14th at 3:00 PM EST",
+            "tv": "ESPN+",
+            "winProb": 0.5,
+            "state": "pre"
+        },
+        {
+            "awayTeam": "Delaware Blue Hens",
+            "awayScore": "0",
+            "homeTeam": "Missouri State Bears",
+            "homeScore": "0",
+            "status": "Sat, February 14th at 3:00 PM EST",
+            "tv": "ESPN+",
+            "winProb": 0.5,
+            "state": "pre"
+        },
+        {
+            "awayTeam": "Florida A&M Rattlers",
+            "awayScore": "0",
+            "homeTeam": "Jackson State Tigers",
+            "homeScore": "0",
+            "status": "Sat, February 14th at 3:30 PM EST",
+            "tv": "HBCU Go",
+            "winProb": 0.5,
+            "state": "pre"
+        },
+        {
+            "awayTeam": "Georgia State Panthers",
+            "awayScore": "0",
+            "homeTeam": "Old Dominion Monarchs",
+            "homeScore": "0",
+            "status": "Sat, February 14th at 3:30 PM EST",
+            "tv": "ESPN+",
+            "winProb": 0.5,
+            "state": "pre"
+        },
+        {
+            "awayTeam": "Georgia Bulldogs",
+            "awayScore": "0",
+            "homeTeam": "Oklahoma Sooners",
+            "homeScore": "0",
+            "status": "Sat, February 14th at 3:30 PM EST",
+            "tv": "SEC Network",
+            "winProb": 0.5,
+            "state": "pre"
+        },
+        {
+            "awayTeam": "Kansas State Wildcats",
+            "awayScore": "0",
+            "homeTeam": "#3 Houston Cougars",
+            "homeScore": "0",
+            "status": "Sat, February 14th at 4:00 PM EST",
+            "tv": "Peacock",
+            "winProb": 0.5,
+            "state": "pre"
+        },
+        {
+            "awayTeam": "#24 Louisville Cardinals",
+            "awayScore": "0",
+            "homeTeam": "Baylor Bears",
+            "homeScore": "0",
+            "status": "Sat, February 14th at 4:00 PM EST",
+            "tv": "ESPN",
+            "winProb": 0.5,
+            "state": "pre"
+        },
+        {
+            "awayTeam": "Duquesne Dukes",
+            "awayScore": "0",
+            "homeTeam": "St. Bonaventure Bonnies",
+            "homeScore": "0",
+            "status": "Sat, February 14th at 4:00 PM EST",
+            "tv": "ESPN+",
+            "winProb": 0.5,
+            "state": "pre"
+        },
+        {
+            "awayTeam": "Arkansas-Pine Bluff Golden Lions",
+            "awayScore": "0",
+            "homeTeam": "Alabama State Hornets",
+            "homeScore": "0",
+            "status": "Sat, February 14th at 4:00 PM EST",
+            "tv": "N/A",
+            "winProb": 0.5,
+            "state": "pre"
+        },
+        {
+            "awayTeam": "Stanford Cardinal",
+            "awayScore": "0",
+            "homeTeam": "Wake Forest Demon Deacons",
+            "homeScore": "0",
+            "status": "Sat, February 14th at 4:00 PM EST",
+            "tv": "ACC Network",
+            "winProb": 0.5,
+            "state": "pre"
+        },
+        {
+            "awayTeam": "Miami Hurricanes",
+            "awayScore": "0",
+            "homeTeam": "NC State Wolfpack",
+            "homeScore": "0",
+            "status": "Sat, February 14th at 4:00 PM EST",
+            "tv": "ESPN2",
+            "winProb": 0.5,
+            "state": "pre"
+        },
+        {
+            "awayTeam": "App State Mountaineers",
+            "awayScore": "0",
+            "homeTeam": "James Madison Dukes",
+            "homeScore": "0",
+            "status": "Sat, February 14th at 4:00 PM EST",
+            "tv": "ESPN+",
+            "winProb": 0.5,
+            "state": "pre"
+        },
+        {
+            "awayTeam": "North Florida Ospreys",
+            "awayScore": "0",
+            "homeTeam": "Jacksonville Dolphins",
+            "homeScore": "0",
+            "status": "Sat, February 14th at 4:00 PM EST",
+            "tv": "ESPN+",
+            "winProb": 0.5,
+            "state": "pre"
+        },
+        {
+            "awayTeam": "Lamar Cardinals",
+            "awayScore": "0",
+            "homeTeam": "Texas A&M-Corpus Christi Islanders",
+            "homeScore": "0",
+            "status": "Sat, February 14th at 4:30 PM EST",
+            "tv": "ESPN+",
+            "winProb": 0.5,
+            "state": "pre"
+        },
+        {
+            "awayTeam": "Southeast Missouri State Redhawks",
+            "awayScore": "0",
+            "homeTeam": "Lindenwood Lions",
+            "homeScore": "0",
+            "status": "Sat, February 14th at 4:30 PM EST",
+            "tv": "ESPN+",
+            "winProb": 0.5,
+            "state": "pre"
+        },
+        {
+            "awayTeam": "#13 Purdue Boilermakers",
+            "awayScore": "0",
+            "homeTeam": "Iowa Hawkeyes",
+            "homeScore": "0",
+            "status": "Sat, February 14th at 5:00 PM EST",
+            "tv": "FOX",
+            "winProb": 0.5,
+            "state": "pre"
+        },
+        {
+            "awayTeam": "Weber State Wildcats",
+            "awayScore": "0",
+            "homeTeam": "Eastern Washington Eagles",
+            "homeScore": "0",
+            "status": "Sat, February 14th at 5:00 PM EST",
+            "tv": "ESPN+",
+            "winProb": 0.5,
+            "state": "pre"
+        },
+        {
+            "awayTeam": "Grambling Tigers",
+            "awayScore": "0",
+            "homeTeam": "Texas Southern Tigers",
+            "homeScore": "0",
+            "status": "Sat, February 14th at 5:30 PM EST",
+            "tv": "N/A",
+            "winProb": 0.5,
+            "state": "pre"
+        },
+        {
+            "awayTeam": "VCU Rams",
+            "awayScore": "0",
+            "homeTeam": "Richmond Spiders",
+            "homeScore": "0",
+            "status": "Sat, February 14th at 6:00 PM EST",
+            "tv": "CBSSN",
+            "winProb": 0.5,
+            "state": "pre"
+        },
+        {
+            "awayTeam": "West Virginia Mountaineers",
+            "awayScore": "0",
+            "homeTeam": "UCF Knights",
+            "homeScore": "0",
+            "status": "Sat, February 14th at 6:00 PM EST",
+            "tv": "FS1",
+            "winProb": 0.5,
+            "state": "pre"
+        },
+        {
+            "awayTeam": "McNeese Cowboys",
+            "awayScore": "0",
+            "homeTeam": "East Texas A&M Lions",
+            "homeScore": "0",
+            "status": "Sat, February 14th at 6:00 PM EST",
+            "tv": "ESPN+",
+            "winProb": 0.5,
+            "state": "pre"
+        },
+        {
+            "awayTeam": "#16 Texas Tech Red Raiders",
+            "awayScore": "0",
+            "homeTeam": "#1 Arizona Wildcats",
+            "homeScore": "0",
+            "status": "Sat, February 14th at 6:30 PM EST",
+            "tv": "ESPN",
+            "winProb": 0.5,
+            "state": "pre"
+        },
+        {
+            "awayTeam": "Yale Bulldogs",
+            "awayScore": "0",
+            "homeTeam": "Harvard Crimson",
+            "homeScore": "0",
+            "status": "Sat, February 14th at 6:30 PM EST",
+            "tv": "ESPNU, ESPN+",
+            "winProb": 0.5,
+            "state": "pre"
+        },
+        {
+            "awayTeam": "Mississippi State Bulldogs",
+            "awayScore": "0",
+            "homeTeam": "Ole Miss Rebels",
+            "homeScore": "0",
+            "status": "Sat, February 14th at 6:30 PM EST",
+            "tv": "ESPN2",
+            "winProb": 0.5,
+            "state": "pre"
+        },
+        {
+            "awayTeam": "#15 Virginia Cavaliers",
+            "awayScore": "0",
+            "homeTeam": "Ohio State Buckeyes",
+            "homeScore": "0",
+            "status": "Sat, February 14th at 8:00 PM EST",
+            "tv": "FOX",
+            "winProb": 0.5,
+            "state": "pre"
+        },
+        {
+            "awayTeam": "St. Thomas-Minnesota Tommies",
+            "awayScore": "0",
+            "homeTeam": "Kansas City Roos",
+            "homeScore": "0",
+            "status": "Sat, February 14th at 8:00 PM EST",
+            "tv": "Summit League Network, Midco Sports Plus",
+            "winProb": 0.5,
+            "state": "pre"
+        },
+        {
+            "awayTeam": "Sacramento State Hornets",
+            "awayScore": "0",
+            "homeTeam": "Northern Arizona Lumberjacks",
+            "homeScore": "0",
+            "status": "Sat, February 14th at 8:00 PM EST",
+            "tv": "ESPN+",
+            "winProb": 0.5,
+            "state": "pre"
+        },
+        {
+            "awayTeam": "Middle Tennessee Blue Raiders",
+            "awayScore": "0",
+            "homeTeam": "Western Kentucky Hilltoppers",
+            "homeScore": "0",
+            "status": "Sat, February 14th at 8:00 PM EST",
+            "tv": "ESPN+",
+            "winProb": 0.5,
+            "state": "pre"
+        },
+        {
+            "awayTeam": "Auburn Tigers",
+            "awayScore": "0",
+            "homeTeam": "#21 Arkansas Razorbacks",
+            "homeScore": "0",
+            "status": "Sat, February 14th at 8:30 PM EST",
+            "tv": "ESPN",
+            "winProb": 0.5,
+            "state": "pre"
+        },
+        {
+            "awayTeam": "Marshall Thundering Herd",
+            "awayScore": "0",
+            "homeTeam": "Georgia Southern Eagles",
+            "homeScore": "0",
+            "status": "Sat, February 14th at 8:30 PM EST",
+            "tv": "ESPNU",
+            "winProb": 0.5,
+            "state": "pre"
+        },
+        {
+            "awayTeam": "Texas Longhorns",
+            "awayScore": "0",
+            "homeTeam": "Missouri Tigers",
+            "homeScore": "0",
+            "status": "Sat, February 14th at 8:30 PM EST",
+            "tv": "ESPN2",
+            "winProb": 0.5,
+            "state": "pre"
+        },
+        {
+            "awayTeam": "Minnesota Golden Gophers",
+            "awayScore": "0",
+            "homeTeam": "Washington Huskies",
+            "homeScore": "0",
+            "status": "Sat, February 14th at 9:00 PM EST",
+            "tv": "BTN",
+            "winProb": 0.5,
+            "state": "pre"
+        },
+        {
+            "awayTeam": "Nevada Wolf Pack",
+            "awayScore": "0",
+            "homeTeam": "San Diego State Aztecs",
+            "homeScore": "0",
+            "status": "Sat, February 14th at 10:00 PM EST",
+            "tv": "CBSSN",
+            "winProb": 0.5,
+            "state": "pre"
+        },
+        {
+            "awayTeam": "#12 Gonzaga Bulldogs",
+            "awayScore": "0",
+            "homeTeam": "Santa Clara Broncos",
+            "homeScore": "0",
+            "status": "Sat, February 14th at 10:30 PM EST",
+            "tv": "ESPN",
+            "winProb": 0.5,
+            "state": "pre"
+        },
+        {
+            "awayTeam": "Saint Mary's Gaels",
+            "awayScore": "0",
+            "homeTeam": "Pacific Tigers",
+            "homeScore": "0",
+            "status": "Sat, February 14th at 10:30 PM EST",
+            "tv": "ESPN2",
+            "winProb": 0.5,
+            "state": "pre"
+        },
+        {
+            "awayTeam": "#20 Clemson Tigers",
+            "awayScore": "54",
+            "homeTeam": "#4 Duke Blue Devils",
+            "homeScore": "67",
+            "status": "Final",
+            "tv": "ESPN",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "awayTeam": "Georgia Tech Yellow Jackets",
+            "awayScore": "74",
+            "homeTeam": "Notre Dame Fighting Irish",
+            "homeScore": "89",
+            "status": "Final",
+            "tv": "The CW Network",
+            "winProb": 0.5,
+            "state": "post"
+        }
+    ]
 }
