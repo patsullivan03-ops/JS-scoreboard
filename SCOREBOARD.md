@@ -1,5 +1,5 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-02-14 20:28:46*
+*Updated: 2026-02-14 20:28:59*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
@@ -7,13 +7,13 @@
 | Delaware Blue Hens @ Missouri State Bears | 23 - 18 | 7:32 - 1st Half | ESPN+ |
 | Louisiana Tech Bulldogs @ Florida International Panthers | 53 - 55 | 8:30 - 2nd Half | ESPN+ |
 | Florida State Seminoles @ Virginia Tech Hokies | 59 - 51 | 12:12 - 2nd Half | ACC Network |
-| Stetson Hatters @ Florida Gulf Coast Eagles | 65 - 67 | 7:43 - 2nd Half | ESPN+ |
+| Stetson Hatters @ Florida Gulf Coast Eagles | 65 - 69 | 7:43 - 2nd Half | ESPN+ |
 | West Georgia Wolves @ Central Arkansas Bears | 55 - 59 | 8:03 - 2nd Half | ESPN+ |
 | South Alabama Jaguars @ Arkansas State Red Wolves | 20 - 27 | 7:04 - 1st Half | ESPN+ |
-| SMU Mustangs @ Syracuse Orange | 55 - 44 | 15:18 - 2nd Half | The CW Network |
+| SMU Mustangs @ Syracuse Orange | 56 - 44 | 15:18 - 2nd Half | The CW Network |
 | #25 Kentucky Wildcats @ #14 Florida Gators | 8 - 22 | 12:46 - 1st Half | ABC |
 | UL Monroe Warhawks @ Texas State Bobcats | 17 - 28 | 7:59 - 1st Half | ESPN+ |
-| #17 St. John's Red Storm @ Providence Friars | 79 - 69 | 0:50 - 2nd Half | TNT, truTV |
+| #17 St. John's Red Storm @ Providence Friars | 79 - 69 | 0:30 - 2nd Half | TNT, truTV |
 | Florida A&M Rattlers @ Jackson State Tigers | 0 - 0 | Sat, February 14th at 3:30 PM EST | HBCU Go |
 | Georgia State Panthers @ Old Dominion Monarchs | 0 - 0 | Sat, February 14th at 3:30 PM EST | ESPN+ |
 | Georgia Bulldogs @ Oklahoma Sooners | 0 - 0 | Sat, February 14th at 3:30 PM EST | SEC Network |

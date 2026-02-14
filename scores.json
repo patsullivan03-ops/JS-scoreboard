@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-02-14 20:28:46",
+    "lastUpdated": "2026-02-14 20:28:59",
     "games": [
         {
             "awayTeam": "Villanova Wildcats",
@@ -45,7 +45,7 @@
             "awayTeam": "Stetson Hatters",
             "awayScore": "65",
             "homeTeam": "Florida Gulf Coast Eagles",
-            "homeScore": "67",
+            "homeScore": "69",
             "status": "7:43 - 2nd Half",
             "tv": "ESPN+",
             "winProb": 0.828,
@@ -73,7 +73,7 @@
         },
         {
             "awayTeam": "SMU Mustangs",
-            "awayScore": "55",
+            "awayScore": "56",
             "homeTeam": "Syracuse Orange",
             "homeScore": "44",
             "status": "15:18 - 2nd Half",
@@ -106,9 +106,9 @@
             "awayScore": "79",
             "homeTeam": "Providence Friars",
             "homeScore": "69",
-            "status": "0:50 - 2nd Half",
+            "status": "0:30 - 2nd Half",
             "tv": "TNT, truTV",
-            "winProb": 0.007,
+            "winProb": 0.001,
             "state": "in"
         },
         {
