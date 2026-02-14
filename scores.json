@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-02-14 19:49:34",
+    "lastUpdated": "2026-02-14 19:49:41",
     "games": [
         {
             "awayTeam": "Florida State Seminoles",
@@ -43,22 +43,12 @@
         },
         {
             "awayTeam": "Villanova Wildcats",
-            "awayScore": "9",
+            "awayScore": "11",
             "homeTeam": "Creighton Bluejays",
             "homeScore": "7",
-            "status": "12:30 - 1st Half",
+            "status": "12:11 - 1st Half",
             "tv": "FOX",
-            "winProb": 0.356,
-            "state": "in"
-        },
-        {
-            "awayTeam": "SMU Mustangs",
-            "awayScore": "37",
-            "homeTeam": "Syracuse Orange",
-            "homeScore": "27",
-            "status": "3:52 - 1st Half",
-            "tv": "The CW Network",
-            "winProb": 0.169,
+            "winProb": 0.327,
             "state": "in"
         },
         {
@@ -68,17 +58,27 @@
             "homeScore": "45",
             "status": "11:36 - 2nd Half",
             "tv": "TNT, truTV",
-            "winProb": 0.154,
+            "winProb": 0.163,
+            "state": "in"
+        },
+        {
+            "awayTeam": "SMU Mustangs",
+            "awayScore": "37",
+            "homeTeam": "Syracuse Orange",
+            "homeScore": "27",
+            "status": "3:52 - 1st Half",
+            "tv": "The CW Network",
+            "winProb": 0.152,
             "state": "in"
         },
         {
             "awayTeam": "Texas A&M Aggies",
-            "awayScore": "54",
+            "awayScore": "57",
             "homeTeam": "#19 Vanderbilt Commodores",
             "homeScore": "64",
-            "status": "7:13 - 2nd Half",
+            "status": "6:45 - 2nd Half",
             "tv": "SEC Network",
-            "winProb": 0.949,
+            "winProb": 0.913,
             "state": "in"
         },
         {
@@ -86,7 +86,7 @@
             "awayScore": "51",
             "homeTeam": "#5 Iowa State Cyclones",
             "homeScore": "68",
-            "status": "5:41 - 2nd Half",
+            "status": "5:35 - 2nd Half",
             "tv": "ABC",
             "winProb": 0.996,
             "state": "in"
