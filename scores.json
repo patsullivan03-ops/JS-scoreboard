@@ -1,44 +1,24 @@
 {
-    "lastUpdated": "2026-02-14 21:01:19",
+    "lastUpdated": "2026-02-14 21:06:19",
     "games": [
         {
-            "awayTeam": "UL Monroe Warhawks",
-            "awayScore": "43",
-            "homeTeam": "Texas State Bobcats",
-            "homeScore": "45",
-            "status": "Halftime",
-            "tv": "ESPN+",
-            "winProb": 0.5,
-            "state": "in"
-        },
-        {
-            "awayTeam": "South Alabama Jaguars",
-            "awayScore": "32",
-            "homeTeam": "Arkansas State Red Wolves",
-            "homeScore": "41",
-            "status": "Halftime",
-            "tv": "ESPN+",
-            "winProb": 0.5,
-            "state": "in"
-        },
-        {
             "awayTeam": "Georgia Bulldogs",
-            "awayScore": "27",
+            "awayScore": "32",
             "homeTeam": "Oklahoma Sooners",
             "homeScore": "30",
-            "status": "8:13 - 1st Half",
+            "status": "6:44 - 1st Half",
             "tv": "SEC Network",
-            "winProb": 0.559,
+            "winProb": 0.487,
             "state": "in"
         },
         {
             "awayTeam": "Florida A&M Rattlers",
-            "awayScore": "9",
+            "awayScore": "11",
             "homeTeam": "Jackson State Tigers",
-            "homeScore": "11",
-            "status": "9:18 - 1st Half",
+            "homeScore": "15",
+            "status": "7:28 - 1st Half",
             "tv": "HBCU Go",
-            "winProb": 0.633,
+            "winProb": 0.663,
             "state": "in"
         },
         {
@@ -46,9 +26,29 @@
             "awayScore": "78",
             "homeTeam": "Syracuse Orange",
             "homeScore": "77",
-            "status": "1:28 - 2nd Half",
+            "status": "0:13 - 2nd Half",
             "tv": "The CW Network",
-            "winProb": 0.346,
+            "winProb": 0.301,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Stanford Cardinal",
+            "awayScore": "4",
+            "homeTeam": "Wake Forest Demon Deacons",
+            "homeScore": "3",
+            "status": "18:28 - 1st Half",
+            "tv": "ACC Network",
+            "winProb": 0.708,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Georgia State Panthers",
+            "awayScore": "13",
+            "homeTeam": "Old Dominion Monarchs",
+            "homeScore": "14",
+            "status": "11:25 - 1st Half",
+            "tv": "ESPN+",
+            "winProb": 0.734,
             "state": "in"
         },
         {
@@ -58,58 +58,68 @@
             "homeScore": "25",
             "status": "Halftime",
             "tv": "ESPN+",
-            "winProb": 0.304,
+            "winProb": 0.235,
             "state": "in"
         },
         {
-            "awayTeam": "Georgia State Panthers",
-            "awayScore": "6",
-            "homeTeam": "Old Dominion Monarchs",
-            "homeScore": "12",
-            "status": "13:38 - 1st Half",
+            "awayTeam": "North Florida Ospreys",
+            "awayScore": "4",
+            "homeTeam": "Jacksonville Dolphins",
+            "homeScore": "5",
+            "status": "17:49 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.841,
+            "winProb": 0.793,
             "state": "in"
         },
         {
-            "awayTeam": "#25 Kentucky Wildcats",
-            "awayScore": "32",
-            "homeTeam": "#14 Florida Gators",
-            "homeScore": "41",
-            "status": "2:08 - 1st Half",
-            "tv": "ABC",
-            "winProb": 0.913,
+            "awayTeam": "UL Monroe Warhawks",
+            "awayScore": "46",
+            "homeTeam": "Texas State Bobcats",
+            "homeScore": "48",
+            "status": "18:16 - 2nd Half",
+            "tv": "ESPN+",
+            "winProb": 0.868,
             "state": "in"
         },
         {
             "awayTeam": "Villanova Wildcats",
             "awayScore": "59",
             "homeTeam": "Creighton Bluejays",
-            "homeScore": "45",
-            "status": "11:55 - 2nd Half",
+            "homeScore": "50",
+            "status": "9:27 - 2nd Half",
             "tv": "FOX",
-            "winProb": 0.05,
+            "winProb": 0.105,
             "state": "in"
         },
         {
-            "awayTeam": "Florida State Seminoles",
-            "awayScore": "92",
-            "homeTeam": "Virginia Tech Hokies",
-            "homeScore": "69",
-            "status": "0:03 - 2nd Half",
-            "tv": "ACC Network",
-            "winProb": 0.0,
+            "awayTeam": "South Alabama Jaguars",
+            "awayScore": "37",
+            "homeTeam": "Arkansas State Red Wolves",
+            "homeScore": "44",
+            "status": "17:19 - 2nd Half",
+            "tv": "ESPN+",
+            "winProb": 0.903,
+            "state": "in"
+        },
+        {
+            "awayTeam": "#25 Kentucky Wildcats",
+            "awayScore": "34",
+            "homeTeam": "#14 Florida Gators",
+            "homeScore": "43",
+            "status": "0:01 - 1st Half",
+            "tv": "ABC",
+            "winProb": 0.919,
             "state": "in"
         },
         {
             "awayTeam": "Kansas State Wildcats",
             "awayScore": "0",
             "homeTeam": "#3 Houston Cougars",
-            "homeScore": "0",
-            "status": "Sat, February 14th at 4:00 PM EST",
+            "homeScore": "2",
+            "status": "18:40 - 1st Half",
             "tv": "Peacock",
-            "winProb": 0.5,
-            "state": "pre"
+            "winProb": 0.974,
+            "state": "in"
         },
         {
             "awayTeam": "#24 Louisville Cardinals",
@@ -122,32 +132,12 @@
             "state": "pre"
         },
         {
-            "awayTeam": "Stanford Cardinal",
-            "awayScore": "0",
-            "homeTeam": "Wake Forest Demon Deacons",
-            "homeScore": "0",
-            "status": "Sat, February 14th at 4:00 PM EST",
-            "tv": "ACC Network",
-            "winProb": 0.5,
-            "state": "pre"
-        },
-        {
             "awayTeam": "Miami Hurricanes",
             "awayScore": "0",
             "homeTeam": "NC State Wolfpack",
             "homeScore": "0",
             "status": "Sat, February 14th at 4:00 PM EST",
             "tv": "ESPN2",
-            "winProb": 0.5,
-            "state": "pre"
-        },
-        {
-            "awayTeam": "North Florida Ospreys",
-            "awayScore": "0",
-            "homeTeam": "Jacksonville Dolphins",
-            "homeScore": "0",
-            "status": "Sat, February 14th at 4:00 PM EST",
-            "tv": "ESPN+",
             "winProb": 0.5,
             "state": "pre"
         },
@@ -370,6 +360,16 @@
             "tv": "ESPN2",
             "winProb": 0.5,
             "state": "pre"
+        },
+        {
+            "awayTeam": "Florida State Seminoles",
+            "awayScore": "92",
+            "homeTeam": "Virginia Tech Hokies",
+            "homeScore": "69",
+            "status": "Final",
+            "tv": "ACC Network",
+            "winProb": 0.5,
+            "state": "post"
         },
         {
             "awayTeam": "#20 Clemson Tigers",

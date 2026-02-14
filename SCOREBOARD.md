@@ -1,23 +1,22 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-02-14 21:01:19*
+*Updated: 2026-02-14 21:06:19*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| UL Monroe Warhawks @ Texas State Bobcats | 43 - 45 | Halftime | ESPN+ |
-| South Alabama Jaguars @ Arkansas State Red Wolves | 32 - 41 | Halftime | ESPN+ |
-| Georgia Bulldogs @ Oklahoma Sooners | 27 - 30 | 8:13 - 1st Half | SEC Network |
-| Florida A&M Rattlers @ Jackson State Tigers | 9 - 11 | 9:18 - 1st Half | HBCU Go |
-| SMU Mustangs @ Syracuse Orange | 78 - 77 | 1:28 - 2nd Half | The CW Network |
+| Georgia Bulldogs @ Oklahoma Sooners | 32 - 30 | 6:44 - 1st Half | SEC Network |
+| Florida A&M Rattlers @ Jackson State Tigers | 11 - 15 | 7:28 - 1st Half | HBCU Go |
+| SMU Mustangs @ Syracuse Orange | 78 - 77 | 0:13 - 2nd Half | The CW Network |
+| Stanford Cardinal @ Wake Forest Demon Deacons | 4 - 3 | 18:28 - 1st Half | ACC Network |
+| Georgia State Panthers @ Old Dominion Monarchs | 13 - 14 | 11:25 - 1st Half | ESPN+ |
 | Delaware Blue Hens @ Missouri State Bears | 35 - 25 | Halftime | ESPN+ |
-| Georgia State Panthers @ Old Dominion Monarchs | 6 - 12 | 13:38 - 1st Half | ESPN+ |
-| #25 Kentucky Wildcats @ #14 Florida Gators | 32 - 41 | 2:08 - 1st Half | ABC |
-| Villanova Wildcats @ Creighton Bluejays | 59 - 45 | 11:55 - 2nd Half | FOX |
-| Florida State Seminoles @ Virginia Tech Hokies | 92 - 69 | 0:03 - 2nd Half | ACC Network |
-| Kansas State Wildcats @ #3 Houston Cougars | 0 - 0 | Sat, February 14th at 4:00 PM EST | Peacock |
+| North Florida Ospreys @ Jacksonville Dolphins | 4 - 5 | 17:49 - 1st Half | ESPN+ |
+| UL Monroe Warhawks @ Texas State Bobcats | 46 - 48 | 18:16 - 2nd Half | ESPN+ |
+| Villanova Wildcats @ Creighton Bluejays | 59 - 50 | 9:27 - 2nd Half | FOX |
+| South Alabama Jaguars @ Arkansas State Red Wolves | 37 - 44 | 17:19 - 2nd Half | ESPN+ |
+| #25 Kentucky Wildcats @ #14 Florida Gators | 34 - 43 | 0:01 - 1st Half | ABC |
+| Kansas State Wildcats @ #3 Houston Cougars | 0 - 2 | 18:40 - 1st Half | Peacock |
 | #24 Louisville Cardinals @ Baylor Bears | 0 - 0 | Sat, February 14th at 4:00 PM EST | ESPN |
-| Stanford Cardinal @ Wake Forest Demon Deacons | 0 - 0 | Sat, February 14th at 4:00 PM EST | ACC Network |
 | Miami Hurricanes @ NC State Wolfpack | 0 - 0 | Sat, February 14th at 4:00 PM EST | ESPN2 |
-| North Florida Ospreys @ Jacksonville Dolphins | 0 - 0 | Sat, February 14th at 4:00 PM EST | ESPN+ |
 | Lamar Cardinals @ Texas A&M-Corpus Christi Islanders | 0 - 0 | Sat, February 14th at 4:30 PM EST | ESPN+ |
 | Southeast Missouri State Redhawks @ Lindenwood Lions | 0 - 0 | Sat, February 14th at 4:30 PM EST | ESPN+ |
 | #13 Purdue Boilermakers @ Iowa Hawkeyes | 0 - 0 | Sat, February 14th at 5:00 PM EST | FOX |
@@ -40,6 +39,7 @@
 | Nevada Wolf Pack @ San Diego State Aztecs | 0 - 0 | Sat, February 14th at 10:00 PM EST | CBSSN |
 | #12 Gonzaga Bulldogs @ Santa Clara Broncos | 0 - 0 | Sat, February 14th at 10:30 PM EST | ESPN |
 | Saint Mary's Gaels @ Pacific Tigers | 0 - 0 | Sat, February 14th at 10:30 PM EST | ESPN2 |
+| Florida State Seminoles @ Virginia Tech Hokies | 92 - 69 | Final | ACC Network |
 | #20 Clemson Tigers @ #4 Duke Blue Devils | 54 - 67 | Final | ESPN |
 | #9 Kansas Jayhawks @ #5 Iowa State Cyclones | 56 - 74 | Final | ABC |
 | #17 St. John's Red Storm @ Providence Friars | 79 - 69 | Final | TNT, truTV |
