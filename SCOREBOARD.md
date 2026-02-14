@@ -1,22 +1,22 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-02-14 21:06:31*
+*Updated: 2026-02-14 21:11:17*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #25 Kentucky Wildcats @ #14 Florida Gators | 34 - 43 | 0:00 - 1st Half | ABC |
-| Georgia Bulldogs @ Oklahoma Sooners | 32 - 30 | 6:44 - 1st Half | SEC Network |
-| Florida A&M Rattlers @ Jackson State Tigers | 11 - 15 | 7:28 - 1st Half | HBCU Go |
-| Stanford Cardinal @ Wake Forest Demon Deacons | 4 - 3 | 18:13 - 1st Half | ACC Network |
-| SMU Mustangs @ Syracuse Orange | 78 - 77 | 0:13 - 2nd Half | The CW Network |
-| Georgia State Panthers @ Old Dominion Monarchs | 13 - 14 | 11:07 - 1st Half | ESPN+ |
-| North Florida Ospreys @ Jacksonville Dolphins | 4 - 5 | 17:49 - 1st Half | ESPN+ |
-| Delaware Blue Hens @ Missouri State Bears | 35 - 25 | Halftime | ESPN+ |
-| UL Monroe Warhawks @ Texas State Bobcats | 46 - 48 | 18:16 - 2nd Half | ESPN+ |
-| Villanova Wildcats @ Creighton Bluejays | 59 - 50 | 9:27 - 2nd Half | FOX |
-| South Alabama Jaguars @ Arkansas State Red Wolves | 37 - 44 | 17:19 - 2nd Half | ESPN+ |
-| Kansas State Wildcats @ #3 Houston Cougars | 0 - 2 | 18:40 - 1st Half | Peacock |
-| #24 Louisville Cardinals @ Baylor Bears | 0 - 0 | Sat, February 14th at 4:00 PM EST | ESPN |
-| Miami Hurricanes @ NC State Wolfpack | 0 - 0 | Sat, February 14th at 4:00 PM EST | ESPN2 |
+| #25 Kentucky Wildcats @ #14 Florida Gators | 34 - 43 | Halftime | ABC |
+| Delaware Blue Hens @ Missouri State Bears | 42 - 35 | 15:40 - 2nd Half | ESPN+ |
+| Georgia Bulldogs @ Oklahoma Sooners | 36 - 37 | 4:03 - 1st Half | SEC Network |
+| Miami Hurricanes @ NC State Wolfpack | 8 - 7 | 16:15 - 1st Half | ESPN2 |
+| #24 Louisville Cardinals @ Baylor Bears | 2 - 4 | 17:21 - 1st Half | ESPN |
+| Stanford Cardinal @ Wake Forest Demon Deacons | 6 - 7 | 15:57 - 1st Half | ACC Network |
+| Georgia State Panthers @ Old Dominion Monarchs | 20 - 24 | 7:18 - 1st Half | ESPN+ |
+| UL Monroe Warhawks @ Texas State Bobcats | 55 - 55 | 15:44 - 2nd Half | ESPN+ |
+| Florida A&M Rattlers @ Jackson State Tigers | 13 - 24 | 5:28 - 1st Half | HBCU Go |
+| North Florida Ospreys @ Jacksonville Dolphins | 10 - 15 | 14:06 - 1st Half | ESPN+ |
+| South Alabama Jaguars @ Arkansas State Red Wolves | 42 - 48 | 15:01 - 2nd Half | ESPN+ |
+| Kansas State Wildcats @ #3 Houston Cougars | 6 - 2 | 15:32 - 1st Half | Peacock |
+| Villanova Wildcats @ Creighton Bluejays | 63 - 52 | 7:31 - 2nd Half | FOX |
+| SMU Mustangs @ Syracuse Orange | 78 - 79 | End of 2nd Half | The CW Network |
 | Lamar Cardinals @ Texas A&M-Corpus Christi Islanders | 0 - 0 | Sat, February 14th at 4:30 PM EST | ESPN+ |
 | Southeast Missouri State Redhawks @ Lindenwood Lions | 0 - 0 | Sat, February 14th at 4:30 PM EST | ESPN+ |
 | #13 Purdue Boilermakers @ Iowa Hawkeyes | 0 - 0 | Sat, February 14th at 5:00 PM EST | FOX |
