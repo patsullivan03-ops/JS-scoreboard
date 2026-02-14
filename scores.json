@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-02-14 19:49:48",
+    "lastUpdated": "2026-02-14 19:50:02",
     "games": [
         {
             "awayTeam": "Florida State Seminoles",
@@ -46,9 +46,19 @@
             "awayScore": "11",
             "homeTeam": "Creighton Bluejays",
             "homeScore": "7",
-            "status": "12:11 - 1st Half",
+            "status": "11:51 - 1st Half",
             "tv": "FOX",
             "winProb": 0.301,
+            "state": "in"
+        },
+        {
+            "awayTeam": "SMU Mustangs",
+            "awayScore": "37",
+            "homeTeam": "Syracuse Orange",
+            "homeScore": "27",
+            "status": "3:43 - 1st Half",
+            "tv": "The CW Network",
+            "winProb": 0.197,
             "state": "in"
         },
         {
@@ -62,21 +72,11 @@
             "state": "in"
         },
         {
-            "awayTeam": "SMU Mustangs",
-            "awayScore": "37",
-            "homeTeam": "Syracuse Orange",
-            "homeScore": "27",
-            "status": "3:52 - 1st Half",
-            "tv": "The CW Network",
-            "winProb": 0.152,
-            "state": "in"
-        },
-        {
             "awayTeam": "Texas A&M Aggies",
             "awayScore": "57",
             "homeTeam": "#19 Vanderbilt Commodores",
             "homeScore": "64",
-            "status": "6:33 - 2nd Half",
+            "status": "6:14 - 2nd Half",
             "tv": "SEC Network",
             "winProb": 0.913,
             "state": "in"
