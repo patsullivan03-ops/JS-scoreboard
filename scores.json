@@ -1,16 +1,6 @@
 {
-    "lastUpdated": "2026-02-14 20:00:52",
+    "lastUpdated": "2026-02-14 20:02:45",
     "games": [
-        {
-            "awayTeam": "Florida State Seminoles",
-            "awayScore": "39",
-            "homeTeam": "Virginia Tech Hokies",
-            "homeScore": "42",
-            "status": "Halftime",
-            "tv": "ACC Network",
-            "winProb": 0.5,
-            "state": "in"
-        },
         {
             "awayTeam": "SMU Mustangs",
             "awayScore": "39",
@@ -22,13 +12,33 @@
             "state": "in"
         },
         {
+            "awayTeam": "UL Monroe Warhawks",
+            "awayScore": "0",
+            "homeTeam": "Texas State Bobcats",
+            "homeScore": "0",
+            "status": "19:59 - 1st Half",
+            "tv": "ESPN+",
+            "winProb": 0.5,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Florida State Seminoles",
+            "awayScore": "39",
+            "homeTeam": "Virginia Tech Hokies",
+            "homeScore": "42",
+            "status": "Halftime",
+            "tv": "ACC Network",
+            "winProb": 0.752,
+            "state": "in"
+        },
+        {
             "awayTeam": "Louisiana Tech Bulldogs",
             "awayScore": "31",
             "homeTeam": "Florida International Panthers",
-            "homeScore": "33",
-            "status": "Halftime",
+            "homeScore": "38",
+            "status": "19:09 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.5,
+            "winProb": 0.771,
             "state": "in"
         },
         {
@@ -36,9 +46,9 @@
             "awayScore": "44",
             "homeTeam": "Florida Gulf Coast Eagles",
             "homeScore": "44",
-            "status": "18:59 - 2nd Half",
+            "status": "18:48 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.826,
+            "winProb": 0.786,
             "state": "in"
         },
         {
@@ -66,17 +76,17 @@
             "awayScore": "35",
             "homeTeam": "Central Arkansas Bears",
             "homeScore": "44",
-            "status": "Halftime",
+            "status": "19:13 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.938,
+            "winProb": 0.94,
             "state": "in"
         },
         {
             "awayTeam": "Texas A&M Aggies",
-            "awayScore": "59",
+            "awayScore": "60",
             "homeTeam": "#19 Vanderbilt Commodores",
             "homeScore": "73",
-            "status": "3:21 - 2nd Half",
+            "status": "2:53 - 2nd Half",
             "tv": "SEC Network",
             "winProb": 0.993,
             "state": "in"
@@ -85,8 +95,8 @@
             "awayTeam": "#9 Kansas Jayhawks",
             "awayScore": "56",
             "homeTeam": "#5 Iowa State Cyclones",
-            "homeScore": "71",
-            "status": "1:55 - 2nd Half",
+            "homeScore": "73",
+            "status": "0:40 - 2nd Half",
             "tv": "ABC",
             "winProb": 0.999,
             "state": "in"
@@ -98,16 +108,6 @@
             "homeScore": "0",
             "status": "Sat, February 14th at 3:00 PM EST",
             "tv": "ABC",
-            "winProb": 0.5,
-            "state": "pre"
-        },
-        {
-            "awayTeam": "UL Monroe Warhawks",
-            "awayScore": "0",
-            "homeTeam": "Texas State Bobcats",
-            "homeScore": "0",
-            "status": "Sat, February 14th at 3:00 PM EST",
-            "tv": "ESPN+",
             "winProb": 0.5,
             "state": "pre"
         },

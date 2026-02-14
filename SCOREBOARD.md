@@ -1,19 +1,19 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-02-14 20:00:46*
+*Updated: 2026-02-14 20:02:45*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Florida State Seminoles @ Virginia Tech Hokies | 39 - 42 | Halftime | ACC Network |
 | SMU Mustangs @ Syracuse Orange | 39 - 35 | Halftime | The CW Network |
-| Louisiana Tech Bulldogs @ Florida International Panthers | 31 - 33 | Halftime | ESPN+ |
-| Stetson Hatters @ Florida Gulf Coast Eagles | 44 - 44 | 18:59 - 2nd Half | ESPN+ |
+| UL Monroe Warhawks @ Texas State Bobcats | 0 - 0 | 19:59 - 1st Half | ESPN+ |
+| Florida State Seminoles @ Virginia Tech Hokies | 39 - 42 | Halftime | ACC Network |
+| Louisiana Tech Bulldogs @ Florida International Panthers | 31 - 38 | 19:09 - 2nd Half | ESPN+ |
+| Stetson Hatters @ Florida Gulf Coast Eagles | 44 - 44 | 18:48 - 2nd Half | ESPN+ |
 | #17 St. John's Red Storm @ Providence Friars | 62 - 54 | 7:46 - 2nd Half | TNT, truTV |
 | Villanova Wildcats @ Creighton Bluejays | 25 - 10 | 7:17 - 1st Half | FOX |
-| West Georgia Wolves @ Central Arkansas Bears | 35 - 44 | Halftime | ESPN+ |
-| Texas A&M Aggies @ #19 Vanderbilt Commodores | 59 - 73 | 3:21 - 2nd Half | SEC Network |
-| #9 Kansas Jayhawks @ #5 Iowa State Cyclones | 56 - 71 | 1:55 - 2nd Half | ABC |
+| West Georgia Wolves @ Central Arkansas Bears | 35 - 44 | 19:13 - 2nd Half | ESPN+ |
+| Texas A&M Aggies @ #19 Vanderbilt Commodores | 60 - 73 | 2:53 - 2nd Half | SEC Network |
+| #9 Kansas Jayhawks @ #5 Iowa State Cyclones | 56 - 73 | 0:40 - 2nd Half | ABC |
 | #25 Kentucky Wildcats @ #14 Florida Gators | 0 - 0 | Sat, February 14th at 3:00 PM EST | ABC |
-| UL Monroe Warhawks @ Texas State Bobcats | 0 - 0 | Sat, February 14th at 3:00 PM EST | ESPN+ |
 | South Alabama Jaguars @ Arkansas State Red Wolves | 0 - 0 | Sat, February 14th at 3:00 PM EST | ESPN+ |
 | Delaware Blue Hens @ Missouri State Bears | 0 - 0 | Sat, February 14th at 3:00 PM EST | ESPN+ |
 | Florida A&M Rattlers @ Jackson State Tigers | 0 - 0 | Sat, February 14th at 3:30 PM EST | HBCU Go |
