@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-02-14 20:50:19",
+    "lastUpdated": "2026-02-14 20:50:23",
     "games": [
         {
             "awayTeam": "UL Monroe Warhawks",
@@ -33,10 +33,10 @@
         },
         {
             "awayTeam": "Georgia Bulldogs",
-            "awayScore": "11",
+            "awayScore": "13",
             "homeTeam": "Oklahoma Sooners",
             "homeScore": "12",
-            "status": "13:58 - 1st Half",
+            "status": "13:32 - 1st Half",
             "tv": "SEC Network",
             "winProb": 0.531,
             "state": "in"
@@ -56,7 +56,7 @@
             "awayScore": "4",
             "homeTeam": "Jackson State Tigers",
             "homeScore": "9",
-            "status": "14:46 - 1st Half",
+            "status": "14:24 - 1st Half",
             "tv": "HBCU Go",
             "winProb": 0.648,
             "state": "in"
@@ -98,17 +98,7 @@
             "homeScore": "32",
             "status": "5:45 - 1st Half",
             "tv": "ABC",
-            "winProb": 0.933,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Louisiana Tech Bulldogs",
-            "awayScore": "57",
-            "homeTeam": "Florida International Panthers",
-            "homeScore": "69",
-            "status": "2:30 - 2nd Half",
-            "tv": "ESPN+",
-            "winProb": 0.995,
+            "winProb": 0.941,
             "state": "in"
         },
         {
@@ -116,7 +106,7 @@
             "awayScore": "80",
             "homeTeam": "Virginia Tech Hokies",
             "homeScore": "60",
-            "status": "4:50 - 2nd Half",
+            "status": "4:48 - 2nd Half",
             "tv": "ACC Network",
             "winProb": 0.001,
             "state": "in"
@@ -127,6 +117,16 @@
             "homeTeam": "Central Arkansas Bears",
             "homeScore": "77",
             "status": "0:55 - 2nd Half",
+            "tv": "ESPN+",
+            "winProb": 0.999,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Louisiana Tech Bulldogs",
+            "awayScore": "57",
+            "homeTeam": "Florida International Panthers",
+            "homeScore": "72",
+            "status": "2:08 - 2nd Half",
             "tv": "ESPN+",
             "winProb": 0.999,
             "state": "in"
