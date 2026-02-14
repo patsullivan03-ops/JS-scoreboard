@@ -1,18 +1,18 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-02-14 20:05:47*
+*Updated: 2026-02-14 20:06:27*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
 | SMU Mustangs @ Syracuse Orange | 39 - 35 | Halftime | The CW Network |
 | Louisiana Tech Bulldogs @ Florida International Panthers | 36 - 39 | 17:16 - 2nd Half | ESPN+ |
-| Florida State Seminoles @ Virginia Tech Hokies | 39 - 42 | 19:19 - 2nd Half | ACC Network |
-| South Alabama Jaguars @ Arkansas State Red Wolves | 2 - 3 | 17:50 - 1st Half | ESPN+ |
-| Delaware Blue Hens @ Missouri State Bears | 0 - 3 | 18:28 - 1st Half | ESPN+ |
-| Villanova Wildcats @ Creighton Bluejays | 25 - 15 | 6:22 - 1st Half | FOX |
-| Stetson Hatters @ Florida Gulf Coast Eagles | 51 - 53 | 16:22 - 2nd Half | ESPN+ |
-| #17 St. John's Red Storm @ Providence Friars | 64 - 55 | 6:56 - 2nd Half | TNT, truTV |
-| UL Monroe Warhawks @ Texas State Bobcats | 5 - 6 | 17:16 - 1st Half | ESPN+ |
-| West Georgia Wolves @ Central Arkansas Bears | 37 - 47 | 17:21 - 2nd Half | ESPN+ |
+| South Alabama Jaguars @ Arkansas State Red Wolves | 5 - 3 | 17:13 - 1st Half | ESPN+ |
+| Florida State Seminoles @ Virginia Tech Hokies | 40 - 42 | 19:19 - 2nd Half | ACC Network |
+| Villanova Wildcats @ Creighton Bluejays | 25 - 15 | 6:13 - 1st Half | FOX |
+| Delaware Blue Hens @ Missouri State Bears | 0 - 5 | 18:19 - 1st Half | ESPN+ |
+| #17 St. John's Red Storm @ Providence Friars | 64 - 57 | 6:47 - 2nd Half | TNT, truTV |
+| Stetson Hatters @ Florida Gulf Coast Eagles | 51 - 55 | 16:18 - 2nd Half | ESPN+ |
+| UL Monroe Warhawks @ Texas State Bobcats | 5 - 8 | 16:38 - 1st Half | ESPN+ |
+| West Georgia Wolves @ Central Arkansas Bears | 37 - 48 | 16:55 - 2nd Half | ESPN+ |
 | Texas A&M Aggies @ #19 Vanderbilt Commodores | 63 - 78 | 1:31 - 2nd Half | SEC Network |
 | #25 Kentucky Wildcats @ #14 Florida Gators | 0 - 0 | Sat, February 14th at 3:00 PM EST | ABC |
 | Florida A&M Rattlers @ Jackson State Tigers | 0 - 0 | Sat, February 14th at 3:30 PM EST | HBCU Go |

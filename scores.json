@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-02-14 20:05:47",
+    "lastUpdated": "2026-02-14 20:06:27",
     "games": [
         {
             "awayTeam": "SMU Mustangs",
@@ -18,37 +18,27 @@
             "homeScore": "39",
             "status": "17:16 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.657,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Florida State Seminoles",
-            "awayScore": "39",
-            "homeTeam": "Virginia Tech Hokies",
-            "homeScore": "42",
-            "status": "19:19 - 2nd Half",
-            "tv": "ACC Network",
-            "winProb": 0.737,
+            "winProb": 0.648,
             "state": "in"
         },
         {
             "awayTeam": "South Alabama Jaguars",
-            "awayScore": "2",
+            "awayScore": "5",
             "homeTeam": "Arkansas State Red Wolves",
             "homeScore": "3",
-            "status": "17:50 - 1st Half",
+            "status": "17:13 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.781,
+            "winProb": 0.723,
             "state": "in"
         },
         {
-            "awayTeam": "Delaware Blue Hens",
-            "awayScore": "0",
-            "homeTeam": "Missouri State Bears",
-            "homeScore": "3",
-            "status": "18:28 - 1st Half",
-            "tv": "ESPN+",
-            "winProb": 0.838,
+            "awayTeam": "Florida State Seminoles",
+            "awayScore": "40",
+            "homeTeam": "Virginia Tech Hokies",
+            "homeScore": "42",
+            "status": "19:19 - 2nd Half",
+            "tv": "ACC Network",
+            "winProb": 0.738,
             "state": "in"
         },
         {
@@ -56,49 +46,59 @@
             "awayScore": "25",
             "homeTeam": "Creighton Bluejays",
             "homeScore": "15",
-            "status": "6:22 - 1st Half",
+            "status": "6:13 - 1st Half",
             "tv": "FOX",
-            "winProb": 0.149,
+            "winProb": 0.166,
             "state": "in"
         },
         {
-            "awayTeam": "Stetson Hatters",
-            "awayScore": "51",
-            "homeTeam": "Florida Gulf Coast Eagles",
-            "homeScore": "53",
-            "status": "16:22 - 2nd Half",
+            "awayTeam": "Delaware Blue Hens",
+            "awayScore": "0",
+            "homeTeam": "Missouri State Bears",
+            "homeScore": "5",
+            "status": "18:19 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.855,
+            "winProb": 0.856,
             "state": "in"
         },
         {
             "awayTeam": "#17 St. John's Red Storm",
             "awayScore": "64",
             "homeTeam": "Providence Friars",
-            "homeScore": "55",
-            "status": "6:56 - 2nd Half",
+            "homeScore": "57",
+            "status": "6:47 - 2nd Half",
             "tv": "TNT, truTV",
-            "winProb": 0.079,
+            "winProb": 0.126,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Stetson Hatters",
+            "awayScore": "51",
+            "homeTeam": "Florida Gulf Coast Eagles",
+            "homeScore": "55",
+            "status": "16:18 - 2nd Half",
+            "tv": "ESPN+",
+            "winProb": 0.888,
             "state": "in"
         },
         {
             "awayTeam": "UL Monroe Warhawks",
             "awayScore": "5",
             "homeTeam": "Texas State Bobcats",
-            "homeScore": "6",
-            "status": "17:16 - 1st Half",
+            "homeScore": "8",
+            "status": "16:38 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.923,
+            "winProb": 0.938,
             "state": "in"
         },
         {
             "awayTeam": "West Georgia Wolves",
             "awayScore": "37",
             "homeTeam": "Central Arkansas Bears",
-            "homeScore": "47",
-            "status": "17:21 - 2nd Half",
+            "homeScore": "48",
+            "status": "16:55 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.959,
+            "winProb": 0.958,
             "state": "in"
         },
         {
