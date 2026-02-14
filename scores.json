@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-02-14 19:55:44",
+    "lastUpdated": "2026-02-14 19:57:40",
     "games": [
         {
             "awayTeam": "Florida State Seminoles",
@@ -36,29 +36,29 @@
             "awayScore": "39",
             "homeTeam": "Syracuse Orange",
             "homeScore": "35",
-            "status": "1:06 - 1st Half",
+            "status": "0:28 - 1st Half",
             "tv": "The CW Network",
-            "winProb": 0.331,
+            "winProb": 0.324,
             "state": "in"
         },
         {
             "awayTeam": "Villanova Wildcats",
-            "awayScore": "13",
+            "awayScore": "19",
             "homeTeam": "Creighton Bluejays",
-            "homeScore": "7",
-            "status": "10:16 - 1st Half",
+            "homeScore": "10",
+            "status": "9:12 - 1st Half",
             "tv": "FOX",
-            "winProb": 0.247,
+            "winProb": 0.194,
             "state": "in"
         },
         {
             "awayTeam": "#17 St. John's Red Storm",
             "awayScore": "58",
             "homeTeam": "Providence Friars",
-            "homeScore": "50",
-            "status": "9:10 - 2nd Half",
+            "homeScore": "52",
+            "status": "8:29 - 2nd Half",
             "tv": "TNT, truTV",
-            "winProb": 0.145,
+            "winProb": 0.134,
             "state": "in"
         },
         {
@@ -76,9 +76,9 @@
             "awayScore": "59",
             "homeTeam": "#19 Vanderbilt Commodores",
             "homeScore": "69",
-            "status": "4:23 - 2nd Half",
+            "status": "4:06 - 2nd Half",
             "tv": "SEC Network",
-            "winProb": 0.973,
+            "winProb": 0.979,
             "state": "in"
         },
         {
@@ -88,7 +88,7 @@
             "homeScore": "68",
             "status": "3:56 - 2nd Half",
             "tv": "ABC",
-            "winProb": 0.99,
+            "winProb": 0.989,
             "state": "in"
         },
         {
