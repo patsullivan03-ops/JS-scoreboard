@@ -1,18 +1,17 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-02-14 19:40:14*
+*Updated: 2026-02-14 19:48:18*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Louisiana Tech Bulldogs @ Florida International Panthers | 26 - 26 | 2:37 - 1st Half | ESPN+ |
-| #17 St. John's Red Storm @ Providence Friars | 42 - 40 | 14:25 - 2nd Half | TNT, truTV |
-| Villanova Wildcats @ Creighton Bluejays | 2 - 0 | 16:56 - 1st Half | FOX |
-| SMU Mustangs @ Syracuse Orange | 28 - 21 | 7:29 - 1st Half | The CW Network |
-| Florida State Seminoles @ Virginia Tech Hokies | 34 - 37 | 3:24 - 1st Half | ACC Network |
-| TCU Horned Frogs @ Oklahoma State Cowboys | 95 - 92 | 0:12 - OT | ESPN2 |
-| Stetson Hatters @ Florida Gulf Coast Eagles | 44 - 44 | 0:35 - 1st Half | ESPN+ |
-| Texas A&M Aggies @ #19 Vanderbilt Commodores | 48 - 58 | 8:47 - 2nd Half | SEC Network |
-| West Georgia Wolves @ Central Arkansas Bears | 31 - 43 | 3:09 - 1st Half | ESPN+ |
-| #9 Kansas Jayhawks @ #5 Iowa State Cyclones | 46 - 65 | 8:32 - 2nd Half | ABC |
+| Florida State Seminoles @ Virginia Tech Hokies | 39 - 42 | Halftime | ACC Network |
+| West Georgia Wolves @ Central Arkansas Bears | 35 - 44 | Halftime | ESPN+ |
+| Stetson Hatters @ Florida Gulf Coast Eagles | 44 - 44 | Halftime | ESPN+ |
+| Louisiana Tech Bulldogs @ Florida International Panthers | 31 - 33 | Halftime | ESPN+ |
+| Villanova Wildcats @ Creighton Bluejays | 7 - 4 | 13:42 - 1st Half | FOX |
+| SMU Mustangs @ Syracuse Orange | 37 - 27 | 3:52 - 1st Half | The CW Network |
+| #17 St. John's Red Storm @ Providence Friars | 52 - 43 | 12:09 - 2nd Half | TNT, truTV |
+| Texas A&M Aggies @ #19 Vanderbilt Commodores | 52 - 62 | 7:38 - 2nd Half | SEC Network |
+| #9 Kansas Jayhawks @ #5 Iowa State Cyclones | 51 - 68 | 6:05 - 2nd Half | ABC |
 | #25 Kentucky Wildcats @ #14 Florida Gators | 0 - 0 | Sat, February 14th at 3:00 PM EST | ABC |
 | UL Monroe Warhawks @ Texas State Bobcats | 0 - 0 | Sat, February 14th at 3:00 PM EST | ESPN+ |
 | South Alabama Jaguars @ Arkansas State Red Wolves | 0 - 0 | Sat, February 14th at 3:00 PM EST | ESPN+ |
@@ -51,4 +50,5 @@
 | #12 Gonzaga Bulldogs @ Santa Clara Broncos | 0 - 0 | Sat, February 14th at 10:30 PM EST | ESPN |
 | Saint Mary's Gaels @ Pacific Tigers | 0 - 0 | Sat, February 14th at 10:30 PM EST | ESPN2 |
 | #20 Clemson Tigers @ #4 Duke Blue Devils | 54 - 67 | Final | ESPN |
+| TCU Horned Frogs @ Oklahoma State Cowboys | 95 - 92 | Final/OT | ESPN2 |
 | Georgia Tech Yellow Jackets @ Notre Dame Fighting Irish | 74 - 89 | Final | The CW Network |

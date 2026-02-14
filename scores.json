@@ -1,64 +1,24 @@
 {
-    "lastUpdated": "2026-02-14 19:40:14",
+    "lastUpdated": "2026-02-14 19:48:18",
     "games": [
         {
-            "awayTeam": "Louisiana Tech Bulldogs",
-            "awayScore": "26",
-            "homeTeam": "Florida International Panthers",
-            "homeScore": "26",
-            "status": "2:37 - 1st Half",
-            "tv": "ESPN+",
-            "winProb": 0.547,
-            "state": "in"
-        },
-        {
-            "awayTeam": "#17 St. John's Red Storm",
-            "awayScore": "42",
-            "homeTeam": "Providence Friars",
-            "homeScore": "40",
-            "status": "14:25 - 2nd Half",
-            "tv": "TNT, truTV",
-            "winProb": 0.393,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Villanova Wildcats",
-            "awayScore": "2",
-            "homeTeam": "Creighton Bluejays",
-            "homeScore": "0",
-            "status": "16:56 - 1st Half",
-            "tv": "FOX",
-            "winProb": 0.388,
-            "state": "in"
-        },
-        {
-            "awayTeam": "SMU Mustangs",
-            "awayScore": "28",
-            "homeTeam": "Syracuse Orange",
-            "homeScore": "21",
-            "status": "7:29 - 1st Half",
-            "tv": "The CW Network",
-            "winProb": 0.255,
-            "state": "in"
-        },
-        {
             "awayTeam": "Florida State Seminoles",
-            "awayScore": "34",
+            "awayScore": "39",
             "homeTeam": "Virginia Tech Hokies",
-            "homeScore": "37",
-            "status": "3:24 - 1st Half",
+            "homeScore": "42",
+            "status": "Halftime",
             "tv": "ACC Network",
-            "winProb": 0.789,
+            "winProb": 0.5,
             "state": "in"
         },
         {
-            "awayTeam": "TCU Horned Frogs",
-            "awayScore": "95",
-            "homeTeam": "Oklahoma State Cowboys",
-            "homeScore": "92",
-            "status": "0:12 - OT",
-            "tv": "ESPN2",
-            "winProb": 0.188,
+            "awayTeam": "West Georgia Wolves",
+            "awayScore": "35",
+            "homeTeam": "Central Arkansas Bears",
+            "homeScore": "44",
+            "status": "Halftime",
+            "tv": "ESPN+",
+            "winProb": 0.5,
             "state": "in"
         },
         {
@@ -66,39 +26,69 @@
             "awayScore": "44",
             "homeTeam": "Florida Gulf Coast Eagles",
             "homeScore": "44",
-            "status": "0:35 - 1st Half",
+            "status": "Halftime",
             "tv": "ESPN+",
-            "winProb": 0.826,
+            "winProb": 0.5,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Louisiana Tech Bulldogs",
+            "awayScore": "31",
+            "homeTeam": "Florida International Panthers",
+            "homeScore": "33",
+            "status": "Halftime",
+            "tv": "ESPN+",
+            "winProb": 0.5,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Villanova Wildcats",
+            "awayScore": "7",
+            "homeTeam": "Creighton Bluejays",
+            "homeScore": "4",
+            "status": "13:42 - 1st Half",
+            "tv": "FOX",
+            "winProb": 0.301,
+            "state": "in"
+        },
+        {
+            "awayTeam": "SMU Mustangs",
+            "awayScore": "37",
+            "homeTeam": "Syracuse Orange",
+            "homeScore": "27",
+            "status": "3:52 - 1st Half",
+            "tv": "The CW Network",
+            "winProb": 0.169,
+            "state": "in"
+        },
+        {
+            "awayTeam": "#17 St. John's Red Storm",
+            "awayScore": "52",
+            "homeTeam": "Providence Friars",
+            "homeScore": "43",
+            "status": "12:09 - 2nd Half",
+            "tv": "TNT, truTV",
+            "winProb": 0.111,
             "state": "in"
         },
         {
             "awayTeam": "Texas A&M Aggies",
-            "awayScore": "48",
+            "awayScore": "52",
             "homeTeam": "#19 Vanderbilt Commodores",
-            "homeScore": "58",
-            "status": "8:47 - 2nd Half",
+            "homeScore": "62",
+            "status": "7:38 - 2nd Half",
             "tv": "SEC Network",
-            "winProb": 0.95,
-            "state": "in"
-        },
-        {
-            "awayTeam": "West Georgia Wolves",
-            "awayScore": "31",
-            "homeTeam": "Central Arkansas Bears",
-            "homeScore": "43",
-            "status": "3:09 - 1st Half",
-            "tv": "ESPN+",
-            "winProb": 0.967,
+            "winProb": 0.945,
             "state": "in"
         },
         {
             "awayTeam": "#9 Kansas Jayhawks",
-            "awayScore": "46",
+            "awayScore": "51",
             "homeTeam": "#5 Iowa State Cyclones",
-            "homeScore": "65",
-            "status": "8:32 - 2nd Half",
+            "homeScore": "68",
+            "status": "6:05 - 2nd Half",
             "tv": "ABC",
-            "winProb": 0.997,
+            "winProb": 0.996,
             "state": "in"
         },
         {
@@ -478,6 +468,16 @@
             "homeScore": "67",
             "status": "Final",
             "tv": "ESPN",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "awayTeam": "TCU Horned Frogs",
+            "awayScore": "95",
+            "homeTeam": "Oklahoma State Cowboys",
+            "homeScore": "92",
+            "status": "Final/OT",
+            "tv": "ESPN2",
             "winProb": 0.5,
             "state": "post"
         },
