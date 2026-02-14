@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-02-14 20:28:37",
+    "lastUpdated": "2026-02-14 20:28:46",
     "games": [
         {
             "awayTeam": "Villanova Wildcats",
@@ -28,7 +28,7 @@
             "homeScore": "55",
             "status": "8:30 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.698,
+            "winProb": 0.652,
             "state": "in"
         },
         {
@@ -46,9 +46,9 @@
             "awayScore": "65",
             "homeTeam": "Florida Gulf Coast Eagles",
             "homeScore": "67",
-            "status": "8:03 - 2nd Half",
+            "status": "7:43 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.79,
+            "winProb": 0.828,
             "state": "in"
         },
         {
@@ -56,7 +56,7 @@
             "awayScore": "55",
             "homeTeam": "Central Arkansas Bears",
             "homeScore": "59",
-            "status": "8:24 - 2nd Half",
+            "status": "8:03 - 2nd Half",
             "tv": "ESPN+",
             "winProb": 0.879,
             "state": "in"
@@ -73,7 +73,7 @@
         },
         {
             "awayTeam": "SMU Mustangs",
-            "awayScore": "54",
+            "awayScore": "55",
             "homeTeam": "Syracuse Orange",
             "homeScore": "44",
             "status": "15:18 - 2nd Half",
@@ -88,7 +88,7 @@
             "homeScore": "22",
             "status": "12:46 - 1st Half",
             "tv": "ABC",
-            "winProb": 0.953,
+            "winProb": 0.952,
             "state": "in"
         },
         {
