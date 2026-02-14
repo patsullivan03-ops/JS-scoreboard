@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-02-14 20:16:37",
+    "lastUpdated": "2026-02-14 20:16:53",
     "games": [
         {
             "awayTeam": "Florida State Seminoles",
@@ -15,10 +15,10 @@
             "awayTeam": "SMU Mustangs",
             "awayScore": "42",
             "homeTeam": "Syracuse Orange",
-            "homeScore": "37",
-            "status": "18:59 - 2nd Half",
+            "homeScore": "39",
+            "status": "18:35 - 2nd Half",
             "tv": "The CW Network",
-            "winProb": 0.3,
+            "winProb": 0.338,
             "state": "in"
         },
         {
@@ -26,9 +26,19 @@
             "awayScore": "50",
             "homeTeam": "Florida International Panthers",
             "homeScore": "44",
-            "status": "13:33 - 2nd Half",
+            "status": "13:11 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.263,
+            "winProb": 0.302,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Delaware Blue Hens",
+            "awayScore": "11",
+            "homeTeam": "Missouri State Bears",
+            "homeScore": "11",
+            "status": "13:06 - 1st Half",
+            "tv": "ESPN+",
+            "winProb": 0.703,
             "state": "in"
         },
         {
@@ -42,23 +52,13 @@
             "state": "in"
         },
         {
-            "awayTeam": "Delaware Blue Hens",
-            "awayScore": "11",
-            "homeTeam": "Missouri State Bears",
-            "homeScore": "11",
-            "status": "13:31 - 1st Half",
-            "tv": "ESPN+",
-            "winProb": 0.755,
-            "state": "in"
-        },
-        {
             "awayTeam": "West Georgia Wolves",
             "awayScore": "51",
             "homeTeam": "Central Arkansas Bears",
-            "homeScore": "54",
-            "status": "11:55 - 2nd Half",
+            "homeScore": "56",
+            "status": "11:46 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.889,
+            "winProb": 0.894,
             "state": "in"
         },
         {
