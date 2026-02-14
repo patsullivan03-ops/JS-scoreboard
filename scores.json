@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-02-14 21:17:44",
+    "lastUpdated": "2026-02-14 21:17:55",
     "games": [
         {
             "awayTeam": "#25 Kentucky Wildcats",
@@ -46,7 +46,7 @@
             "awayScore": "11",
             "homeTeam": "NC State Wolfpack",
             "homeScore": "11",
-            "status": "13:46 - 1st Half",
+            "status": "13:48 - 1st Half",
             "tv": "ESPN2",
             "winProb": 0.714,
             "state": "in"
@@ -58,7 +58,17 @@
             "homeScore": "15",
             "status": "11:29 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.794,
+            "winProb": 0.792,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Georgia State Panthers",
+            "awayScore": "20",
+            "homeTeam": "Old Dominion Monarchs",
+            "homeScore": "26",
+            "status": "4:49 - 1st Half",
+            "tv": "ESPN+",
+            "winProb": 0.823,
             "state": "in"
         },
         {
@@ -69,16 +79,6 @@
             "status": "14:44 - 1st Half",
             "tv": "ESPN",
             "winProb": 0.17,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Georgia State Panthers",
-            "awayScore": "20",
-            "homeTeam": "Old Dominion Monarchs",
-            "homeScore": "26",
-            "status": "5:05 - 1st Half",
-            "tv": "ESPN+",
-            "winProb": 0.84,
             "state": "in"
         },
         {
@@ -93,7 +93,7 @@
         },
         {
             "awayTeam": "South Alabama Jaguars",
-            "awayScore": "44",
+            "awayScore": "45",
             "homeTeam": "Arkansas State Red Wolves",
             "homeScore": "52",
             "status": "13:22 - 2nd Half",

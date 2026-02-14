@@ -1,5 +1,5 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-02-14 21:17:44*
+*Updated: 2026-02-14 21:17:55*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
@@ -7,12 +7,12 @@
 | Georgia Bulldogs @ Oklahoma Sooners | 40 - 37 | 2:45 - 1st Half | SEC Network |
 | Stanford Cardinal @ Wake Forest Demon Deacons | 17 - 12 | 12:53 - 1st Half | ACC Network |
 | Delaware Blue Hens @ Missouri State Bears | 49 - 43 | 12:31 - 2nd Half | ESPN+ |
-| Miami Hurricanes @ NC State Wolfpack | 11 - 11 | 13:46 - 1st Half | ESPN2 |
+| Miami Hurricanes @ NC State Wolfpack | 11 - 11 | 13:48 - 1st Half | ESPN2 |
 | North Florida Ospreys @ Jacksonville Dolphins | 14 - 15 | 11:29 - 1st Half | ESPN+ |
+| Georgia State Panthers @ Old Dominion Monarchs | 20 - 26 | 4:49 - 1st Half | ESPN+ |
 | #24 Louisville Cardinals @ Baylor Bears | 10 - 6 | 14:44 - 1st Half | ESPN |
-| Georgia State Panthers @ Old Dominion Monarchs | 20 - 26 | 5:05 - 1st Half | ESPN+ |
 | Florida A&M Rattlers @ Jackson State Tigers | 15 - 27 | 3:17 - 1st Half | HBCU Go |
-| South Alabama Jaguars @ Arkansas State Red Wolves | 44 - 52 | 13:22 - 2nd Half | ESPN+ |
+| South Alabama Jaguars @ Arkansas State Red Wolves | 45 - 52 | 13:22 - 2nd Half | ESPN+ |
 | UL Monroe Warhawks @ Texas State Bobcats | 61 - 66 | 12:09 - 2nd Half | ESPN+ |
 | Kansas State Wildcats @ #3 Houston Cougars | 9 - 2 | 14:19 - 1st Half | Peacock |
 | Villanova Wildcats @ Creighton Bluejays | 66 - 56 | 4:44 - 2nd Half | FOX |
