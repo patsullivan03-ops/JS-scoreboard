@@ -1,24 +1,24 @@
 {
-    "lastUpdated": "2026-02-14 20:39:10",
+    "lastUpdated": "2026-02-14 20:39:29",
     "games": [
-        {
-            "awayTeam": "Georgia Bulldogs",
-            "awayScore": "9",
-            "homeTeam": "Oklahoma Sooners",
-            "homeScore": "4",
-            "status": "16:43 - 1st Half",
-            "tv": "SEC Network",
-            "winProb": 0.413,
-            "state": "in"
-        },
         {
             "awayTeam": "Delaware Blue Hens",
             "awayScore": "32",
             "homeTeam": "Missouri State Bears",
             "homeScore": "23",
-            "status": "3:14 - 1st Half",
+            "status": "2:53 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.41,
+            "winProb": 0.405,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Georgia Bulldogs",
+            "awayScore": "9",
+            "homeTeam": "Oklahoma Sooners",
+            "homeScore": "4",
+            "status": "16:25 - 1st Half",
+            "tv": "SEC Network",
+            "winProb": 0.386,
             "state": "in"
         },
         {
@@ -26,19 +26,9 @@
             "awayScore": "70",
             "homeTeam": "Florida Gulf Coast Eagles",
             "homeScore": "73",
-            "status": "3:53 - 2nd Half",
+            "status": "3:34 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.812,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Florida State Seminoles",
-            "awayScore": "65",
-            "homeTeam": "Virginia Tech Hokies",
-            "homeScore": "57",
-            "status": "8:51 - 2nd Half",
-            "tv": "ACC Network",
-            "winProb": 0.176,
+            "winProb": 0.754,
             "state": "in"
         },
         {
@@ -56,7 +46,7 @@
             "awayScore": "61",
             "homeTeam": "Syracuse Orange",
             "homeScore": "52",
-            "status": "11:30 - 2nd Half",
+            "status": "11:28 - 2nd Half",
             "tv": "The CW Network",
             "winProb": 0.127,
             "state": "in"
@@ -66,9 +56,19 @@
             "awayScore": "30",
             "homeTeam": "Arkansas State Red Wolves",
             "homeScore": "38",
-            "status": "2:27 - 1st Half",
+            "status": "2:10 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.897,
+            "winProb": 0.887,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Florida State Seminoles",
+            "awayScore": "68",
+            "homeTeam": "Virginia Tech Hokies",
+            "homeScore": "57",
+            "status": "8:17 - 2nd Half",
+            "tv": "ACC Network",
+            "winProb": 0.079,
             "state": "in"
         },
         {
@@ -85,8 +85,8 @@
             "awayTeam": "UL Monroe Warhawks",
             "awayScore": "36",
             "homeTeam": "Texas State Bobcats",
-            "homeScore": "40",
-            "status": "3:11 - 1st Half",
+            "homeScore": "42",
+            "status": "2:58 - 1st Half",
             "tv": "ESPN+",
             "winProb": 0.94,
             "state": "in"
