@@ -1,44 +1,34 @@
 {
-    "lastUpdated": "2026-02-14 20:16:53",
+    "lastUpdated": "2026-02-14 20:18:13",
     "games": [
-        {
-            "awayTeam": "Florida State Seminoles",
-            "awayScore": "48",
-            "homeTeam": "Virginia Tech Hokies",
-            "homeScore": "49",
-            "status": "16:13 - 2nd Half",
-            "tv": "ACC Network",
-            "winProb": 0.66,
-            "state": "in"
-        },
-        {
-            "awayTeam": "SMU Mustangs",
-            "awayScore": "42",
-            "homeTeam": "Syracuse Orange",
-            "homeScore": "39",
-            "status": "18:35 - 2nd Half",
-            "tv": "The CW Network",
-            "winProb": 0.338,
-            "state": "in"
-        },
         {
             "awayTeam": "Louisiana Tech Bulldogs",
             "awayScore": "50",
             "homeTeam": "Florida International Panthers",
-            "homeScore": "44",
-            "status": "13:11 - 2nd Half",
+            "homeScore": "47",
+            "status": "12:14 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.302,
+            "winProb": 0.388,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Florida State Seminoles",
+            "awayScore": "50",
+            "homeTeam": "Virginia Tech Hokies",
+            "homeScore": "49",
+            "status": "15:30 - 2nd Half",
+            "tv": "ACC Network",
+            "winProb": 0.626,
             "state": "in"
         },
         {
             "awayTeam": "Delaware Blue Hens",
-            "awayScore": "11",
+            "awayScore": "17",
             "homeTeam": "Missouri State Bears",
-            "homeScore": "11",
-            "status": "13:06 - 1st Half",
+            "homeScore": "14",
+            "status": "12:00 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.703,
+            "winProb": 0.704,
             "state": "in"
         },
         {
@@ -52,23 +42,33 @@
             "state": "in"
         },
         {
-            "awayTeam": "West Georgia Wolves",
-            "awayScore": "51",
-            "homeTeam": "Central Arkansas Bears",
-            "homeScore": "56",
-            "status": "11:46 - 2nd Half",
-            "tv": "ESPN+",
-            "winProb": 0.894,
+            "awayTeam": "SMU Mustangs",
+            "awayScore": "46",
+            "homeTeam": "Syracuse Orange",
+            "homeScore": "39",
+            "status": "17:50 - 2nd Half",
+            "tv": "The CW Network",
+            "winProb": 0.193,
             "state": "in"
         },
         {
             "awayTeam": "#25 Kentucky Wildcats",
-            "awayScore": "2",
+            "awayScore": "5",
             "homeTeam": "#14 Florida Gators",
             "homeScore": "10",
-            "status": "16:34 - 1st Half",
+            "status": "15:53 - 1st Half",
             "tv": "ABC",
-            "winProb": 0.911,
+            "winProb": 0.876,
+            "state": "in"
+        },
+        {
+            "awayTeam": "West Georgia Wolves",
+            "awayScore": "53",
+            "homeTeam": "Central Arkansas Bears",
+            "homeScore": "59",
+            "status": "11:10 - 2nd Half",
+            "tv": "ESPN+",
+            "winProb": 0.914,
             "state": "in"
         },
         {
@@ -95,20 +95,20 @@
             "awayTeam": "UL Monroe Warhawks",
             "awayScore": "10",
             "homeTeam": "Texas State Bobcats",
-            "homeScore": "17",
-            "status": "12:42 - 1st Half",
+            "homeScore": "19",
+            "status": "11:56 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.962,
+            "winProb": 0.97,
             "state": "in"
         },
         {
             "awayTeam": "#17 St. John's Red Storm",
-            "awayScore": "71",
+            "awayScore": "73",
             "homeTeam": "Providence Friars",
-            "homeScore": "59",
-            "status": "4:18 - 2nd Half",
+            "homeScore": "62",
+            "status": "3:17 - 2nd Half",
             "tv": "TNT, truTV",
-            "winProb": 0.014,
+            "winProb": 0.022,
             "state": "in"
         },
         {

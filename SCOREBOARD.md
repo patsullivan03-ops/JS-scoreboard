@@ -1,19 +1,19 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-02-14 20:16:53*
+*Updated: 2026-02-14 20:18:13*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Florida State Seminoles @ Virginia Tech Hokies | 48 - 49 | 16:13 - 2nd Half | ACC Network |
-| SMU Mustangs @ Syracuse Orange | 42 - 39 | 18:35 - 2nd Half | The CW Network |
-| Louisiana Tech Bulldogs @ Florida International Panthers | 50 - 44 | 13:11 - 2nd Half | ESPN+ |
-| Delaware Blue Hens @ Missouri State Bears | 11 - 11 | 13:06 - 1st Half | ESPN+ |
+| Louisiana Tech Bulldogs @ Florida International Panthers | 50 - 47 | 12:14 - 2nd Half | ESPN+ |
+| Florida State Seminoles @ Virginia Tech Hokies | 50 - 49 | 15:30 - 2nd Half | ACC Network |
+| Delaware Blue Hens @ Missouri State Bears | 17 - 14 | 12:00 - 1st Half | ESPN+ |
 | South Alabama Jaguars @ Arkansas State Red Wolves | 11 - 11 | 11:56 - 1st Half | ESPN+ |
-| West Georgia Wolves @ Central Arkansas Bears | 51 - 56 | 11:46 - 2nd Half | ESPN+ |
-| #25 Kentucky Wildcats @ #14 Florida Gators | 2 - 10 | 16:34 - 1st Half | ABC |
+| SMU Mustangs @ Syracuse Orange | 46 - 39 | 17:50 - 2nd Half | The CW Network |
+| #25 Kentucky Wildcats @ #14 Florida Gators | 5 - 10 | 15:53 - 1st Half | ABC |
+| West Georgia Wolves @ Central Arkansas Bears | 53 - 59 | 11:10 - 2nd Half | ESPN+ |
 | Villanova Wildcats @ Creighton Bluejays | 32 - 18 | 3:06 - 1st Half | FOX |
 | Stetson Hatters @ Florida Gulf Coast Eagles | 55 - 63 | 11:50 - 2nd Half | ESPN+ |
-| UL Monroe Warhawks @ Texas State Bobcats | 10 - 17 | 12:42 - 1st Half | ESPN+ |
-| #17 St. John's Red Storm @ Providence Friars | 71 - 59 | 4:18 - 2nd Half | TNT, truTV |
+| UL Monroe Warhawks @ Texas State Bobcats | 10 - 19 | 11:56 - 1st Half | ESPN+ |
+| #17 St. John's Red Storm @ Providence Friars | 73 - 62 | 3:17 - 2nd Half | TNT, truTV |
 | Florida A&M Rattlers @ Jackson State Tigers | 0 - 0 | Sat, February 14th at 3:30 PM EST | HBCU Go |
 | Georgia State Panthers @ Old Dominion Monarchs | 0 - 0 | Sat, February 14th at 3:30 PM EST | ESPN+ |
 | Georgia Bulldogs @ Oklahoma Sooners | 0 - 0 | Sat, February 14th at 3:30 PM EST | SEC Network |
