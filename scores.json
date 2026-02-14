@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-02-14 19:49:41",
+    "lastUpdated": "2026-02-14 19:49:48",
     "games": [
         {
             "awayTeam": "Florida State Seminoles",
@@ -48,7 +48,7 @@
             "homeScore": "7",
             "status": "12:11 - 1st Half",
             "tv": "FOX",
-            "winProb": 0.327,
+            "winProb": 0.301,
             "state": "in"
         },
         {
@@ -76,7 +76,7 @@
             "awayScore": "57",
             "homeTeam": "#19 Vanderbilt Commodores",
             "homeScore": "64",
-            "status": "6:45 - 2nd Half",
+            "status": "6:33 - 2nd Half",
             "tv": "SEC Network",
             "winProb": 0.913,
             "state": "in"
@@ -88,7 +88,7 @@
             "homeScore": "68",
             "status": "5:35 - 2nd Half",
             "tv": "ABC",
-            "winProb": 0.996,
+            "winProb": 0.995,
             "state": "in"
         },
         {
