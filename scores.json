@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-02-14 20:11:30",
+    "lastUpdated": "2026-02-14 20:11:36",
     "games": [
         {
             "awayTeam": "SMU Mustangs",
@@ -35,10 +35,10 @@
             "awayTeam": "Florida State Seminoles",
             "awayScore": "42",
             "homeTeam": "Virginia Tech Hokies",
-            "homeScore": "43",
+            "homeScore": "44",
             "status": "18:21 - 2nd Half",
             "tv": "ACC Network",
-            "winProb": 0.709,
+            "winProb": 0.713,
             "state": "in"
         },
         {
@@ -58,7 +58,7 @@
             "homeScore": "3",
             "status": "19:19 - 1st Half",
             "tv": "ABC",
-            "winProb": 0.85,
+            "winProb": 0.837,
             "state": "in"
         },
         {
@@ -76,9 +76,19 @@
             "awayScore": "32",
             "homeTeam": "Creighton Bluejays",
             "homeScore": "17",
-            "status": "3:47 - 1st Half",
+            "status": "3:28 - 1st Half",
             "tv": "FOX",
             "winProb": 0.072,
+            "state": "in"
+        },
+        {
+            "awayTeam": "West Georgia Wolves",
+            "awayScore": "42",
+            "homeTeam": "Central Arkansas Bears",
+            "homeScore": "52",
+            "status": "14:49 - 2nd Half",
+            "tv": "ESPN+",
+            "winProb": 0.949,
             "state": "in"
         },
         {
@@ -92,21 +102,11 @@
             "state": "in"
         },
         {
-            "awayTeam": "West Georgia Wolves",
-            "awayScore": "42",
-            "homeTeam": "Central Arkansas Bears",
-            "homeScore": "52",
-            "status": "14:50 - 2nd Half",
-            "tv": "ESPN+",
-            "winProb": 0.956,
-            "state": "in"
-        },
-        {
             "awayTeam": "#17 St. John's Red Storm",
             "awayScore": "69",
             "homeTeam": "Providence Friars",
             "homeScore": "58",
-            "status": "5:04 - 2nd Half",
+            "status": "5:00 - 2nd Half",
             "tv": "TNT, truTV",
             "winProb": 0.024,
             "state": "in"
@@ -115,7 +115,7 @@
             "awayTeam": "Texas A&M Aggies",
             "awayScore": "66",
             "homeTeam": "#19 Vanderbilt Commodores",
-            "homeScore": "80",
+            "homeScore": "81",
             "status": "0:39 - 2nd Half",
             "tv": "SEC Network",
             "winProb": 0.999,
