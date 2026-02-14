@@ -1,6 +1,16 @@
 {
-    "lastUpdated": "2026-02-14 21:06:19",
+    "lastUpdated": "2026-02-14 21:06:31",
     "games": [
+        {
+            "awayTeam": "#25 Kentucky Wildcats",
+            "awayScore": "34",
+            "homeTeam": "#14 Florida Gators",
+            "homeScore": "43",
+            "status": "0:00 - 1st Half",
+            "tv": "ABC",
+            "winProb": 0.5,
+            "state": "in"
+        },
         {
             "awayTeam": "Georgia Bulldogs",
             "awayScore": "32",
@@ -22,6 +32,16 @@
             "state": "in"
         },
         {
+            "awayTeam": "Stanford Cardinal",
+            "awayScore": "4",
+            "homeTeam": "Wake Forest Demon Deacons",
+            "homeScore": "3",
+            "status": "18:13 - 1st Half",
+            "tv": "ACC Network",
+            "winProb": 0.691,
+            "state": "in"
+        },
+        {
             "awayTeam": "SMU Mustangs",
             "awayScore": "78",
             "homeTeam": "Syracuse Orange",
@@ -32,33 +52,13 @@
             "state": "in"
         },
         {
-            "awayTeam": "Stanford Cardinal",
-            "awayScore": "4",
-            "homeTeam": "Wake Forest Demon Deacons",
-            "homeScore": "3",
-            "status": "18:28 - 1st Half",
-            "tv": "ACC Network",
-            "winProb": 0.708,
-            "state": "in"
-        },
-        {
             "awayTeam": "Georgia State Panthers",
             "awayScore": "13",
             "homeTeam": "Old Dominion Monarchs",
             "homeScore": "14",
-            "status": "11:25 - 1st Half",
+            "status": "11:07 - 1st Half",
             "tv": "ESPN+",
             "winProb": 0.734,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Delaware Blue Hens",
-            "awayScore": "35",
-            "homeTeam": "Missouri State Bears",
-            "homeScore": "25",
-            "status": "Halftime",
-            "tv": "ESPN+",
-            "winProb": 0.235,
             "state": "in"
         },
         {
@@ -72,13 +72,23 @@
             "state": "in"
         },
         {
+            "awayTeam": "Delaware Blue Hens",
+            "awayScore": "35",
+            "homeTeam": "Missouri State Bears",
+            "homeScore": "25",
+            "status": "Halftime",
+            "tv": "ESPN+",
+            "winProb": 0.163,
+            "state": "in"
+        },
+        {
             "awayTeam": "UL Monroe Warhawks",
             "awayScore": "46",
             "homeTeam": "Texas State Bobcats",
             "homeScore": "48",
             "status": "18:16 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.868,
+            "winProb": 0.874,
             "state": "in"
         },
         {
@@ -99,16 +109,6 @@
             "status": "17:19 - 2nd Half",
             "tv": "ESPN+",
             "winProb": 0.903,
-            "state": "in"
-        },
-        {
-            "awayTeam": "#25 Kentucky Wildcats",
-            "awayScore": "34",
-            "homeTeam": "#14 Florida Gators",
-            "homeScore": "43",
-            "status": "0:01 - 1st Half",
-            "tv": "ABC",
-            "winProb": 0.919,
             "state": "in"
         },
         {
