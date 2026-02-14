@@ -1,5 +1,5 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-02-14 21:22:48*
+*Updated: 2026-02-14 21:23:00*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
@@ -7,12 +7,12 @@
 | Georgia Bulldogs @ Oklahoma Sooners | 41 - 38 | 0:57 - 1st Half | SEC Network |
 | Stanford Cardinal @ Wake Forest Demon Deacons | 17 - 14 | 11:32 - 1st Half | ACC Network |
 | Miami Hurricanes @ NC State Wolfpack | 15 - 15 | 11:53 - 1st Half | ESPN2 |
-| North Florida Ospreys @ Jacksonville Dolphins | 16 - 18 | 10:07 - 1st Half | ESPN+ |
-| Georgia State Panthers @ Old Dominion Monarchs | 20 - 26 | 3:22 - 1st Half | ESPN+ |
-| #24 Louisville Cardinals @ Baylor Bears | 15 - 12 | 13:42 - 1st Half | ESPN |
-| Kansas State Wildcats @ #3 Houston Cougars | 15 - 6 | 11:35 - 1st Half | Peacock |
+| Georgia State Panthers @ Old Dominion Monarchs | 21 - 26 | 3:22 - 1st Half | ESPN+ |
+| North Florida Ospreys @ Jacksonville Dolphins | 16 - 18 | 9:37 - 1st Half | ESPN+ |
+| #24 Louisville Cardinals @ Baylor Bears | 15 - 12 | 13:09 - 1st Half | ESPN |
+| Kansas State Wildcats @ #3 Houston Cougars | 15 - 6 | 10:55 - 1st Half | Peacock |
 | UL Monroe Warhawks @ Texas State Bobcats | 64 - 68 | 11:16 - 2nd Half | ESPN+ |
-| #25 Kentucky Wildcats @ #14 Florida Gators | 34 - 43 | 20:00 - 2nd Half | ABC |
+| #25 Kentucky Wildcats @ #14 Florida Gators | 34 - 43 | 19:39 - 2nd Half | ABC |
 | South Alabama Jaguars @ Arkansas State Red Wolves | 50 - 60 | 11:04 - 2nd Half | ESPN+ |
 | Florida A&M Rattlers @ Jackson State Tigers | 16 - 34 | 1:43 - 1st Half | HBCU Go |
 | Villanova Wildcats @ Creighton Bluejays | 67 - 56 | 3:53 - 2nd Half | FOX |

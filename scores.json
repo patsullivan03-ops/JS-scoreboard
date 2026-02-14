@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-02-14 21:22:48",
+    "lastUpdated": "2026-02-14 21:23:00",
     "games": [
         {
             "awayTeam": "Delaware Blue Hens",
@@ -18,7 +18,7 @@
             "homeScore": "38",
             "status": "0:57 - 1st Half",
             "tv": "SEC Network",
-            "winProb": 0.436,
+            "winProb": 0.411,
             "state": "in"
         },
         {
@@ -42,23 +42,23 @@
             "state": "in"
         },
         {
-            "awayTeam": "North Florida Ospreys",
-            "awayScore": "16",
-            "homeTeam": "Jacksonville Dolphins",
-            "homeScore": "18",
-            "status": "10:07 - 1st Half",
-            "tv": "ESPN+",
-            "winProb": 0.807,
-            "state": "in"
-        },
-        {
             "awayTeam": "Georgia State Panthers",
-            "awayScore": "20",
+            "awayScore": "21",
             "homeTeam": "Old Dominion Monarchs",
             "homeScore": "26",
             "status": "3:22 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.822,
+            "winProb": 0.801,
+            "state": "in"
+        },
+        {
+            "awayTeam": "North Florida Ospreys",
+            "awayScore": "16",
+            "homeTeam": "Jacksonville Dolphins",
+            "homeScore": "18",
+            "status": "9:37 - 1st Half",
+            "tv": "ESPN+",
+            "winProb": 0.81,
             "state": "in"
         },
         {
@@ -66,9 +66,9 @@
             "awayScore": "15",
             "homeTeam": "Baylor Bears",
             "homeScore": "12",
-            "status": "13:42 - 1st Half",
+            "status": "13:09 - 1st Half",
             "tv": "ESPN",
-            "winProb": 0.173,
+            "winProb": 0.17,
             "state": "in"
         },
         {
@@ -76,7 +76,7 @@
             "awayScore": "15",
             "homeTeam": "#3 Houston Cougars",
             "homeScore": "6",
-            "status": "11:35 - 1st Half",
+            "status": "10:55 - 1st Half",
             "tv": "Peacock",
             "winProb": 0.864,
             "state": "in"
@@ -96,7 +96,7 @@
             "awayScore": "34",
             "homeTeam": "#14 Florida Gators",
             "homeScore": "43",
-            "status": "20:00 - 2nd Half",
+            "status": "19:39 - 2nd Half",
             "tv": "ABC",
             "winProb": 0.913,
             "state": "in"
@@ -118,7 +118,7 @@
             "homeScore": "34",
             "status": "1:43 - 1st Half",
             "tv": "HBCU Go",
-            "winProb": 0.961,
+            "winProb": 0.954,
             "state": "in"
         },
         {
