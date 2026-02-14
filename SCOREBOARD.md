@@ -1,5 +1,5 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-02-14 19:48:18*
+*Updated: 2026-02-14 19:49:34*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
@@ -7,11 +7,11 @@
 | West Georgia Wolves @ Central Arkansas Bears | 35 - 44 | Halftime | ESPN+ |
 | Stetson Hatters @ Florida Gulf Coast Eagles | 44 - 44 | Halftime | ESPN+ |
 | Louisiana Tech Bulldogs @ Florida International Panthers | 31 - 33 | Halftime | ESPN+ |
-| Villanova Wildcats @ Creighton Bluejays | 7 - 4 | 13:42 - 1st Half | FOX |
+| Villanova Wildcats @ Creighton Bluejays | 9 - 7 | 12:30 - 1st Half | FOX |
 | SMU Mustangs @ Syracuse Orange | 37 - 27 | 3:52 - 1st Half | The CW Network |
-| #17 St. John's Red Storm @ Providence Friars | 52 - 43 | 12:09 - 2nd Half | TNT, truTV |
-| Texas A&M Aggies @ #19 Vanderbilt Commodores | 52 - 62 | 7:38 - 2nd Half | SEC Network |
-| #9 Kansas Jayhawks @ #5 Iowa State Cyclones | 51 - 68 | 6:05 - 2nd Half | ABC |
+| #17 St. John's Red Storm @ Providence Friars | 52 - 45 | 11:36 - 2nd Half | TNT, truTV |
+| Texas A&M Aggies @ #19 Vanderbilt Commodores | 54 - 64 | 7:13 - 2nd Half | SEC Network |
+| #9 Kansas Jayhawks @ #5 Iowa State Cyclones | 51 - 68 | 5:41 - 2nd Half | ABC |
 | #25 Kentucky Wildcats @ #14 Florida Gators | 0 - 0 | Sat, February 14th at 3:00 PM EST | ABC |
 | UL Monroe Warhawks @ Texas State Bobcats | 0 - 0 | Sat, February 14th at 3:00 PM EST | ESPN+ |
 | South Alabama Jaguars @ Arkansas State Red Wolves | 0 - 0 | Sat, February 14th at 3:00 PM EST | ESPN+ |

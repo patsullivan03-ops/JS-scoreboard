@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-02-14 19:48:18",
+    "lastUpdated": "2026-02-14 19:49:34",
     "games": [
         {
             "awayTeam": "Florida State Seminoles",
@@ -43,12 +43,12 @@
         },
         {
             "awayTeam": "Villanova Wildcats",
-            "awayScore": "7",
+            "awayScore": "9",
             "homeTeam": "Creighton Bluejays",
-            "homeScore": "4",
-            "status": "13:42 - 1st Half",
+            "homeScore": "7",
+            "status": "12:30 - 1st Half",
             "tv": "FOX",
-            "winProb": 0.301,
+            "winProb": 0.356,
             "state": "in"
         },
         {
@@ -65,20 +65,20 @@
             "awayTeam": "#17 St. John's Red Storm",
             "awayScore": "52",
             "homeTeam": "Providence Friars",
-            "homeScore": "43",
-            "status": "12:09 - 2nd Half",
+            "homeScore": "45",
+            "status": "11:36 - 2nd Half",
             "tv": "TNT, truTV",
-            "winProb": 0.111,
+            "winProb": 0.154,
             "state": "in"
         },
         {
             "awayTeam": "Texas A&M Aggies",
-            "awayScore": "52",
+            "awayScore": "54",
             "homeTeam": "#19 Vanderbilt Commodores",
-            "homeScore": "62",
-            "status": "7:38 - 2nd Half",
+            "homeScore": "64",
+            "status": "7:13 - 2nd Half",
             "tv": "SEC Network",
-            "winProb": 0.945,
+            "winProb": 0.949,
             "state": "in"
         },
         {
@@ -86,7 +86,7 @@
             "awayScore": "51",
             "homeTeam": "#5 Iowa State Cyclones",
             "homeScore": "68",
-            "status": "6:05 - 2nd Half",
+            "status": "5:41 - 2nd Half",
             "tv": "ABC",
             "winProb": 0.996,
             "state": "in"
