@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-02-14 19:54:24",
+    "lastUpdated": "2026-02-14 19:54:35",
     "games": [
         {
             "awayTeam": "Florida State Seminoles",
@@ -66,9 +66,9 @@
             "awayScore": "56",
             "homeTeam": "Providence Friars",
             "homeScore": "50",
-            "status": "10:14 - 2nd Half",
+            "status": "9:58 - 2nd Half",
             "tv": "TNT, truTV",
-            "winProb": 0.154,
+            "winProb": 0.175,
             "state": "in"
         },
         {
