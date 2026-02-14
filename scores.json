@@ -1,6 +1,26 @@
 {
-    "lastUpdated": "2026-02-14 20:11:36",
+    "lastUpdated": "2026-02-14 20:13:09",
     "games": [
+        {
+            "awayTeam": "Louisiana Tech Bulldogs",
+            "awayScore": "47",
+            "homeTeam": "Florida International Panthers",
+            "homeScore": "44",
+            "status": "14:44 - 2nd Half",
+            "tv": "ESPN+",
+            "winProb": 0.389,
+            "state": "in"
+        },
+        {
+            "awayTeam": "South Alabama Jaguars",
+            "awayScore": "11",
+            "homeTeam": "Arkansas State Red Wolves",
+            "homeScore": "6",
+            "status": "14:03 - 1st Half",
+            "tv": "ESPN+",
+            "winProb": 0.626,
+            "state": "in"
+        },
         {
             "awayTeam": "SMU Mustangs",
             "awayScore": "39",
@@ -8,37 +28,17 @@
             "homeScore": "35",
             "status": "Halftime",
             "tv": "The CW Network",
-            "winProb": 0.5,
-            "state": "in"
-        },
-        {
-            "awayTeam": "South Alabama Jaguars",
-            "awayScore": "11",
-            "homeTeam": "Arkansas State Red Wolves",
-            "homeScore": "3",
-            "status": "15:06 - 1st Half",
-            "tv": "ESPN+",
-            "winProb": 0.541,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Louisiana Tech Bulldogs",
-            "awayScore": "42",
-            "homeTeam": "Florida International Panthers",
-            "homeScore": "44",
-            "status": "15:31 - 2nd Half",
-            "tv": "ESPN+",
-            "winProb": 0.65,
+            "winProb": 0.3,
             "state": "in"
         },
         {
             "awayTeam": "Florida State Seminoles",
-            "awayScore": "42",
+            "awayScore": "44",
             "homeTeam": "Virginia Tech Hokies",
             "homeScore": "44",
-            "status": "18:21 - 2nd Half",
+            "status": "18:09 - 2nd Half",
             "tv": "ACC Network",
-            "winProb": 0.713,
+            "winProb": 0.734,
             "state": "in"
         },
         {
@@ -48,27 +48,37 @@
             "homeScore": "7",
             "status": "14:58 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.762,
+            "winProb": 0.761,
             "state": "in"
         },
         {
             "awayTeam": "#25 Kentucky Wildcats",
-            "awayScore": "0",
+            "awayScore": "2",
             "homeTeam": "#14 Florida Gators",
-            "homeScore": "3",
-            "status": "19:19 - 1st Half",
+            "homeScore": "5",
+            "status": "18:01 - 1st Half",
             "tv": "ABC",
-            "winProb": 0.837,
+            "winProb": 0.836,
+            "state": "in"
+        },
+        {
+            "awayTeam": "West Georgia Wolves",
+            "awayScore": "46",
+            "homeTeam": "Central Arkansas Bears",
+            "homeScore": "52",
+            "status": "13:34 - 2nd Half",
+            "tv": "ESPN+",
+            "winProb": 0.891,
             "state": "in"
         },
         {
             "awayTeam": "Stetson Hatters",
-            "awayScore": "54",
+            "awayScore": "53",
             "homeTeam": "Florida Gulf Coast Eagles",
-            "homeScore": "59",
-            "status": "14:47 - 2nd Half",
+            "homeScore": "61",
+            "status": "13:41 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.887,
+            "winProb": 0.915,
             "state": "in"
         },
         {
@@ -76,29 +86,19 @@
             "awayScore": "32",
             "homeTeam": "Creighton Bluejays",
             "homeScore": "17",
-            "status": "3:28 - 1st Half",
+            "status": "3:09 - 1st Half",
             "tv": "FOX",
-            "winProb": 0.072,
-            "state": "in"
-        },
-        {
-            "awayTeam": "West Georgia Wolves",
-            "awayScore": "42",
-            "homeTeam": "Central Arkansas Bears",
-            "homeScore": "52",
-            "status": "14:49 - 2nd Half",
-            "tv": "ESPN+",
-            "winProb": 0.949,
+            "winProb": 0.073,
             "state": "in"
         },
         {
             "awayTeam": "UL Monroe Warhawks",
-            "awayScore": "6",
+            "awayScore": "8",
             "homeTeam": "Texas State Bobcats",
-            "homeScore": "12",
-            "status": "15:22 - 1st Half",
+            "homeScore": "15",
+            "status": "14:04 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.954,
+            "winProb": 0.963,
             "state": "in"
         },
         {
@@ -108,15 +108,15 @@
             "homeScore": "58",
             "status": "5:00 - 2nd Half",
             "tv": "TNT, truTV",
-            "winProb": 0.024,
+            "winProb": 0.027,
             "state": "in"
         },
         {
             "awayTeam": "Texas A&M Aggies",
-            "awayScore": "66",
+            "awayScore": "69",
             "homeTeam": "#19 Vanderbilt Commodores",
-            "homeScore": "81",
-            "status": "0:39 - 2nd Half",
+            "homeScore": "82",
+            "status": "0:05 - 2nd Half",
             "tv": "SEC Network",
             "winProb": 0.999,
             "state": "in"
