@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-02-14 21:11:17",
+    "lastUpdated": "2026-02-14 21:12:33",
     "games": [
         {
             "awayTeam": "#25 Kentucky Wildcats",
@@ -12,33 +12,33 @@
             "state": "in"
         },
         {
-            "awayTeam": "Delaware Blue Hens",
-            "awayScore": "42",
-            "homeTeam": "Missouri State Bears",
-            "homeScore": "35",
-            "status": "15:40 - 2nd Half",
-            "tv": "ESPN+",
-            "winProb": 0.424,
+            "awayTeam": "Georgia Bulldogs",
+            "awayScore": "38",
+            "homeTeam": "Oklahoma Sooners",
+            "homeScore": "37",
+            "status": "3:50 - 1st Half",
+            "tv": "SEC Network",
+            "winProb": 0.519,
             "state": "in"
         },
         {
-            "awayTeam": "Georgia Bulldogs",
-            "awayScore": "36",
-            "homeTeam": "Oklahoma Sooners",
-            "homeScore": "37",
-            "status": "4:03 - 1st Half",
-            "tv": "SEC Network",
-            "winProb": 0.587,
+            "awayTeam": "Delaware Blue Hens",
+            "awayScore": "42",
+            "homeTeam": "Missouri State Bears",
+            "homeScore": "36",
+            "status": "15:40 - 2nd Half",
+            "tv": "ESPN+",
+            "winProb": 0.463,
             "state": "in"
         },
         {
             "awayTeam": "Miami Hurricanes",
             "awayScore": "8",
             "homeTeam": "NC State Wolfpack",
-            "homeScore": "7",
-            "status": "16:15 - 1st Half",
+            "homeScore": "9",
+            "status": "15:52 - 1st Half",
             "tv": "ESPN2",
-            "winProb": 0.721,
+            "winProb": 0.717,
             "state": "in"
         },
         {
@@ -66,9 +66,19 @@
             "awayScore": "20",
             "homeTeam": "Old Dominion Monarchs",
             "homeScore": "24",
-            "status": "7:18 - 1st Half",
+            "status": "6:51 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.796,
+            "winProb": 0.776,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Florida A&M Rattlers",
+            "awayScore": "15",
+            "homeTeam": "Jackson State Tigers",
+            "homeScore": "24",
+            "status": "4:29 - 1st Half",
+            "tv": "HBCU Go",
+            "winProb": 0.808,
             "state": "in"
         },
         {
@@ -78,17 +88,7 @@
             "homeScore": "55",
             "status": "15:44 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.81,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Florida A&M Rattlers",
-            "awayScore": "13",
-            "homeTeam": "Jackson State Tigers",
-            "homeScore": "24",
-            "status": "5:28 - 1st Half",
-            "tv": "HBCU Go",
-            "winProb": 0.831,
+            "winProb": 0.835,
             "state": "in"
         },
         {
@@ -118,7 +118,7 @@
             "homeScore": "2",
             "status": "15:32 - 1st Half",
             "tv": "Peacock",
-            "winProb": 0.936,
+            "winProb": 0.933,
             "state": "in"
         },
         {
@@ -129,16 +129,6 @@
             "status": "7:31 - 2nd Half",
             "tv": "FOX",
             "winProb": 0.047,
-            "state": "in"
-        },
-        {
-            "awayTeam": "SMU Mustangs",
-            "awayScore": "78",
-            "homeTeam": "Syracuse Orange",
-            "homeScore": "79",
-            "status": "End of 2nd Half",
-            "tv": "The CW Network",
-            "winProb": 1.0,
             "state": "in"
         },
         {
@@ -368,6 +358,16 @@
             "homeScore": "69",
             "status": "Final",
             "tv": "ACC Network",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "awayTeam": "SMU Mustangs",
+            "awayScore": "78",
+            "homeTeam": "Syracuse Orange",
+            "homeScore": "79",
+            "status": "Final",
+            "tv": "The CW Network",
             "winProb": 0.5,
             "state": "post"
         },
