@@ -1,135 +1,85 @@
 {
-    "lastUpdated": "2026-02-19 00:32:33",
+    "lastUpdated": "2026-02-19 02:27:54",
     "games": [
         {
-            "awayTeam": "Butler Bulldogs",
-            "awayScore": "54",
-            "homeTeam": "Georgetown Hoyas",
-            "homeScore": "45",
-            "status": "Halftime",
-            "tv": "FS1",
-            "winProb": 0.5,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Dayton Flyers",
-            "awayScore": "20",
-            "homeTeam": "George Mason Patriots",
-            "homeScore": "18",
-            "status": "8:47 - 1st Half",
-            "tv": "CBSSN",
-            "winProb": 0.485,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Queens University Royals",
-            "awayScore": "16",
-            "homeTeam": "North Alabama Lions",
-            "homeScore": "21",
-            "status": "7:35 - 1st Half",
-            "tv": "ESPN+",
-            "winProb": 0.483,
-            "state": "in"
-        },
-        {
             "awayTeam": "#20 Arkansas Razorbacks",
-            "awayScore": "39",
+            "awayScore": "105",
             "homeTeam": "#25 Alabama Crimson Tide",
-            "homeScore": "31",
-            "status": "6:40 - 1st Half",
-            "tv": "ESPN",
-            "winProb": 0.382,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Clemson Tigers",
-            "awayScore": "17",
-            "homeTeam": "Wake Forest Demon Deacons",
-            "homeScore": "31",
-            "status": "6:32 - 1st Half",
-            "tv": "ACC Network",
-            "winProb": 0.83,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Southern Illinois Salukis",
-            "awayScore": "0",
-            "homeTeam": "Drake Bulldogs",
-            "homeScore": "0",
-            "status": "Wed, February 18th at 7:30 PM EST",
-            "tv": "ESPN+",
-            "winProb": 0.5,
-            "state": "pre"
-        },
-        {
-            "awayTeam": "Kennesaw State Owls",
-            "awayScore": "0",
-            "homeTeam": "Missouri State Bears",
-            "homeScore": "0",
-            "status": "Wed, February 18th at 8:00 PM EST",
-            "tv": "ESPN+",
-            "winProb": 0.5,
-            "state": "pre"
-        },
-        {
-            "awayTeam": "#23 BYU Cougars",
-            "awayScore": "0",
-            "homeTeam": "#4 Arizona Wildcats",
-            "homeScore": "0",
-            "status": "Wed, February 18th at 9:00 PM EST",
+            "homeScore": "105",
+            "status": "End of OT",
             "tv": "ESPN",
             "winProb": 0.5,
-            "state": "pre"
-        },
-        {
-            "awayTeam": "#8 Kansas Jayhawks",
-            "awayScore": "0",
-            "homeTeam": "Oklahoma State Cowboys",
-            "homeScore": "0",
-            "status": "Wed, February 18th at 9:00 PM EST",
-            "tv": "Peacock, NBCSN",
-            "winProb": 0.5,
-            "state": "pre"
-        },
-        {
-            "awayTeam": "#17 St. John's Red Storm",
-            "awayScore": "0",
-            "homeTeam": "Marquette Golden Eagles",
-            "homeScore": "0",
-            "status": "Wed, February 18th at 9:00 PM EST",
-            "tv": "TNT",
-            "winProb": 0.5,
-            "state": "pre"
+            "state": "in"
         },
         {
             "awayTeam": "#19 Vanderbilt Commodores",
-            "awayScore": "0",
+            "awayScore": "11",
             "homeTeam": "Missouri Tigers",
-            "homeScore": "0",
-            "status": "Wed, February 18th at 9:00 PM EST",
+            "homeScore": "11",
+            "status": "12:21 - 1st Half",
             "tv": "SEC Network",
-            "winProb": 0.5,
-            "state": "pre"
+            "winProb": 0.377,
+            "state": "in"
         },
         {
             "awayTeam": "Murray State Racers",
-            "awayScore": "0",
+            "awayScore": "21",
             "homeTeam": "Illinois State Redbirds",
-            "homeScore": "0",
-            "status": "Wed, February 18th at 9:00 PM EST",
+            "homeScore": "22",
+            "status": "8:37 - 1st Half",
             "tv": "ESPNU",
-            "winProb": 0.5,
-            "state": "pre"
+            "winProb": 0.691,
+            "state": "in"
         },
         {
             "awayTeam": "Auburn Tigers",
-            "awayScore": "0",
+            "awayScore": "10",
             "homeTeam": "Mississippi State Bulldogs",
-            "homeScore": "0",
-            "status": "Wed, February 18th at 9:00 PM EST",
+            "homeScore": "21",
+            "status": "10:11 - 1st Half",
             "tv": "ESPN2",
-            "winProb": 0.5,
-            "state": "pre"
+            "winProb": 0.713,
+            "state": "in"
+        },
+        {
+            "awayTeam": "#17 St. John's Red Storm",
+            "awayScore": "13",
+            "homeTeam": "Marquette Golden Eagles",
+            "homeScore": "11",
+            "status": "12:38 - 1st Half",
+            "tv": "TNT",
+            "winProb": 0.202,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Kennesaw State Owls",
+            "awayScore": "53",
+            "homeTeam": "Missouri State Bears",
+            "homeScore": "45",
+            "status": "15:57 - 2nd Half",
+            "tv": "ESPN+",
+            "winProb": 0.185,
+            "state": "in"
+        },
+        {
+            "awayTeam": "#23 BYU Cougars",
+            "awayScore": "14",
+            "homeTeam": "#4 Arizona Wildcats",
+            "homeScore": "18",
+            "status": "9:28 - 1st Half",
+            "tv": "ESPNEWS",
+            "winProb": 0.856,
+            "state": "in"
+        },
+        {
+            "awayTeam": "#8 Kansas Jayhawks",
+            "awayScore": "28",
+            "homeTeam": "Oklahoma State Cowboys",
+            "homeScore": "14",
+            "status": "8:37 - 1st Half",
+            "tv": "Peacock, NBCSN",
+            "winProb": 0.05,
+            "state": "in"
         },
         {
             "awayTeam": "#10 Illinois Fighting Illini",
@@ -150,6 +100,56 @@
             "tv": "CBSSN",
             "winProb": 0.5,
             "state": "pre"
+        },
+        {
+            "awayTeam": "Southern Illinois Salukis",
+            "awayScore": "66",
+            "homeTeam": "Drake Bulldogs",
+            "homeScore": "61",
+            "status": "Final",
+            "tv": "ESPN+",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "awayTeam": "Butler Bulldogs",
+            "awayScore": "93",
+            "homeTeam": "Georgetown Hoyas",
+            "homeScore": "89",
+            "status": "Final",
+            "tv": "FS1",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "awayTeam": "Dayton Flyers",
+            "awayScore": "82",
+            "homeTeam": "George Mason Patriots",
+            "homeScore": "67",
+            "status": "Final",
+            "tv": "CBSSN",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "awayTeam": "Clemson Tigers",
+            "awayScore": "77",
+            "homeTeam": "Wake Forest Demon Deacons",
+            "homeScore": "85",
+            "status": "Final",
+            "tv": "ACC Network",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "awayTeam": "Queens University Royals",
+            "awayScore": "85",
+            "homeTeam": "North Alabama Lions",
+            "homeScore": "78",
+            "status": "Final",
+            "tv": "ESPN+",
+            "winProb": 0.5,
+            "state": "post"
         }
     ]
 }
