@@ -1,19 +1,19 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-02-28 22:04:13*
+*Updated: 2026-02-28 22:09:18*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
 | #14 Kansas Jayhawks @ #2 Arizona Wildcats | 28 - 39 | Halftime | ESPN |
 | #16 Texas Tech Red Raiders @ #4 Iowa State Cyclones | 45 - 29 | Halftime | CBS |
 | #12 Nebraska Cornhuskers @ USC Trojans | 31 - 36 | Halftime | BTN |
-| Lipscomb Bisons @ Eastern Kentucky Colonels | 42 - 41 | Halftime | ESPN+ |
-| Texas Longhorns @ Texas A&M Aggies | 29 - 30 | 0:14 - 1st Half | ESPN2 |
-| East Tennessee State Buccaneers @ Mercer Bears | 21 - 30 | 7:57 - 1st Half | ESPN+ |
-| Florida International Panthers @ Louisiana Tech Bulldogs | 72 - 66 | 3:51 - 2nd Half | ESPN+ |
-| Utah Utes @ Arizona State Sun Devils | 47 - 57 | 8:17 - 2nd Half | TNT, truTV |
-| Northern Arizona Lumberjacks @ Eastern Washington Eagles | 25 - 46 | 19:33 - 2nd Half | ESPN+ |
+| Texas Longhorns @ Texas A&M Aggies | 29 - 30 | Halftime | ESPN2 |
+| Lipscomb Bisons @ Eastern Kentucky Colonels | 44 - 44 | 18:08 - 2nd Half | ESPN+ |
+| Tennessee Tech Golden Eagles @ Southeast Missouri State Redhawks | 3 - 2 | 18:54 - 1st Half | ESPN+ |
+| East Tennessee State Buccaneers @ Mercer Bears | 29 - 38 | 4:36 - 1st Half | ESPN+ |
+| Utah Utes @ Arizona State Sun Devils | 53 - 59 | 7:03 - 2nd Half | TNT, truTV |
+| Florida International Panthers @ Louisiana Tech Bulldogs | 74 - 67 | 2:37 - 2nd Half | ESPN+ |
+| Northern Arizona Lumberjacks @ Eastern Washington Eagles | 30 - 46 | 18:01 - 2nd Half | ESPN+ |
 | North Carolina Central Eagles @ Delaware State Hornets | 0 - 0 | Sat, February 28th at 4:30 PM EST | ESPN+ |
-| Tennessee Tech Golden Eagles @ Southeast Missouri State Redhawks | 0 - 0 | Sat, February 28th at 5:00 PM EST | ESPN+ |
 | Jackson State Tigers @ Texas Southern Tigers | 0 - 0 | Sat, February 28th at 5:00 PM EST | N/A |
 | Alabama State Hornets @ Alabama A&M Bulldogs | 0 - 0 | Sat, February 28th at 5:00 PM EST | N/A |
 | Florida A&M Rattlers @ Grambling Tigers | 0 - 0 | Sat, February 28th at 5:00 PM EST | N/A |
@@ -33,7 +33,6 @@
 | #20 Arkansas Razorbacks @ #7 Florida Gators | 0 - 0 | Sat, February 28th at 8:30 PM EST | ESPN |
 | Virginia Tech Hokies @ #18 North Carolina Tar Heels | 0 - 0 | Sat, February 28th at 8:30 PM EST | ESPN2 |
 | #9 Gonzaga Bulldogs @ Saint Mary's Gaels | 0 - 0 | Sat, February 28th at 10:30 PM EST | ESPN |
-| UTEP Miners @ Western Kentucky Hilltoppers | 65 - 97 | Final | ESPN+ |
 | #11 Virginia Cavaliers @ #1 Duke Blue Devils | 51 - 77 | Final | ESPN |
 | #24 Louisville Cardinals @ Clemson Tigers | 75 - 80 | Final | ESPN2 |
 | #25 Vanderbilt Commodores @ Kentucky Wildcats | 77 - 91 | Final | ESPN |
@@ -47,3 +46,4 @@
 | North Alabama Lions @ West Georgia Wolves | 63 - 75 | Final | ESPN+ |
 | Florida Gulf Coast Eagles @ Stetson Hatters | 63 - 78 | Final | ESPN+ |
 | Tennessee State Tigers @ UT Martin Skyhawks | 67 - 42 | Final | ESPNU |
+| UTEP Miners @ Western Kentucky Hilltoppers | 65 - 97 | Final | ESPN+ |
