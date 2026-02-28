@@ -1,20 +1,20 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-02-28 21:48:59*
+*Updated: 2026-02-28 21:54:04*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
 | Northern Arizona Lumberjacks @ Eastern Washington Eagles | 25 - 45 | Halftime | ESPN+ |
-| #12 Nebraska Cornhuskers @ USC Trojans | 25 - 30 | 3:05 - 1st Half | BTN |
-| Texas Longhorns @ Texas A&M Aggies | 20 - 18 | 7:40 - 1st Half | ESPN2 |
-| Lipscomb Bisons @ Eastern Kentucky Colonels | 42 - 41 | 0:03 - 1st Half | ESPN+ |
-| Florida International Panthers @ Louisiana Tech Bulldogs | 57 - 59 | 9:19 - 2nd Half | ESPN+ |
-| East Tennessee State Buccaneers @ Mercer Bears | 4 - 11 | 15:31 - 1st Half | ESPN+ |
-| Utah Utes @ Arizona State Sun Devils | 39 - 43 | 13:30 - 2nd Half | TNT, truTV |
-| #16 Texas Tech Red Raiders @ #4 Iowa State Cyclones | 35 - 18 | 5:29 - 1st Half | CBS |
-| #14 Kansas Jayhawks @ #2 Arizona Wildcats | 19 - 37 | 3:50 - 1st Half | ESPN |
-| UTEP Miners @ Western Kentucky Hilltoppers | 63 - 83 | 4:27 - 2nd Half | ESPN+ |
+| Lipscomb Bisons @ Eastern Kentucky Colonels | 42 - 41 | Halftime | ESPN+ |
+| Florida International Panthers @ Louisiana Tech Bulldogs | 60 - 59 | 7:57 - 2nd Half | ESPN+ |
+| #12 Nebraska Cornhuskers @ USC Trojans | 29 - 32 | 2:40 - 1st Half | BTN |
+| #16 Texas Tech Red Raiders @ #4 Iowa State Cyclones | 35 - 23 | 3:43 - 1st Half | CBS |
+| Texas Longhorns @ Texas A&M Aggies | 22 - 26 | 4:41 - 1st Half | ESPN2 |
+| East Tennessee State Buccaneers @ Mercer Bears | 11 - 20 | 12:12 - 1st Half | ESPN+ |
+| Utah Utes @ Arizona State Sun Devils | 42 - 51 | 11:44 - 2nd Half | TNT, truTV |
+| #14 Kansas Jayhawks @ #2 Arizona Wildcats | 25 - 39 | 1:13 - 1st Half | ESPN |
+| UTEP Miners @ Western Kentucky Hilltoppers | 63 - 89 | 2:54 - 2nd Half | ESPN+ |
 | North Carolina Central Eagles @ Delaware State Hornets | 0 - 0 | Sat, February 28th at 4:30 PM EST | ESPN+ |
-| Tennessee Tech Golden Eagles @ Southeast Missouri State Redhawks | 0 - 0 | Sat, February 28th at 4:45 PM EST | ESPN+ |
+| Tennessee Tech Golden Eagles @ Southeast Missouri State Redhawks | 0 - 0 | Sat, February 28th at 5:00 PM EST | ESPN+ |
 | Jackson State Tigers @ Texas Southern Tigers | 0 - 0 | Sat, February 28th at 5:00 PM EST | N/A |
 | Alabama State Hornets @ Alabama A&M Bulldogs | 0 - 0 | Sat, February 28th at 5:00 PM EST | N/A |
 | Florida A&M Rattlers @ Grambling Tigers | 0 - 0 | Sat, February 28th at 5:00 PM EST | N/A |
