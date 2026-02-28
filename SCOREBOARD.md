@@ -1,21 +1,21 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-02-28 23:52:26*
+*Updated: 2026-02-28 23:57:31*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
 | Jackson State Tigers @ Texas Southern Tigers | 30 - 37 | Halftime | N/A |
 | SMU Mustangs @ Stanford Cardinal | 27 - 34 | Halftime | ACC Network |
-| Providence Friars @ Creighton Bluejays | 53 - 50 | 13:20 - 2nd Half | TNT, truTV |
-| TCU Horned Frogs @ Kansas State Wildcats | 14 - 17 | 11:28 - 1st Half | ESPN2 |
-| East Texas A&M Lions @ UT Rio Grande Valley Vaqueros | 48 - 46 | 9:51 - 2nd Half | ESPN+ |
-| Alabama State Hornets @ Alabama A&M Bulldogs | 39 - 42 | 2:51 - 1st Half | N/A |
-| #19 BYU Cougars @ West Virginia Mountaineers | 33 - 43 | 17:35 - 2nd Half | FOX |
-| #17 Alabama Crimson Tide @ #22 Tennessee Volunteers | 22 - 28 | 3:20 - 1st Half | ESPN |
-| Northwestern State Demons @ Texas A&M-Corpus Christi Islanders | 9 - 11 | 12:14 - 1st Half | ESPN+ |
-| Tennessee Tech Golden Eagles @ Southeast Missouri State Redhawks | 67 - 71 | 4:44 - 2nd Half | ESPN+ |
-| Mississippi Valley State Delta Devils @ Arkansas-Pine Bluff Golden Lions | 6 - 6 | 16:32 - 1st Half | N/A |
-| Missouri State Bears @ Sam Houston Bearkats | 43 - 60 | 13:57 - 2nd Half | ESPN+ |
-| North Carolina Central Eagles @ Delaware State Hornets | 66 - 51 | 3:21 - 2nd Half | ESPN+ |
+| TCU Horned Frogs @ Kansas State Wildcats | 20 - 23 | 8:17 - 1st Half | ESPN2 |
+| Providence Friars @ Creighton Bluejays | 55 - 56 | 11:42 - 2nd Half | TNT, truTV |
+| Alabama State Hornets @ Alabama A&M Bulldogs | 50 - 44 | 0:01 - 1st Half | N/A |
+| East Texas A&M Lions @ UT Rio Grande Valley Vaqueros | 50 - 50 | 6:56 - 2nd Half | ESPN+ |
+| #19 BYU Cougars @ West Virginia Mountaineers | 36 - 45 | 14:56 - 2nd Half | FOX |
+| Northwestern State Demons @ Texas A&M-Corpus Christi Islanders | 11 - 11 | 10:42 - 1st Half | ESPN+ |
+| #17 Alabama Crimson Tide @ #22 Tennessee Volunteers | 26 - 38 | 0:10 - 1st Half | ESPN |
+| Mississippi Valley State Delta Devils @ Arkansas-Pine Bluff Golden Lions | 8 - 10 | 13:53 - 1st Half | N/A |
+| Missouri State Bears @ Sam Houston Bearkats | 50 - 63 | 11:58 - 2nd Half | ESPN+ |
+| Tennessee Tech Golden Eagles @ Southeast Missouri State Redhawks | 69 - 81 | 2:57 - 2nd Half | ESPN+ |
+| North Carolina Central Eagles @ Delaware State Hornets | 66 - 56 | 1:28 - 2nd Half | ESPN+ |
 | Wright State Raiders @ Northern Kentucky Norse | 0 - 0 | Sat, February 28th at 7:00 PM EST | ESPN+ |
 | Villanova Wildcats @ #15 St. John's Red Storm | 0 - 0 | Sat, February 28th at 8:00 PM EST | FOX |
 | Baylor Bears @ UCF Knights | 0 - 0 | Sat, February 28th at 8:00 PM EST | FS1 |
