@@ -1,27 +1,26 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-02-28 20:22:41*
+*Updated: 2026-02-28 20:27:46*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| UCLA Bruins @ Minnesota Golden Gophers | 55 - 57 | 11:36 - 2nd Half | FS1 |
-| San Diego State Aztecs @ New Mexico Lobos | 46 - 45 | 15:42 - 2nd Half | CBS |
-| Florida International Panthers @ Louisiana Tech Bulldogs | 20 - 10 | 12:53 - 1st Half | ESPN+ |
-| Florida Gulf Coast Eagles @ Stetson Hatters | 45 - 52 | 11:58 - 2nd Half | ESPN+ |
-| William & Mary Tribe @ North Carolina A&T Aggies | 65 - 61 | 12:10 - 2nd Half | FloSports |
-| #24 Louisville Cardinals @ Clemson Tigers | 39 - 48 | 15:55 - 2nd Half | ESPN2 |
-| North Alabama Lions @ West Georgia Wolves | 42 - 51 | 11:53 - 2nd Half | ESPN+ |
-| Queens University Royals @ Central Arkansas Bears | 41 - 51 | 11:35 - 2nd Half | ESPN+ |
-| UTEP Miners @ Western Kentucky Hilltoppers | 18 - 28 | 11:10 - 1st Half | ESPN+ |
-| Tennessee State Tigers @ UT Martin Skyhawks | 42 - 24 | 16:16 - 2nd Half | ESPNU |
-| #25 Vanderbilt Commodores @ Kentucky Wildcats | 41 - 58 | 14:33 - 2nd Half | ESPN |
-| Oklahoma State Cowboys @ Cincinnati Bearcats | 37 - 62 | 15:00 - 2nd Half | CBSSN |
-| New Mexico State Aggies @ Middle Tennessee Blue Raiders | 85 - 86 | End of OT | ESPN+ |
+| UCLA Bruins @ Minnesota Golden Gophers | 55 - 57 | 11:09 - 2nd Half | FS1 |
+| Florida International Panthers @ Louisiana Tech Bulldogs | 22 - 16 | 11:59 - 1st Half | ESPN+ |
+| San Diego State Aztecs @ New Mexico Lobos | 47 - 48 | 15:07 - 2nd Half | CBS |
+| Florida Gulf Coast Eagles @ Stetson Hatters | 50 - 55 | 10:01 - 2nd Half | ESPN+ |
+| William & Mary Tribe @ North Carolina A&T Aggies | 65 - 66 | 11:11 - 2nd Half | FloSports |
+| #24 Louisville Cardinals @ Clemson Tigers | 42 - 48 | 15:40 - 2nd Half | ESPN2 |
+| Queens University Royals @ Central Arkansas Bears | 43 - 53 | 9:51 - 2nd Half | ESPN+ |
+| UTEP Miners @ Western Kentucky Hilltoppers | 22 - 30 | 9:31 - 1st Half | ESPN+ |
+| North Alabama Lions @ West Georgia Wolves | 44 - 53 | 9:51 - 2nd Half | ESPN+ |
+| Tennessee State Tigers @ UT Martin Skyhawks | 42 - 24 | 14:46 - 2nd Half | ESPNU |
+| #25 Vanderbilt Commodores @ Kentucky Wildcats | 44 - 59 | 13:19 - 2nd Half | ESPN |
+| Oklahoma State Cowboys @ Cincinnati Bearcats | 40 - 70 | 12:18 - 2nd Half | CBSSN |
 | Utah Utes @ Arizona State Sun Devils | 0 - 0 | Sat, February 28th at 3:30 PM EST | TNT, truTV |
 | #14 Kansas Jayhawks @ #2 Arizona Wildcats | 0 - 0 | Sat, February 28th at 4:00 PM EST | ESPN |
 | #16 Texas Tech Red Raiders @ #4 Iowa State Cyclones | 0 - 0 | Sat, February 28th at 4:00 PM EST | CBS |
 | #12 Nebraska Cornhuskers @ USC Trojans | 0 - 0 | Sat, February 28th at 4:00 PM EST | BTN |
 | Northern Arizona Lumberjacks @ Eastern Washington Eagles | 0 - 0 | Sat, February 28th at 4:00 PM EST | ESPN+ |
-| Texas Longhorns @ Texas A&M Aggies | 0 - 0 | Sat, February 28th at 4:00 PM EST | ESPN2 |
+| Texas Longhorns @ Texas A&M Aggies | 0 - 0 | Sat, February 28th at 4:10 PM EST | ESPN2 |
 | Lipscomb Bisons @ Eastern Kentucky Colonels | 0 - 0 | Sat, February 28th at 4:00 PM EST | ESPN+ |
 | North Carolina Central Eagles @ Delaware State Hornets | 0 - 0 | Sat, February 28th at 4:30 PM EST | ESPN+ |
 | East Tennessee State Buccaneers @ Mercer Bears | 0 - 0 | Sat, February 28th at 4:30 PM EST | ESPN+ |
@@ -45,5 +44,6 @@
 | #20 Arkansas Razorbacks @ #7 Florida Gators | 0 - 0 | Sat, February 28th at 8:30 PM EST | ESPN |
 | Virginia Tech Hokies @ #18 North Carolina Tar Heels | 0 - 0 | Sat, February 28th at 8:30 PM EST | ESPN2 |
 | #9 Gonzaga Bulldogs @ Saint Mary's Gaels | 0 - 0 | Sat, February 28th at 10:30 PM EST | ESPN |
+| New Mexico State Aggies @ Middle Tennessee Blue Raiders | 85 - 86 | Final/OT | ESPN+ |
 | #11 Virginia Cavaliers @ #1 Duke Blue Devils | 51 - 77 | Final | ESPN |
 | Missouri Tigers @ Mississippi State Bulldogs | 88 - 64 | Final | SEC Network |
