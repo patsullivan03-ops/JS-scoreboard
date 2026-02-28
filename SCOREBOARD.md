@@ -1,20 +1,49 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-02-19 02:33:09*
+*Updated: 2026-02-28 16:40:03*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #20 Arkansas Razorbacks @ #25 Alabama Crimson Tide | 108 - 107 | 3:18 - 2OT | ESPN |
-| #19 Vanderbilt Commodores @ Missouri Tigers | 15 - 16 | 10:23 - 1st Half | SEC Network |
-| Auburn Tigers @ Mississippi State Bulldogs | 20 - 29 | 7:48 - 1st Half | ESPN2 |
-| Murray State Racers @ Illinois State Redbirds | 23 - 26 | 6:57 - 1st Half | ESPNU |
-| #23 BYU Cougars @ #4 Arizona Wildcats | 23 - 23 | 6:43 - 1st Half | ESPNEWS |
-| Kennesaw State Owls @ Missouri State Bears | 56 - 49 | 15:10 - 2nd Half | ESPN+ |
-| #17 St. John's Red Storm @ Marquette Golden Eagles | 15 - 11 | 11:14 - 1st Half | TNT |
-| #8 Kansas Jayhawks @ Oklahoma State Cowboys | 33 - 16 | 7:06 - 1st Half | Peacock, NBCSN |
-| #10 Illinois Fighting Illini @ USC Trojans | 0 - 0 | Wed, February 18th at 10:00 PM EST | BTN |
-| Colorado State Rams @ UNLV Rebels | 0 - 0 | Wed, February 18th at 11:00 PM EST | CBSSN |
-| Butler Bulldogs @ Georgetown Hoyas | 93 - 89 | Final | FS1 |
-| Dayton Flyers @ George Mason Patriots | 82 - 67 | Final | CBSSN |
-| Clemson Tigers @ Wake Forest Demon Deacons | 77 - 85 | Final | ACC Network |
-| Queens University Royals @ North Alabama Lions | 85 - 78 | Final | ESPN+ |
-| Southern Illinois Salukis @ Drake Bulldogs | 66 - 61 | Final | ESPN+ |
+| #11 Virginia Cavaliers @ #1 Duke Blue Devils | 0 - 0 | Sat, February 28th at 12:00 PM EST | ESPN |
+| Missouri Tigers @ Mississippi State Bulldogs | 0 - 0 | Sat, February 28th at 1:00 PM EST | SEC Network |
+| New Mexico State Aggies @ Middle Tennessee Blue Raiders | 0 - 0 | Sat, February 28th at 1:00 PM EST | ESPN+ |
+| #24 Louisville Cardinals @ Clemson Tigers | 0 - 0 | Sat, February 28th at 2:00 PM EST | ESPN2 |
+| #25 Vanderbilt Commodores @ Kentucky Wildcats | 0 - 0 | Sat, February 28th at 2:00 PM EST | ESPN |
+| Oklahoma State Cowboys @ Cincinnati Bearcats | 0 - 0 | Sat, February 28th at 2:00 PM EST | CBSSN |
+| UCLA Bruins @ Minnesota Golden Gophers | 0 - 0 | Sat, February 28th at 2:00 PM EST | FS1 |
+| San Diego State Aztecs @ New Mexico Lobos | 0 - 0 | Sat, February 28th at 2:00 PM EST | CBS |
+| William & Mary Tribe @ North Carolina A&T Aggies | 0 - 0 | Sat, February 28th at 2:00 PM EST | FloSports |
+| Queens University Royals @ Central Arkansas Bears | 0 - 0 | Sat, February 28th at 2:00 PM EST | ESPN+ |
+| North Alabama Lions @ West Georgia Wolves | 0 - 0 | Sat, February 28th at 2:00 PM EST | ESPN+ |
+| Florida Gulf Coast Eagles @ Stetson Hatters | 0 - 0 | Sat, February 28th at 2:00 PM EST | ESPN+ |
+| Tennessee State Tigers @ UT Martin Skyhawks | 0 - 0 | Sat, February 28th at 2:00 PM EST | ESPNU |
+| Florida International Panthers @ Louisiana Tech Bulldogs | 0 - 0 | Sat, February 28th at 3:00 PM EST | ESPN+ |
+| UTEP Miners @ Western Kentucky Hilltoppers | 0 - 0 | Sat, February 28th at 3:00 PM EST | ESPN+ |
+| Utah Utes @ Arizona State Sun Devils | 0 - 0 | Sat, February 28th at 3:30 PM EST | TNT, truTV |
+| #14 Kansas Jayhawks @ #2 Arizona Wildcats | 0 - 0 | Sat, February 28th at 4:00 PM EST | ESPN |
+| #16 Texas Tech Red Raiders @ #4 Iowa State Cyclones | 0 - 0 | Sat, February 28th at 4:00 PM EST | CBS |
+| #12 Nebraska Cornhuskers @ USC Trojans | 0 - 0 | Sat, February 28th at 4:00 PM EST | BTN |
+| Northern Arizona Lumberjacks @ Eastern Washington Eagles | 0 - 0 | Sat, February 28th at 4:00 PM EST | ESPN+ |
+| Texas Longhorns @ Texas A&M Aggies | 0 - 0 | Sat, February 28th at 4:00 PM EST | ESPN2 |
+| Lipscomb Bisons @ Eastern Kentucky Colonels | 0 - 0 | Sat, February 28th at 4:00 PM EST | ESPN+ |
+| North Carolina Central Eagles @ Delaware State Hornets | 0 - 0 | Sat, February 28th at 4:30 PM EST | ESPN+ |
+| East Tennessee State Buccaneers @ Mercer Bears | 0 - 0 | Sat, February 28th at 4:30 PM EST | ESPN+ |
+| Tennessee Tech Golden Eagles @ Southeast Missouri State Redhawks | 0 - 0 | Sat, February 28th at 4:45 PM EST | ESPN+ |
+| Jackson State Tigers @ Texas Southern Tigers | 0 - 0 | Sat, February 28th at 5:00 PM EST | N/A |
+| Alabama State Hornets @ Alabama A&M Bulldogs | 0 - 0 | Sat, February 28th at 5:00 PM EST | N/A |
+| Florida A&M Rattlers @ Grambling Tigers | 0 - 0 | Sat, February 28th at 5:00 PM EST | N/A |
+| #19 BYU Cougars @ West Virginia Mountaineers | 0 - 0 | Sat, February 28th at 5:30 PM EST | FOX |
+| Providence Friars @ Creighton Bluejays | 0 - 0 | Sat, February 28th at 5:30 PM EST | TNT, truTV |
+| East Texas A&M Lions @ UT Rio Grande Valley Vaqueros | 0 - 0 | Sat, February 28th at 5:30 PM EST | ESPN+ |
+| Missouri State Bears @ Sam Houston Bearkats | 0 - 0 | Sat, February 28th at 5:30 PM EST | ESPN+ |
+| #17 Alabama Crimson Tide @ #22 Tennessee Volunteers | 0 - 0 | Sat, February 28th at 6:00 PM EST | ESPN |
+| SMU Mustangs @ Stanford Cardinal | 0 - 0 | Sat, February 28th at 6:00 PM EST | ACC Network |
+| Jacksonville Dolphins @ North Florida Ospreys | 0 - 0 | Sat, February 28th at 6:00 PM EST | ESPN+ |
+| TCU Horned Frogs @ Kansas State Wildcats | 0 - 0 | Sat, February 28th at 6:30 PM EST | ESPN2 |
+| Northwestern State Demons @ Texas A&M-Corpus Christi Islanders | 0 - 0 | Sat, February 28th at 6:30 PM EST | ESPN+ |
+| Wright State Raiders @ Northern Kentucky Norse | 0 - 0 | Sat, February 28th at 7:00 PM EST | ESPN+ |
+| Villanova Wildcats @ #15 St. John's Red Storm | 0 - 0 | Sat, February 28th at 8:00 PM EST | FOX |
+| Baylor Bears @ UCF Knights | 0 - 0 | Sat, February 28th at 8:00 PM EST | FS1 |
+| Oral Roberts Golden Eagles @ Kansas City Roos | 0 - 0 | Sat, February 28th at 8:00 PM EST | Summit League Network, Midco Sports Plus |
+| #20 Arkansas Razorbacks @ #7 Florida Gators | 0 - 0 | Sat, February 28th at 8:30 PM EST | ESPN |
+| Virginia Tech Hokies @ #18 North Carolina Tar Heels | 0 - 0 | Sat, February 28th at 8:30 PM EST | ESPN2 |
+| #9 Gonzaga Bulldogs @ Saint Mary's Gaels | 0 - 0 | Sat, February 28th at 10:30 PM EST | ESPN |
