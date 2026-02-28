@@ -1,15 +1,15 @@
 {
-    "lastUpdated": "2026-02-28 16:50:31",
+    "lastUpdated": "2026-02-28 17:06:32",
     "games": [
         {
             "awayTeam": "#11 Virginia Cavaliers",
-            "awayScore": "0",
+            "awayScore": "5",
             "homeTeam": "#1 Duke Blue Devils",
-            "homeScore": "0",
-            "status": "Sat, February 28th at 12:00 PM EST",
+            "homeScore": "6",
+            "status": "16:03 - 1st Half",
             "tv": "ESPN",
-            "winProb": 0.5,
-            "state": "pre"
+            "winProb": 0.888,
+            "state": "in"
         },
         {
             "awayTeam": "Missouri Tigers",
