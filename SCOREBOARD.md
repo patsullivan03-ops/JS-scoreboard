@@ -1,18 +1,18 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-02-28 21:38:50*
+*Updated: 2026-02-28 21:43:55*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Lipscomb Bisons @ Eastern Kentucky Colonels | 31 - 33 | 3:27 - 1st Half | ESPN+ |
-| #16 Texas Tech Red Raiders @ #4 Iowa State Cyclones | 22 - 14 | 9:34 - 1st Half | CBS |
-| Texas Longhorns @ Texas A&M Aggies | 16 - 13 | 10:28 - 1st Half | ESPN2 |
-| East Tennessee State Buccaneers @ Mercer Bears | 1 - 3 | 18:07 - 1st Half | ESPN+ |
-| #12 Nebraska Cornhuskers @ USC Trojans | 22 - 24 | 7:37 - 1st Half | BTN |
-| Florida International Panthers @ Louisiana Tech Bulldogs | 51 - 57 | 12:31 - 2nd Half | ESPN+ |
-| Utah Utes @ Arizona State Sun Devils | 28 - 39 | 17:54 - 2nd Half | TNT, truTV |
-| #14 Kansas Jayhawks @ #2 Arizona Wildcats | 16 - 31 | 7:39 - 1st Half | ESPN |
-| UTEP Miners @ Western Kentucky Hilltoppers | 62 - 74 | 7:36 - 2nd Half | ESPN+ |
-| Northern Arizona Lumberjacks @ Eastern Washington Eagles | 17 - 40 | 3:31 - 1st Half | ESPN+ |
+| #12 Nebraska Cornhuskers @ USC Trojans | 22 - 26 | 6:59 - 1st Half | BTN |
+| Texas Longhorns @ Texas A&M Aggies | 20 - 15 | 8:27 - 1st Half | ESPN2 |
+| Lipscomb Bisons @ Eastern Kentucky Colonels | 40 - 39 | 0:59 - 1st Half | ESPN+ |
+| East Tennessee State Buccaneers @ Mercer Bears | 2 - 5 | 16:59 - 1st Half | ESPN+ |
+| #16 Texas Tech Red Raiders @ #4 Iowa State Cyclones | 28 - 16 | 8:02 - 1st Half | CBS |
+| Florida International Panthers @ Louisiana Tech Bulldogs | 52 - 59 | 11:51 - 2nd Half | ESPN+ |
+| Utah Utes @ Arizona State Sun Devils | 32 - 43 | 15:29 - 2nd Half | TNT, truTV |
+| #14 Kansas Jayhawks @ #2 Arizona Wildcats | 19 - 31 | 5:28 - 1st Half | ESPN |
+| Northern Arizona Lumberjacks @ Eastern Washington Eagles | 22 - 40 | 1:46 - 1st Half | ESPN+ |
+| UTEP Miners @ Western Kentucky Hilltoppers | 62 - 78 | 6:26 - 2nd Half | ESPN+ |
 | North Carolina Central Eagles @ Delaware State Hornets | 0 - 0 | Sat, February 28th at 4:30 PM EST | ESPN+ |
 | Tennessee Tech Golden Eagles @ Southeast Missouri State Redhawks | 0 - 0 | Sat, February 28th at 4:45 PM EST | ESPN+ |
 | Jackson State Tigers @ Texas Southern Tigers | 0 - 0 | Sat, February 28th at 5:00 PM EST | N/A |
