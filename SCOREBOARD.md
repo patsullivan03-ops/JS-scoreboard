@@ -1,20 +1,20 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-02-28 19:06:31*
+*Updated: 2026-02-28 19:11:36*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #25 Vanderbilt Commodores @ Kentucky Wildcats | 5 - 5 | 18:28 - 1st Half | ESPN |
-| #24 Louisville Cardinals @ Clemson Tigers | 0 - 0 | 19:37 - 1st Half | ESPN2 |
-| San Diego State Aztecs @ New Mexico Lobos | 0 - 0 | 19:21 - 1st Half | CBS |
-| New Mexico State Aggies @ Middle Tennessee Blue Raiders | 42 - 36 | 18:10 - 2nd Half | ESPN+ |
-| Tennessee State Tigers @ UT Martin Skyhawks | 2 - 2 | 19:20 - 1st Half | ESPNU |
-| Queens University Royals @ Central Arkansas Bears | 0 - 2 | 18:19 - 1st Half | ESPN+ |
-| North Alabama Lions @ West Georgia Wolves | 2 - 3 | 17:47 - 1st Half | ESPN+ |
-| William & Mary Tribe @ North Carolina A&T Aggies | 0 - 0 | 19:41 - 1st Half | FloSports |
-| Florida Gulf Coast Eagles @ Stetson Hatters | 3 - 2 | 18:33 - 1st Half | ESPN+ |
-| Oklahoma State Cowboys @ Cincinnati Bearcats | 0 - 1 | 19:54 - 1st Half | CBSSN |
-| Missouri Tigers @ Mississippi State Bulldogs | 54 - 23 | Halftime | SEC Network |
-| UCLA Bruins @ Minnesota Golden Gophers | 0 - 0 | Sat, February 28th at 2:00 PM EST | FS1 |
+| Florida Gulf Coast Eagles @ Stetson Hatters | 7 - 12 | 14:54 - 1st Half | ESPN+ |
+| San Diego State Aztecs @ New Mexico Lobos | 6 - 5 | 16:16 - 1st Half | CBS |
+| #24 Louisville Cardinals @ Clemson Tigers | 7 - 7 | 16:07 - 1st Half | ESPN2 |
+| UCLA Bruins @ Minnesota Golden Gophers | 0 - 0 | 19:36 - 1st Half | FS1 |
+| Tennessee State Tigers @ UT Martin Skyhawks | 4 - 4 | 16:52 - 1st Half | ESPNU |
+| #25 Vanderbilt Commodores @ Kentucky Wildcats | 12 - 18 | 15:01 - 1st Half | ESPN |
+| North Alabama Lions @ West Georgia Wolves | 2 - 7 | 15:31 - 1st Half | ESPN+ |
+| William & Mary Tribe @ North Carolina A&T Aggies | 6 - 0 | 17:44 - 1st Half | FloSports |
+| New Mexico State Aggies @ Middle Tennessee Blue Raiders | 49 - 38 | 16:11 - 2nd Half | ESPN+ |
+| Queens University Royals @ Central Arkansas Bears | 2 - 12 | 16:03 - 1st Half | ESPN+ |
+| Oklahoma State Cowboys @ Cincinnati Bearcats | 4 - 10 | 17:15 - 1st Half | CBSSN |
+| Missouri Tigers @ Mississippi State Bulldogs | 56 - 28 | 17:13 - 2nd Half | SEC Network |
 | Florida International Panthers @ Louisiana Tech Bulldogs | 0 - 0 | Sat, February 28th at 3:00 PM EST | ESPN+ |
 | UTEP Miners @ Western Kentucky Hilltoppers | 0 - 0 | Sat, February 28th at 3:00 PM EST | ESPN+ |
 | Utah Utes @ Arizona State Sun Devils | 0 - 0 | Sat, February 28th at 3:30 PM EST | TNT, truTV |
