@@ -1,20 +1,20 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-02-28 22:31:13*
+*Updated: 2026-02-28 22:36:17*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| East Tennessee State Buccaneers @ Mercer Bears | 35 - 49 | Halftime | ESPN+ |
-| Texas Longhorns @ Texas A&M Aggies | 37 - 34 | 15:26 - 2nd Half | ESPN2 |
-| Tennessee Tech Golden Eagles @ Southeast Missouri State Redhawks | 27 - 20 | 8:06 - 1st Half | ESPN+ |
-| Lipscomb Bisons @ Eastern Kentucky Colonels | 63 - 65 | 10:09 - 2nd Half | ESPN+ |
-| North Carolina Central Eagles @ Delaware State Hornets | 10 - 14 | 11:55 - 1st Half | ESPN+ |
-| #12 Nebraska Cornhuskers @ USC Trojans | 43 - 40 | 15:51 - 2nd Half | BTN |
-| #16 Texas Tech Red Raiders @ #4 Iowa State Cyclones | 49 - 37 | 15:23 - 2nd Half | CBS |
-| #14 Kansas Jayhawks @ #2 Arizona Wildcats | 45 - 49 | 12:57 - 2nd Half | ESPN |
-| Northern Arizona Lumberjacks @ Eastern Washington Eagles | 47 - 74 | 7:08 - 2nd Half | ESPN+ |
-| #19 BYU Cougars @ West Virginia Mountaineers | 0 - 0 | Sat, February 28th at 5:30 PM EST | FOX |
+| #19 BYU Cougars @ West Virginia Mountaineers | 0 - 0 | 19:59 - 1st Half | FOX |
+| North Carolina Central Eagles @ Delaware State Hornets | 18 - 18 | 8:35 - 1st Half | ESPN+ |
+| Tennessee Tech Golden Eagles @ Southeast Missouri State Redhawks | 27 - 22 | 6:03 - 1st Half | ESPN+ |
+| Lipscomb Bisons @ Eastern Kentucky Colonels | 63 - 65 | 7:57 - 2nd Half | ESPN+ |
+| Texas Longhorns @ Texas A&M Aggies | 42 - 36 | 14:15 - 2nd Half | ESPN2 |
+| East Texas A&M Lions @ UT Rio Grande Valley Vaqueros | 11 - 4 | 16:27 - 1st Half | ESPN+ |
+| East Tennessee State Buccaneers @ Mercer Bears | 40 - 49 | 19:17 - 2nd Half | ESPN+ |
+| #14 Kansas Jayhawks @ #2 Arizona Wildcats | 47 - 52 | 11:30 - 2nd Half | ESPN |
+| #16 Texas Tech Red Raiders @ #4 Iowa State Cyclones | 55 - 41 | 13:09 - 2nd Half | CBS |
+| #12 Nebraska Cornhuskers @ USC Trojans | 51 - 42 | 13:36 - 2nd Half | BTN |
+| Northern Arizona Lumberjacks @ Eastern Washington Eagles | 50 - 77 | 5:39 - 2nd Half | ESPN+ |
 | Providence Friars @ Creighton Bluejays | 0 - 0 | Sat, February 28th at 5:30 PM EST | TNT, truTV |
-| East Texas A&M Lions @ UT Rio Grande Valley Vaqueros | 0 - 0 | Sat, February 28th at 5:30 PM EST | ESPN+ |
 | Missouri State Bears @ Sam Houston Bearkats | 0 - 0 | Sat, February 28th at 5:30 PM EST | ESPN+ |
 | Jackson State Tigers @ Texas Southern Tigers | 0 - 0 | Sat, February 28th at 5:45 PM EST | N/A |
 | Alabama State Hornets @ Alabama A&M Bulldogs | 0 - 0 | Sat, February 28th at 5:45 PM EST | N/A |
