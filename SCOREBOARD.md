@@ -1,17 +1,17 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-02-28 21:28:41*
+*Updated: 2026-02-28 21:33:46*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
+| Texas Longhorns @ Texas A&M Aggies | 10 - 6 | 14:57 - 1st Half | ESPN2 |
+| Lipscomb Bisons @ Eastern Kentucky Colonels | 23 - 27 | 5:55 - 1st Half | ESPN+ |
+| Florida International Panthers @ Louisiana Tech Bulldogs | 46 - 48 | 15:45 - 2nd Half | ESPN+ |
+| #12 Nebraska Cornhuskers @ USC Trojans | 17 - 13 | 10:34 - 1st Half | BTN |
+| #16 Texas Tech Red Raiders @ #4 Iowa State Cyclones | 16 - 14 | 11:15 - 1st Half | CBS |
 | Utah Utes @ Arizona State Sun Devils | 24 - 34 | Halftime | TNT, truTV |
-| Texas Longhorns @ Texas A&M Aggies | 10 - 6 | 14:57 - 1st Half | ESPN+ |
-| Lipscomb Bisons @ Eastern Kentucky Colonels | 23 - 22 | 7:43 - 1st Half | ESPN+ |
-| Florida International Panthers @ Louisiana Tech Bulldogs | 43 - 45 | 17:00 - 2nd Half | ESPN+ |
-| #16 Texas Tech Red Raiders @ #4 Iowa State Cyclones | 6 - 8 | 15:15 - 1st Half | CBS |
-| #12 Nebraska Cornhuskers @ USC Trojans | 15 - 10 | 11:47 - 1st Half | BTN |
-| UTEP Miners @ Western Kentucky Hilltoppers | 56 - 68 | 11:03 - 2nd Half | ESPN+ |
-| #14 Kansas Jayhawks @ #2 Arizona Wildcats | 8 - 23 | 11:58 - 1st Half | ESPN |
-| Northern Arizona Lumberjacks @ Eastern Washington Eagles | 9 - 28 | 8:28 - 1st Half | ESPN+ |
+| #14 Kansas Jayhawks @ #2 Arizona Wildcats | 12 - 27 | 9:14 - 1st Half | ESPN |
+| UTEP Miners @ Western Kentucky Hilltoppers | 59 - 71 | 10:09 - 2nd Half | ESPN+ |
+| Northern Arizona Lumberjacks @ Eastern Washington Eagles | 9 - 34 | 7:04 - 1st Half | ESPN+ |
 | North Carolina Central Eagles @ Delaware State Hornets | 0 - 0 | Sat, February 28th at 4:30 PM EST | ESPN+ |
 | East Tennessee State Buccaneers @ Mercer Bears | 0 - 0 | Sat, February 28th at 4:30 PM EST | ESPN+ |
 | Tennessee Tech Golden Eagles @ Southeast Missouri State Redhawks | 0 - 0 | Sat, February 28th at 4:45 PM EST | ESPN+ |
