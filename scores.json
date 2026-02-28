@@ -1,14 +1,14 @@
 {
-    "lastUpdated": "2026-02-28 17:22:02",
+    "lastUpdated": "2026-02-28 17:42:44",
     "games": [
         {
             "awayTeam": "#11 Virginia Cavaliers",
-            "awayScore": "7",
+            "awayScore": "16",
             "homeTeam": "#1 Duke Blue Devils",
-            "homeScore": "15",
-            "status": "11:48 - 1st Half",
+            "homeScore": "32",
+            "status": "4:17 - 1st Half",
             "tv": "ESPN",
-            "winProb": 0.94,
+            "winProb": 0.978,
             "state": "in"
         },
         {
