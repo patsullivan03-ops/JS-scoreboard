@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-02-28 22:03:38",
+    "lastUpdated": "2026-02-28 22:04:13",
     "games": [
         {
             "awayTeam": "#14 Kansas Jayhawks",
@@ -46,9 +46,9 @@
             "awayScore": "29",
             "homeTeam": "Texas A&M Aggies",
             "homeScore": "30",
-            "status": "0:50 - 1st Half",
+            "status": "0:14 - 1st Half",
             "tv": "ESPN2",
-            "winProb": 0.641,
+            "winProb": 0.65,
             "state": "in"
         },
         {
@@ -73,12 +73,12 @@
         },
         {
             "awayTeam": "Utah Utes",
-            "awayScore": "46",
+            "awayScore": "47",
             "homeTeam": "Arizona State Sun Devils",
             "homeScore": "57",
-            "status": "8:18 - 2nd Half",
+            "status": "8:17 - 2nd Half",
             "tv": "TNT, truTV",
-            "winProb": 0.96,
+            "winProb": 0.945,
             "state": "in"
         },
         {
@@ -86,9 +86,9 @@
             "awayScore": "25",
             "homeTeam": "Eastern Washington Eagles",
             "homeScore": "46",
-            "status": "19:49 - 2nd Half",
+            "status": "19:33 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.993,
+            "winProb": 0.994,
             "state": "in"
         },
         {
