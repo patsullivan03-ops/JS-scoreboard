@@ -1,6 +1,16 @@
 {
-    "lastUpdated": "2026-02-28 20:58:13",
+    "lastUpdated": "2026-02-28 21:03:18",
     "games": [
+        {
+            "awayTeam": "Florida International Panthers",
+            "awayScore": "41",
+            "homeTeam": "Louisiana Tech Bulldogs",
+            "homeScore": "40",
+            "status": "Halftime",
+            "tv": "ESPN+",
+            "winProb": 0.5,
+            "state": "in"
+        },
         {
             "awayTeam": "UTEP Miners",
             "awayScore": "39",
@@ -12,81 +22,71 @@
             "state": "in"
         },
         {
+            "awayTeam": "Lipscomb Bisons",
+            "awayScore": "0",
+            "homeTeam": "Eastern Kentucky Colonels",
+            "homeScore": "0",
+            "status": "19:50 - 1st Half",
+            "tv": "ESPN+",
+            "winProb": 0.41,
+            "state": "in"
+        },
+        {
             "awayTeam": "Utah Utes",
-            "awayScore": "19",
+            "awayScore": "21",
             "homeTeam": "Arizona State Sun Devils",
-            "homeScore": "16",
-            "status": "10:16 - 1st Half",
+            "homeScore": "20",
+            "status": "6:54 - 1st Half",
             "tv": "TNT, truTV",
-            "winProb": 0.585,
+            "winProb": 0.609,
             "state": "in"
         },
         {
             "awayTeam": "San Diego State Aztecs",
-            "awayScore": "63",
+            "awayScore": "65",
             "homeTeam": "New Mexico Lobos",
-            "homeScore": "65",
-            "status": "5:59 - 2nd Half",
+            "homeScore": "69",
+            "status": "4:00 - 2nd Half",
             "tv": "CBS",
-            "winProb": 0.639,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Florida International Panthers",
-            "awayScore": "36",
-            "homeTeam": "Louisiana Tech Bulldogs",
-            "homeScore": "38",
-            "status": "1:32 - 1st Half",
-            "tv": "ESPN+",
-            "winProb": 0.698,
+            "winProb": 0.755,
             "state": "in"
         },
         {
             "awayTeam": "William & Mary Tribe",
             "awayScore": "88",
             "homeTeam": "North Carolina A&T Aggies",
-            "homeScore": "84",
-            "status": "0:45 - 2nd Half",
+            "homeScore": "86",
+            "status": "0:14 - 2nd Half",
             "tv": "FloSports",
-            "winProb": 0.09,
+            "winProb": 0.118,
             "state": "in"
         },
         {
             "awayTeam": "Queens University Royals",
-            "awayScore": "73",
+            "awayScore": "76",
             "homeTeam": "Central Arkansas Bears",
-            "homeScore": "78",
-            "status": "0:25 - 2nd Half",
+            "homeScore": "82",
+            "status": "0:09 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.931,
-            "state": "in"
-        },
-        {
-            "awayTeam": "UCLA Bruins",
-            "awayScore": "73",
-            "homeTeam": "Minnesota Golden Gophers",
-            "homeScore": "78",
-            "status": "0:12 - 2nd Half",
-            "tv": "FS1",
-            "winProb": 0.978,
+            "winProb": 0.996,
             "state": "in"
         },
         {
             "awayTeam": "#24 Louisville Cardinals",
-            "awayScore": "55",
+            "awayScore": "57",
             "homeTeam": "Clemson Tigers",
-            "homeScore": "68",
-            "status": "3:49 - 2nd Half",
+            "homeScore": "69",
+            "status": "2:52 - 2nd Half",
             "tv": "ESPN2",
-            "winProb": 0.989,
+            "winProb": 0.997,
             "state": "in"
         },
         {
             "awayTeam": "#25 Vanderbilt Commodores",
-            "awayScore": "67",
+            "awayScore": "69",
             "homeTeam": "Kentucky Wildcats",
-            "homeScore": "88",
-            "status": "4:34 - 2nd Half",
+            "homeScore": "89",
+            "status": "3:47 - 2nd Half",
             "tv": "ESPN",
             "winProb": 0.999,
             "state": "in"
@@ -115,16 +115,6 @@
             "awayTeam": "Northern Arizona Lumberjacks",
             "awayScore": "0",
             "homeTeam": "Eastern Washington Eagles",
-            "homeScore": "0",
-            "status": "Sat, February 28th at 4:00 PM EST",
-            "tv": "ESPN+",
-            "winProb": 0.5,
-            "state": "pre"
-        },
-        {
-            "awayTeam": "Lipscomb Bisons",
-            "awayScore": "0",
-            "homeTeam": "Eastern Kentucky Colonels",
             "homeScore": "0",
             "status": "Sat, February 28th at 4:00 PM EST",
             "tv": "ESPN+",
@@ -378,6 +368,16 @@
             "homeScore": "91",
             "status": "Final",
             "tv": "CBSSN",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "awayTeam": "UCLA Bruins",
+            "awayScore": "73",
+            "homeTeam": "Minnesota Golden Gophers",
+            "homeScore": "78",
+            "status": "Final",
+            "tv": "FS1",
             "winProb": 0.5,
             "state": "post"
         },
