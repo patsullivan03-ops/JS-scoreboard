@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-02-28 22:26:08",
+    "lastUpdated": "2026-02-28 22:31:13",
     "games": [
         {
             "awayTeam": "East Tennessee State Buccaneers",
@@ -13,42 +13,42 @@
         },
         {
             "awayTeam": "Texas Longhorns",
-            "awayScore": "35",
+            "awayScore": "37",
             "homeTeam": "Texas A&M Aggies",
             "homeScore": "34",
-            "status": "16:22 - 2nd Half",
+            "status": "15:26 - 2nd Half",
             "tv": "ESPN2",
-            "winProb": 0.549,
+            "winProb": 0.488,
             "state": "in"
         },
         {
             "awayTeam": "Tennessee Tech Golden Eagles",
             "awayScore": "27",
             "homeTeam": "Southeast Missouri State Redhawks",
-            "homeScore": "16",
-            "status": "9:15 - 1st Half",
+            "homeScore": "20",
+            "status": "8:06 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.411,
+            "winProb": 0.553,
             "state": "in"
         },
         {
             "awayTeam": "Lipscomb Bisons",
-            "awayScore": "58",
+            "awayScore": "63",
             "homeTeam": "Eastern Kentucky Colonels",
-            "homeScore": "57",
-            "status": "13:44 - 2nd Half",
+            "homeScore": "65",
+            "status": "10:09 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.372,
+            "winProb": 0.601,
             "state": "in"
         },
         {
             "awayTeam": "North Carolina Central Eagles",
-            "awayScore": "5",
+            "awayScore": "10",
             "homeTeam": "Delaware State Hornets",
-            "homeScore": "12",
-            "status": "13:48 - 1st Half",
+            "homeScore": "14",
+            "status": "11:55 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.67,
+            "winProb": 0.612,
             "state": "in"
         },
         {
@@ -58,35 +58,35 @@
             "homeScore": "40",
             "status": "15:51 - 2nd Half",
             "tv": "BTN",
-            "winProb": 0.23,
+            "winProb": 0.262,
             "state": "in"
         },
         {
             "awayTeam": "#16 Texas Tech Red Raiders",
             "awayScore": "49",
             "homeTeam": "#4 Iowa State Cyclones",
-            "homeScore": "36",
-            "status": "16:00 - 2nd Half",
+            "homeScore": "37",
+            "status": "15:23 - 2nd Half",
             "tv": "CBS",
-            "winProb": 0.161,
+            "winProb": 0.183,
             "state": "in"
         },
         {
             "awayTeam": "#14 Kansas Jayhawks",
-            "awayScore": "35",
+            "awayScore": "45",
             "homeTeam": "#2 Arizona Wildcats",
-            "homeScore": "46",
-            "status": "14:45 - 2nd Half",
+            "homeScore": "49",
+            "status": "12:57 - 2nd Half",
             "tv": "ESPN",
-            "winProb": 0.964,
+            "winProb": 0.862,
             "state": "in"
         },
         {
             "awayTeam": "Northern Arizona Lumberjacks",
-            "awayScore": "40",
+            "awayScore": "47",
             "homeTeam": "Eastern Washington Eagles",
-            "homeScore": "66",
-            "status": "11:13 - 2nd Half",
+            "homeScore": "74",
+            "status": "7:08 - 2nd Half",
             "tv": "ESPN+",
             "winProb": 0.999,
             "state": "in"

@@ -1,17 +1,17 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-02-28 22:26:08*
+*Updated: 2026-02-28 22:31:13*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
 | East Tennessee State Buccaneers @ Mercer Bears | 35 - 49 | Halftime | ESPN+ |
-| Texas Longhorns @ Texas A&M Aggies | 35 - 34 | 16:22 - 2nd Half | ESPN2 |
-| Tennessee Tech Golden Eagles @ Southeast Missouri State Redhawks | 27 - 16 | 9:15 - 1st Half | ESPN+ |
-| Lipscomb Bisons @ Eastern Kentucky Colonels | 58 - 57 | 13:44 - 2nd Half | ESPN+ |
-| North Carolina Central Eagles @ Delaware State Hornets | 5 - 12 | 13:48 - 1st Half | ESPN+ |
+| Texas Longhorns @ Texas A&M Aggies | 37 - 34 | 15:26 - 2nd Half | ESPN2 |
+| Tennessee Tech Golden Eagles @ Southeast Missouri State Redhawks | 27 - 20 | 8:06 - 1st Half | ESPN+ |
+| Lipscomb Bisons @ Eastern Kentucky Colonels | 63 - 65 | 10:09 - 2nd Half | ESPN+ |
+| North Carolina Central Eagles @ Delaware State Hornets | 10 - 14 | 11:55 - 1st Half | ESPN+ |
 | #12 Nebraska Cornhuskers @ USC Trojans | 43 - 40 | 15:51 - 2nd Half | BTN |
-| #16 Texas Tech Red Raiders @ #4 Iowa State Cyclones | 49 - 36 | 16:00 - 2nd Half | CBS |
-| #14 Kansas Jayhawks @ #2 Arizona Wildcats | 35 - 46 | 14:45 - 2nd Half | ESPN |
-| Northern Arizona Lumberjacks @ Eastern Washington Eagles | 40 - 66 | 11:13 - 2nd Half | ESPN+ |
+| #16 Texas Tech Red Raiders @ #4 Iowa State Cyclones | 49 - 37 | 15:23 - 2nd Half | CBS |
+| #14 Kansas Jayhawks @ #2 Arizona Wildcats | 45 - 49 | 12:57 - 2nd Half | ESPN |
+| Northern Arizona Lumberjacks @ Eastern Washington Eagles | 47 - 74 | 7:08 - 2nd Half | ESPN+ |
 | #19 BYU Cougars @ West Virginia Mountaineers | 0 - 0 | Sat, February 28th at 5:30 PM EST | FOX |
 | Providence Friars @ Creighton Bluejays | 0 - 0 | Sat, February 28th at 5:30 PM EST | TNT, truTV |
 | East Texas A&M Lions @ UT Rio Grande Valley Vaqueros | 0 - 0 | Sat, February 28th at 5:30 PM EST | ESPN+ |
