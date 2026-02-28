@@ -1,21 +1,21 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-02-28 20:07:28*
+*Updated: 2026-02-28 20:12:32*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
 | #24 Louisville Cardinals @ Clemson Tigers | 35 - 38 | Halftime | ESPN2 |
-| Oklahoma State Cowboys @ Cincinnati Bearcats | 33 - 51 | Halftime | CBSSN |
-| UCLA Bruins @ Minnesota Golden Gophers | 41 - 40 | Halftime | FS1 |
 | San Diego State Aztecs @ New Mexico Lobos | 37 - 36 | Halftime | CBS |
-| Tennessee State Tigers @ UT Martin Skyhawks | 35 - 21 | Halftime | ESPNU |
-| New Mexico State Aggies @ Middle Tennessee Blue Raiders | 80 - 78 | 3:46 - OT | ESPN+ |
-| Florida International Panthers @ Louisiana Tech Bulldogs | 5 - 2 | 17:44 - 1st Half | ESPN+ |
-| North Alabama Lions @ West Georgia Wolves | 29 - 30 | 18:57 - 2nd Half | ESPN+ |
-| Florida Gulf Coast Eagles @ Stetson Hatters | 32 - 42 | 17:01 - 2nd Half | ESPN+ |
-| UTEP Miners @ Western Kentucky Hilltoppers | 6 - 8 | 18:30 - 1st Half | ESPN+ |
-| William & Mary Tribe @ North Carolina A&T Aggies | 46 - 37 | Halftime | FloSports |
-| #25 Vanderbilt Commodores @ Kentucky Wildcats | 33 - 46 | 19:50 - 2nd Half | ESPN |
-| Queens University Royals @ Central Arkansas Bears | 29 - 42 | 16:12 - 2nd Half | ESPN+ |
+| New Mexico State Aggies @ Middle Tennessee Blue Raiders | 81 - 80 | 2:15 - OT | ESPN+ |
+| Florida International Panthers @ Louisiana Tech Bulldogs | 9 - 6 | 15:53 - 1st Half | ESPN+ |
+| Florida Gulf Coast Eagles @ Stetson Hatters | 39 - 45 | 15:36 - 2nd Half | ESPN+ |
+| UCLA Bruins @ Minnesota Golden Gophers | 50 - 45 | 16:23 - 2nd Half | FS1 |
+| North Alabama Lions @ West Georgia Wolves | 36 - 40 | 15:42 - 2nd Half | ESPN+ |
+| Tennessee State Tigers @ UT Martin Skyhawks | 37 - 21 | 19:18 - 2nd Half | ESPNU |
+| UTEP Miners @ Western Kentucky Hilltoppers | 14 - 19 | 14:17 - 1st Half | ESPN+ |
+| #25 Vanderbilt Commodores @ Kentucky Wildcats | 36 - 49 | 17:18 - 2nd Half | ESPN |
+| Queens University Royals @ Central Arkansas Bears | 32 - 46 | 15:04 - 2nd Half | ESPN+ |
+| William & Mary Tribe @ North Carolina A&T Aggies | 56 - 45 | 16:28 - 2nd Half | FloSports |
+| Oklahoma State Cowboys @ Cincinnati Bearcats | 35 - 56 | 18:33 - 2nd Half | CBSSN |
 | Utah Utes @ Arizona State Sun Devils | 0 - 0 | Sat, February 28th at 3:30 PM EST | TNT, truTV |
 | #14 Kansas Jayhawks @ #2 Arizona Wildcats | 0 - 0 | Sat, February 28th at 4:00 PM EST | ESPN |
 | #16 Texas Tech Red Raiders @ #4 Iowa State Cyclones | 0 - 0 | Sat, February 28th at 4:00 PM EST | CBS |

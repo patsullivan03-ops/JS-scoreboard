@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-02-28 20:07:28",
+    "lastUpdated": "2026-02-28 20:12:32",
     "games": [
         {
             "awayTeam": "#24 Louisville Cardinals",
@@ -8,26 +8,6 @@
             "homeScore": "38",
             "status": "Halftime",
             "tv": "ESPN2",
-            "winProb": 0.5,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Oklahoma State Cowboys",
-            "awayScore": "33",
-            "homeTeam": "Cincinnati Bearcats",
-            "homeScore": "51",
-            "status": "Halftime",
-            "tv": "CBSSN",
-            "winProb": 0.5,
-            "state": "in"
-        },
-        {
-            "awayTeam": "UCLA Bruins",
-            "awayScore": "41",
-            "homeTeam": "Minnesota Golden Gophers",
-            "homeScore": "40",
-            "status": "Halftime",
-            "tv": "FS1",
             "winProb": 0.5,
             "state": "in"
         },
@@ -42,93 +22,113 @@
             "state": "in"
         },
         {
-            "awayTeam": "Tennessee State Tigers",
-            "awayScore": "35",
-            "homeTeam": "UT Martin Skyhawks",
-            "homeScore": "21",
-            "status": "Halftime",
-            "tv": "ESPNU",
-            "winProb": 0.5,
-            "state": "in"
-        },
-        {
             "awayTeam": "New Mexico State Aggies",
-            "awayScore": "80",
+            "awayScore": "81",
             "homeTeam": "Middle Tennessee Blue Raiders",
-            "homeScore": "78",
-            "status": "3:46 - OT",
+            "homeScore": "80",
+            "status": "2:15 - OT",
             "tv": "ESPN+",
-            "winProb": 0.402,
+            "winProb": 0.458,
             "state": "in"
         },
         {
             "awayTeam": "Florida International Panthers",
-            "awayScore": "5",
+            "awayScore": "9",
             "homeTeam": "Louisiana Tech Bulldogs",
-            "homeScore": "2",
-            "status": "17:44 - 1st Half",
+            "homeScore": "6",
+            "status": "15:53 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.613,
-            "state": "in"
-        },
-        {
-            "awayTeam": "North Alabama Lions",
-            "awayScore": "29",
-            "homeTeam": "West Georgia Wolves",
-            "homeScore": "30",
-            "status": "18:57 - 2nd Half",
-            "tv": "ESPN+",
-            "winProb": 0.653,
+            "winProb": 0.586,
             "state": "in"
         },
         {
             "awayTeam": "Florida Gulf Coast Eagles",
-            "awayScore": "32",
+            "awayScore": "39",
             "homeTeam": "Stetson Hatters",
-            "homeScore": "42",
-            "status": "17:01 - 2nd Half",
+            "homeScore": "45",
+            "status": "15:36 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.757,
+            "winProb": 0.659,
+            "state": "in"
+        },
+        {
+            "awayTeam": "UCLA Bruins",
+            "awayScore": "50",
+            "homeTeam": "Minnesota Golden Gophers",
+            "homeScore": "45",
+            "status": "16:23 - 2nd Half",
+            "tv": "FS1",
+            "winProb": 0.273,
+            "state": "in"
+        },
+        {
+            "awayTeam": "North Alabama Lions",
+            "awayScore": "36",
+            "homeTeam": "West Georgia Wolves",
+            "homeScore": "40",
+            "status": "15:42 - 2nd Half",
+            "tv": "ESPN+",
+            "winProb": 0.734,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Tennessee State Tigers",
+            "awayScore": "37",
+            "homeTeam": "UT Martin Skyhawks",
+            "homeScore": "21",
+            "status": "19:18 - 2nd Half",
+            "tv": "ESPNU",
+            "winProb": 0.104,
             "state": "in"
         },
         {
             "awayTeam": "UTEP Miners",
-            "awayScore": "6",
+            "awayScore": "14",
             "homeTeam": "Western Kentucky Hilltoppers",
-            "homeScore": "8",
-            "status": "18:30 - 1st Half",
+            "homeScore": "19",
+            "status": "14:17 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.856,
-            "state": "in"
-        },
-        {
-            "awayTeam": "William & Mary Tribe",
-            "awayScore": "46",
-            "homeTeam": "North Carolina A&T Aggies",
-            "homeScore": "37",
-            "status": "Halftime",
-            "tv": "FloSports",
-            "winProb": 0.101,
+            "winProb": 0.901,
             "state": "in"
         },
         {
             "awayTeam": "#25 Vanderbilt Commodores",
-            "awayScore": "33",
+            "awayScore": "36",
             "homeTeam": "Kentucky Wildcats",
-            "homeScore": "46",
-            "status": "19:50 - 2nd Half",
+            "homeScore": "49",
+            "status": "17:18 - 2nd Half",
             "tv": "ESPN",
-            "winProb": 0.922,
+            "winProb": 0.934,
             "state": "in"
         },
         {
             "awayTeam": "Queens University Royals",
-            "awayScore": "29",
+            "awayScore": "32",
             "homeTeam": "Central Arkansas Bears",
-            "homeScore": "42",
-            "status": "16:12 - 2nd Half",
+            "homeScore": "46",
+            "status": "15:04 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.938,
+            "winProb": 0.952,
+            "state": "in"
+        },
+        {
+            "awayTeam": "William & Mary Tribe",
+            "awayScore": "56",
+            "homeTeam": "North Carolina A&T Aggies",
+            "homeScore": "45",
+            "status": "16:28 - 2nd Half",
+            "tv": "FloSports",
+            "winProb": 0.046,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Oklahoma State Cowboys",
+            "awayScore": "35",
+            "homeTeam": "Cincinnati Bearcats",
+            "homeScore": "56",
+            "status": "18:33 - 2nd Half",
+            "tv": "CBSSN",
+            "winProb": 0.993,
             "state": "in"
         },
         {
