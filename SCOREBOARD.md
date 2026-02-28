@@ -1,19 +1,19 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-02-28 19:57:18*
+*Updated: 2026-02-28 20:02:23*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
+| #24 Louisville Cardinals @ Clemson Tigers | 35 - 38 | Halftime | ESPN2 |
 | #25 Vanderbilt Commodores @ Kentucky Wildcats | 31 - 46 | Halftime | ESPN |
+| New Mexico State Aggies @ Middle Tennessee Blue Raiders | 76 - 76 | End of 2nd Half | ESPN+ |
 | Oklahoma State Cowboys @ Cincinnati Bearcats | 33 - 51 | Halftime | CBSSN |
 | UCLA Bruins @ Minnesota Golden Gophers | 41 - 40 | Halftime | FS1 |
 | San Diego State Aztecs @ New Mexico Lobos | 37 - 36 | Halftime | CBS |
 | William & Mary Tribe @ North Carolina A&T Aggies | 46 - 37 | Halftime | FloSports |
 | Queens University Royals @ Central Arkansas Bears | 24 - 31 | Halftime | ESPN+ |
 | North Alabama Lions @ West Georgia Wolves | 25 - 30 | Halftime | ESPN+ |
-| Florida Gulf Coast Eagles @ Stetson Hatters | 27 - 34 | Halftime | ESPN+ |
 | Tennessee State Tigers @ UT Martin Skyhawks | 35 - 21 | Halftime | ESPNU |
-| #24 Louisville Cardinals @ Clemson Tigers | 33 - 38 | 0:16 - 1st Half | ESPN2 |
-| New Mexico State Aggies @ Middle Tennessee Blue Raiders | 76 - 73 | 0:34 - 2nd Half | ESPN+ |
+| Florida Gulf Coast Eagles @ Stetson Hatters | 27 - 34 | Halftime | ESPN+ |
 | Florida International Panthers @ Louisiana Tech Bulldogs | 0 - 0 | Sat, February 28th at 3:00 PM EST | ESPN+ |
 | UTEP Miners @ Western Kentucky Hilltoppers | 0 - 0 | Sat, February 28th at 3:00 PM EST | ESPN+ |
 | Utah Utes @ Arizona State Sun Devils | 0 - 0 | Sat, February 28th at 3:30 PM EST | TNT, truTV |

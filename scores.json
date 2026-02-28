@@ -1,6 +1,16 @@
 {
-    "lastUpdated": "2026-02-28 19:57:18",
+    "lastUpdated": "2026-02-28 20:02:23",
     "games": [
+        {
+            "awayTeam": "#24 Louisville Cardinals",
+            "awayScore": "35",
+            "homeTeam": "Clemson Tigers",
+            "homeScore": "38",
+            "status": "Halftime",
+            "tv": "ESPN2",
+            "winProb": 0.5,
+            "state": "in"
+        },
         {
             "awayTeam": "#25 Vanderbilt Commodores",
             "awayScore": "31",
@@ -8,6 +18,16 @@
             "homeScore": "46",
             "status": "Halftime",
             "tv": "ESPN",
+            "winProb": 0.5,
+            "state": "in"
+        },
+        {
+            "awayTeam": "New Mexico State Aggies",
+            "awayScore": "76",
+            "homeTeam": "Middle Tennessee Blue Raiders",
+            "homeScore": "76",
+            "status": "End of 2nd Half",
+            "tv": "ESPN+",
             "winProb": 0.5,
             "state": "in"
         },
@@ -72,16 +92,6 @@
             "state": "in"
         },
         {
-            "awayTeam": "Florida Gulf Coast Eagles",
-            "awayScore": "27",
-            "homeTeam": "Stetson Hatters",
-            "homeScore": "34",
-            "status": "Halftime",
-            "tv": "ESPN+",
-            "winProb": 0.5,
-            "state": "in"
-        },
-        {
             "awayTeam": "Tennessee State Tigers",
             "awayScore": "35",
             "homeTeam": "UT Martin Skyhawks",
@@ -92,23 +102,13 @@
             "state": "in"
         },
         {
-            "awayTeam": "#24 Louisville Cardinals",
-            "awayScore": "33",
-            "homeTeam": "Clemson Tigers",
-            "homeScore": "38",
-            "status": "0:16 - 1st Half",
-            "tv": "ESPN2",
-            "winProb": 0.631,
-            "state": "in"
-        },
-        {
-            "awayTeam": "New Mexico State Aggies",
-            "awayScore": "76",
-            "homeTeam": "Middle Tennessee Blue Raiders",
-            "homeScore": "73",
-            "status": "0:34 - 2nd Half",
+            "awayTeam": "Florida Gulf Coast Eagles",
+            "awayScore": "27",
+            "homeTeam": "Stetson Hatters",
+            "homeScore": "34",
+            "status": "Halftime",
             "tv": "ESPN+",
-            "winProb": 0.197,
+            "winProb": 0.629,
             "state": "in"
         },
         {
