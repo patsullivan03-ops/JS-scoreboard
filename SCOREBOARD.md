@@ -1,19 +1,19 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-02-28 21:13:27*
+*Updated: 2026-02-28 21:18:32*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
+| Utah Utes @ Arizona State Sun Devils | 24 - 34 | Halftime | TNT, truTV |
+| Lipscomb Bisons @ Eastern Kentucky Colonels | 16 - 18 | 12:10 - 1st Half | ESPN+ |
+| San Diego State Aztecs @ New Mexico Lobos | 76 - 77 | 0:31 - 2nd Half | CBS |
+| Texas Longhorns @ Texas A&M Aggies | 4 - 0 | 17:25 - 1st Half | ESPN+ |
 | Florida International Panthers @ Louisiana Tech Bulldogs | 41 - 40 | Halftime | ESPN+ |
-| Texas Longhorns @ Texas A&M Aggies | 0 - 0 | 19:59 - 1st Half | ESPN2 |
-| Lipscomb Bisons @ Eastern Kentucky Colonels | 6 - 13 | 14:47 - 1st Half | ESPN+ |
-| San Diego State Aztecs @ New Mexico Lobos | 75 - 77 | 0:35 - 2nd Half | CBS |
-| #12 Nebraska Cornhuskers @ USC Trojans | 0 - 0 | 19:37 - 1st Half | BTN |
-| #14 Kansas Jayhawks @ #2 Arizona Wildcats | 5 - 10 | 16:29 - 1st Half | ESPN |
-| Utah Utes @ Arizona State Sun Devils | 21 - 31 | 3:15 - 1st Half | TNT, truTV |
-| Northern Arizona Lumberjacks @ Eastern Washington Eagles | 6 - 13 | 15:21 - 1st Half | ESPN+ |
-| UTEP Miners @ Western Kentucky Hilltoppers | 46 - 56 | 17:04 - 2nd Half | ESPN+ |
-| #24 Louisville Cardinals @ Clemson Tigers | 67 - 76 | 0:16 - 2nd Half | ESPN2 |
-| #16 Texas Tech Red Raiders @ #4 Iowa State Cyclones | 0 - 0 | Sat, February 28th at 4:00 PM EST | CBS |
+| #12 Nebraska Cornhuskers @ USC Trojans | 7 - 8 | 15:44 - 1st Half | BTN |
+| #16 Texas Tech Red Raiders @ #4 Iowa State Cyclones | 1 - 0 | 18:57 - 1st Half | CBS |
+| #14 Kansas Jayhawks @ #2 Arizona Wildcats | 5 - 14 | 15:17 - 1st Half | ESPN |
+| Northern Arizona Lumberjacks @ Eastern Washington Eagles | 9 - 20 | 12:36 - 1st Half | ESPN+ |
+| UTEP Miners @ Western Kentucky Hilltoppers | 49 - 61 | 15:57 - 2nd Half | ESPN+ |
+| #24 Louisville Cardinals @ Clemson Tigers | 72 - 77 | 0:06 - 2nd Half | ESPN2 |
 | North Carolina Central Eagles @ Delaware State Hornets | 0 - 0 | Sat, February 28th at 4:30 PM EST | ESPN+ |
 | East Tennessee State Buccaneers @ Mercer Bears | 0 - 0 | Sat, February 28th at 4:30 PM EST | ESPN+ |
 | Tennessee Tech Golden Eagles @ Southeast Missouri State Redhawks | 0 - 0 | Sat, February 28th at 4:45 PM EST | ESPN+ |
