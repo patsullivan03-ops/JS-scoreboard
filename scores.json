@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-02-28 20:02:23",
+    "lastUpdated": "2026-02-28 20:07:28",
     "games": [
         {
             "awayTeam": "#24 Louisville Cardinals",
@@ -8,26 +8,6 @@
             "homeScore": "38",
             "status": "Halftime",
             "tv": "ESPN2",
-            "winProb": 0.5,
-            "state": "in"
-        },
-        {
-            "awayTeam": "#25 Vanderbilt Commodores",
-            "awayScore": "31",
-            "homeTeam": "Kentucky Wildcats",
-            "homeScore": "46",
-            "status": "Halftime",
-            "tv": "ESPN",
-            "winProb": 0.5,
-            "state": "in"
-        },
-        {
-            "awayTeam": "New Mexico State Aggies",
-            "awayScore": "76",
-            "homeTeam": "Middle Tennessee Blue Raiders",
-            "homeScore": "76",
-            "status": "End of 2nd Half",
-            "tv": "ESPN+",
             "winProb": 0.5,
             "state": "in"
         },
@@ -62,36 +42,6 @@
             "state": "in"
         },
         {
-            "awayTeam": "William & Mary Tribe",
-            "awayScore": "46",
-            "homeTeam": "North Carolina A&T Aggies",
-            "homeScore": "37",
-            "status": "Halftime",
-            "tv": "FloSports",
-            "winProb": 0.5,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Queens University Royals",
-            "awayScore": "24",
-            "homeTeam": "Central Arkansas Bears",
-            "homeScore": "31",
-            "status": "Halftime",
-            "tv": "ESPN+",
-            "winProb": 0.5,
-            "state": "in"
-        },
-        {
-            "awayTeam": "North Alabama Lions",
-            "awayScore": "25",
-            "homeTeam": "West Georgia Wolves",
-            "homeScore": "30",
-            "status": "Halftime",
-            "tv": "ESPN+",
-            "winProb": 0.5,
-            "state": "in"
-        },
-        {
             "awayTeam": "Tennessee State Tigers",
             "awayScore": "35",
             "homeTeam": "UT Martin Skyhawks",
@@ -102,34 +52,84 @@
             "state": "in"
         },
         {
-            "awayTeam": "Florida Gulf Coast Eagles",
-            "awayScore": "27",
-            "homeTeam": "Stetson Hatters",
-            "homeScore": "34",
-            "status": "Halftime",
+            "awayTeam": "New Mexico State Aggies",
+            "awayScore": "80",
+            "homeTeam": "Middle Tennessee Blue Raiders",
+            "homeScore": "78",
+            "status": "3:46 - OT",
             "tv": "ESPN+",
-            "winProb": 0.629,
+            "winProb": 0.402,
             "state": "in"
         },
         {
             "awayTeam": "Florida International Panthers",
-            "awayScore": "0",
+            "awayScore": "5",
             "homeTeam": "Louisiana Tech Bulldogs",
-            "homeScore": "0",
-            "status": "Sat, February 28th at 3:00 PM EST",
+            "homeScore": "2",
+            "status": "17:44 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.5,
-            "state": "pre"
+            "winProb": 0.613,
+            "state": "in"
+        },
+        {
+            "awayTeam": "North Alabama Lions",
+            "awayScore": "29",
+            "homeTeam": "West Georgia Wolves",
+            "homeScore": "30",
+            "status": "18:57 - 2nd Half",
+            "tv": "ESPN+",
+            "winProb": 0.653,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Florida Gulf Coast Eagles",
+            "awayScore": "32",
+            "homeTeam": "Stetson Hatters",
+            "homeScore": "42",
+            "status": "17:01 - 2nd Half",
+            "tv": "ESPN+",
+            "winProb": 0.757,
+            "state": "in"
         },
         {
             "awayTeam": "UTEP Miners",
-            "awayScore": "0",
+            "awayScore": "6",
             "homeTeam": "Western Kentucky Hilltoppers",
-            "homeScore": "0",
-            "status": "Sat, February 28th at 3:00 PM EST",
+            "homeScore": "8",
+            "status": "18:30 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.5,
-            "state": "pre"
+            "winProb": 0.856,
+            "state": "in"
+        },
+        {
+            "awayTeam": "William & Mary Tribe",
+            "awayScore": "46",
+            "homeTeam": "North Carolina A&T Aggies",
+            "homeScore": "37",
+            "status": "Halftime",
+            "tv": "FloSports",
+            "winProb": 0.101,
+            "state": "in"
+        },
+        {
+            "awayTeam": "#25 Vanderbilt Commodores",
+            "awayScore": "33",
+            "homeTeam": "Kentucky Wildcats",
+            "homeScore": "46",
+            "status": "19:50 - 2nd Half",
+            "tv": "ESPN",
+            "winProb": 0.922,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Queens University Royals",
+            "awayScore": "29",
+            "homeTeam": "Central Arkansas Bears",
+            "homeScore": "42",
+            "status": "16:12 - 2nd Half",
+            "tv": "ESPN+",
+            "winProb": 0.938,
+            "state": "in"
         },
         {
             "awayTeam": "Utah Utes",
@@ -422,22 +422,22 @@
             "state": "pre"
         },
         {
-            "awayTeam": "Missouri Tigers",
-            "awayScore": "88",
-            "homeTeam": "Mississippi State Bulldogs",
-            "homeScore": "64",
-            "status": "Final",
-            "tv": "SEC Network",
-            "winProb": 0.5,
-            "state": "post"
-        },
-        {
             "awayTeam": "#11 Virginia Cavaliers",
             "awayScore": "51",
             "homeTeam": "#1 Duke Blue Devils",
             "homeScore": "77",
             "status": "Final",
             "tv": "ESPN",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "awayTeam": "Missouri Tigers",
+            "awayScore": "88",
+            "homeTeam": "Mississippi State Bulldogs",
+            "homeScore": "64",
+            "status": "Final",
+            "tv": "SEC Network",
             "winProb": 0.5,
             "state": "post"
         }
