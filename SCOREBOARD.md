@@ -1,20 +1,20 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-02-28 19:47:08*
+*Updated: 2026-02-28 19:52:13*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
+| #25 Vanderbilt Commodores @ Kentucky Wildcats | 31 - 46 | Halftime | ESPN |
+| UCLA Bruins @ Minnesota Golden Gophers | 41 - 40 | Halftime | FS1 |
 | Queens University Royals @ Central Arkansas Bears | 24 - 31 | Halftime | ESPN+ |
+| North Alabama Lions @ West Georgia Wolves | 25 - 30 | Halftime | ESPN+ |
 | Florida Gulf Coast Eagles @ Stetson Hatters | 27 - 34 | Halftime | ESPN+ |
-| San Diego State Aztecs @ New Mexico Lobos | 30 - 26 | 3:28 - 1st Half | CBS |
-| UCLA Bruins @ Minnesota Golden Gophers | 39 - 38 | 1:21 - 1st Half | FS1 |
-| #24 Louisville Cardinals @ Clemson Tigers | 27 - 32 | 3:58 - 1st Half | ESPN2 |
-| North Alabama Lions @ West Georgia Wolves | 23 - 28 | 1:16 - 1st Half | ESPN+ |
-| New Mexico State Aggies @ Middle Tennessee Blue Raiders | 69 - 63 | 3:25 - 2nd Half | ESPN+ |
-| William & Mary Tribe @ North Carolina A&T Aggies | 40 - 33 | 1:42 - 1st Half | FloSports |
-| Tennessee State Tigers @ UT Martin Skyhawks | 33 - 17 | 2:57 - 1st Half | ESPNU |
-| #25 Vanderbilt Commodores @ Kentucky Wildcats | 29 - 45 | 1:14 - 1st Half | ESPN |
-| Oklahoma State Cowboys @ Cincinnati Bearcats | 27 - 43 | 3:24 - 1st Half | CBSSN |
-| Missouri Tigers @ Mississippi State Bulldogs | 85 - 56 | 4:19 - 2nd Half | SEC Network |
+| San Diego State Aztecs @ New Mexico Lobos | 37 - 33 | 0:46 - 1st Half | CBS |
+| #24 Louisville Cardinals @ Clemson Tigers | 31 - 37 | 1:34 - 1st Half | ESPN2 |
+| New Mexico State Aggies @ Middle Tennessee Blue Raiders | 73 - 70 | 2:08 - 2nd Half | ESPN+ |
+| Tennessee State Tigers @ UT Martin Skyhawks | 35 - 19 | 1:19 - 1st Half | ESPNU |
+| William & Mary Tribe @ North Carolina A&T Aggies | 46 - 37 | 0:25 - 1st Half | FloSports |
+| Oklahoma State Cowboys @ Cincinnati Bearcats | 33 - 47 | 1:03 - 1st Half | CBSSN |
+| Missouri Tigers @ Mississippi State Bulldogs | 85 - 59 | 2:27 - 2nd Half | SEC Network |
 | Florida International Panthers @ Louisiana Tech Bulldogs | 0 - 0 | Sat, February 28th at 3:00 PM EST | ESPN+ |
 | UTEP Miners @ Western Kentucky Hilltoppers | 0 - 0 | Sat, February 28th at 3:00 PM EST | ESPN+ |
 | Utah Utes @ Arizona State Sun Devils | 0 - 0 | Sat, February 28th at 3:30 PM EST | TNT, truTV |
