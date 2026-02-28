@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-02-28 22:15:24",
+    "lastUpdated": "2026-02-28 22:15:56",
     "games": [
         {
             "awayTeam": "#16 Texas Tech Red Raiders",
@@ -22,23 +22,23 @@
             "state": "in"
         },
         {
+            "awayTeam": "North Carolina Central Eagles",
+            "awayScore": "3",
+            "homeTeam": "Delaware State Hornets",
+            "homeScore": "3",
+            "status": "18:18 - 1st Half",
+            "tv": "ESPN+",
+            "winProb": 0.485,
+            "state": "in"
+        },
+        {
             "awayTeam": "#12 Nebraska Cornhuskers",
             "awayScore": "35",
             "homeTeam": "USC Trojans",
             "homeScore": "38",
-            "status": "18:43 - 2nd Half",
+            "status": "18:25 - 2nd Half",
             "tv": "BTN",
-            "winProb": 0.49,
-            "state": "in"
-        },
-        {
-            "awayTeam": "North Carolina Central Eagles",
-            "awayScore": "0",
-            "homeTeam": "Delaware State Hornets",
-            "homeScore": "3",
-            "status": "18:40 - 1st Half",
-            "tv": "ESPN+",
-            "winProb": 0.546,
+            "winProb": 0.452,
             "state": "in"
         },
         {
@@ -46,7 +46,7 @@
             "awayScore": "50",
             "homeTeam": "Eastern Kentucky Colonels",
             "homeScore": "49",
-            "status": "16:35 - 2nd Half",
+            "status": "16:10 - 2nd Half",
             "tv": "ESPN+",
             "winProb": 0.375,
             "state": "in"
@@ -65,10 +65,10 @@
             "awayTeam": "East Tennessee State Buccaneers",
             "awayScore": "29",
             "homeTeam": "Mercer Bears",
-            "homeScore": "41",
+            "homeScore": "43",
             "status": "3:14 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.884,
+            "winProb": 0.915,
             "state": "in"
         },
         {
@@ -76,9 +76,9 @@
             "awayScore": "28",
             "homeTeam": "#2 Arizona Wildcats",
             "homeScore": "40",
-            "status": "19:16 - 2nd Half",
+            "status": "18:55 - 2nd Half",
             "tv": "ESPN",
-            "winProb": 0.961,
+            "winProb": 0.962,
             "state": "in"
         },
         {
@@ -88,7 +88,7 @@
             "homeScore": "54",
             "status": "15:27 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.994,
+            "winProb": 0.993,
             "state": "in"
         },
         {
