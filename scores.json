@@ -1,14 +1,14 @@
 {
-    "lastUpdated": "2026-02-28 17:42:44",
+    "lastUpdated": "2026-02-28 18:03:13",
     "games": [
         {
             "awayTeam": "#11 Virginia Cavaliers",
-            "awayScore": "16",
+            "awayScore": "26",
             "homeTeam": "#1 Duke Blue Devils",
-            "homeScore": "32",
-            "status": "4:17 - 1st Half",
+            "homeScore": "41",
+            "status": "Halftime",
             "tv": "ESPN",
-            "winProb": 0.978,
+            "winProb": 0.5,
             "state": "in"
         },
         {
@@ -16,20 +16,20 @@
             "awayScore": "0",
             "homeTeam": "Mississippi State Bulldogs",
             "homeScore": "0",
-            "status": "Sat, February 28th at 1:00 PM EST",
+            "status": "19:46 - 1st Half",
             "tv": "SEC Network",
             "winProb": 0.5,
-            "state": "pre"
+            "state": "in"
         },
         {
             "awayTeam": "New Mexico State Aggies",
             "awayScore": "0",
             "homeTeam": "Middle Tennessee Blue Raiders",
             "homeScore": "0",
-            "status": "Sat, February 28th at 1:00 PM EST",
+            "status": "19:35 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.5,
-            "state": "pre"
+            "winProb": 0.644,
+            "state": "in"
         },
         {
             "awayTeam": "#24 Louisville Cardinals",

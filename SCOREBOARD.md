@@ -1,11 +1,11 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-02-28 17:42:44*
+*Updated: 2026-02-28 18:03:13*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #11 Virginia Cavaliers @ #1 Duke Blue Devils | 16 - 32 | 4:17 - 1st Half | ESPN |
-| Missouri Tigers @ Mississippi State Bulldogs | 0 - 0 | Sat, February 28th at 1:00 PM EST | SEC Network |
-| New Mexico State Aggies @ Middle Tennessee Blue Raiders | 0 - 0 | Sat, February 28th at 1:00 PM EST | ESPN+ |
+| #11 Virginia Cavaliers @ #1 Duke Blue Devils | 26 - 41 | Halftime | ESPN |
+| Missouri Tigers @ Mississippi State Bulldogs | 0 - 0 | 19:46 - 1st Half | SEC Network |
+| New Mexico State Aggies @ Middle Tennessee Blue Raiders | 0 - 0 | 19:35 - 1st Half | ESPN+ |
 | #24 Louisville Cardinals @ Clemson Tigers | 0 - 0 | Sat, February 28th at 2:00 PM EST | ESPN2 |
 | #25 Vanderbilt Commodores @ Kentucky Wildcats | 0 - 0 | Sat, February 28th at 2:00 PM EST | ESPN |
 | Oklahoma State Cowboys @ Cincinnati Bearcats | 0 - 0 | Sat, February 28th at 2:00 PM EST | CBSSN |
