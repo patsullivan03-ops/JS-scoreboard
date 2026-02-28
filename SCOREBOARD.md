@@ -1,20 +1,20 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-02-28 22:15:56*
+*Updated: 2026-02-28 22:21:03*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #16 Texas Tech Red Raiders @ #4 Iowa State Cyclones | 45 - 29 | Halftime | CBS |
-| Texas Longhorns @ Texas A&M Aggies | 29 - 30 | Halftime | ESPN2 |
-| North Carolina Central Eagles @ Delaware State Hornets | 3 - 3 | 18:18 - 1st Half | ESPN+ |
-| #12 Nebraska Cornhuskers @ USC Trojans | 35 - 38 | 18:25 - 2nd Half | BTN |
-| Lipscomb Bisons @ Eastern Kentucky Colonels | 50 - 49 | 16:10 - 2nd Half | ESPN+ |
-| Tennessee Tech Golden Eagles @ Southeast Missouri State Redhawks | 12 - 10 | 14:36 - 1st Half | ESPN+ |
-| East Tennessee State Buccaneers @ Mercer Bears | 29 - 43 | 3:14 - 1st Half | ESPN+ |
-| #14 Kansas Jayhawks @ #2 Arizona Wildcats | 28 - 40 | 18:55 - 2nd Half | ESPN |
-| Northern Arizona Lumberjacks @ Eastern Washington Eagles | 35 - 54 | 15:27 - 2nd Half | ESPN+ |
-| Utah Utes @ Arizona State Sun Devils | 53 - 68 | 3:52 - 2nd Half | TNT, truTV |
+| East Tennessee State Buccaneers @ Mercer Bears | 35 - 49 | Halftime | ESPN+ |
+| Tennessee Tech Golden Eagles @ Southeast Missouri State Redhawks | 23 - 16 | 11:24 - 1st Half | ESPN+ |
+| Lipscomb Bisons @ Eastern Kentucky Colonels | 53 - 52 | 15:02 - 2nd Half | ESPN+ |
+| Texas Longhorns @ Texas A&M Aggies | 29 - 30 | 19:35 - 2nd Half | ESPN2 |
+| North Carolina Central Eagles @ Delaware State Hornets | 5 - 10 | 15:29 - 1st Half | ESPN+ |
+| #12 Nebraska Cornhuskers @ USC Trojans | 43 - 38 | 16:56 - 2nd Half | BTN |
+| #16 Texas Tech Red Raiders @ #4 Iowa State Cyclones | 45 - 31 | 19:37 - 2nd Half | CBS |
+| #14 Kansas Jayhawks @ #2 Arizona Wildcats | 35 - 42 | 15:40 - 2nd Half | ESPN |
+| Utah Utes @ Arizona State Sun Devils | 58 - 70 | 1:42 - 2nd Half | TNT, truTV |
+| Northern Arizona Lumberjacks @ Eastern Washington Eagles | 37 - 62 | 12:41 - 2nd Half | ESPN+ |
 | Jackson State Tigers @ Texas Southern Tigers | 0 - 0 | Sat, February 28th at 5:45 PM EST | N/A |
-| Alabama State Hornets @ Alabama A&M Bulldogs | 0 - 0 | Sat, February 28th at 5:00 PM EST | N/A |
+| Alabama State Hornets @ Alabama A&M Bulldogs | 0 - 0 | Sat, February 28th at 5:45 PM EST | N/A |
 | #19 BYU Cougars @ West Virginia Mountaineers | 0 - 0 | Sat, February 28th at 5:30 PM EST | FOX |
 | Providence Friars @ Creighton Bluejays | 0 - 0 | Sat, February 28th at 5:30 PM EST | TNT, truTV |
 | East Texas A&M Lions @ UT Rio Grande Valley Vaqueros | 0 - 0 | Sat, February 28th at 5:30 PM EST | ESPN+ |
