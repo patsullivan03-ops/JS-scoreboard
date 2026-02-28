@@ -5,16 +5,122 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Milo's NCAAB Scoreboard</title>
     <style>
-        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; background: #f4f4f9; color: #333; display: flex; flex-direction: column; align-items: center; padding: 20px; }
-        h1 { color: #2c3e50; }
-        #scoreboard { width: 100%; max-width: 600px; }
-        .game-card { background: white; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-bottom: 15px; padding: 15px; display: flex; justify-content: space-between; align-items: center; }
-        .team { display: flex; flex-direction: column; align-items: center; width: 40%; }
-        .team-name { font-weight: bold; font-size: 1.1rem; text-align: center; }
-        .score { font-size: 2rem; font-weight: bold; color: #e67e22; }
-        .status { font-size: 0.9rem; color: #7f8c8d; text-align: center; margin-top: 5px; }
-        .vs { font-weight: bold; color: #bdc3c7; }
-        .last-update { font-size: 0.8rem; color: #95a5a6; margin-top: 20px; }
+        :root {
+            --primary: #2c3e50;
+            --accent: #e67e22;
+            --bg: #f8f9fa;
+            --card-bg: #ffffff;
+            --text: #333333;
+            --status-text: #7f8c8d;
+        }
+        body { 
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; 
+            background: var(--bg); 
+            color: var(--text); 
+            display: flex; 
+            flex-direction: column; 
+            align-items: center; 
+            padding: 40px 20px;
+            margin: 0;
+        }
+        h1 { 
+            color: var(--primary); 
+            font-size: 2.2rem;
+            margin-bottom: 30px;
+            letter-spacing: -1px;
+        }
+        #scoreboard { 
+            width: 100%; 
+            max-width: 700px; 
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 15px;
+        }
+        .game-card { 
+            background: var(--card-bg); 
+            border-radius: 12px; 
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05); 
+            padding: 20px; 
+            display: flex; 
+            flex-direction: column;
+            transition: transform 0.2s ease;
+            border: 1px solid #eee;
+        }
+        .game-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 12px rgba(0,0,0,0.08);
+        }
+        .game-main {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 12px;
+        }
+        .team { 
+            display: flex; 
+            flex-direction: column; 
+            width: 35%; 
+        }
+        .team-name { 
+            font-weight: 700; 
+            font-size: 1.1rem; 
+            color: var(--primary);
+        }
+        .score-container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 30%;
+            gap: 10px;
+        }
+        .score { 
+            font-size: 2.2rem; 
+            font-weight: 800; 
+            color: var(--accent); 
+        }
+        .divider {
+            color: #ccc;
+            font-size: 1.2rem;
+            font-weight: 300;
+        }
+        .game-footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-top: 1px solid #f0f0f0;
+            padding-top: 12px;
+        }
+        .status { 
+            font-size: 0.85rem; 
+            font-weight: 600;
+            color: var(--status-text); 
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        .tv-tag {
+            background: #edf2f7;
+            color: #4a5568;
+            padding: 4px 10px;
+            border-radius: 6px;
+            font-size: 0.75rem;
+            font-weight: 700;
+        }
+        .last-update { 
+            font-size: 0.85rem; 
+            color: #95a5a6; 
+            margin-top: 40px; 
+            font-style: italic;
+        }
+        
+        /* Team specific alignments */
+        .away { text-align: left; }
+        .home { text-align: right; }
+
+        @media (max-width: 480px) {
+            h1 { font-size: 1.8rem; }
+            .score { font-size: 1.8rem; }
+            .team-name { font-size: 0.9rem; }
+        }
     </style>
 </head>
 <body>
@@ -39,21 +145,30 @@
             const timeContainer = document.getElementById('update-time');
             
             if (!data.games || data.games.length === 0) {
-                container.innerHTML = 'No games currently tracked.';
+                container.innerHTML = '<p style="text-align:center; color:#7f8c8d;">No games currently tracked.</p>';
                 return;
             }
 
             container.innerHTML = data.games.map(game => `
                 <div class="game-card">
-                    <div class="team">
-                        <span class="team-name">${game.awayTeam}</span>
+                    <div class="game-main">
+                        <div class="team away">
+                            <span class="team-name">${game.awayTeam}</span>
+                        </div>
+                        <div class="score-container">
+                            <span class="score">${game.awayScore}</span>
+                            <span class="divider">-</span>
+                            <span class="score">${game.homeScore}</span>
+                        </div>
+                        <div class="team home">
+                            <span class="team-name">${game.homeTeam}</span>
+                        </div>
                     </div>
-                    <div class="score">${game.awayScore} - ${game.homeScore}</div>
-                    <div class="team">
-                        <span class="team-name">${game.homeTeam}</span>
+                    <div class="game-footer">
+                        <div class="status">${game.status}</div>
+                        <div class="tv-tag">${game.tv}</div>
                     </div>
                 </div>
-                <div class="status" style="margin-bottom: 20px; margin-top: -10px;">${game.status}</div>
             `).join('');
 
             timeContainer.innerText = 'Last updated: ' + data.lastUpdated;
