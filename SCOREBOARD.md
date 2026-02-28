@@ -1,21 +1,20 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-02-28 18:08:26*
+*Updated: 2026-02-28 19:06:31*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #11 Virginia Cavaliers @ #1 Duke Blue Devils | 26 - 41 | Halftime | ESPN |
-| New Mexico State Aggies @ Middle Tennessee Blue Raiders | 0 - 0 | 16:22 - 1st Half | ESPN+ |
-| Missouri Tigers @ Mississippi State Bulldogs | 11 - 2 | 15:57 - 1st Half | SEC Network |
-| #24 Louisville Cardinals @ Clemson Tigers | 0 - 0 | Sat, February 28th at 2:00 PM EST | ESPN2 |
-| #25 Vanderbilt Commodores @ Kentucky Wildcats | 0 - 0 | Sat, February 28th at 2:00 PM EST | ESPN |
-| Oklahoma State Cowboys @ Cincinnati Bearcats | 0 - 0 | Sat, February 28th at 2:00 PM EST | CBSSN |
+| #25 Vanderbilt Commodores @ Kentucky Wildcats | 5 - 5 | 18:28 - 1st Half | ESPN |
+| #24 Louisville Cardinals @ Clemson Tigers | 0 - 0 | 19:37 - 1st Half | ESPN2 |
+| San Diego State Aztecs @ New Mexico Lobos | 0 - 0 | 19:21 - 1st Half | CBS |
+| New Mexico State Aggies @ Middle Tennessee Blue Raiders | 42 - 36 | 18:10 - 2nd Half | ESPN+ |
+| Tennessee State Tigers @ UT Martin Skyhawks | 2 - 2 | 19:20 - 1st Half | ESPNU |
+| Queens University Royals @ Central Arkansas Bears | 0 - 2 | 18:19 - 1st Half | ESPN+ |
+| North Alabama Lions @ West Georgia Wolves | 2 - 3 | 17:47 - 1st Half | ESPN+ |
+| William & Mary Tribe @ North Carolina A&T Aggies | 0 - 0 | 19:41 - 1st Half | FloSports |
+| Florida Gulf Coast Eagles @ Stetson Hatters | 3 - 2 | 18:33 - 1st Half | ESPN+ |
+| Oklahoma State Cowboys @ Cincinnati Bearcats | 0 - 1 | 19:54 - 1st Half | CBSSN |
+| Missouri Tigers @ Mississippi State Bulldogs | 54 - 23 | Halftime | SEC Network |
 | UCLA Bruins @ Minnesota Golden Gophers | 0 - 0 | Sat, February 28th at 2:00 PM EST | FS1 |
-| San Diego State Aztecs @ New Mexico Lobos | 0 - 0 | Sat, February 28th at 2:00 PM EST | CBS |
-| William & Mary Tribe @ North Carolina A&T Aggies | 0 - 0 | Sat, February 28th at 2:00 PM EST | FloSports |
-| Queens University Royals @ Central Arkansas Bears | 0 - 0 | Sat, February 28th at 2:00 PM EST | ESPN+ |
-| North Alabama Lions @ West Georgia Wolves | 0 - 0 | Sat, February 28th at 2:00 PM EST | ESPN+ |
-| Florida Gulf Coast Eagles @ Stetson Hatters | 0 - 0 | Sat, February 28th at 2:00 PM EST | ESPN+ |
-| Tennessee State Tigers @ UT Martin Skyhawks | 0 - 0 | Sat, February 28th at 2:00 PM EST | ESPNU |
 | Florida International Panthers @ Louisiana Tech Bulldogs | 0 - 0 | Sat, February 28th at 3:00 PM EST | ESPN+ |
 | UTEP Miners @ Western Kentucky Hilltoppers | 0 - 0 | Sat, February 28th at 3:00 PM EST | ESPN+ |
 | Utah Utes @ Arizona State Sun Devils | 0 - 0 | Sat, February 28th at 3:30 PM EST | TNT, truTV |
@@ -47,3 +46,4 @@
 | #20 Arkansas Razorbacks @ #7 Florida Gators | 0 - 0 | Sat, February 28th at 8:30 PM EST | ESPN |
 | Virginia Tech Hokies @ #18 North Carolina Tar Heels | 0 - 0 | Sat, February 28th at 8:30 PM EST | ESPN2 |
 | #9 Gonzaga Bulldogs @ Saint Mary's Gaels | 0 - 0 | Sat, February 28th at 10:30 PM EST | ESPN |
+| #11 Virginia Cavaliers @ #1 Duke Blue Devils | 51 - 77 | Final | ESPN |
