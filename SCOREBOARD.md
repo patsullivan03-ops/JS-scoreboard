@@ -1,21 +1,19 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-02-28 23:21:58*
+*Updated: 2026-02-28 23:27:02*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
+| Providence Friars @ Creighton Bluejays | 39 - 37 | Halftime | TNT, truTV |
 | East Texas A&M Lions @ UT Rio Grande Valley Vaqueros | 34 - 24 | Halftime | ESPN+ |
-| Alabama State Hornets @ Alabama A&M Bulldogs | 11 - 9 | 15:13 - 1st Half | N/A |
-| Providence Friars @ Creighton Bluejays | 37 - 37 | 0:47 - 1st Half | TNT, truTV |
-| SMU Mustangs @ Stanford Cardinal | 12 - 20 | 11:50 - 1st Half | ACC Network |
-| East Tennessee State Buccaneers @ Mercer Bears | 74 - 76 | 2:20 - 2nd Half | ESPN+ |
-| North Carolina Central Eagles @ Delaware State Hornets | 40 - 35 | 15:42 - 2nd Half | ESPN+ |
-| #19 BYU Cougars @ West Virginia Mountaineers | 23 - 31 | 3:07 - 1st Half | FOX |
-| Jackson State Tigers @ Texas Southern Tigers | 19 - 16 | 9:30 - 1st Half | N/A |
-| #17 Alabama Crimson Tide @ #22 Tennessee Volunteers | 0 - 5 | 15:55 - 1st Half | ESPNEWS |
-| Tennessee Tech Golden Eagles @ Southeast Missouri State Redhawks | 40 - 47 | 15:45 - 2nd Half | ESPN+ |
-| Missouri State Bears @ Sam Houston Bearkats | 31 - 42 | 0:42 - 1st Half | ESPN+ |
-| #16 Texas Tech Red Raiders @ #4 Iowa State Cyclones | 79 - 68 | 1:05 - 2nd Half | CBS |
-| Texas Longhorns @ Texas A&M Aggies | 75 - 67 | 0:21 - 2nd Half | ESPN2 |
+| Missouri State Bears @ Sam Houston Bearkats | 34 - 43 | Halftime | ESPN+ |
+| SMU Mustangs @ Stanford Cardinal | 14 - 20 | 10:15 - 1st Half | ACC Network |
+| Alabama State Hornets @ Alabama A&M Bulldogs | 17 - 17 | 12:08 - 1st Half | N/A |
+| #17 Alabama Crimson Tide @ #22 Tennessee Volunteers | 11 - 12 | 12:27 - 1st Half | ESPN |
+| Jackson State Tigers @ Texas Southern Tigers | 19 - 18 | 7:20 - 1st Half | N/A |
+| North Carolina Central Eagles @ Delaware State Hornets | 42 - 35 | 14:53 - 2nd Half | ESPN+ |
+| #19 BYU Cougars @ West Virginia Mountaineers | 26 - 38 | 0:19 - 1st Half | FOX |
+| Tennessee Tech Golden Eagles @ Southeast Missouri State Redhawks | 44 - 51 | 14:49 - 2nd Half | ESPN+ |
+| East Tennessee State Buccaneers @ Mercer Bears | 74 - 80 | 0:52 - 2nd Half | ESPN+ |
 | TCU Horned Frogs @ Kansas State Wildcats | 0 - 0 | Sat, February 28th at 6:30 PM EST | ESPN2 |
 | Mississippi Valley State Delta Devils @ Arkansas-Pine Bluff Golden Lions | 0 - 0 | Sat, February 28th at 6:30 PM EST | N/A |
 | Northwestern State Demons @ Texas A&M-Corpus Christi Islanders | 0 - 0 | Sat, February 28th at 6:30 PM EST | ESPN+ |
@@ -26,6 +24,8 @@
 | #20 Arkansas Razorbacks @ #7 Florida Gators | 0 - 0 | Sat, February 28th at 8:30 PM EST | ESPN |
 | Virginia Tech Hokies @ #18 North Carolina Tar Heels | 0 - 0 | Sat, February 28th at 8:30 PM EST | ESPN2 |
 | #9 Gonzaga Bulldogs @ Saint Mary's Gaels | 0 - 0 | Sat, February 28th at 10:30 PM EST | ESPN |
+| #16 Texas Tech Red Raiders @ #4 Iowa State Cyclones | 82 - 73 | Final | CBS |
+| Texas Longhorns @ Texas A&M Aggies | 76 - 70 | Final | ESPN2 |
 | #11 Virginia Cavaliers @ #1 Duke Blue Devils | 51 - 77 | Final | ESPN |
 | #14 Kansas Jayhawks @ #2 Arizona Wildcats | 61 - 84 | Final | ESPN |
 | #12 Nebraska Cornhuskers @ USC Trojans | 82 - 67 | Final | BTN |
