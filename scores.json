@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-02-28 19:52:13",
+    "lastUpdated": "2026-02-28 19:57:18",
     "games": [
         {
             "awayTeam": "#25 Vanderbilt Commodores",
@@ -12,12 +12,42 @@
             "state": "in"
         },
         {
+            "awayTeam": "Oklahoma State Cowboys",
+            "awayScore": "33",
+            "homeTeam": "Cincinnati Bearcats",
+            "homeScore": "51",
+            "status": "Halftime",
+            "tv": "CBSSN",
+            "winProb": 0.5,
+            "state": "in"
+        },
+        {
             "awayTeam": "UCLA Bruins",
             "awayScore": "41",
             "homeTeam": "Minnesota Golden Gophers",
             "homeScore": "40",
             "status": "Halftime",
             "tv": "FS1",
+            "winProb": 0.5,
+            "state": "in"
+        },
+        {
+            "awayTeam": "San Diego State Aztecs",
+            "awayScore": "37",
+            "homeTeam": "New Mexico Lobos",
+            "homeScore": "36",
+            "status": "Halftime",
+            "tv": "CBS",
+            "winProb": 0.5,
+            "state": "in"
+        },
+        {
+            "awayTeam": "William & Mary Tribe",
+            "awayScore": "46",
+            "homeTeam": "North Carolina A&T Aggies",
+            "homeScore": "37",
+            "status": "Halftime",
+            "tv": "FloSports",
             "winProb": 0.5,
             "state": "in"
         },
@@ -52,73 +82,33 @@
             "state": "in"
         },
         {
-            "awayTeam": "San Diego State Aztecs",
-            "awayScore": "37",
-            "homeTeam": "New Mexico Lobos",
-            "homeScore": "33",
-            "status": "0:46 - 1st Half",
-            "tv": "CBS",
-            "winProb": 0.455,
+            "awayTeam": "Tennessee State Tigers",
+            "awayScore": "35",
+            "homeTeam": "UT Martin Skyhawks",
+            "homeScore": "21",
+            "status": "Halftime",
+            "tv": "ESPNU",
+            "winProb": 0.5,
             "state": "in"
         },
         {
             "awayTeam": "#24 Louisville Cardinals",
-            "awayScore": "31",
+            "awayScore": "33",
             "homeTeam": "Clemson Tigers",
-            "homeScore": "37",
-            "status": "1:34 - 1st Half",
+            "homeScore": "38",
+            "status": "0:16 - 1st Half",
             "tv": "ESPN2",
-            "winProb": 0.654,
+            "winProb": 0.631,
             "state": "in"
         },
         {
             "awayTeam": "New Mexico State Aggies",
-            "awayScore": "73",
+            "awayScore": "76",
             "homeTeam": "Middle Tennessee Blue Raiders",
-            "homeScore": "70",
-            "status": "2:08 - 2nd Half",
+            "homeScore": "73",
+            "status": "0:34 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.342,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Tennessee State Tigers",
-            "awayScore": "35",
-            "homeTeam": "UT Martin Skyhawks",
-            "homeScore": "19",
-            "status": "1:19 - 1st Half",
-            "tv": "ESPNU",
-            "winProb": 0.109,
-            "state": "in"
-        },
-        {
-            "awayTeam": "William & Mary Tribe",
-            "awayScore": "46",
-            "homeTeam": "North Carolina A&T Aggies",
-            "homeScore": "37",
-            "status": "0:25 - 1st Half",
-            "tv": "FloSports",
-            "winProb": 0.107,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Oklahoma State Cowboys",
-            "awayScore": "33",
-            "homeTeam": "Cincinnati Bearcats",
-            "homeScore": "47",
-            "status": "1:03 - 1st Half",
-            "tv": "CBSSN",
-            "winProb": 0.961,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Missouri Tigers",
-            "awayScore": "85",
-            "homeTeam": "Mississippi State Bulldogs",
-            "homeScore": "59",
-            "status": "2:27 - 2nd Half",
-            "tv": "SEC Network",
-            "winProb": 0.001,
+            "winProb": 0.197,
             "state": "in"
         },
         {
@@ -430,6 +420,16 @@
             "tv": "ESPN",
             "winProb": 0.5,
             "state": "pre"
+        },
+        {
+            "awayTeam": "Missouri Tigers",
+            "awayScore": "88",
+            "homeTeam": "Mississippi State Bulldogs",
+            "homeScore": "64",
+            "status": "Final",
+            "tv": "SEC Network",
+            "winProb": 0.5,
+            "state": "post"
         },
         {
             "awayTeam": "#11 Virginia Cavaliers",
