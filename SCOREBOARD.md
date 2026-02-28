@@ -1,21 +1,20 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-02-28 22:46:26*
+*Updated: 2026-02-28 22:51:31*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| North Carolina Central Eagles @ Delaware State Hornets | 25 - 25 | 4:04 - 1st Half | ESPN+ |
-| Providence Friars @ Creighton Bluejays | 7 - 5 | 15:49 - 1st Half | TNT, truTV |
-| Tennessee Tech Golden Eagles @ Southeast Missouri State Redhawks | 33 - 28 | 1:55 - 1st Half | ESPN+ |
-| #19 BYU Cougars @ West Virginia Mountaineers | 6 - 7 | 15:07 - 1st Half | FOX |
-| East Texas A&M Lions @ UT Rio Grande Valley Vaqueros | 18 - 10 | 11:43 - 1st Half | ESPN+ |
-| Texas Longhorns @ Texas A&M Aggies | 48 - 42 | 9:59 - 2nd Half | ESPN2 |
-| Lipscomb Bisons @ Eastern Kentucky Colonels | 71 - 67 | 4:55 - 2nd Half | ESPN+ |
-| Missouri State Bears @ Sam Houston Bearkats | 4 - 10 | 15:19 - 1st Half | ESPN+ |
-| #16 Texas Tech Red Raiders @ #4 Iowa State Cyclones | 60 - 45 | 10:42 - 2nd Half | CBS |
-| East Tennessee State Buccaneers @ Mercer Bears | 43 - 60 | 13:56 - 2nd Half | ESPN+ |
-| #12 Nebraska Cornhuskers @ USC Trojans | 61 - 46 | 10:08 - 2nd Half | BTN |
-| #14 Kansas Jayhawks @ #2 Arizona Wildcats | 47 - 61 | 8:50 - 2nd Half | ESPN |
-| Northern Arizona Lumberjacks @ Eastern Washington Eagles | 57 - 86 | 0:57 - 2nd Half | ESPN+ |
+| Providence Friars @ Creighton Bluejays | 14 - 12 | 12:01 - 1st Half | TNT, truTV |
+| Tennessee Tech Golden Eagles @ Southeast Missouri State Redhawks | 36 - 32 | 0:03 - 1st Half | ESPN+ |
+| #19 BYU Cougars @ West Virginia Mountaineers | 11 - 9 | 11:47 - 1st Half | FOX |
+| North Carolina Central Eagles @ Delaware State Hornets | 25 - 31 | 1:32 - 1st Half | ESPN+ |
+| Lipscomb Bisons @ Eastern Kentucky Colonels | 74 - 72 | 3:15 - 2nd Half | ESPN+ |
+| Texas Longhorns @ Texas A&M Aggies | 55 - 51 | 7:19 - 2nd Half | ESPN2 |
+| East Texas A&M Lions @ UT Rio Grande Valley Vaqueros | 21 - 16 | 8:39 - 1st Half | ESPN+ |
+| Missouri State Bears @ Sam Houston Bearkats | 14 - 15 | 12:15 - 1st Half | ESPN+ |
+| #16 Texas Tech Red Raiders @ #4 Iowa State Cyclones | 65 - 49 | 9:02 - 2nd Half | CBS |
+| East Tennessee State Buccaneers @ Mercer Bears | 48 - 62 | 12:23 - 2nd Half | ESPN+ |
+| #14 Kansas Jayhawks @ #2 Arizona Wildcats | 47 - 65 | 7:40 - 2nd Half | ESPN |
+| #12 Nebraska Cornhuskers @ USC Trojans | 66 - 46 | 8:30 - 2nd Half | BTN |
 | Jackson State Tigers @ Texas Southern Tigers | 0 - 0 | Sat, February 28th at 5:45 PM EST | N/A |
 | Alabama State Hornets @ Alabama A&M Bulldogs | 0 - 0 | Sat, February 28th at 5:45 PM EST | N/A |
 | #17 Alabama Crimson Tide @ #22 Tennessee Volunteers | 0 - 0 | Sat, February 28th at 6:00 PM EST | ESPN |
@@ -30,6 +29,7 @@
 | #20 Arkansas Razorbacks @ #7 Florida Gators | 0 - 0 | Sat, February 28th at 8:30 PM EST | ESPN |
 | Virginia Tech Hokies @ #18 North Carolina Tar Heels | 0 - 0 | Sat, February 28th at 8:30 PM EST | ESPN2 |
 | #9 Gonzaga Bulldogs @ Saint Mary's Gaels | 0 - 0 | Sat, February 28th at 10:30 PM EST | ESPN |
+| Northern Arizona Lumberjacks @ Eastern Washington Eagles | 57 - 88 | Final | ESPN+ |
 | #11 Virginia Cavaliers @ #1 Duke Blue Devils | 51 - 77 | Final | ESPN |
 | #24 Louisville Cardinals @ Clemson Tigers | 75 - 80 | Final | ESPN2 |
 | #25 Vanderbilt Commodores @ Kentucky Wildcats | 77 - 91 | Final | ESPN |
