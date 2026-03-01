@@ -1,19 +1,18 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-01 01:03:32*
+*Updated: 2026-03-01 01:08:37*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Alabama State Hornets @ Alabama A&M Bulldogs | 85 - 85 | 2:06 - 2nd Half | N/A |
-| TCU Horned Frogs @ Kansas State Wildcats | 59 - 56 | 8:13 - 2nd Half | ESPN2 |
-| #17 Alabama Crimson Tide @ #22 Tennessee Volunteers | 65 - 67 | 2:49 - 2nd Half | ESPN |
-| Mississippi Valley State Delta Devils @ Arkansas-Pine Bluff Golden Lions | 43 - 43 | 15:45 - 2nd Half | N/A |
-| Wright State Raiders @ Northern Kentucky Norse | 39 - 54 | 16:37 - 2nd Half | ESPN+ |
-| Northwestern State Demons @ Texas A&M-Corpus Christi Islanders | 44 - 62 | 7:23 - 2nd Half | ESPN+ |
-| Jackson State Tigers @ Texas Southern Tigers | 57 - 82 | 0:36 - 2nd Half | N/A |
-| SMU Mustangs @ Stanford Cardinal | 63 - 83 | 3:48 - 2nd Half | ACC Network |
-| Villanova Wildcats @ #15 St. John's Red Storm | 0 - 0 | Sat, February 28th at 8:00 PM EST | FOX |
+| #17 Alabama Crimson Tide @ #22 Tennessee Volunteers | 69 - 69 | 1:01 - 2nd Half | ESPN |
+| Oral Roberts Golden Eagles @ Kansas City Roos | 0 - 0 | 19:31 - 1st Half | Summit League Network, Midco Sports Plus |
+| Alabama State Hornets @ Alabama A&M Bulldogs | 87 - 88 | 0:54 - 2nd Half | N/A |
+| Villanova Wildcats @ #15 St. John's Red Storm | 2 - 2 | 18:53 - 1st Half | FOX |
+| TCU Horned Frogs @ Kansas State Wildcats | 61 - 56 | 7:49 - 2nd Half | ESPN2 |
+| Mississippi Valley State Delta Devils @ Arkansas-Pine Bluff Golden Lions | 47 - 49 | 12:24 - 2nd Half | N/A |
+| Wright State Raiders @ Northern Kentucky Norse | 42 - 58 | 15:37 - 2nd Half | ESPN+ |
+| Northwestern State Demons @ Texas A&M-Corpus Christi Islanders | 47 - 62 | 5:06 - 2nd Half | ESPN+ |
+| SMU Mustangs @ Stanford Cardinal | 67 - 87 | 2:21 - 2nd Half | ACC Network |
 | Baylor Bears @ UCF Knights | 0 - 0 | Sat, February 28th at 8:00 PM EST | FS1 |
-| Oral Roberts Golden Eagles @ Kansas City Roos | 0 - 0 | Sat, February 28th at 8:00 PM EST | Summit League Network, Midco Sports Plus |
 | #20 Arkansas Razorbacks @ #7 Florida Gators | 0 - 0 | Sat, February 28th at 8:30 PM EST | ESPN |
 | Virginia Tech Hokies @ #18 North Carolina Tar Heels | 0 - 0 | Sat, February 28th at 8:30 PM EST | ESPN2 |
 | #9 Gonzaga Bulldogs @ Saint Mary's Gaels | 0 - 0 | Sat, February 28th at 10:30 PM EST | ESPN |
@@ -44,3 +43,4 @@
 | Providence Friars @ Creighton Bluejays | 79 - 76 | Final | TNT, truTV |
 | East Texas A&M Lions @ UT Rio Grande Valley Vaqueros | 55 - 63 | Final | ESPN+ |
 | Missouri State Bears @ Sam Houston Bearkats | 81 - 86 | Final | ESPN+ |
+| Jackson State Tigers @ Texas Southern Tigers | 57 - 82 | Final | N/A |

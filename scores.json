@@ -1,95 +1,95 @@
 {
-    "lastUpdated": "2026-03-01 01:03:32",
+    "lastUpdated": "2026-03-01 01:08:37",
     "games": [
         {
-            "awayTeam": "Alabama State Hornets",
-            "awayScore": "85",
-            "homeTeam": "Alabama A&M Bulldogs",
-            "homeScore": "85",
-            "status": "2:06 - 2nd Half",
-            "tv": "N/A",
-            "winProb": 0.546,
-            "state": "in"
-        },
-        {
-            "awayTeam": "TCU Horned Frogs",
-            "awayScore": "59",
-            "homeTeam": "Kansas State Wildcats",
-            "homeScore": "56",
-            "status": "8:13 - 2nd Half",
-            "tv": "ESPN2",
-            "winProb": 0.34,
-            "state": "in"
-        },
-        {
             "awayTeam": "#17 Alabama Crimson Tide",
-            "awayScore": "65",
+            "awayScore": "69",
             "homeTeam": "#22 Tennessee Volunteers",
-            "homeScore": "67",
-            "status": "2:49 - 2nd Half",
+            "homeScore": "69",
+            "status": "1:01 - 2nd Half",
             "tv": "ESPN",
-            "winProb": 0.661,
+            "winProb": 0.499,
             "state": "in"
         },
         {
-            "awayTeam": "Mississippi Valley State Delta Devils",
-            "awayScore": "43",
-            "homeTeam": "Arkansas-Pine Bluff Golden Lions",
-            "homeScore": "43",
-            "status": "15:45 - 2nd Half",
+            "awayTeam": "Oral Roberts Golden Eagles",
+            "awayScore": "0",
+            "homeTeam": "Kansas City Roos",
+            "homeScore": "0",
+            "status": "19:31 - 1st Half",
+            "tv": "Summit League Network, Midco Sports Plus",
+            "winProb": 0.467,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Alabama State Hornets",
+            "awayScore": "87",
+            "homeTeam": "Alabama A&M Bulldogs",
+            "homeScore": "88",
+            "status": "0:54 - 2nd Half",
             "tv": "N/A",
-            "winProb": 0.872,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Wright State Raiders",
-            "awayScore": "39",
-            "homeTeam": "Northern Kentucky Norse",
-            "homeScore": "54",
-            "status": "16:37 - 2nd Half",
-            "tv": "ESPN+",
-            "winProb": 0.954,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Northwestern State Demons",
-            "awayScore": "44",
-            "homeTeam": "Texas A&M-Corpus Christi Islanders",
-            "homeScore": "62",
-            "status": "7:23 - 2nd Half",
-            "tv": "ESPN+",
-            "winProb": 0.996,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Jackson State Tigers",
-            "awayScore": "57",
-            "homeTeam": "Texas Southern Tigers",
-            "homeScore": "82",
-            "status": "0:36 - 2nd Half",
-            "tv": "N/A",
-            "winProb": 0.999,
-            "state": "in"
-        },
-        {
-            "awayTeam": "SMU Mustangs",
-            "awayScore": "63",
-            "homeTeam": "Stanford Cardinal",
-            "homeScore": "83",
-            "status": "3:48 - 2nd Half",
-            "tv": "ACC Network",
-            "winProb": 0.999,
+            "winProb": 0.639,
             "state": "in"
         },
         {
             "awayTeam": "Villanova Wildcats",
-            "awayScore": "0",
+            "awayScore": "2",
             "homeTeam": "#15 St. John's Red Storm",
-            "homeScore": "0",
-            "status": "Sat, February 28th at 8:00 PM EST",
+            "homeScore": "2",
+            "status": "18:53 - 1st Half",
             "tv": "FOX",
-            "winProb": 0.5,
-            "state": "pre"
+            "winProb": 0.734,
+            "state": "in"
+        },
+        {
+            "awayTeam": "TCU Horned Frogs",
+            "awayScore": "61",
+            "homeTeam": "Kansas State Wildcats",
+            "homeScore": "56",
+            "status": "7:49 - 2nd Half",
+            "tv": "ESPN2",
+            "winProb": 0.224,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Mississippi Valley State Delta Devils",
+            "awayScore": "47",
+            "homeTeam": "Arkansas-Pine Bluff Golden Lions",
+            "homeScore": "49",
+            "status": "12:24 - 2nd Half",
+            "tv": "N/A",
+            "winProb": 0.881,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Wright State Raiders",
+            "awayScore": "42",
+            "homeTeam": "Northern Kentucky Norse",
+            "homeScore": "58",
+            "status": "15:37 - 2nd Half",
+            "tv": "ESPN+",
+            "winProb": 0.956,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Northwestern State Demons",
+            "awayScore": "47",
+            "homeTeam": "Texas A&M-Corpus Christi Islanders",
+            "homeScore": "62",
+            "status": "5:06 - 2nd Half",
+            "tv": "ESPN+",
+            "winProb": 0.994,
+            "state": "in"
+        },
+        {
+            "awayTeam": "SMU Mustangs",
+            "awayScore": "67",
+            "homeTeam": "Stanford Cardinal",
+            "homeScore": "87",
+            "status": "2:21 - 2nd Half",
+            "tv": "ACC Network",
+            "winProb": 0.999,
+            "state": "in"
         },
         {
             "awayTeam": "Baylor Bears",
@@ -98,16 +98,6 @@
             "homeScore": "0",
             "status": "Sat, February 28th at 8:00 PM EST",
             "tv": "FS1",
-            "winProb": 0.5,
-            "state": "pre"
-        },
-        {
-            "awayTeam": "Oral Roberts Golden Eagles",
-            "awayScore": "0",
-            "homeTeam": "Kansas City Roos",
-            "homeScore": "0",
-            "status": "Sat, February 28th at 8:00 PM EST",
-            "tv": "Summit League Network, Midco Sports Plus",
             "winProb": 0.5,
             "state": "pre"
         },
@@ -408,6 +398,16 @@
             "homeScore": "86",
             "status": "Final",
             "tv": "ESPN+",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "awayTeam": "Jackson State Tigers",
+            "awayScore": "57",
+            "homeTeam": "Texas Southern Tigers",
+            "homeScore": "82",
+            "status": "Final",
+            "tv": "N/A",
             "winProb": 0.5,
             "state": "post"
         }
