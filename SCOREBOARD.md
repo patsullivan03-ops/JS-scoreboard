@@ -1,12 +1,11 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-01 03:35:57*
+*Updated: 2026-03-01 03:41:01*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Virginia Tech Hokies @ #18 North Carolina Tar Heels | 75 - 82 | 2:15 - 2nd Half | ESPN2 |
-| #20 Arkansas Razorbacks @ #7 Florida Gators | 60 - 84 | 7:58 - 2nd Half | ESPN |
+| Virginia Tech Hokies @ #18 North Carolina Tar Heels | 78 - 84 | 1:03 - 2nd Half | ESPN2 |
+| #20 Arkansas Razorbacks @ #7 Florida Gators | 60 - 87 | 7:29 - 2nd Half | ESPN |
 | #9 Gonzaga Bulldogs @ Saint Mary's Gaels | 0 - 0 | Sat, February 28th at 10:30 PM EST | ESPN |
-| Baylor Bears @ UCF Knights | 87 - 86 | Final | FS1 |
 | #11 Virginia Cavaliers @ #1 Duke Blue Devils | 51 - 77 | Final | ESPN |
 | #14 Kansas Jayhawks @ #2 Arizona Wildcats | 61 - 84 | Final | ESPN |
 | #16 Texas Tech Red Raiders @ #4 Iowa State Cyclones | 82 - 73 | Final | CBS |
@@ -43,4 +42,5 @@
 | Mississippi Valley State Delta Devils @ Arkansas-Pine Bluff Golden Lions | 70 - 69 | Final | N/A |
 | Northwestern State Demons @ Texas A&M-Corpus Christi Islanders | 59 - 71 | Final | ESPN+ |
 | Wright State Raiders @ Northern Kentucky Norse | 92 - 91 | Final | ESPN+ |
+| Baylor Bears @ UCF Knights | 87 - 86 | Final | FS1 |
 | Oral Roberts Golden Eagles @ Kansas City Roos | 94 - 70 | Final | Summit League Network, Midco Sports Plus |
