@@ -1,34 +1,24 @@
 {
-    "lastUpdated": "2026-03-01 03:30:51",
+    "lastUpdated": "2026-03-01 03:35:57",
     "games": [
         {
             "awayTeam": "Virginia Tech Hokies",
-            "awayScore": "69",
+            "awayScore": "75",
             "homeTeam": "#18 North Carolina Tar Heels",
-            "homeScore": "78",
-            "status": "3:39 - 2nd Half",
+            "homeScore": "82",
+            "status": "2:15 - 2nd Half",
             "tv": "ESPN2",
-            "winProb": 0.977,
+            "winProb": 0.961,
             "state": "in"
         },
         {
             "awayTeam": "#20 Arkansas Razorbacks",
-            "awayScore": "54",
+            "awayScore": "60",
             "homeTeam": "#7 Florida Gators",
-            "homeScore": "78",
-            "status": "9:33 - 2nd Half",
+            "homeScore": "84",
+            "status": "7:58 - 2nd Half",
             "tv": "ESPN",
             "winProb": 0.999,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Baylor Bears",
-            "awayScore": "87",
-            "homeTeam": "UCF Knights",
-            "homeScore": "86",
-            "status": "End of 2nd Half",
-            "tv": "FS1",
-            "winProb": 0.0,
             "state": "in"
         },
         {
@@ -40,6 +30,16 @@
             "tv": "ESPN",
             "winProb": 0.5,
             "state": "pre"
+        },
+        {
+            "awayTeam": "Baylor Bears",
+            "awayScore": "87",
+            "homeTeam": "UCF Knights",
+            "homeScore": "86",
+            "status": "Final",
+            "tv": "FS1",
+            "winProb": 0.5,
+            "state": "post"
         },
         {
             "awayTeam": "#11 Virginia Cavaliers",
