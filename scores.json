@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-01 00:02:35",
+    "lastUpdated": "2026-03-01 00:07:40",
     "games": [
         {
             "awayTeam": "#17 Alabama Crimson Tide",
@@ -8,16 +8,6 @@
             "homeScore": "40",
             "status": "Halftime",
             "tv": "ESPN",
-            "winProb": 0.5,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Jackson State Tigers",
-            "awayScore": "30",
-            "homeTeam": "Texas Southern Tigers",
-            "homeScore": "37",
-            "status": "Halftime",
-            "tv": "N/A",
             "winProb": 0.5,
             "state": "in"
         },
@@ -32,114 +22,104 @@
             "state": "in"
         },
         {
+            "awayTeam": "Wright State Raiders",
+            "awayScore": "11",
+            "homeTeam": "Northern Kentucky Norse",
+            "homeScore": "13",
+            "status": "15:47 - 1st Half",
+            "tv": "ESPN+",
+            "winProb": 0.553,
+            "state": "in"
+        },
+        {
+            "awayTeam": "TCU Horned Frogs",
+            "awayScore": "33",
+            "homeTeam": "Kansas State Wildcats",
+            "homeScore": "31",
+            "status": "3:36 - 1st Half",
+            "tv": "ESPN2",
+            "winProb": 0.406,
+            "state": "in"
+        },
+        {
             "awayTeam": "SMU Mustangs",
             "awayScore": "27",
             "homeTeam": "Stanford Cardinal",
             "homeScore": "34",
             "status": "Halftime",
             "tv": "ACC Network",
-            "winProb": 0.5,
-            "state": "in"
-        },
-        {
-            "awayTeam": "TCU Horned Frogs",
-            "awayScore": "25",
-            "homeTeam": "Kansas State Wildcats",
-            "homeScore": "25",
-            "status": "7:06 - 1st Half",
-            "tv": "ESPN2",
-            "winProb": 0.478,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Providence Friars",
-            "awayScore": "55",
-            "homeTeam": "Creighton Bluejays",
-            "homeScore": "56",
-            "status": "10:58 - 2nd Half",
-            "tv": "TNT, truTV",
-            "winProb": 0.578,
+            "winProb": 0.654,
             "state": "in"
         },
         {
             "awayTeam": "Northwestern State Demons",
-            "awayScore": "19",
+            "awayScore": "21",
             "homeTeam": "Texas A&M-Corpus Christi Islanders",
-            "homeScore": "13",
-            "status": "8:39 - 1st Half",
+            "homeScore": "18",
+            "status": "6:09 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.582,
+            "winProb": 0.659,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Providence Friars",
+            "awayScore": "60",
+            "homeTeam": "Creighton Bluejays",
+            "homeScore": "56",
+            "status": "9:51 - 2nd Half",
+            "tv": "TNT, truTV",
+            "winProb": 0.323,
             "state": "in"
         },
         {
             "awayTeam": "#19 BYU Cougars",
-            "awayScore": "41",
+            "awayScore": "43",
             "homeTeam": "West Virginia Mountaineers",
-            "homeScore": "50",
-            "status": "13:10 - 2nd Half",
+            "homeScore": "52",
+            "status": "11:53 - 2nd Half",
             "tv": "FOX",
-            "winProb": 0.835,
+            "winProb": 0.82,
             "state": "in"
         },
         {
             "awayTeam": "East Texas A&M Lions",
-            "awayScore": "50",
+            "awayScore": "51",
             "homeTeam": "UT Rio Grande Valley Vaqueros",
-            "homeScore": "55",
-            "status": "4:55 - 2nd Half",
+            "homeScore": "57",
+            "status": "3:46 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.875,
+            "winProb": 0.903,
             "state": "in"
         },
         {
             "awayTeam": "Missouri State Bears",
-            "awayScore": "52",
+            "awayScore": "59",
             "homeTeam": "Sam Houston Bearkats",
-            "homeScore": "65",
-            "status": "10:41 - 2nd Half",
+            "homeScore": "67",
+            "status": "8:27 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.977,
+            "winProb": 0.94,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Jackson State Tigers",
+            "awayScore": "30",
+            "homeTeam": "Texas Southern Tigers",
+            "homeScore": "42",
+            "status": "18:24 - 2nd Half",
+            "tv": "N/A",
+            "winProb": 0.956,
             "state": "in"
         },
         {
             "awayTeam": "Mississippi Valley State Delta Devils",
-            "awayScore": "10",
+            "awayScore": "12",
             "homeTeam": "Arkansas-Pine Bluff Golden Lions",
-            "homeScore": "20",
-            "status": "11:51 - 1st Half",
+            "homeScore": "23",
+            "status": "8:35 - 1st Half",
             "tv": "N/A",
-            "winProb": 0.98,
+            "winProb": 0.982,
             "state": "in"
-        },
-        {
-            "awayTeam": "North Carolina Central Eagles",
-            "awayScore": "72",
-            "homeTeam": "Delaware State Hornets",
-            "homeScore": "58",
-            "status": "0:34 - 2nd Half",
-            "tv": "ESPN+",
-            "winProb": 0.001,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Tennessee Tech Golden Eagles",
-            "awayScore": "70",
-            "homeTeam": "Southeast Missouri State Redhawks",
-            "homeScore": "86",
-            "status": "2:10 - 2nd Half",
-            "tv": "ESPN+",
-            "winProb": 0.999,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Wright State Raiders",
-            "awayScore": "0",
-            "homeTeam": "Northern Kentucky Norse",
-            "homeScore": "0",
-            "status": "Sat, February 28th at 7:00 PM EST",
-            "tv": "ESPN+",
-            "winProb": 0.5,
-            "state": "pre"
         },
         {
             "awayTeam": "Villanova Wildcats",
@@ -402,10 +382,30 @@
             "state": "post"
         },
         {
+            "awayTeam": "North Carolina Central Eagles",
+            "awayScore": "74",
+            "homeTeam": "Delaware State Hornets",
+            "homeScore": "60",
+            "status": "Final",
+            "tv": "ESPN+",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
             "awayTeam": "East Tennessee State Buccaneers",
             "awayScore": "76",
             "homeTeam": "Mercer Bears",
             "homeScore": "82",
+            "status": "Final",
+            "tv": "ESPN+",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "awayTeam": "Tennessee Tech Golden Eagles",
+            "awayScore": "73",
+            "homeTeam": "Southeast Missouri State Redhawks",
+            "homeScore": "89",
             "status": "Final",
             "tv": "ESPN+",
             "winProb": 0.5,
