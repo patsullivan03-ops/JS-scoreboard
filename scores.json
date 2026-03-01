@@ -1,21 +1,6 @@
 {
-    "lastUpdated": "2026-03-01 17:53:00",
+    "lastUpdated": "2026-03-01 17:53:55",
     "games": [
-        {
-            "id": "401830316",
-            "awayTeam": "UIC Flames",
-            "awayScore": "0",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/82.png",
-            "awayAbbr": "UIC",
-            "homeTeam": "Indiana State Sycamores",
-            "homeScore": "0",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/282.png",
-            "homeAbbr": "INST",
-            "status": "Sun, March 1st at 1:00 PM EST",
-            "tv": "ESPN+",
-            "winProb": 0.5,
-            "state": "pre"
-        },
         {
             "id": "401825552",
             "awayTeam": "#8 Purdue Boilermakers",
