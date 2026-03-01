@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-01 01:28:56",
+    "lastUpdated": "2026-03-01 01:34:00",
     "games": [
         {
             "awayTeam": "Mississippi Valley State Delta Devils",
@@ -13,52 +13,42 @@
         },
         {
             "awayTeam": "Baylor Bears",
-            "awayScore": "12",
+            "awayScore": "17",
             "homeTeam": "UCF Knights",
-            "homeScore": "14",
-            "status": "12:52 - 1st Half",
-            "tv": "FS1",
-            "winProb": 0.632,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Villanova Wildcats",
-            "awayScore": "11",
-            "homeTeam": "#15 St. John's Red Storm",
             "homeScore": "19",
-            "status": "11:37 - 1st Half",
-            "tv": "FOX",
-            "winProb": 0.865,
+            "status": "10:36 - 1st Half",
+            "tv": "FS1",
+            "winProb": 0.603,
             "state": "in"
         },
         {
             "awayTeam": "Oral Roberts Golden Eagles",
             "awayScore": "28",
             "homeTeam": "Kansas City Roos",
-            "homeScore": "11",
-            "status": "8:39 - 1st Half",
+            "homeScore": "12",
+            "status": "7:40 - 1st Half",
             "tv": "Summit League Network, Midco Sports Plus",
-            "winProb": 0.074,
+            "winProb": 0.073,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Villanova Wildcats",
+            "awayScore": "14",
+            "homeTeam": "#15 St. John's Red Storm",
+            "homeScore": "30",
+            "status": "8:51 - 1st Half",
+            "tv": "FOX",
+            "winProb": 0.955,
             "state": "in"
         },
         {
             "awayTeam": "Wright State Raiders",
-            "awayScore": "66",
+            "awayScore": "71",
             "homeTeam": "Northern Kentucky Norse",
-            "homeScore": "80",
-            "status": "7:33 - 2nd Half",
+            "homeScore": "82",
+            "status": "5:41 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.97,
-            "state": "in"
-        },
-        {
-            "awayTeam": "TCU Horned Frogs",
-            "awayScore": "76",
-            "homeTeam": "Kansas State Wildcats",
-            "homeScore": "65",
-            "status": "1:20 - 2nd Half",
-            "tv": "ESPN2",
-            "winProb": 0.007,
+            "winProb": 0.967,
             "state": "in"
         },
         {
@@ -90,6 +80,16 @@
             "tv": "ESPN",
             "winProb": 0.5,
             "state": "pre"
+        },
+        {
+            "awayTeam": "TCU Horned Frogs",
+            "awayScore": "77",
+            "homeTeam": "Kansas State Wildcats",
+            "homeScore": "68",
+            "status": "Final",
+            "tv": "ESPN2",
+            "winProb": 0.5,
+            "state": "post"
         },
         {
             "awayTeam": "Northwestern State Demons",
