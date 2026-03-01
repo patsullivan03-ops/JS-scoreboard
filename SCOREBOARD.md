@@ -1,14 +1,13 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-01 03:05:25*
+*Updated: 2026-03-01 03:10:30*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Virginia Tech Hokies @ #18 North Carolina Tar Heels | 58 - 64 | 11:44 - 2nd Half | ESPN2 |
-| Baylor Bears @ UCF Knights | 78 - 69 | 6:30 - 2nd Half | FS1 |
-| #20 Arkansas Razorbacks @ #7 Florida Gators | 40 - 63 | 15:36 - 2nd Half | ESPN |
-| Villanova Wildcats @ #15 St. John's Red Storm | 51 - 83 | 2:45 - 2nd Half | FOX |
+| Baylor Bears @ UCF Knights | 80 - 77 | 3:58 - 2nd Half | FS1 |
+| Virginia Tech Hokies @ #18 North Carolina Tar Heels | 63 - 68 | 9:53 - 2nd Half | ESPN2 |
+| #20 Arkansas Razorbacks @ #7 Florida Gators | 40 - 65 | 15:01 - 2nd Half | ESPN |
+| Villanova Wildcats @ #15 St. John's Red Storm | 53 - 83 | 1:54 - 2nd Half | FOX |
 | #9 Gonzaga Bulldogs @ Saint Mary's Gaels | 0 - 0 | Sat, February 28th at 10:30 PM EST | ESPN |
-| Oral Roberts Golden Eagles @ Kansas City Roos | 94 - 70 | Final | Summit League Network, Midco Sports Plus |
 | #11 Virginia Cavaliers @ #1 Duke Blue Devils | 51 - 77 | Final | ESPN |
 | #14 Kansas Jayhawks @ #2 Arizona Wildcats | 61 - 84 | Final | ESPN |
 | #16 Texas Tech Red Raiders @ #4 Iowa State Cyclones | 82 - 73 | Final | CBS |
@@ -44,3 +43,4 @@
 | Mississippi Valley State Delta Devils @ Arkansas-Pine Bluff Golden Lions | 70 - 69 | Final | N/A |
 | Northwestern State Demons @ Texas A&M-Corpus Christi Islanders | 59 - 71 | Final | ESPN+ |
 | Wright State Raiders @ Northern Kentucky Norse | 92 - 91 | Final | ESPN+ |
+| Oral Roberts Golden Eagles @ Kansas City Roos | 94 - 70 | Final | Summit League Network, Midco Sports Plus |

@@ -1,42 +1,42 @@
 {
-    "lastUpdated": "2026-03-01 03:05:25",
+    "lastUpdated": "2026-03-01 03:10:30",
     "games": [
         {
-            "awayTeam": "Virginia Tech Hokies",
-            "awayScore": "58",
-            "homeTeam": "#18 North Carolina Tar Heels",
-            "homeScore": "64",
-            "status": "11:44 - 2nd Half",
-            "tv": "ESPN2",
-            "winProb": 0.886,
+            "awayTeam": "Baylor Bears",
+            "awayScore": "80",
+            "homeTeam": "UCF Knights",
+            "homeScore": "77",
+            "status": "3:58 - 2nd Half",
+            "tv": "FS1",
+            "winProb": 0.305,
             "state": "in"
         },
         {
-            "awayTeam": "Baylor Bears",
-            "awayScore": "78",
-            "homeTeam": "UCF Knights",
-            "homeScore": "69",
-            "status": "6:30 - 2nd Half",
-            "tv": "FS1",
-            "winProb": 0.061,
+            "awayTeam": "Virginia Tech Hokies",
+            "awayScore": "63",
+            "homeTeam": "#18 North Carolina Tar Heels",
+            "homeScore": "68",
+            "status": "9:53 - 2nd Half",
+            "tv": "ESPN2",
+            "winProb": 0.886,
             "state": "in"
         },
         {
             "awayTeam": "#20 Arkansas Razorbacks",
             "awayScore": "40",
             "homeTeam": "#7 Florida Gators",
-            "homeScore": "63",
-            "status": "15:36 - 2nd Half",
+            "homeScore": "65",
+            "status": "15:01 - 2nd Half",
             "tv": "ESPN",
-            "winProb": 0.998,
+            "winProb": 0.999,
             "state": "in"
         },
         {
             "awayTeam": "Villanova Wildcats",
-            "awayScore": "51",
+            "awayScore": "53",
             "homeTeam": "#15 St. John's Red Storm",
             "homeScore": "83",
-            "status": "2:45 - 2nd Half",
+            "status": "1:54 - 2nd Half",
             "tv": "FOX",
             "winProb": 0.999,
             "state": "in"
@@ -50,16 +50,6 @@
             "tv": "ESPN",
             "winProb": 0.5,
             "state": "pre"
-        },
-        {
-            "awayTeam": "Oral Roberts Golden Eagles",
-            "awayScore": "94",
-            "homeTeam": "Kansas City Roos",
-            "homeScore": "70",
-            "status": "Final",
-            "tv": "Summit League Network, Midco Sports Plus",
-            "winProb": 0.5,
-            "state": "post"
         },
         {
             "awayTeam": "#11 Virginia Cavaliers",
@@ -408,6 +398,16 @@
             "homeScore": "91",
             "status": "Final",
             "tv": "ESPN+",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "awayTeam": "Oral Roberts Golden Eagles",
+            "awayScore": "94",
+            "homeTeam": "Kansas City Roos",
+            "homeScore": "70",
+            "status": "Final",
+            "tv": "Summit League Network, Midco Sports Plus",
             "winProb": 0.5,
             "state": "post"
         }
