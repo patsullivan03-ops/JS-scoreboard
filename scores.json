@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-01 23:24:48",
+    "lastUpdated": "2026-03-01 23:29:53",
     "games": [
         {
             "id": "401830217",
             "awayTeam": "Belmont Bruins",
-            "awayScore": "57",
+            "awayScore": "63",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2057.png",
             "awayAbbr": "BEL",
             "homeTeam": "Illinois State Redbirds",
-            "homeScore": "51",
+            "homeScore": "57",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2287.png",
             "homeAbbr": "ILST",
-            "status": "11:20 - 2nd Half",
+            "status": "9:04 - 2nd Half",
             "tv": "CBSSN",
-            "winProb": 0.245,
+            "winProb": 0.277,
             "state": "in"
         },
         {
