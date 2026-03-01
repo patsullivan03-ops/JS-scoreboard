@@ -1,54 +1,54 @@
 {
-    "lastUpdated": "2026-03-01 02:55:15",
+    "lastUpdated": "2026-03-01 03:00:19",
     "games": [
         {
             "awayTeam": "Virginia Tech Hokies",
-            "awayScore": "52",
+            "awayScore": "57",
             "homeTeam": "#18 North Carolina Tar Heels",
-            "homeScore": "53",
-            "status": "15:47 - 2nd Half",
+            "homeScore": "62",
+            "status": "12:47 - 2nd Half",
             "tv": "ESPN2",
-            "winProb": 0.801,
+            "winProb": 0.863,
             "state": "in"
         },
         {
             "awayTeam": "Baylor Bears",
-            "awayScore": "71",
+            "awayScore": "76",
             "homeTeam": "UCF Knights",
-            "homeScore": "63",
-            "status": "9:50 - 2nd Half",
+            "homeScore": "65",
+            "status": "7:25 - 2nd Half",
             "tv": "FS1",
-            "winProb": 0.134,
+            "winProb": 0.073,
             "state": "in"
         },
         {
             "awayTeam": "#20 Arkansas Razorbacks",
-            "awayScore": "36",
+            "awayScore": "38",
             "homeTeam": "#7 Florida Gators",
             "homeScore": "59",
-            "status": "17:27 - 2nd Half",
+            "status": "16:58 - 2nd Half",
             "tv": "ESPN",
-            "winProb": 0.997,
+            "winProb": 0.995,
             "state": "in"
         },
         {
             "awayTeam": "Villanova Wildcats",
-            "awayScore": "46",
+            "awayScore": "48",
             "homeTeam": "#15 St. John's Red Storm",
-            "homeScore": "71",
-            "status": "7:43 - 2nd Half",
+            "homeScore": "78",
+            "status": "6:16 - 2nd Half",
             "tv": "FOX",
             "winProb": 0.999,
             "state": "in"
         },
         {
             "awayTeam": "Oral Roberts Golden Eagles",
-            "awayScore": "92",
+            "awayScore": "94",
             "homeTeam": "Kansas City Roos",
-            "homeScore": "66",
-            "status": "2:11 - 2nd Half",
+            "homeScore": "70",
+            "status": "End of 2nd Half",
             "tv": "Summit League Network, Midco Sports Plus",
-            "winProb": 0.001,
+            "winProb": 0.0,
             "state": "in"
         },
         {
