@@ -1,10 +1,10 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-01 04:01:19*
+*Updated: 2026-03-01 04:06:24*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #9 Gonzaga Bulldogs @ Saint Mary's Gaels | 20 - 13 | 10:08 - 1st Half | ESPNEWS |
-| #20 Arkansas Razorbacks @ #7 Florida Gators | 74 - 111 | 0:29 - 2nd Half | ESPN |
+| #9 Gonzaga Bulldogs @ Saint Mary's Gaels | 24 - 15 | 8:13 - 1st Half | ESPNEWS |
+| #20 Arkansas Razorbacks @ #7 Florida Gators | 77 - 111 | Final | ESPN |
 | #11 Virginia Cavaliers @ #1 Duke Blue Devils | 51 - 77 | Final | ESPN |
 | #14 Kansas Jayhawks @ #2 Arizona Wildcats | 61 - 84 | Final | ESPN |
 | #16 Texas Tech Red Raiders @ #4 Iowa State Cyclones | 82 - 73 | Final | CBS |
