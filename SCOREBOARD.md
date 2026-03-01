@@ -1,9 +1,9 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-01 05:22:33*
+*Updated: 2026-03-01 05:27:38*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #9 Gonzaga Bulldogs @ Saint Mary's Gaels | 50 - 61 | 4:36 - 2nd Half | ESPN |
+| #9 Gonzaga Bulldogs @ Saint Mary's Gaels | 50 - 64 | 3:44 - 2nd Half | ESPN |
 | #11 Virginia Cavaliers @ #1 Duke Blue Devils | 51 - 77 | Final | ESPN |
 | #14 Kansas Jayhawks @ #2 Arizona Wildcats | 61 - 84 | Final | ESPN |
 | #16 Texas Tech Red Raiders @ #4 Iowa State Cyclones | 82 - 73 | Final | CBS |
