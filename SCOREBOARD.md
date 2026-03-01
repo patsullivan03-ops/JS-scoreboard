@@ -1,14 +1,14 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-01 03:00:19*
+*Updated: 2026-03-01 03:05:25*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Virginia Tech Hokies @ #18 North Carolina Tar Heels | 57 - 62 | 12:47 - 2nd Half | ESPN2 |
-| Baylor Bears @ UCF Knights | 76 - 65 | 7:25 - 2nd Half | FS1 |
-| #20 Arkansas Razorbacks @ #7 Florida Gators | 38 - 59 | 16:58 - 2nd Half | ESPN |
-| Villanova Wildcats @ #15 St. John's Red Storm | 48 - 78 | 6:16 - 2nd Half | FOX |
-| Oral Roberts Golden Eagles @ Kansas City Roos | 94 - 70 | End of 2nd Half | Summit League Network, Midco Sports Plus |
+| Virginia Tech Hokies @ #18 North Carolina Tar Heels | 58 - 64 | 11:44 - 2nd Half | ESPN2 |
+| Baylor Bears @ UCF Knights | 78 - 69 | 6:30 - 2nd Half | FS1 |
+| #20 Arkansas Razorbacks @ #7 Florida Gators | 40 - 63 | 15:36 - 2nd Half | ESPN |
+| Villanova Wildcats @ #15 St. John's Red Storm | 51 - 83 | 2:45 - 2nd Half | FOX |
 | #9 Gonzaga Bulldogs @ Saint Mary's Gaels | 0 - 0 | Sat, February 28th at 10:30 PM EST | ESPN |
+| Oral Roberts Golden Eagles @ Kansas City Roos | 94 - 70 | Final | Summit League Network, Midco Sports Plus |
 | #11 Virginia Cavaliers @ #1 Duke Blue Devils | 51 - 77 | Final | ESPN |
 | #14 Kansas Jayhawks @ #2 Arizona Wildcats | 61 - 84 | Final | ESPN |
 | #16 Texas Tech Red Raiders @ #4 Iowa State Cyclones | 82 - 73 | Final | CBS |
