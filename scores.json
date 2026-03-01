@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-01 19:46:32",
+    "lastUpdated": "2026-03-01 19:51:37",
     "games": [
         {
             "id": "401825552",
@@ -8,12 +8,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
             "awayAbbr": "PUR",
             "homeTeam": "Ohio State Buckeyes",
-            "homeScore": "42",
+            "homeScore": "45",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
             "homeAbbr": "OSU",
-            "status": "18:29 - 2nd Half",
+            "status": "17:05 - 2nd Half",
             "tv": "CBS",
-            "winProb": 0.698,
+            "winProb": 0.853,
             "state": "in"
         },
         {
