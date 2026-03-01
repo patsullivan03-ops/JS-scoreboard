@@ -6,125 +6,166 @@
     <title>Milo's NCAAB Scoreboard</title>
     <style>
         :root {
-            --primary: #2c3e50;
-            --accent: #e67e22;
-            --bg: #f8f9fa;
-            --card-bg: #ffffff;
-            --text: #333333;
-            --status-text: #7f8c8d;
+            --bg: #0f172a;
+            --card-bg: #1e293b;
+            --primary: #f8fafc;
+            --secondary: #94a3b8;
+            --accent: #38bdf8;
+            --live: #ef4444;
+            --final: #64748b;
+            --win-bar: #0ea5e9;
         }
         body { 
-            font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; 
+            font-family: 'Inter', -apple-system, system-ui, sans-serif; 
             background: var(--bg); 
-            color: var(--text); 
+            color: var(--primary); 
             display: flex; 
             flex-direction: column; 
             align-items: center; 
-            padding: 40px 20px;
+            padding: 40px 10px;
             margin: 0;
+            -webkit-font-smoothing: antialiased;
         }
         h1 { 
-            color: var(--primary); 
-            font-size: 2.2rem;
+            font-size: 2rem;
+            font-weight: 800;
             margin-bottom: 30px;
-            letter-spacing: -1px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
         }
+        h1 span { color: var(--accent); }
+        
         #scoreboard { 
             width: 100%; 
-            max-width: 700px; 
+            max-width: 800px; 
             display: grid;
-            grid-template-columns: 1fr;
-            gap: 15px;
+            grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+            gap: 20px;
         }
+        @media (max-width: 400px) {
+            #scoreboard { grid-template-columns: 1fr; }
+        }
+
         .game-card { 
             background: var(--card-bg); 
-            border-radius: 12px; 
-            box-shadow: 0 4px 6px rgba(0,0,0,0.05); 
+            border-radius: 16px; 
             padding: 20px; 
             display: flex; 
             flex-direction: column;
-            transition: transform 0.2s ease;
-            border: 1px solid #eee;
+            border: 1px solid rgba(255,255,255,0.05);
+            position: relative;
+            overflow: hidden;
         }
-        .game-card:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 6px 12px rgba(0,0,0,0.08);
+        
+        .game-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            font-size: 0.75rem;
+            font-weight: 700;
+            color: var(--secondary);
+            text-transform: uppercase;
+            letter-spacing: 1px;
         }
-        .game-main {
+
+        .status-badge {
+            padding: 4px 8px;
+            border-radius: 6px;
+            background: rgba(255,255,255,0.05);
+        }
+        .status-live {
+            color: var(--live);
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+        .status-live::before {
+            content: '';
+            width: 6px;
+            height: 6px;
+            background: var(--live);
+            border-radius: 50%;
+            display: inline-block;
+            animation: pulse 1.5s infinite;
+        }
+
+        .team-row {
             display: flex;
             justify-content: space-between;
             align-items: center;
             margin-bottom: 12px;
         }
-        .team { 
-            display: flex; 
-            flex-direction: column; 
-            width: 35%; 
-        }
-        .team-name { 
-            font-weight: 700; 
-            font-size: 1.1rem; 
-            color: var(--primary);
-        }
-        .score-container {
+        .team-info {
             display: flex;
             align-items: center;
-            justify-content: center;
-            width: 30%;
-            gap: 10px;
+            gap: 12px;
         }
-        .score { 
-            font-size: 2.2rem; 
-            font-weight: 800; 
-            color: var(--accent); 
+        .team-logo {
+            width: 32px;
+            height: 32px;
+            object-fit: contain;
         }
-        .divider {
-            color: #ccc;
-            font-size: 1.2rem;
-            font-weight: 300;
+        .team-name {
+            font-size: 1.1rem;
+            font-weight: 700;
         }
+        .score {
+            font-size: 1.5rem;
+            font-weight: 800;
+            font-variant-numeric: tabular-nums;
+        }
+        
         .game-footer {
+            margin-top: 10px;
+            padding-top: 15px;
+            border-top: 1px solid rgba(255,255,255,0.05);
             display: flex;
             justify-content: space-between;
             align-items: center;
-            border-top: 1px solid #f0f0f0;
-            padding-top: 12px;
-        }
-        .status { 
-            font-size: 0.85rem; 
-            font-weight: 600;
-            color: var(--status-text); 
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
         }
         .tv-tag {
-            background: #edf2f7;
-            color: #4a5568;
-            padding: 4px 10px;
-            border-radius: 6px;
-            font-size: 0.75rem;
-            font-weight: 700;
-        }
-        .last-update { 
-            font-size: 0.85rem; 
-            color: #95a5a6; 
-            margin-top: 40px; 
-            font-style: italic;
+            font-size: 0.7rem;
+            font-weight: 800;
+            background: var(--accent);
+            color: var(--bg);
+            padding: 2px 8px;
+            border-radius: 4px;
         }
         
-        /* Team specific alignments */
-        .away { text-align: left; }
-        .home { text-align: right; }
+        .win-prob-container {
+            width: 100%;
+            height: 4px;
+            background: rgba(255,255,255,0.05);
+            border-radius: 2px;
+            margin-top: 12px;
+            overflow: hidden;
+        }
+        .win-prob-bar {
+            height: 100%;
+            background: var(--win-bar);
+            transition: width 0.5s ease;
+        }
 
-        @media (max-width: 480px) {
-            h1 { font-size: 1.8rem; }
-            .score { font-size: 1.8rem; }
-            .team-name { font-size: 0.9rem; }
+        .last-update { 
+            font-size: 0.8rem; 
+            color: var(--secondary); 
+            margin-top: 50px; 
+            text-align: center;
+        }
+
+        @keyframes pulse {
+            0% { opacity: 1; transform: scale(1); }
+            50% { opacity: 0.5; transform: scale(1.2); }
+            100% { opacity: 1; transform: scale(1); }
         }
     </style>
 </head>
 <body>
-    <h1>🏀 NCAAB Scoreboard</h1>
+    <h1>🏀 NCAAB <span>Scoreboard</span></h1>
     <div id="scoreboard">Loading scores...</div>
     <div class="last-update" id="update-time"></div>
 
@@ -145,31 +186,44 @@
             const timeContainer = document.getElementById('update-time');
             
             if (!data.games || data.games.length === 0) {
-                container.innerHTML = '<p style="text-align:center; color:#7f8c8d;">No games currently tracked.</p>';
+                container.innerHTML = '<p style="grid-column: 1/-1; text-align:center; color:var(--secondary);">No games currently tracked.</p>';
                 return;
             }
 
-            container.innerHTML = data.games.map(game => `
+            container.innerHTML = data.games.map(game => {
+                const isLive = game.state === 'in';
+                const statusClass = isLive ? 'status-live' : '';
+                
+                return `
                 <div class="game-card">
-                    <div class="game-main">
-                        <div class="team away">
+                    <div class="game-header">
+                        <div class="status-badge ${statusClass}">${game.status}</div>
+                        ${game.tv !== 'N/A' ? `<div class="tv-tag">${game.tv}</div>` : ''}
+                    </div>
+                    
+                    <div class="team-row">
+                        <div class="team-info">
+                            <img class="team-logo" src="${game.awayLogo}" alt="${game.awayAbbr}" onerror="this.style.display='none'">
                             <span class="team-name">${game.awayTeam}</span>
                         </div>
-                        <div class="score-container">
-                            <span class="score">${game.awayScore}</span>
-                            <span class="divider">-</span>
-                            <span class="score">${game.homeScore}</span>
-                        </div>
-                        <div class="team home">
+                        <span class="score">${game.awayScore}</span>
+                    </div>
+
+                    <div class="team-row">
+                        <div class="team-info">
+                            <img class="team-logo" src="${game.homeLogo}" alt="${game.homeAbbr}" onerror="this.style.display='none'">
                             <span class="team-name">${game.homeTeam}</span>
                         </div>
+                        <span class="score">${game.homeScore}</span>
                     </div>
-                    <div class="game-footer">
-                        <div class="status">${game.status}</div>
-                        <div class="tv-tag">${game.tv}</div>
-                    </div>
+
+                    ${isLive ? `
+                        <div class="win-prob-container" title="Win Probability">
+                            <div class="win-prob-bar" style="width: ${game.winProb * 100}%"></div>
+                        </div>
+                    ` : ''}
                 </div>
-            `).join('');
+            `}).join('');
 
             timeContainer.innerText = 'Last updated: ' + data.lastUpdated;
         }
