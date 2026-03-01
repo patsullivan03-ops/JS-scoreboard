@@ -1,17 +1,17 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-01 03:51:11*
+*Updated: 2026-03-01 03:56:15*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #9 Gonzaga Bulldogs @ Saint Mary's Gaels | 9 - 9 | 13:59 - 1st Half | ESPNEWS |
-| #20 Arkansas Razorbacks @ #7 Florida Gators | 68 - 101 | 3:38 - 2nd Half | ESPN |
-| Virginia Tech Hokies @ #18 North Carolina Tar Heels | 82 - 89 | Final | ESPN2 |
+| #9 Gonzaga Bulldogs @ Saint Mary's Gaels | 14 - 11 | 11:38 - 1st Half | ESPNEWS |
+| #20 Arkansas Razorbacks @ #7 Florida Gators | 70 - 103 | 3:29 - 2nd Half | ESPN |
 | #11 Virginia Cavaliers @ #1 Duke Blue Devils | 51 - 77 | Final | ESPN |
 | #14 Kansas Jayhawks @ #2 Arizona Wildcats | 61 - 84 | Final | ESPN |
 | #16 Texas Tech Red Raiders @ #4 Iowa State Cyclones | 82 - 73 | Final | CBS |
 | #12 Nebraska Cornhuskers @ USC Trojans | 82 - 67 | Final | BTN |
 | Villanova Wildcats @ #15 St. John's Red Storm | 57 - 89 | Final | FOX |
 | #17 Alabama Crimson Tide @ #22 Tennessee Volunteers | 71 - 69 | Final | ESPN |
+| Virginia Tech Hokies @ #18 North Carolina Tar Heels | 82 - 89 | Final | ESPN2 |
 | #19 BYU Cougars @ West Virginia Mountaineers | 71 - 79 | Final | FOX |
 | #24 Louisville Cardinals @ Clemson Tigers | 75 - 80 | Final | ESPN2 |
 | #25 Vanderbilt Commodores @ Kentucky Wildcats | 77 - 91 | Final | ESPN |
