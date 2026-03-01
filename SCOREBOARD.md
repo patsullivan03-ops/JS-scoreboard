@@ -1,21 +1,21 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-01 01:08:37*
+*Updated: 2026-03-01 01:13:41*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #17 Alabama Crimson Tide @ #22 Tennessee Volunteers | 69 - 69 | 1:01 - 2nd Half | ESPN |
-| Oral Roberts Golden Eagles @ Kansas City Roos | 0 - 0 | 19:31 - 1st Half | Summit League Network, Midco Sports Plus |
-| Alabama State Hornets @ Alabama A&M Bulldogs | 87 - 88 | 0:54 - 2nd Half | N/A |
-| Villanova Wildcats @ #15 St. John's Red Storm | 2 - 2 | 18:53 - 1st Half | FOX |
-| TCU Horned Frogs @ Kansas State Wildcats | 61 - 56 | 7:49 - 2nd Half | ESPN2 |
-| Mississippi Valley State Delta Devils @ Arkansas-Pine Bluff Golden Lions | 47 - 49 | 12:24 - 2nd Half | N/A |
-| Wright State Raiders @ Northern Kentucky Norse | 42 - 58 | 15:37 - 2nd Half | ESPN+ |
-| Northwestern State Demons @ Texas A&M-Corpus Christi Islanders | 47 - 62 | 5:06 - 2nd Half | ESPN+ |
-| SMU Mustangs @ Stanford Cardinal | 67 - 87 | 2:21 - 2nd Half | ACC Network |
-| Baylor Bears @ UCF Knights | 0 - 0 | Sat, February 28th at 8:00 PM EST | FS1 |
+| Mississippi Valley State Delta Devils @ Arkansas-Pine Bluff Golden Lions | 56 - 49 | 10:35 - 2nd Half | N/A |
+| Baylor Bears @ UCF Knights | 3 - 5 | 17:50 - 1st Half | FS1 |
+| #17 Alabama Crimson Tide @ #22 Tennessee Volunteers | 71 - 69 | 0:20 - 2nd Half | ESPN |
+| Oral Roberts Golden Eagles @ Kansas City Roos | 10 - 0 | 16:25 - 1st Half | Summit League Network, Midco Sports Plus |
+| TCU Horned Frogs @ Kansas State Wildcats | 66 - 59 | 5:59 - 2nd Half | ESPN2 |
+| Villanova Wildcats @ #15 St. John's Red Storm | 4 - 11 | 15:47 - 1st Half | FOX |
+| Wright State Raiders @ Northern Kentucky Norse | 51 - 64 | 12:26 - 2nd Half | ESPN+ |
+| Alabama State Hornets @ Alabama A&M Bulldogs | 89 - 88 | 0:02 - 2nd Half | N/A |
+| Northwestern State Demons @ Texas A&M-Corpus Christi Islanders | 48 - 68 | 3:53 - 2nd Half | ESPN+ |
 | #20 Arkansas Razorbacks @ #7 Florida Gators | 0 - 0 | Sat, February 28th at 8:30 PM EST | ESPN |
 | Virginia Tech Hokies @ #18 North Carolina Tar Heels | 0 - 0 | Sat, February 28th at 8:30 PM EST | ESPN2 |
 | #9 Gonzaga Bulldogs @ Saint Mary's Gaels | 0 - 0 | Sat, February 28th at 10:30 PM EST | ESPN |
+| SMU Mustangs @ Stanford Cardinal | 75 - 95 | Final | ACC Network |
 | #11 Virginia Cavaliers @ #1 Duke Blue Devils | 51 - 77 | Final | ESPN |
 | #14 Kansas Jayhawks @ #2 Arizona Wildcats | 61 - 84 | Final | ESPN |
 | #16 Texas Tech Red Raiders @ #4 Iowa State Cyclones | 82 - 73 | Final | CBS |
