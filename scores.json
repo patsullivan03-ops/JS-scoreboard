@@ -1,6 +1,16 @@
 {
-    "lastUpdated": "2026-03-01 02:29:49",
+    "lastUpdated": "2026-03-01 02:34:55",
     "games": [
+        {
+            "awayTeam": "#20 Arkansas Razorbacks",
+            "awayScore": "34",
+            "homeTeam": "#7 Florida Gators",
+            "homeScore": "53",
+            "status": "Halftime",
+            "tv": "ESPN",
+            "winProb": 0.5,
+            "state": "in"
+        },
         {
             "awayTeam": "Virginia Tech Hokies",
             "awayScore": "44",
@@ -15,40 +25,30 @@
             "awayTeam": "Baylor Bears",
             "awayScore": "56",
             "homeTeam": "UCF Knights",
-            "homeScore": "48",
-            "status": "17:52 - 2nd Half",
+            "homeScore": "52",
+            "status": "16:28 - 2nd Half",
             "tv": "FS1",
-            "winProb": 0.216,
+            "winProb": 0.365,
             "state": "in"
         },
         {
             "awayTeam": "Oral Roberts Golden Eagles",
-            "awayScore": "63",
+            "awayScore": "66",
             "homeTeam": "Kansas City Roos",
-            "homeScore": "51",
-            "status": "11:23 - 2nd Half",
+            "homeScore": "53",
+            "status": "10:02 - 2nd Half",
             "tv": "Summit League Network, Midco Sports Plus",
-            "winProb": 0.068,
-            "state": "in"
-        },
-        {
-            "awayTeam": "#20 Arkansas Razorbacks",
-            "awayScore": "30",
-            "homeTeam": "#7 Florida Gators",
-            "homeScore": "51",
-            "status": "1:18 - 1st Half",
-            "tv": "ESPN",
-            "winProb": 0.992,
+            "winProb": 0.037,
             "state": "in"
         },
         {
             "awayTeam": "Villanova Wildcats",
-            "awayScore": "31",
+            "awayScore": "38",
             "homeTeam": "#15 St. John's Red Storm",
             "homeScore": "55",
-            "status": "15:44 - 2nd Half",
+            "status": "13:40 - 2nd Half",
             "tv": "FOX",
-            "winProb": 0.997,
+            "winProb": 0.987,
             "state": "in"
         },
         {
