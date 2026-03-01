@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-01 20:57:37",
+    "lastUpdated": "2026-03-01 21:02:41",
     "games": [
         {
             "id": "401825550",
             "awayTeam": "#13 Michigan State Spartans",
-            "awayScore": "0",
+            "awayScore": "6",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
             "awayAbbr": "MSU",
             "homeTeam": "Indiana Hoosiers",
-            "homeScore": "0",
+            "homeScore": "3",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
             "homeAbbr": "IU",
-            "status": "19:48 - 1st Half",
+            "status": "16:48 - 1st Half",
             "tv": "CBS",
-            "winProb": 0.41,
+            "winProb": 0.348,
             "state": "in"
         },
         {
