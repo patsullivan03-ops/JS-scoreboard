@@ -1,25 +1,15 @@
 {
-    "lastUpdated": "2026-03-01 04:06:24",
+    "lastUpdated": "2026-03-01 04:11:29",
     "games": [
         {
             "awayTeam": "#9 Gonzaga Bulldogs",
             "awayScore": "24",
             "homeTeam": "Saint Mary's Gaels",
-            "homeScore": "15",
-            "status": "8:13 - 1st Half",
+            "homeScore": "18",
+            "status": "6:53 - 1st Half",
             "tv": "ESPNEWS",
-            "winProb": 0.147,
+            "winProb": 0.203,
             "state": "in"
-        },
-        {
-            "awayTeam": "#20 Arkansas Razorbacks",
-            "awayScore": "77",
-            "homeTeam": "#7 Florida Gators",
-            "homeScore": "111",
-            "status": "Final",
-            "tv": "ESPN",
-            "winProb": 0.5,
-            "state": "post"
         },
         {
             "awayTeam": "#11 Virginia Cavaliers",
@@ -48,6 +38,16 @@
             "homeScore": "73",
             "status": "Final",
             "tv": "CBS",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "awayTeam": "#20 Arkansas Razorbacks",
+            "awayScore": "77",
+            "homeTeam": "#7 Florida Gators",
+            "homeScore": "111",
+            "status": "Final",
+            "tv": "ESPN",
             "winProb": 0.5,
             "state": "post"
         },
