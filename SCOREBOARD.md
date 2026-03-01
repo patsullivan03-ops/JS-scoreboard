@@ -1,8 +1,8 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-01 21:38:15*
+*Updated: 2026-03-01 21:43:19*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #13 Michigan State Spartans @ Indiana Hoosiers | 39 - 26 | 4:22 - 1st Half | CBS |
+| #13 Michigan State Spartans @ Indiana Hoosiers | 42 - 34 | 1:55 - 1st Half | CBS |
 | Belmont Bruins @ Illinois State Redbirds | 0 - 0 | Sun, March 1st at 5:00 PM EST | CBSSN |
 | #8 Purdue Boilermakers @ Ohio State Buckeyes | 74 - 82 | Final | CBS |
