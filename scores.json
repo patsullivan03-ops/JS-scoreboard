@@ -1,20 +1,65 @@
 {
-    "lastUpdated": "2026-03-01 17:49:37",
+    "lastUpdated": "2026-03-01 17:53:00",
     "games": [
         {
-            "id": "401828250",
-            "awayTeam": "North Texas Mean Green",
-            "awayScore": "21",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/249.png",
-            "awayAbbr": "UNT",
-            "homeTeam": "UAB Blazers",
-            "homeScore": "28",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/5.png",
-            "homeAbbr": "UAB",
-            "status": "Halftime",
-            "tv": "ESPNU",
+            "id": "401830316",
+            "awayTeam": "UIC Flames",
+            "awayScore": "0",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/82.png",
+            "awayAbbr": "UIC",
+            "homeTeam": "Indiana State Sycamores",
+            "homeScore": "0",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/282.png",
+            "homeAbbr": "INST",
+            "status": "Sun, March 1st at 1:00 PM EST",
+            "tv": "ESPN+",
             "winProb": 0.5,
-            "state": "in"
+            "state": "pre"
+        },
+        {
+            "id": "401825552",
+            "awayTeam": "#8 Purdue Boilermakers",
+            "awayScore": "0",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
+            "awayAbbr": "PUR",
+            "homeTeam": "Ohio State Buckeyes",
+            "homeScore": "0",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+            "homeAbbr": "OSU",
+            "status": "Sun, March 1st at 1:30 PM EST",
+            "tv": "CBS",
+            "winProb": 0.5,
+            "state": "pre"
+        },
+        {
+            "id": "401825550",
+            "awayTeam": "#13 Michigan State Spartans",
+            "awayScore": "0",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
+            "awayAbbr": "MSU",
+            "homeTeam": "Indiana Hoosiers",
+            "homeScore": "0",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
+            "homeAbbr": "IU",
+            "status": "Sun, March 1st at 3:45 PM EST",
+            "tv": "CBS",
+            "winProb": 0.5,
+            "state": "pre"
+        },
+        {
+            "id": "401830217",
+            "awayTeam": "Belmont Bruins",
+            "awayScore": "0",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2057.png",
+            "awayAbbr": "BEL",
+            "homeTeam": "Illinois State Redbirds",
+            "homeScore": "0",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2287.png",
+            "homeAbbr": "ILST",
+            "status": "Sun, March 1st at 5:00 PM EST",
+            "tv": "CBSSN",
+            "winProb": 0.5,
+            "state": "pre"
         }
     ]
 }
