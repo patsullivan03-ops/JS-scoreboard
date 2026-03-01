@@ -1,43 +1,33 @@
 {
-    "lastUpdated": "2026-03-01 03:10:30",
+    "lastUpdated": "2026-03-01 03:15:35",
     "games": [
         {
             "awayTeam": "Baylor Bears",
-            "awayScore": "80",
+            "awayScore": "82",
             "homeTeam": "UCF Knights",
-            "homeScore": "77",
-            "status": "3:58 - 2nd Half",
+            "homeScore": "78",
+            "status": "3:06 - 2nd Half",
             "tv": "FS1",
-            "winProb": 0.305,
+            "winProb": 0.27,
             "state": "in"
         },
         {
             "awayTeam": "Virginia Tech Hokies",
             "awayScore": "63",
             "homeTeam": "#18 North Carolina Tar Heels",
-            "homeScore": "68",
-            "status": "9:53 - 2nd Half",
+            "homeScore": "71",
+            "status": "8:57 - 2nd Half",
             "tv": "ESPN2",
-            "winProb": 0.886,
+            "winProb": 0.93,
             "state": "in"
         },
         {
             "awayTeam": "#20 Arkansas Razorbacks",
-            "awayScore": "40",
+            "awayScore": "41",
             "homeTeam": "#7 Florida Gators",
-            "homeScore": "65",
-            "status": "15:01 - 2nd Half",
+            "homeScore": "70",
+            "status": "13:47 - 2nd Half",
             "tv": "ESPN",
-            "winProb": 0.999,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Villanova Wildcats",
-            "awayScore": "53",
-            "homeTeam": "#15 St. John's Red Storm",
-            "homeScore": "83",
-            "status": "1:54 - 2nd Half",
-            "tv": "FOX",
             "winProb": 0.999,
             "state": "in"
         },
@@ -50,6 +40,16 @@
             "tv": "ESPN",
             "winProb": 0.5,
             "state": "pre"
+        },
+        {
+            "awayTeam": "Villanova Wildcats",
+            "awayScore": "57",
+            "homeTeam": "#15 St. John's Red Storm",
+            "homeScore": "89",
+            "status": "Final",
+            "tv": "FOX",
+            "winProb": 0.5,
+            "state": "post"
         },
         {
             "awayTeam": "#11 Virginia Cavaliers",
