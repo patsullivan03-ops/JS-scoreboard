@@ -1,21 +1,6 @@
 {
-    "lastUpdated": "2026-03-01 20:47:27",
+    "lastUpdated": "2026-03-01 20:52:32",
     "games": [
-        {
-            "id": "401825552",
-            "awayTeam": "#8 Purdue Boilermakers",
-            "awayScore": "71",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
-            "awayAbbr": "PUR",
-            "homeTeam": "Ohio State Buckeyes",
-            "homeScore": "80",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
-            "homeAbbr": "OSU",
-            "status": "0:08 - 2nd Half",
-            "tv": "CBS",
-            "winProb": 0.999,
-            "state": "in"
-        },
         {
             "id": "401825550",
             "awayTeam": "#13 Michigan State Spartans",
@@ -45,6 +30,21 @@
             "tv": "CBSSN",
             "winProb": 0.5,
             "state": "pre"
+        },
+        {
+            "id": "401825552",
+            "awayTeam": "#8 Purdue Boilermakers",
+            "awayScore": "74",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
+            "awayAbbr": "PUR",
+            "homeTeam": "Ohio State Buckeyes",
+            "homeScore": "82",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+            "homeAbbr": "OSU",
+            "status": "Final",
+            "tv": "CBS",
+            "winProb": 0.5,
+            "state": "post"
         }
     ]
 }
