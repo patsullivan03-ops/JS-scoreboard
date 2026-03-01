@@ -1,16 +1,14 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-01 02:04:26*
+*Updated: 2026-03-01 02:09:31*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
 | Villanova Wildcats @ #15 St. John's Red Storm | 23 - 48 | Halftime | FOX |
-| Virginia Tech Hokies @ #18 North Carolina Tar Heels | 18 - 22 | 8:57 - 1st Half | ESPN2 |
-| Baylor Bears @ UCF Knights | 49 - 37 | 2:01 - 1st Half | FS1 |
+| Virginia Tech Hokies @ #18 North Carolina Tar Heels | 22 - 25 | 7:28 - 1st Half | ESPN2 |
 | Oral Roberts Golden Eagles @ Kansas City Roos | 43 - 30 | Halftime | Summit League Network, Midco Sports Plus |
-| #20 Arkansas Razorbacks @ #7 Florida Gators | 20 - 31 | 8:54 - 1st Half | ESPN |
+| Baylor Bears @ UCF Knights | 56 - 42 | 0:13 - 1st Half | FS1 |
+| #20 Arkansas Razorbacks @ #7 Florida Gators | 22 - 33 | 7:53 - 1st Half | ESPN |
 | #9 Gonzaga Bulldogs @ Saint Mary's Gaels | 0 - 0 | Sat, February 28th at 10:30 PM EST | ESPN |
-| Mississippi Valley State Delta Devils @ Arkansas-Pine Bluff Golden Lions | 70 - 69 | Final | N/A |
-| Wright State Raiders @ Northern Kentucky Norse | 92 - 91 | Final | ESPN+ |
 | #11 Virginia Cavaliers @ #1 Duke Blue Devils | 51 - 77 | Final | ESPN |
 | #14 Kansas Jayhawks @ #2 Arizona Wildcats | 61 - 84 | Final | ESPN |
 | #16 Texas Tech Red Raiders @ #4 Iowa State Cyclones | 82 - 73 | Final | CBS |
@@ -43,4 +41,6 @@
 | Alabama State Hornets @ Alabama A&M Bulldogs | 89 - 88 | Final | N/A |
 | SMU Mustangs @ Stanford Cardinal | 75 - 95 | Final | ACC Network |
 | TCU Horned Frogs @ Kansas State Wildcats | 77 - 68 | Final | ESPN2 |
+| Mississippi Valley State Delta Devils @ Arkansas-Pine Bluff Golden Lions | 70 - 69 | Final | N/A |
 | Northwestern State Demons @ Texas A&M-Corpus Christi Islanders | 59 - 71 | Final | ESPN+ |
+| Wright State Raiders @ Northern Kentucky Norse | 92 - 91 | Final | ESPN+ |
