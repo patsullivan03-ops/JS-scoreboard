@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-01 02:40:00",
+    "lastUpdated": "2026-03-01 02:45:05",
     "games": [
         {
             "awayTeam": "#20 Arkansas Razorbacks",
@@ -23,32 +23,32 @@
         },
         {
             "awayTeam": "Baylor Bears",
-            "awayScore": "60",
+            "awayScore": "64",
             "homeTeam": "UCF Knights",
             "homeScore": "58",
-            "status": "13:55 - 2nd Half",
+            "status": "12:22 - 2nd Half",
             "tv": "FS1",
-            "winProb": 0.478,
+            "winProb": 0.219,
             "state": "in"
         },
         {
             "awayTeam": "Oral Roberts Golden Eagles",
-            "awayScore": "71",
+            "awayScore": "78",
             "homeTeam": "Kansas City Roos",
-            "homeScore": "57",
-            "status": "7:36 - 2nd Half",
+            "homeScore": "60",
+            "status": "6:29 - 2nd Half",
             "tv": "Summit League Network, Midco Sports Plus",
-            "winProb": 0.018,
+            "winProb": 0.005,
             "state": "in"
         },
         {
             "awayTeam": "Villanova Wildcats",
             "awayScore": "41",
             "homeTeam": "#15 St. John's Red Storm",
-            "homeScore": "60",
-            "status": "12:19 - 2nd Half",
+            "homeScore": "62",
+            "status": "11:18 - 2nd Half",
             "tv": "FOX",
-            "winProb": 0.993,
+            "winProb": 0.998,
             "state": "in"
         },
         {
