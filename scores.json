@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-01 20:06:51",
+    "lastUpdated": "2026-03-01 20:11:56",
     "games": [
         {
             "id": "401825552",
             "awayTeam": "#8 Purdue Boilermakers",
-            "awayScore": "45",
+            "awayScore": "47",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
             "awayAbbr": "PUR",
             "homeTeam": "Ohio State Buckeyes",
-            "homeScore": "55",
+            "homeScore": "58",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
             "homeAbbr": "OSU",
-            "status": "11:44 - 2nd Half",
+            "status": "10:28 - 2nd Half",
             "tv": "CBS",
-            "winProb": 0.839,
+            "winProb": 0.878,
             "state": "in"
         },
         {
