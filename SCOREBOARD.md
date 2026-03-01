@@ -1,6 +1,6 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-01 17:29:18*
+*Updated: 2026-03-01 17:34:22*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| North Texas Mean Green @ UAB Blazers | 16 - 19 | 7:19 - 1st Half | ESPNU |
+| North Texas Mean Green @ UAB Blazers | 19 - 22 | 4:15 - 1st Half | ESPNU |
