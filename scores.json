@@ -1,75 +1,75 @@
 {
-    "lastUpdated": "2026-03-01 01:39:04",
+    "lastUpdated": "2026-03-01 01:44:09",
     "games": [
         {
+            "awayTeam": "Wright State Raiders",
+            "awayScore": "87",
+            "homeTeam": "Northern Kentucky Norse",
+            "homeScore": "88",
+            "status": "1:23 - 2nd Half",
+            "tv": "ESPN+",
+            "winProb": 0.543,
+            "state": "in"
+        },
+        {
             "awayTeam": "Baylor Bears",
-            "awayScore": "22",
+            "awayScore": "29",
             "homeTeam": "UCF Knights",
-            "homeScore": "21",
-            "status": "9:25 - 1st Half",
+            "homeScore": "26",
+            "status": "7:33 - 1st Half",
             "tv": "FS1",
-            "winProb": 0.507,
+            "winProb": 0.433,
             "state": "in"
         },
         {
             "awayTeam": "Mississippi Valley State Delta Devils",
-            "awayScore": "66",
+            "awayScore": "68",
             "homeTeam": "Arkansas-Pine Bluff Golden Lions",
-            "homeScore": "60",
-            "status": "2:54 - 2nd Half",
+            "homeScore": "64",
+            "status": "1:28 - 2nd Half",
             "tv": "N/A",
-            "winProb": 0.31,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Wright State Raiders",
-            "awayScore": "83",
-            "homeTeam": "Northern Kentucky Norse",
-            "homeScore": "86",
-            "status": "2:44 - 2nd Half",
-            "tv": "ESPN+",
-            "winProb": 0.73,
-            "state": "in"
-        },
-        {
-            "awayTeam": "#20 Arkansas Razorbacks",
-            "awayScore": "6",
-            "homeTeam": "#7 Florida Gators",
-            "homeScore": "5",
-            "status": "17:34 - 1st Half",
-            "tv": "ESPN",
-            "winProb": 0.772,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Oral Roberts Golden Eagles",
-            "awayScore": "34",
-            "homeTeam": "Kansas City Roos",
-            "homeScore": "16",
-            "status": "4:57 - 1st Half",
-            "tv": "Summit League Network, Midco Sports Plus",
-            "winProb": 0.046,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Villanova Wildcats",
-            "awayScore": "14",
-            "homeTeam": "#15 St. John's Red Storm",
-            "homeScore": "32",
-            "status": "7:51 - 1st Half",
-            "tv": "FOX",
-            "winProb": 0.968,
+            "winProb": 0.387,
             "state": "in"
         },
         {
             "awayTeam": "Virginia Tech Hokies",
-            "awayScore": "0",
+            "awayScore": "2",
             "homeTeam": "#18 North Carolina Tar Heels",
-            "homeScore": "0",
-            "status": "Sat, February 28th at 8:30 PM EST",
+            "homeScore": "5",
+            "status": "17:46 - 1st Half",
             "tv": "ESPN2",
-            "winProb": 0.5,
-            "state": "pre"
+            "winProb": 0.827,
+            "state": "in"
+        },
+        {
+            "awayTeam": "#20 Arkansas Razorbacks",
+            "awayScore": "9",
+            "homeTeam": "#7 Florida Gators",
+            "homeScore": "11",
+            "status": "15:37 - 1st Half",
+            "tv": "ESPN",
+            "winProb": 0.834,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Oral Roberts Golden Eagles",
+            "awayScore": "39",
+            "homeTeam": "Kansas City Roos",
+            "homeScore": "22",
+            "status": "3:06 - 1st Half",
+            "tv": "Summit League Network, Midco Sports Plus",
+            "winProb": 0.057,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Villanova Wildcats",
+            "awayScore": "17",
+            "homeTeam": "#15 St. John's Red Storm",
+            "homeScore": "37",
+            "status": "5:38 - 1st Half",
+            "tv": "FOX",
+            "winProb": 0.983,
+            "state": "in"
         },
         {
             "awayTeam": "#9 Gonzaga Bulldogs",
@@ -395,7 +395,7 @@
             "awayTeam": "TCU Horned Frogs",
             "awayScore": "77",
             "homeTeam": "Kansas State Wildcats",
-            "homeScore": "55",
+            "homeScore": "68",
             "status": "Final",
             "tv": "ESPN2",
             "winProb": 0.5,
