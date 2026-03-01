@@ -1,16 +1,16 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-01 01:54:17*
+*Updated: 2026-03-01 01:59:22*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Baylor Bears @ UCF Knights | 37 - 30 | 5:20 - 1st Half | FS1 |
-| Virginia Tech Hokies @ #18 North Carolina Tar Heels | 16 - 14 | 12:08 - 1st Half | ESPN2 |
-| #20 Arkansas Razorbacks @ #7 Florida Gators | 16 - 15 | 12:58 - 1st Half | ESPN |
+| Villanova Wildcats @ #15 St. John's Red Storm | 23 - 48 | Halftime | FOX |
+| Baylor Bears @ UCF Knights | 44 - 35 | 3:31 - 1st Half | FS1 |
+| Virginia Tech Hokies @ #18 North Carolina Tar Heels | 16 - 14 | 10:47 - 1st Half | ESPN2 |
+| #20 Arkansas Razorbacks @ #7 Florida Gators | 16 - 20 | 11:24 - 1st Half | ESPN |
 | Oral Roberts Golden Eagles @ Kansas City Roos | 43 - 30 | Halftime | Summit League Network, Midco Sports Plus |
-| Mississippi Valley State Delta Devils @ Arkansas-Pine Bluff Golden Lions | 70 - 69 | 0:03 - 2nd Half | N/A |
-| Wright State Raiders @ Northern Kentucky Norse | 92 - 91 | 0:00 - 2nd Half | ESPN+ |
-| Villanova Wildcats @ #15 St. John's Red Storm | 18 - 44 | 2:10 - 1st Half | FOX |
 | #9 Gonzaga Bulldogs @ Saint Mary's Gaels | 0 - 0 | Sat, February 28th at 10:30 PM EST | ESPN |
+| Mississippi Valley State Delta Devils @ Arkansas-Pine Bluff Golden Lions | 70 - 69 | Final | N/A |
+| Wright State Raiders @ Northern Kentucky Norse | 92 - 91 | Final | ESPN+ |
 | #11 Virginia Cavaliers @ #1 Duke Blue Devils | 51 - 77 | Final | ESPN |
 | #14 Kansas Jayhawks @ #2 Arizona Wildcats | 61 - 84 | Final | ESPN |
 | #16 Texas Tech Red Raiders @ #4 Iowa State Cyclones | 82 - 73 | Final | CBS |
