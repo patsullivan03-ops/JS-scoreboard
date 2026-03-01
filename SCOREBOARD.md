@@ -1,18 +1,16 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-01 01:34:00*
+*Updated: 2026-03-01 01:39:04*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Mississippi Valley State Delta Devils @ Arkansas-Pine Bluff Golden Lions | 64 - 59 | 4:44 - 2nd Half | N/A |
-| Baylor Bears @ UCF Knights | 17 - 19 | 10:36 - 1st Half | FS1 |
-| Oral Roberts Golden Eagles @ Kansas City Roos | 28 - 12 | 7:40 - 1st Half | Summit League Network, Midco Sports Plus |
-| Villanova Wildcats @ #15 St. John's Red Storm | 14 - 30 | 8:51 - 1st Half | FOX |
-| Wright State Raiders @ Northern Kentucky Norse | 71 - 82 | 5:41 - 2nd Half | ESPN+ |
-| #20 Arkansas Razorbacks @ #7 Florida Gators | 0 - 0 | Sat, February 28th at 8:30 PM EST | ESPN |
+| Baylor Bears @ UCF Knights | 22 - 21 | 9:25 - 1st Half | FS1 |
+| Mississippi Valley State Delta Devils @ Arkansas-Pine Bluff Golden Lions | 66 - 60 | 2:54 - 2nd Half | N/A |
+| Wright State Raiders @ Northern Kentucky Norse | 83 - 86 | 2:44 - 2nd Half | ESPN+ |
+| #20 Arkansas Razorbacks @ #7 Florida Gators | 6 - 5 | 17:34 - 1st Half | ESPN |
+| Oral Roberts Golden Eagles @ Kansas City Roos | 34 - 16 | 4:57 - 1st Half | Summit League Network, Midco Sports Plus |
+| Villanova Wildcats @ #15 St. John's Red Storm | 14 - 32 | 7:51 - 1st Half | FOX |
 | Virginia Tech Hokies @ #18 North Carolina Tar Heels | 0 - 0 | Sat, February 28th at 8:30 PM EST | ESPN2 |
 | #9 Gonzaga Bulldogs @ Saint Mary's Gaels | 0 - 0 | Sat, February 28th at 10:30 PM EST | ESPN |
-| TCU Horned Frogs @ Kansas State Wildcats | 77 - 68 | Final | ESPN2 |
-| Northwestern State Demons @ Texas A&M-Corpus Christi Islanders | 59 - 71 | Final | ESPN+ |
 | #11 Virginia Cavaliers @ #1 Duke Blue Devils | 51 - 77 | Final | ESPN |
 | #14 Kansas Jayhawks @ #2 Arizona Wildcats | 61 - 84 | Final | ESPN |
 | #16 Texas Tech Red Raiders @ #4 Iowa State Cyclones | 82 - 73 | Final | CBS |
@@ -44,3 +42,5 @@
 | Jackson State Tigers @ Texas Southern Tigers | 57 - 82 | Final | N/A |
 | Alabama State Hornets @ Alabama A&M Bulldogs | 89 - 88 | Final | N/A |
 | SMU Mustangs @ Stanford Cardinal | 75 - 95 | Final | ACC Network |
+| TCU Horned Frogs @ Kansas State Wildcats | 77 - 55 | Final | ESPN2 |
+| Northwestern State Demons @ Texas A&M-Corpus Christi Islanders | 59 - 71 | Final | ESPN+ |
