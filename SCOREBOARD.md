@@ -1,16 +1,16 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-01 00:53:22*
+*Updated: 2026-03-01 00:58:30*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Wright State Raiders @ Northern Kentucky Norse | 35 - 53 | Halftime | ESPN+ |
-| Alabama State Hornets @ Alabama A&M Bulldogs | 77 - 79 | 6:16 - 2nd Half | N/A |
-| TCU Horned Frogs @ Kansas State Wildcats | 54 - 51 | 11:30 - 2nd Half | ESPN2 |
-| #17 Alabama Crimson Tide @ #22 Tennessee Volunteers | 53 - 61 | 7:11 - 2nd Half | ESPN |
-| Northwestern State Demons @ Texas A&M-Corpus Christi Islanders | 39 - 50 | 11:57 - 2nd Half | ESPN+ |
-| Mississippi Valley State Delta Devils @ Arkansas-Pine Bluff Golden Lions | 37 - 43 | 18:02 - 2nd Half | N/A |
-| SMU Mustangs @ Stanford Cardinal | 57 - 73 | 6:50 - 2nd Half | ACC Network |
-| Jackson State Tigers @ Texas Southern Tigers | 50 - 70 | 4:39 - 2nd Half | N/A |
+| Mississippi Valley State Delta Devils @ Arkansas-Pine Bluff Golden Lions | 40 - 43 | 16:11 - 2nd Half | N/A |
+| TCU Horned Frogs @ Kansas State Wildcats | 54 - 51 | 11:01 - 2nd Half | ESPN2 |
+| Alabama State Hornets @ Alabama A&M Bulldogs | 81 - 84 | 3:46 - 2nd Half | N/A |
+| #17 Alabama Crimson Tide @ #22 Tennessee Volunteers | 61 - 67 | 3:22 - 2nd Half | ESPN |
+| Wright State Raiders @ Northern Kentucky Norse | 35 - 53 | 19:27 - 2nd Half | ESPN+ |
+| Northwestern State Demons @ Texas A&M-Corpus Christi Islanders | 39 - 55 | 10:30 - 2nd Half | ESPN+ |
+| SMU Mustangs @ Stanford Cardinal | 63 - 78 | 5:17 - 2nd Half | ACC Network |
+| Jackson State Tigers @ Texas Southern Tigers | 52 - 76 | 3:35 - 2nd Half | N/A |
 | Villanova Wildcats @ #15 St. John's Red Storm | 0 - 0 | Sat, February 28th at 8:00 PM EST | FOX |
 | Baylor Bears @ UCF Knights | 0 - 0 | Sat, February 28th at 8:00 PM EST | FS1 |
 | Oral Roberts Golden Eagles @ Kansas City Roos | 0 - 0 | Sat, February 28th at 8:00 PM EST | Summit League Network, Midco Sports Plus |
