@@ -1,72 +1,72 @@
 {
-    "lastUpdated": "2026-03-01 01:18:46",
+    "lastUpdated": "2026-03-01 01:23:51",
     "games": [
         {
-            "awayTeam": "Mississippi Valley State Delta Devils",
-            "awayScore": "60",
-            "homeTeam": "Arkansas-Pine Bluff Golden Lions",
-            "homeScore": "52",
-            "status": "8:26 - 2nd Half",
-            "tv": "N/A",
-            "winProb": 0.4,
+            "awayTeam": "Baylor Bears",
+            "awayScore": "12",
+            "homeTeam": "UCF Knights",
+            "homeScore": "12",
+            "status": "14:21 - 1st Half",
+            "tv": "FS1",
+            "winProb": 0.545,
             "state": "in"
         },
         {
-            "awayTeam": "Baylor Bears",
-            "awayScore": "3",
-            "homeTeam": "UCF Knights",
-            "homeScore": "6",
-            "status": "17:25 - 1st Half",
-            "tv": "FS1",
-            "winProb": 0.635,
+            "awayTeam": "Mississippi Valley State Delta Devils",
+            "awayScore": "62",
+            "homeTeam": "Arkansas-Pine Bluff Golden Lions",
+            "homeScore": "54",
+            "status": "6:29 - 2nd Half",
+            "tv": "N/A",
+            "winProb": 0.352,
             "state": "in"
         },
         {
             "awayTeam": "Oral Roberts Golden Eagles",
-            "awayScore": "11",
+            "awayScore": "17",
             "homeTeam": "Kansas City Roos",
-            "homeScore": "2",
-            "status": "14:22 - 1st Half",
+            "homeScore": "7",
+            "status": "11:13 - 1st Half",
             "tv": "Summit League Network, Midco Sports Plus",
-            "winProb": 0.223,
-            "state": "in"
-        },
-        {
-            "awayTeam": "TCU Horned Frogs",
-            "awayScore": "69",
-            "homeTeam": "Kansas State Wildcats",
-            "homeScore": "65",
-            "status": "3:54 - 2nd Half",
-            "tv": "ESPN2",
-            "winProb": 0.144,
+            "winProb": 0.173,
             "state": "in"
         },
         {
             "awayTeam": "Villanova Wildcats",
-            "awayScore": "4",
+            "awayScore": "11",
             "homeTeam": "#15 St. John's Red Storm",
-            "homeScore": "11",
-            "status": "14:57 - 1st Half",
+            "homeScore": "19",
+            "status": "12:26 - 1st Half",
             "tv": "FOX",
-            "winProb": 0.864,
+            "winProb": 0.865,
             "state": "in"
         },
         {
             "awayTeam": "Wright State Raiders",
-            "awayScore": "56",
+            "awayScore": "60",
             "homeTeam": "Northern Kentucky Norse",
-            "homeScore": "66",
-            "status": "11:04 - 2nd Half",
+            "homeScore": "71",
+            "status": "9:46 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.897,
+            "winProb": 0.911,
+            "state": "in"
+        },
+        {
+            "awayTeam": "TCU Horned Frogs",
+            "awayScore": "73",
+            "homeTeam": "Kansas State Wildcats",
+            "homeScore": "65",
+            "status": "3:21 - 2nd Half",
+            "tv": "ESPN2",
+            "winProb": 0.057,
             "state": "in"
         },
         {
             "awayTeam": "Northwestern State Demons",
-            "awayScore": "52",
+            "awayScore": "58",
             "homeTeam": "Texas A&M-Corpus Christi Islanders",
-            "homeScore": "68",
-            "status": "1:38 - 2nd Half",
+            "homeScore": "69",
+            "status": "0:42 - 2nd Half",
             "tv": "ESPN+",
             "winProb": 0.999,
             "state": "in"
@@ -100,36 +100,6 @@
             "tv": "ESPN",
             "winProb": 0.5,
             "state": "pre"
-        },
-        {
-            "awayTeam": "#17 Alabama Crimson Tide",
-            "awayScore": "71",
-            "homeTeam": "#22 Tennessee Volunteers",
-            "homeScore": "69",
-            "status": "Final",
-            "tv": "ESPN",
-            "winProb": 0.5,
-            "state": "post"
-        },
-        {
-            "awayTeam": "Alabama State Hornets",
-            "awayScore": "89",
-            "homeTeam": "Alabama A&M Bulldogs",
-            "homeScore": "88",
-            "status": "Final",
-            "tv": "N/A",
-            "winProb": 0.5,
-            "state": "post"
-        },
-        {
-            "awayTeam": "SMU Mustangs",
-            "awayScore": "75",
-            "homeTeam": "Stanford Cardinal",
-            "homeScore": "95",
-            "status": "Final",
-            "tv": "ACC Network",
-            "winProb": 0.5,
-            "state": "post"
         },
         {
             "awayTeam": "#11 Virginia Cavaliers",
@@ -168,6 +138,16 @@
             "homeScore": "67",
             "status": "Final",
             "tv": "BTN",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "awayTeam": "#17 Alabama Crimson Tide",
+            "awayScore": "71",
+            "homeTeam": "#22 Tennessee Volunteers",
+            "homeScore": "69",
+            "status": "Final",
+            "tv": "ESPN",
             "winProb": 0.5,
             "state": "post"
         },
@@ -408,6 +388,26 @@
             "homeScore": "82",
             "status": "Final",
             "tv": "N/A",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "awayTeam": "Alabama State Hornets",
+            "awayScore": "89",
+            "homeTeam": "Alabama A&M Bulldogs",
+            "homeScore": "88",
+            "status": "Final",
+            "tv": "N/A",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "awayTeam": "SMU Mustangs",
+            "awayScore": "75",
+            "homeTeam": "Stanford Cardinal",
+            "homeScore": "95",
+            "status": "Final",
+            "tv": "ACC Network",
             "winProb": 0.5,
             "state": "post"
         }

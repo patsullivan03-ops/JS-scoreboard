@@ -1,25 +1,23 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-01 01:18:46*
+*Updated: 2026-03-01 01:23:51*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Mississippi Valley State Delta Devils @ Arkansas-Pine Bluff Golden Lions | 60 - 52 | 8:26 - 2nd Half | N/A |
-| Baylor Bears @ UCF Knights | 3 - 6 | 17:25 - 1st Half | FS1 |
-| Oral Roberts Golden Eagles @ Kansas City Roos | 11 - 2 | 14:22 - 1st Half | Summit League Network, Midco Sports Plus |
-| TCU Horned Frogs @ Kansas State Wildcats | 69 - 65 | 3:54 - 2nd Half | ESPN2 |
-| Villanova Wildcats @ #15 St. John's Red Storm | 4 - 11 | 14:57 - 1st Half | FOX |
-| Wright State Raiders @ Northern Kentucky Norse | 56 - 66 | 11:04 - 2nd Half | ESPN+ |
-| Northwestern State Demons @ Texas A&M-Corpus Christi Islanders | 52 - 68 | 1:38 - 2nd Half | ESPN+ |
+| Baylor Bears @ UCF Knights | 12 - 12 | 14:21 - 1st Half | FS1 |
+| Mississippi Valley State Delta Devils @ Arkansas-Pine Bluff Golden Lions | 62 - 54 | 6:29 - 2nd Half | N/A |
+| Oral Roberts Golden Eagles @ Kansas City Roos | 17 - 7 | 11:13 - 1st Half | Summit League Network, Midco Sports Plus |
+| Villanova Wildcats @ #15 St. John's Red Storm | 11 - 19 | 12:26 - 1st Half | FOX |
+| Wright State Raiders @ Northern Kentucky Norse | 60 - 71 | 9:46 - 2nd Half | ESPN+ |
+| TCU Horned Frogs @ Kansas State Wildcats | 73 - 65 | 3:21 - 2nd Half | ESPN2 |
+| Northwestern State Demons @ Texas A&M-Corpus Christi Islanders | 58 - 69 | 0:42 - 2nd Half | ESPN+ |
 | #20 Arkansas Razorbacks @ #7 Florida Gators | 0 - 0 | Sat, February 28th at 8:30 PM EST | ESPN |
 | Virginia Tech Hokies @ #18 North Carolina Tar Heels | 0 - 0 | Sat, February 28th at 8:30 PM EST | ESPN2 |
 | #9 Gonzaga Bulldogs @ Saint Mary's Gaels | 0 - 0 | Sat, February 28th at 10:30 PM EST | ESPN |
-| #17 Alabama Crimson Tide @ #22 Tennessee Volunteers | 71 - 69 | Final | ESPN |
-| Alabama State Hornets @ Alabama A&M Bulldogs | 89 - 88 | Final | N/A |
-| SMU Mustangs @ Stanford Cardinal | 75 - 95 | Final | ACC Network |
 | #11 Virginia Cavaliers @ #1 Duke Blue Devils | 51 - 77 | Final | ESPN |
 | #14 Kansas Jayhawks @ #2 Arizona Wildcats | 61 - 84 | Final | ESPN |
 | #16 Texas Tech Red Raiders @ #4 Iowa State Cyclones | 82 - 73 | Final | CBS |
 | #12 Nebraska Cornhuskers @ USC Trojans | 82 - 67 | Final | BTN |
+| #17 Alabama Crimson Tide @ #22 Tennessee Volunteers | 71 - 69 | Final | ESPN |
 | #19 BYU Cougars @ West Virginia Mountaineers | 71 - 79 | Final | FOX |
 | #24 Louisville Cardinals @ Clemson Tigers | 75 - 80 | Final | ESPN2 |
 | #25 Vanderbilt Commodores @ Kentucky Wildcats | 77 - 91 | Final | ESPN |
@@ -44,3 +42,5 @@
 | East Texas A&M Lions @ UT Rio Grande Valley Vaqueros | 55 - 63 | Final | ESPN+ |
 | Missouri State Bears @ Sam Houston Bearkats | 81 - 86 | Final | ESPN+ |
 | Jackson State Tigers @ Texas Southern Tigers | 57 - 82 | Final | N/A |
+| Alabama State Hornets @ Alabama A&M Bulldogs | 89 - 88 | Final | N/A |
+| SMU Mustangs @ Stanford Cardinal | 75 - 95 | Final | ACC Network |
