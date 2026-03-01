@@ -1,20 +1,20 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-01 00:12:44*
+*Updated: 2026-03-01 00:17:49*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #17 Alabama Crimson Tide @ #22 Tennessee Volunteers | 28 - 40 | Halftime | ESPN |
-| Alabama State Hornets @ Alabama A&M Bulldogs | 50 - 44 | Halftime | N/A |
-| TCU Horned Frogs @ Kansas State Wildcats | 35 - 34 | 2:41 - 1st Half | ESPN2 |
-| Wright State Raiders @ Northern Kentucky Norse | 14 - 16 | 13:26 - 1st Half | ESPN+ |
-| Providence Friars @ Creighton Bluejays | 62 - 60 | 7:38 - 2nd Half | TNT, truTV |
-| Northwestern State Demons @ Texas A&M-Corpus Christi Islanders | 26 - 23 | 3:45 - 1st Half | ESPN+ |
-| SMU Mustangs @ Stanford Cardinal | 31 - 40 | 18:20 - 2nd Half | ACC Network |
-| East Texas A&M Lions @ UT Rio Grande Valley Vaqueros | 52 - 58 | 2:35 - 2nd Half | ESPN+ |
-| #19 BYU Cougars @ West Virginia Mountaineers | 45 - 56 | 10:19 - 2nd Half | FOX |
-| Missouri State Bears @ Sam Houston Bearkats | 59 - 67 | 7:58 - 2nd Half | ESPN+ |
-| Mississippi Valley State Delta Devils @ Arkansas-Pine Bluff Golden Lions | 16 - 26 | 6:55 - 1st Half | N/A |
-| Jackson State Tigers @ Texas Southern Tigers | 30 - 47 | 16:41 - 2nd Half | N/A |
+| TCU Horned Frogs @ Kansas State Wildcats | 40 - 38 | 0:08 - 1st Half | ESPN2 |
+| Providence Friars @ Creighton Bluejays | 66 - 64 | 5:18 - 2nd Half | TNT, truTV |
+| Wright State Raiders @ Northern Kentucky Norse | 16 - 21 | 10:54 - 1st Half | ESPN+ |
+| Northwestern State Demons @ Texas A&M-Corpus Christi Islanders | 28 - 29 | 1:33 - 1st Half | ESPN+ |
+| Alabama State Hornets @ Alabama A&M Bulldogs | 56 - 47 | 17:59 - 2nd Half | N/A |
+| #19 BYU Cougars @ West Virginia Mountaineers | 51 - 60 | 8:37 - 2nd Half | FOX |
+| SMU Mustangs @ Stanford Cardinal | 33 - 47 | 16:18 - 2nd Half | ACC Network |
+| #17 Alabama Crimson Tide @ #22 Tennessee Volunteers | 28 - 40 | 20:00 - 2nd Half | ESPN |
+| Mississippi Valley State Delta Devils @ Arkansas-Pine Bluff Golden Lions | 24 - 31 | 5:14 - 1st Half | N/A |
+| East Texas A&M Lions @ UT Rio Grande Valley Vaqueros | 53 - 60 | 0:39 - 2nd Half | ESPN+ |
+| Missouri State Bears @ Sam Houston Bearkats | 62 - 71 | 6:00 - 2nd Half | ESPN+ |
+| Jackson State Tigers @ Texas Southern Tigers | 32 - 47 | 14:52 - 2nd Half | N/A |
 | Villanova Wildcats @ #15 St. John's Red Storm | 0 - 0 | Sat, February 28th at 8:00 PM EST | FOX |
 | Baylor Bears @ UCF Knights | 0 - 0 | Sat, February 28th at 8:00 PM EST | FS1 |
 | Oral Roberts Golden Eagles @ Kansas City Roos | 0 - 0 | Sat, February 28th at 8:00 PM EST | Summit League Network, Midco Sports Plus |

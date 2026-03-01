@@ -1,124 +1,124 @@
 {
-    "lastUpdated": "2026-03-01 00:12:44",
+    "lastUpdated": "2026-03-01 00:17:49",
     "games": [
+        {
+            "awayTeam": "TCU Horned Frogs",
+            "awayScore": "40",
+            "homeTeam": "Kansas State Wildcats",
+            "homeScore": "38",
+            "status": "0:08 - 1st Half",
+            "tv": "ESPN2",
+            "winProb": 0.42,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Providence Friars",
+            "awayScore": "66",
+            "homeTeam": "Creighton Bluejays",
+            "homeScore": "64",
+            "status": "5:18 - 2nd Half",
+            "tv": "TNT, truTV",
+            "winProb": 0.373,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Wright State Raiders",
+            "awayScore": "16",
+            "homeTeam": "Northern Kentucky Norse",
+            "homeScore": "21",
+            "status": "10:54 - 1st Half",
+            "tv": "ESPN+",
+            "winProb": 0.681,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Northwestern State Demons",
+            "awayScore": "28",
+            "homeTeam": "Texas A&M-Corpus Christi Islanders",
+            "homeScore": "29",
+            "status": "1:33 - 1st Half",
+            "tv": "ESPN+",
+            "winProb": 0.776,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Alabama State Hornets",
+            "awayScore": "56",
+            "homeTeam": "Alabama A&M Bulldogs",
+            "homeScore": "47",
+            "status": "17:59 - 2nd Half",
+            "tv": "N/A",
+            "winProb": 0.175,
+            "state": "in"
+        },
+        {
+            "awayTeam": "#19 BYU Cougars",
+            "awayScore": "51",
+            "homeTeam": "West Virginia Mountaineers",
+            "homeScore": "60",
+            "status": "8:37 - 2nd Half",
+            "tv": "FOX",
+            "winProb": 0.878,
+            "state": "in"
+        },
+        {
+            "awayTeam": "SMU Mustangs",
+            "awayScore": "33",
+            "homeTeam": "Stanford Cardinal",
+            "homeScore": "47",
+            "status": "16:18 - 2nd Half",
+            "tv": "ACC Network",
+            "winProb": 0.899,
+            "state": "in"
+        },
         {
             "awayTeam": "#17 Alabama Crimson Tide",
             "awayScore": "28",
             "homeTeam": "#22 Tennessee Volunteers",
             "homeScore": "40",
-            "status": "Halftime",
+            "status": "20:00 - 2nd Half",
             "tv": "ESPN",
-            "winProb": 0.5,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Alabama State Hornets",
-            "awayScore": "50",
-            "homeTeam": "Alabama A&M Bulldogs",
-            "homeScore": "44",
-            "status": "Halftime",
-            "tv": "N/A",
-            "winProb": 0.5,
-            "state": "in"
-        },
-        {
-            "awayTeam": "TCU Horned Frogs",
-            "awayScore": "35",
-            "homeTeam": "Kansas State Wildcats",
-            "homeScore": "34",
-            "status": "2:41 - 1st Half",
-            "tv": "ESPN2",
-            "winProb": 0.44,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Wright State Raiders",
-            "awayScore": "14",
-            "homeTeam": "Northern Kentucky Norse",
-            "homeScore": "16",
-            "status": "13:26 - 1st Half",
-            "tv": "ESPN+",
-            "winProb": 0.56,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Providence Friars",
-            "awayScore": "62",
-            "homeTeam": "Creighton Bluejays",
-            "homeScore": "60",
-            "status": "7:38 - 2nd Half",
-            "tv": "TNT, truTV",
-            "winProb": 0.365,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Northwestern State Demons",
-            "awayScore": "26",
-            "homeTeam": "Texas A&M-Corpus Christi Islanders",
-            "homeScore": "23",
-            "status": "3:45 - 1st Half",
-            "tv": "ESPN+",
-            "winProb": 0.644,
-            "state": "in"
-        },
-        {
-            "awayTeam": "SMU Mustangs",
-            "awayScore": "31",
-            "homeTeam": "Stanford Cardinal",
-            "homeScore": "40",
-            "status": "18:20 - 2nd Half",
-            "tv": "ACC Network",
-            "winProb": 0.783,
-            "state": "in"
-        },
-        {
-            "awayTeam": "East Texas A&M Lions",
-            "awayScore": "52",
-            "homeTeam": "UT Rio Grande Valley Vaqueros",
-            "homeScore": "58",
-            "status": "2:35 - 2nd Half",
-            "tv": "ESPN+",
-            "winProb": 0.896,
-            "state": "in"
-        },
-        {
-            "awayTeam": "#19 BYU Cougars",
-            "awayScore": "45",
-            "homeTeam": "West Virginia Mountaineers",
-            "homeScore": "56",
-            "status": "10:19 - 2nd Half",
-            "tv": "FOX",
-            "winProb": 0.909,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Missouri State Bears",
-            "awayScore": "59",
-            "homeTeam": "Sam Houston Bearkats",
-            "homeScore": "67",
-            "status": "7:58 - 2nd Half",
-            "tv": "ESPN+",
-            "winProb": 0.941,
+            "winProb": 0.919,
             "state": "in"
         },
         {
             "awayTeam": "Mississippi Valley State Delta Devils",
-            "awayScore": "16",
+            "awayScore": "24",
             "homeTeam": "Arkansas-Pine Bluff Golden Lions",
-            "homeScore": "26",
-            "status": "6:55 - 1st Half",
+            "homeScore": "31",
+            "status": "5:14 - 1st Half",
             "tv": "N/A",
-            "winProb": 0.976,
+            "winProb": 0.964,
+            "state": "in"
+        },
+        {
+            "awayTeam": "East Texas A&M Lions",
+            "awayScore": "53",
+            "homeTeam": "UT Rio Grande Valley Vaqueros",
+            "homeScore": "60",
+            "status": "0:39 - 2nd Half",
+            "tv": "ESPN+",
+            "winProb": 0.97,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Missouri State Bears",
+            "awayScore": "62",
+            "homeTeam": "Sam Houston Bearkats",
+            "homeScore": "71",
+            "status": "6:00 - 2nd Half",
+            "tv": "ESPN+",
+            "winProb": 0.973,
             "state": "in"
         },
         {
             "awayTeam": "Jackson State Tigers",
-            "awayScore": "30",
+            "awayScore": "32",
             "homeTeam": "Texas Southern Tigers",
             "homeScore": "47",
-            "status": "16:41 - 2nd Half",
+            "status": "14:52 - 2nd Half",
             "tv": "N/A",
-            "winProb": 0.984,
+            "winProb": 0.973,
             "state": "in"
         },
         {
