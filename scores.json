@@ -1,16 +1,6 @@
 {
-    "lastUpdated": "2026-03-01 05:37:50",
+    "lastUpdated": "2026-03-01 05:42:54",
     "games": [
-        {
-            "awayTeam": "#9 Gonzaga Bulldogs",
-            "awayScore": "59",
-            "homeTeam": "Saint Mary's Gaels",
-            "homeScore": "70",
-            "status": "0:00 - 2nd Half",
-            "tv": "ESPN",
-            "winProb": 1.0,
-            "state": "in"
-        },
         {
             "awayTeam": "#11 Virginia Cavaliers",
             "awayScore": "51",
@@ -46,6 +36,16 @@
             "awayScore": "77",
             "homeTeam": "#7 Florida Gators",
             "homeScore": "111",
+            "status": "Final",
+            "tv": "ESPN",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "awayTeam": "#9 Gonzaga Bulldogs",
+            "awayScore": "59",
+            "homeTeam": "Saint Mary's Gaels",
+            "homeScore": "70",
             "status": "Final",
             "tv": "ESPN",
             "winProb": 0.5,
