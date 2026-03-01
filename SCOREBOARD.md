@@ -1,19 +1,19 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-01 00:22:54*
+*Updated: 2026-03-01 00:27:58*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
 | TCU Horned Frogs @ Kansas State Wildcats | 41 - 38 | Halftime | ESPN2 |
 | Northwestern State Demons @ Texas A&M-Corpus Christi Islanders | 30 - 29 | Halftime | ESPN+ |
-| Providence Friars @ Creighton Bluejays | 69 - 67 | 3:38 - 2nd Half | TNT, truTV |
-| Alabama State Hornets @ Alabama A&M Bulldogs | 60 - 53 | 15:09 - 2nd Half | N/A |
-| Wright State Raiders @ Northern Kentucky Norse | 20 - 28 | 8:36 - 1st Half | ESPN+ |
-| #17 Alabama Crimson Tide @ #22 Tennessee Volunteers | 40 - 46 | 16:27 - 2nd Half | ESPN |
-| #19 BYU Cougars @ West Virginia Mountaineers | 53 - 60 | 7:03 - 2nd Half | FOX |
-| SMU Mustangs @ Stanford Cardinal | 33 - 47 | 15:08 - 2nd Half | ACC Network |
-| Mississippi Valley State Delta Devils @ Arkansas-Pine Bluff Golden Lions | 29 - 35 | 3:00 - 1st Half | N/A |
-| Jackson State Tigers @ Texas Southern Tigers | 33 - 47 | 14:01 - 2nd Half | N/A |
-| Missouri State Bears @ Sam Houston Bearkats | 66 - 79 | 3:16 - 2nd Half | ESPN+ |
+| Providence Friars @ Creighton Bluejays | 73 - 69 | 2:05 - 2nd Half | TNT, truTV |
+| Alabama State Hornets @ Alabama A&M Bulldogs | 65 - 57 | 13:11 - 2nd Half | N/A |
+| SMU Mustangs @ Stanford Cardinal | 40 - 49 | 13:32 - 2nd Half | ACC Network |
+| #17 Alabama Crimson Tide @ #22 Tennessee Volunteers | 40 - 48 | 15:20 - 2nd Half | ESPN |
+| #19 BYU Cougars @ West Virginia Mountaineers | 63 - 70 | 3:21 - 2nd Half | FOX |
+| Wright State Raiders @ Northern Kentucky Norse | 22 - 37 | 6:51 - 1st Half | ESPN+ |
+| Jackson State Tigers @ Texas Southern Tigers | 41 - 51 | 11:55 - 2nd Half | N/A |
+| Mississippi Valley State Delta Devils @ Arkansas-Pine Bluff Golden Lions | 33 - 39 | 0:22 - 1st Half | N/A |
+| Missouri State Bears @ Sam Houston Bearkats | 73 - 81 | 1:25 - 2nd Half | ESPN+ |
 | Villanova Wildcats @ #15 St. John's Red Storm | 0 - 0 | Sat, February 28th at 8:00 PM EST | FOX |
 | Baylor Bears @ UCF Knights | 0 - 0 | Sat, February 28th at 8:00 PM EST | FS1 |
 | Oral Roberts Golden Eagles @ Kansas City Roos | 0 - 0 | Sat, February 28th at 8:00 PM EST | Summit League Network, Midco Sports Plus |
