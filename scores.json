@@ -1,16 +1,6 @@
 {
-    "lastUpdated": "2026-03-01 00:43:13",
+    "lastUpdated": "2026-03-01 00:48:18",
     "games": [
-        {
-            "awayTeam": "SMU Mustangs",
-            "awayScore": "51",
-            "homeTeam": "Stanford Cardinal",
-            "homeScore": "66",
-            "status": "8:38 - 2nd Half",
-            "tv": "ACC Network",
-            "winProb": 0.5,
-            "state": "in"
-        },
         {
             "awayTeam": "Wright State Raiders",
             "awayScore": "35",
@@ -22,43 +12,43 @@
             "state": "in"
         },
         {
-            "awayTeam": "Northwestern State Demons",
-            "awayScore": "37",
-            "homeTeam": "Texas A&M-Corpus Christi Islanders",
-            "homeScore": "37",
-            "status": "15:48 - 2nd Half",
-            "tv": "ESPN+",
-            "winProb": 0.718,
+            "awayTeam": "Alabama State Hornets",
+            "awayScore": "74",
+            "homeTeam": "Alabama A&M Bulldogs",
+            "homeScore": "74",
+            "status": "7:34 - 2nd Half",
+            "tv": "N/A",
+            "winProb": 0.512,
             "state": "in"
         },
         {
             "awayTeam": "TCU Horned Frogs",
-            "awayScore": "47",
+            "awayScore": "50",
             "homeTeam": "Kansas State Wildcats",
-            "homeScore": "42",
-            "status": "15:57 - 2nd Half",
+            "homeScore": "45",
+            "status": "14:51 - 2nd Half",
             "tv": "ESPN2",
-            "winProb": 0.247,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Alabama State Hornets",
-            "awayScore": "74",
-            "homeTeam": "Alabama A&M Bulldogs",
-            "homeScore": "68",
-            "status": "8:50 - 2nd Half",
-            "tv": "N/A",
-            "winProb": 0.177,
+            "winProb": 0.245,
             "state": "in"
         },
         {
             "awayTeam": "#17 Alabama Crimson Tide",
-            "awayScore": "48",
+            "awayScore": "53",
             "homeTeam": "#22 Tennessee Volunteers",
             "homeScore": "59",
-            "status": "9:05 - 2nd Half",
+            "status": "7:32 - 2nd Half",
             "tv": "ESPN",
-            "winProb": 0.942,
+            "winProb": 0.863,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Northwestern State Demons",
+            "awayScore": "37",
+            "homeTeam": "Texas A&M-Corpus Christi Islanders",
+            "homeScore": "44",
+            "status": "13:56 - 2nd Half",
+            "tv": "ESPN+",
+            "winProb": 0.909,
             "state": "in"
         },
         {
@@ -72,23 +62,23 @@
             "state": "in"
         },
         {
-            "awayTeam": "#19 BYU Cougars",
-            "awayScore": "71",
-            "homeTeam": "West Virginia Mountaineers",
-            "homeScore": "75",
-            "status": "0:15 - 2nd Half",
-            "tv": "FOX",
-            "winProb": 0.959,
+            "awayTeam": "Jackson State Tigers",
+            "awayScore": "48",
+            "homeTeam": "Texas Southern Tigers",
+            "homeScore": "64",
+            "status": "6:40 - 2nd Half",
+            "tv": "N/A",
+            "winProb": 0.986,
             "state": "in"
         },
         {
-            "awayTeam": "Jackson State Tigers",
-            "awayScore": "46",
-            "homeTeam": "Texas Southern Tigers",
-            "homeScore": "59",
-            "status": "7:52 - 2nd Half",
-            "tv": "N/A",
-            "winProb": 0.976,
+            "awayTeam": "SMU Mustangs",
+            "awayScore": "51",
+            "homeTeam": "Stanford Cardinal",
+            "homeScore": "70",
+            "status": "7:56 - 2nd Half",
+            "tv": "ACC Network",
+            "winProb": 0.993,
             "state": "in"
         },
         {
@@ -150,6 +140,16 @@
             "tv": "ESPN",
             "winProb": 0.5,
             "state": "pre"
+        },
+        {
+            "awayTeam": "#19 BYU Cougars",
+            "awayScore": "71",
+            "homeTeam": "West Virginia Mountaineers",
+            "homeScore": "79",
+            "status": "Final",
+            "tv": "FOX",
+            "winProb": 0.5,
+            "state": "post"
         },
         {
             "awayTeam": "Providence Friars",

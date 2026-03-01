@@ -1,23 +1,23 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-01 00:43:13*
+*Updated: 2026-03-01 00:48:18*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| SMU Mustangs @ Stanford Cardinal | 51 - 66 | 8:38 - 2nd Half | ACC Network |
 | Wright State Raiders @ Northern Kentucky Norse | 35 - 53 | Halftime | ESPN+ |
-| Northwestern State Demons @ Texas A&M-Corpus Christi Islanders | 37 - 37 | 15:48 - 2nd Half | ESPN+ |
-| TCU Horned Frogs @ Kansas State Wildcats | 47 - 42 | 15:57 - 2nd Half | ESPN2 |
-| Alabama State Hornets @ Alabama A&M Bulldogs | 74 - 68 | 8:50 - 2nd Half | N/A |
-| #17 Alabama Crimson Tide @ #22 Tennessee Volunteers | 48 - 59 | 9:05 - 2nd Half | ESPN |
+| Alabama State Hornets @ Alabama A&M Bulldogs | 74 - 74 | 7:34 - 2nd Half | N/A |
+| TCU Horned Frogs @ Kansas State Wildcats | 50 - 45 | 14:51 - 2nd Half | ESPN2 |
+| #17 Alabama Crimson Tide @ #22 Tennessee Volunteers | 53 - 59 | 7:32 - 2nd Half | ESPN |
+| Northwestern State Demons @ Texas A&M-Corpus Christi Islanders | 37 - 44 | 13:56 - 2nd Half | ESPN+ |
 | Mississippi Valley State Delta Devils @ Arkansas-Pine Bluff Golden Lions | 33 - 39 | 0:22 - 1st Half | N/A |
-| #19 BYU Cougars @ West Virginia Mountaineers | 71 - 75 | 0:15 - 2nd Half | FOX |
-| Jackson State Tigers @ Texas Southern Tigers | 46 - 59 | 7:52 - 2nd Half | N/A |
+| Jackson State Tigers @ Texas Southern Tigers | 48 - 64 | 6:40 - 2nd Half | N/A |
+| SMU Mustangs @ Stanford Cardinal | 51 - 70 | 7:56 - 2nd Half | ACC Network |
 | Villanova Wildcats @ #15 St. John's Red Storm | 0 - 0 | Sat, February 28th at 8:00 PM EST | FOX |
 | Baylor Bears @ UCF Knights | 0 - 0 | Sat, February 28th at 8:00 PM EST | FS1 |
 | Oral Roberts Golden Eagles @ Kansas City Roos | 0 - 0 | Sat, February 28th at 8:00 PM EST | Summit League Network, Midco Sports Plus |
 | #20 Arkansas Razorbacks @ #7 Florida Gators | 0 - 0 | Sat, February 28th at 8:30 PM EST | ESPN |
 | Virginia Tech Hokies @ #18 North Carolina Tar Heels | 0 - 0 | Sat, February 28th at 8:30 PM EST | ESPN2 |
 | #9 Gonzaga Bulldogs @ Saint Mary's Gaels | 0 - 0 | Sat, February 28th at 10:30 PM EST | ESPN |
+| #19 BYU Cougars @ West Virginia Mountaineers | 71 - 79 | Final | FOX |
 | Providence Friars @ Creighton Bluejays | 79 - 76 | Final | TNT, truTV |
 | Missouri State Bears @ Sam Houston Bearkats | 81 - 86 | Final | ESPN+ |
 | #11 Virginia Cavaliers @ #1 Duke Blue Devils | 51 - 77 | Final | ESPN |
