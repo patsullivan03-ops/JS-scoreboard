@@ -1,34 +1,34 @@
 {
-    "lastUpdated": "2026-03-01 22:13:47",
+    "lastUpdated": "2026-03-01 22:18:51",
     "games": [
         {
             "id": "401830217",
             "awayTeam": "Belmont Bruins",
-            "awayScore": "11",
+            "awayScore": "17",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2057.png",
             "awayAbbr": "BEL",
             "homeTeam": "Illinois State Redbirds",
-            "homeScore": "8",
+            "homeScore": "13",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2287.png",
             "homeAbbr": "ILST",
-            "status": "15:23 - 1st Half",
+            "status": "13:04 - 1st Half",
             "tv": "CBSSN",
-            "winProb": 0.494,
+            "winProb": 0.426,
             "state": "in"
         },
         {
             "id": "401825550",
             "awayTeam": "#13 Michigan State Spartans",
-            "awayScore": "50",
+            "awayScore": "54",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
             "awayAbbr": "MSU",
             "homeTeam": "Indiana Hoosiers",
-            "homeScore": "41",
+            "homeScore": "45",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
             "homeAbbr": "IU",
-            "status": "15:43 - 2nd Half",
+            "status": "13:50 - 2nd Half",
             "tv": "CBS",
-            "winProb": 0.124,
+            "winProb": 0.139,
             "state": "in"
         },
         {
