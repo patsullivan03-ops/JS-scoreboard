@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-01 22:59:26",
+    "lastUpdated": "2026-03-01 23:04:31",
     "games": [
         {
             "id": "401830217",
@@ -11,9 +11,9 @@
             "homeScore": "38",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2287.png",
             "homeAbbr": "ILST",
-            "status": "Halftime",
+            "status": "19:29 - 2nd Half",
             "tv": "CBSSN",
-            "winProb": 0.5,
+            "winProb": 0.467,
             "state": "in"
         },
         {
