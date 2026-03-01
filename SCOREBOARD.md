@@ -1,15 +1,15 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-01 01:44:09*
+*Updated: 2026-03-01 01:49:13*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Wright State Raiders @ Northern Kentucky Norse | 87 - 88 | 1:23 - 2nd Half | ESPN+ |
-| Baylor Bears @ UCF Knights | 29 - 26 | 7:33 - 1st Half | FS1 |
-| Mississippi Valley State Delta Devils @ Arkansas-Pine Bluff Golden Lions | 68 - 64 | 1:28 - 2nd Half | N/A |
-| Virginia Tech Hokies @ #18 North Carolina Tar Heels | 2 - 5 | 17:46 - 1st Half | ESPN2 |
-| #20 Arkansas Razorbacks @ #7 Florida Gators | 9 - 11 | 15:37 - 1st Half | ESPN |
-| Oral Roberts Golden Eagles @ Kansas City Roos | 39 - 22 | 3:06 - 1st Half | Summit League Network, Midco Sports Plus |
-| Villanova Wildcats @ #15 St. John's Red Storm | 17 - 37 | 5:38 - 1st Half | FOX |
+| Wright State Raiders @ Northern Kentucky Norse | 89 - 88 | 0:23 - 2nd Half | ESPN+ |
+| Baylor Bears @ UCF Knights | 32 - 26 | 6:46 - 1st Half | FS1 |
+| #20 Arkansas Razorbacks @ #7 Florida Gators | 14 - 11 | 14:32 - 1st Half | ESPN |
+| Virginia Tech Hokies @ #18 North Carolina Tar Heels | 7 - 8 | 15:58 - 1st Half | ESPN2 |
+| Oral Roberts Golden Eagles @ Kansas City Roos | 41 - 26 | 1:30 - 1st Half | Summit League Network, Midco Sports Plus |
+| Mississippi Valley State Delta Devils @ Arkansas-Pine Bluff Golden Lions | 70 - 67 | 0:10 - 2nd Half | N/A |
+| Villanova Wildcats @ #15 St. John's Red Storm | 17 - 41 | 3:03 - 1st Half | FOX |
 | #9 Gonzaga Bulldogs @ Saint Mary's Gaels | 0 - 0 | Sat, February 28th at 10:30 PM EST | ESPN |
 | #11 Virginia Cavaliers @ #1 Duke Blue Devils | 51 - 77 | Final | ESPN |
 | #14 Kansas Jayhawks @ #2 Arizona Wildcats | 61 - 84 | Final | ESPN |

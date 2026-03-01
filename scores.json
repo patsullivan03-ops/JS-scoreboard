@@ -1,74 +1,74 @@
 {
-    "lastUpdated": "2026-03-01 01:44:09",
+    "lastUpdated": "2026-03-01 01:49:13",
     "games": [
         {
             "awayTeam": "Wright State Raiders",
-            "awayScore": "87",
+            "awayScore": "89",
             "homeTeam": "Northern Kentucky Norse",
             "homeScore": "88",
-            "status": "1:23 - 2nd Half",
+            "status": "0:23 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.543,
+            "winProb": 0.47,
             "state": "in"
         },
         {
             "awayTeam": "Baylor Bears",
-            "awayScore": "29",
+            "awayScore": "32",
             "homeTeam": "UCF Knights",
             "homeScore": "26",
-            "status": "7:33 - 1st Half",
+            "status": "6:46 - 1st Half",
             "tv": "FS1",
-            "winProb": 0.433,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Mississippi Valley State Delta Devils",
-            "awayScore": "68",
-            "homeTeam": "Arkansas-Pine Bluff Golden Lions",
-            "homeScore": "64",
-            "status": "1:28 - 2nd Half",
-            "tv": "N/A",
-            "winProb": 0.387,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Virginia Tech Hokies",
-            "awayScore": "2",
-            "homeTeam": "#18 North Carolina Tar Heels",
-            "homeScore": "5",
-            "status": "17:46 - 1st Half",
-            "tv": "ESPN2",
-            "winProb": 0.827,
+            "winProb": 0.365,
             "state": "in"
         },
         {
             "awayTeam": "#20 Arkansas Razorbacks",
-            "awayScore": "9",
+            "awayScore": "14",
             "homeTeam": "#7 Florida Gators",
             "homeScore": "11",
-            "status": "15:37 - 1st Half",
+            "status": "14:32 - 1st Half",
             "tv": "ESPN",
-            "winProb": 0.834,
+            "winProb": 0.723,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Virginia Tech Hokies",
+            "awayScore": "7",
+            "homeTeam": "#18 North Carolina Tar Heels",
+            "homeScore": "8",
+            "status": "15:58 - 1st Half",
+            "tv": "ESPN2",
+            "winProb": 0.835,
             "state": "in"
         },
         {
             "awayTeam": "Oral Roberts Golden Eagles",
-            "awayScore": "39",
+            "awayScore": "41",
             "homeTeam": "Kansas City Roos",
-            "homeScore": "22",
-            "status": "3:06 - 1st Half",
+            "homeScore": "26",
+            "status": "1:30 - 1st Half",
             "tv": "Summit League Network, Midco Sports Plus",
-            "winProb": 0.057,
+            "winProb": 0.066,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Mississippi Valley State Delta Devils",
+            "awayScore": "70",
+            "homeTeam": "Arkansas-Pine Bluff Golden Lions",
+            "homeScore": "67",
+            "status": "0:10 - 2nd Half",
+            "tv": "N/A",
+            "winProb": 0.062,
             "state": "in"
         },
         {
             "awayTeam": "Villanova Wildcats",
             "awayScore": "17",
             "homeTeam": "#15 St. John's Red Storm",
-            "homeScore": "37",
-            "status": "5:38 - 1st Half",
+            "homeScore": "41",
+            "status": "3:03 - 1st Half",
             "tv": "FOX",
-            "winProb": 0.983,
+            "winProb": 0.993,
             "state": "in"
         },
         {
