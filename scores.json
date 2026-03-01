@@ -1,6 +1,26 @@
 {
-    "lastUpdated": "2026-03-01 02:45:05",
+    "lastUpdated": "2026-03-01 02:50:10",
     "games": [
+        {
+            "awayTeam": "Baylor Bears",
+            "awayScore": "66",
+            "homeTeam": "UCF Knights",
+            "homeScore": "61",
+            "status": "11:42 - 2nd Half",
+            "tv": "FS1",
+            "winProb": 0.303,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Virginia Tech Hokies",
+            "awayScore": "49",
+            "homeTeam": "#18 North Carolina Tar Heels",
+            "homeScore": "51",
+            "status": "16:59 - 2nd Half",
+            "tv": "ESPN2",
+            "winProb": 0.812,
+            "state": "in"
+        },
         {
             "awayTeam": "#20 Arkansas Razorbacks",
             "awayScore": "34",
@@ -8,47 +28,27 @@
             "homeScore": "53",
             "status": "Halftime",
             "tv": "ESPN",
-            "winProb": 0.5,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Virginia Tech Hokies",
-            "awayScore": "44",
-            "homeTeam": "#18 North Carolina Tar Heels",
-            "homeScore": "44",
-            "status": "Halftime",
-            "tv": "ESPN2",
-            "winProb": 0.5,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Baylor Bears",
-            "awayScore": "64",
-            "homeTeam": "UCF Knights",
-            "homeScore": "58",
-            "status": "12:22 - 2nd Half",
-            "tv": "FS1",
-            "winProb": 0.219,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Oral Roberts Golden Eagles",
-            "awayScore": "78",
-            "homeTeam": "Kansas City Roos",
-            "homeScore": "60",
-            "status": "6:29 - 2nd Half",
-            "tv": "Summit League Network, Midco Sports Plus",
-            "winProb": 0.005,
+            "winProb": 0.987,
             "state": "in"
         },
         {
             "awayTeam": "Villanova Wildcats",
-            "awayScore": "41",
+            "awayScore": "44",
             "homeTeam": "#15 St. John's Red Storm",
-            "homeScore": "62",
-            "status": "11:18 - 2nd Half",
+            "homeScore": "69",
+            "status": "9:52 - 2nd Half",
             "tv": "FOX",
-            "winProb": 0.998,
+            "winProb": 0.999,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Oral Roberts Golden Eagles",
+            "awayScore": "90",
+            "homeTeam": "Kansas City Roos",
+            "homeScore": "63",
+            "status": "3:50 - 2nd Half",
+            "tv": "Summit League Network, Midco Sports Plus",
+            "winProb": 0.001,
             "state": "in"
         },
         {
