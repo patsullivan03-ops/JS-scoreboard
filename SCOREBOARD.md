@@ -1,13 +1,13 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-01 02:19:39*
+*Updated: 2026-03-01 02:24:44*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
 | Baylor Bears @ UCF Knights | 56 - 42 | Halftime | FS1 |
-| Virginia Tech Hokies @ #18 North Carolina Tar Heels | 35 - 34 | 3:11 - 1st Half | ESPN2 |
-| Oral Roberts Golden Eagles @ Kansas City Roos | 53 - 36 | 16:17 - 2nd Half | Summit League Network, Midco Sports Plus |
-| #20 Arkansas Razorbacks @ #7 Florida Gators | 26 - 43 | 3:54 - 1st Half | ESPN |
-| Villanova Wildcats @ #15 St. John's Red Storm | 26 - 52 | 18:32 - 2nd Half | FOX |
+| Virginia Tech Hokies @ #18 North Carolina Tar Heels | 42 - 41 | 1:09 - 1st Half | ESPN2 |
+| Oral Roberts Golden Eagles @ Kansas City Roos | 61 - 46 | 12:52 - 2nd Half | Summit League Network, Midco Sports Plus |
+| Villanova Wildcats @ #15 St. John's Red Storm | 31 - 54 | 16:48 - 2nd Half | FOX |
+| #20 Arkansas Razorbacks @ #7 Florida Gators | 27 - 51 | 2:33 - 1st Half | ESPN |
 | #9 Gonzaga Bulldogs @ Saint Mary's Gaels | 0 - 0 | Sat, February 28th at 10:30 PM EST | ESPN |
 | #11 Virginia Cavaliers @ #1 Duke Blue Devils | 51 - 77 | Final | ESPN |
 | #14 Kansas Jayhawks @ #2 Arizona Wildcats | 61 - 84 | Final | ESPN |
