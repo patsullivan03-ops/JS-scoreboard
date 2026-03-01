@@ -1,18 +1,18 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-01 01:23:51*
+*Updated: 2026-03-01 01:28:56*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Baylor Bears @ UCF Knights | 12 - 12 | 14:21 - 1st Half | FS1 |
-| Mississippi Valley State Delta Devils @ Arkansas-Pine Bluff Golden Lions | 62 - 54 | 6:29 - 2nd Half | N/A |
-| Oral Roberts Golden Eagles @ Kansas City Roos | 17 - 7 | 11:13 - 1st Half | Summit League Network, Midco Sports Plus |
-| Villanova Wildcats @ #15 St. John's Red Storm | 11 - 19 | 12:26 - 1st Half | FOX |
-| Wright State Raiders @ Northern Kentucky Norse | 60 - 71 | 9:46 - 2nd Half | ESPN+ |
-| TCU Horned Frogs @ Kansas State Wildcats | 73 - 65 | 3:21 - 2nd Half | ESPN2 |
-| Northwestern State Demons @ Texas A&M-Corpus Christi Islanders | 58 - 69 | 0:42 - 2nd Half | ESPN+ |
+| Mississippi Valley State Delta Devils @ Arkansas-Pine Bluff Golden Lions | 64 - 59 | 4:44 - 2nd Half | N/A |
+| Baylor Bears @ UCF Knights | 12 - 14 | 12:52 - 1st Half | FS1 |
+| Villanova Wildcats @ #15 St. John's Red Storm | 11 - 19 | 11:37 - 1st Half | FOX |
+| Oral Roberts Golden Eagles @ Kansas City Roos | 28 - 11 | 8:39 - 1st Half | Summit League Network, Midco Sports Plus |
+| Wright State Raiders @ Northern Kentucky Norse | 66 - 80 | 7:33 - 2nd Half | ESPN+ |
+| TCU Horned Frogs @ Kansas State Wildcats | 76 - 65 | 1:20 - 2nd Half | ESPN2 |
 | #20 Arkansas Razorbacks @ #7 Florida Gators | 0 - 0 | Sat, February 28th at 8:30 PM EST | ESPN |
 | Virginia Tech Hokies @ #18 North Carolina Tar Heels | 0 - 0 | Sat, February 28th at 8:30 PM EST | ESPN2 |
 | #9 Gonzaga Bulldogs @ Saint Mary's Gaels | 0 - 0 | Sat, February 28th at 10:30 PM EST | ESPN |
+| Northwestern State Demons @ Texas A&M-Corpus Christi Islanders | 59 - 71 | Final | ESPN+ |
 | #11 Virginia Cavaliers @ #1 Duke Blue Devils | 51 - 77 | Final | ESPN |
 | #14 Kansas Jayhawks @ #2 Arizona Wildcats | 61 - 84 | Final | ESPN |
 | #16 Texas Tech Red Raiders @ #4 Iowa State Cyclones | 82 - 73 | Final | CBS |
