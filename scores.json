@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-01 04:36:51",
+    "lastUpdated": "2026-03-01 04:41:56",
     "games": [
         {
             "awayTeam": "#9 Gonzaga Bulldogs",
@@ -8,7 +8,7 @@
             "homeScore": "29",
             "status": "Halftime",
             "tv": "ESPN",
-            "winProb": 0.5,
+            "winProb": 0.169,
             "state": "in"
         },
         {
