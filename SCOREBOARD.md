@@ -1,20 +1,20 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-01 01:13:41*
+*Updated: 2026-03-01 01:18:46*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Mississippi Valley State Delta Devils @ Arkansas-Pine Bluff Golden Lions | 56 - 49 | 10:35 - 2nd Half | N/A |
-| Baylor Bears @ UCF Knights | 3 - 5 | 17:50 - 1st Half | FS1 |
-| #17 Alabama Crimson Tide @ #22 Tennessee Volunteers | 71 - 69 | 0:20 - 2nd Half | ESPN |
-| Oral Roberts Golden Eagles @ Kansas City Roos | 10 - 0 | 16:25 - 1st Half | Summit League Network, Midco Sports Plus |
-| TCU Horned Frogs @ Kansas State Wildcats | 66 - 59 | 5:59 - 2nd Half | ESPN2 |
-| Villanova Wildcats @ #15 St. John's Red Storm | 4 - 11 | 15:47 - 1st Half | FOX |
-| Wright State Raiders @ Northern Kentucky Norse | 51 - 64 | 12:26 - 2nd Half | ESPN+ |
-| Alabama State Hornets @ Alabama A&M Bulldogs | 89 - 88 | 0:02 - 2nd Half | N/A |
-| Northwestern State Demons @ Texas A&M-Corpus Christi Islanders | 48 - 68 | 3:53 - 2nd Half | ESPN+ |
+| Mississippi Valley State Delta Devils @ Arkansas-Pine Bluff Golden Lions | 60 - 52 | 8:26 - 2nd Half | N/A |
+| Baylor Bears @ UCF Knights | 3 - 6 | 17:25 - 1st Half | FS1 |
+| Oral Roberts Golden Eagles @ Kansas City Roos | 11 - 2 | 14:22 - 1st Half | Summit League Network, Midco Sports Plus |
+| TCU Horned Frogs @ Kansas State Wildcats | 69 - 65 | 3:54 - 2nd Half | ESPN2 |
+| Villanova Wildcats @ #15 St. John's Red Storm | 4 - 11 | 14:57 - 1st Half | FOX |
+| Wright State Raiders @ Northern Kentucky Norse | 56 - 66 | 11:04 - 2nd Half | ESPN+ |
+| Northwestern State Demons @ Texas A&M-Corpus Christi Islanders | 52 - 68 | 1:38 - 2nd Half | ESPN+ |
 | #20 Arkansas Razorbacks @ #7 Florida Gators | 0 - 0 | Sat, February 28th at 8:30 PM EST | ESPN |
 | Virginia Tech Hokies @ #18 North Carolina Tar Heels | 0 - 0 | Sat, February 28th at 8:30 PM EST | ESPN2 |
 | #9 Gonzaga Bulldogs @ Saint Mary's Gaels | 0 - 0 | Sat, February 28th at 10:30 PM EST | ESPN |
+| #17 Alabama Crimson Tide @ #22 Tennessee Volunteers | 71 - 69 | Final | ESPN |
+| Alabama State Hornets @ Alabama A&M Bulldogs | 89 - 88 | Final | N/A |
 | SMU Mustangs @ Stanford Cardinal | 75 - 95 | Final | ACC Network |
 | #11 Virginia Cavaliers @ #1 Duke Blue Devils | 51 - 77 | Final | ESPN |
 | #14 Kansas Jayhawks @ #2 Arizona Wildcats | 61 - 84 | Final | ESPN |
