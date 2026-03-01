@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-01 20:52:32",
+    "lastUpdated": "2026-03-01 20:57:37",
     "games": [
         {
             "id": "401825550",
@@ -11,10 +11,10 @@
             "homeScore": "0",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
             "homeAbbr": "IU",
-            "status": "Sun, March 1st at 3:45 PM EST",
+            "status": "19:48 - 1st Half",
             "tv": "CBS",
-            "winProb": 0.5,
-            "state": "pre"
+            "winProb": 0.41,
+            "state": "in"
         },
         {
             "id": "401830217",
