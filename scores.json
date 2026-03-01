@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-01 17:14:03",
+    "lastUpdated": "2026-03-01 17:19:08",
     "games": [
         {
             "id": "401828250",
@@ -8,12 +8,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/249.png",
             "awayAbbr": "UNT",
             "homeTeam": "UAB Blazers",
-            "homeScore": "7",
+            "homeScore": "9",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/5.png",
             "homeAbbr": "UAB",
-            "status": "13:14 - 1st Half",
+            "status": "11:56 - 1st Half",
             "tv": "ESPNU",
-            "winProb": 0.63,
+            "winProb": 0.685,
             "state": "in"
         }
     ]
