@@ -1,32 +1,32 @@
 {
-    "lastUpdated": "2026-03-01 03:20:41",
+    "lastUpdated": "2026-03-01 03:25:46",
     "games": [
         {
             "awayTeam": "Baylor Bears",
             "awayScore": "86",
             "homeTeam": "UCF Knights",
-            "homeScore": "84",
-            "status": "0:25 - 2nd Half",
+            "homeScore": "86",
+            "status": "0:02 - 2nd Half",
             "tv": "FS1",
-            "winProb": 0.412,
+            "winProb": 0.51,
             "state": "in"
         },
         {
             "awayTeam": "Virginia Tech Hokies",
-            "awayScore": "63",
+            "awayScore": "65",
             "homeTeam": "#18 North Carolina Tar Heels",
-            "homeScore": "71",
-            "status": "7:42 - 2nd Half",
+            "homeScore": "76",
+            "status": "4:42 - 2nd Half",
             "tv": "ESPN2",
-            "winProb": 0.934,
+            "winProb": 0.981,
             "state": "in"
         },
         {
             "awayTeam": "#20 Arkansas Razorbacks",
-            "awayScore": "47",
+            "awayScore": "49",
             "homeTeam": "#7 Florida Gators",
-            "homeScore": "75",
-            "status": "11:59 - 2nd Half",
+            "homeScore": "76",
+            "status": "11:21 - 2nd Half",
             "tv": "ESPN",
             "winProb": 0.999,
             "state": "in"
@@ -40,16 +40,6 @@
             "tv": "ESPN",
             "winProb": 0.5,
             "state": "pre"
-        },
-        {
-            "awayTeam": "Villanova Wildcats",
-            "awayScore": "57",
-            "homeTeam": "#15 St. John's Red Storm",
-            "homeScore": "89",
-            "status": "Final",
-            "tv": "FOX",
-            "winProb": 0.5,
-            "state": "post"
         },
         {
             "awayTeam": "#11 Virginia Cavaliers",
@@ -88,6 +78,16 @@
             "homeScore": "67",
             "status": "Final",
             "tv": "BTN",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "awayTeam": "Villanova Wildcats",
+            "awayScore": "57",
+            "homeTeam": "#15 St. John's Red Storm",
+            "homeScore": "89",
+            "status": "Final",
+            "tv": "FOX",
             "winProb": 0.5,
             "state": "post"
         },

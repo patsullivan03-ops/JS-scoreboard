@@ -1,17 +1,17 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-01 03:20:41*
+*Updated: 2026-03-01 03:25:46*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Baylor Bears @ UCF Knights | 86 - 84 | 0:25 - 2nd Half | FS1 |
-| Virginia Tech Hokies @ #18 North Carolina Tar Heels | 63 - 71 | 7:42 - 2nd Half | ESPN2 |
-| #20 Arkansas Razorbacks @ #7 Florida Gators | 47 - 75 | 11:59 - 2nd Half | ESPN |
+| Baylor Bears @ UCF Knights | 86 - 86 | 0:02 - 2nd Half | FS1 |
+| Virginia Tech Hokies @ #18 North Carolina Tar Heels | 65 - 76 | 4:42 - 2nd Half | ESPN2 |
+| #20 Arkansas Razorbacks @ #7 Florida Gators | 49 - 76 | 11:21 - 2nd Half | ESPN |
 | #9 Gonzaga Bulldogs @ Saint Mary's Gaels | 0 - 0 | Sat, February 28th at 10:30 PM EST | ESPN |
-| Villanova Wildcats @ #15 St. John's Red Storm | 57 - 89 | Final | FOX |
 | #11 Virginia Cavaliers @ #1 Duke Blue Devils | 51 - 77 | Final | ESPN |
 | #14 Kansas Jayhawks @ #2 Arizona Wildcats | 61 - 84 | Final | ESPN |
 | #16 Texas Tech Red Raiders @ #4 Iowa State Cyclones | 82 - 73 | Final | CBS |
 | #12 Nebraska Cornhuskers @ USC Trojans | 82 - 67 | Final | BTN |
+| Villanova Wildcats @ #15 St. John's Red Storm | 57 - 89 | Final | FOX |
 | #17 Alabama Crimson Tide @ #22 Tennessee Volunteers | 71 - 69 | Final | ESPN |
 | #19 BYU Cougars @ West Virginia Mountaineers | 71 - 79 | Final | FOX |
 | #24 Louisville Cardinals @ Clemson Tigers | 75 - 80 | Final | ESPN2 |
