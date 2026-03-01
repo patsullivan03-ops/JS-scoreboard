@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-01 17:08:57",
+    "lastUpdated": "2026-03-01 17:14:03",
     "games": [
         {
             "id": "401828250",
             "awayTeam": "North Texas Mean Green",
-            "awayScore": "4",
+            "awayScore": "10",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/249.png",
             "awayAbbr": "UNT",
             "homeTeam": "UAB Blazers",
-            "homeScore": "4",
+            "homeScore": "7",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/5.png",
             "homeAbbr": "UAB",
-            "status": "16:00 - 1st Half",
+            "status": "13:14 - 1st Half",
             "tv": "ESPNU",
-            "winProb": 0.694,
+            "winProb": 0.63,
             "state": "in"
         }
     ]
