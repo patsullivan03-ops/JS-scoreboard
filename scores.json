@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-01 02:14:35",
+    "lastUpdated": "2026-03-01 02:19:39",
     "games": [
         {
             "awayTeam": "Baylor Bears",
@@ -13,42 +13,42 @@
         },
         {
             "awayTeam": "Virginia Tech Hokies",
-            "awayScore": "33",
+            "awayScore": "35",
             "homeTeam": "#18 North Carolina Tar Heels",
-            "homeScore": "32",
-            "status": "3:42 - 1st Half",
+            "homeScore": "34",
+            "status": "3:11 - 1st Half",
             "tv": "ESPN2",
-            "winProb": 0.756,
+            "winProb": 0.73,
             "state": "in"
         },
         {
             "awayTeam": "Oral Roberts Golden Eagles",
-            "awayScore": "43",
+            "awayScore": "53",
             "homeTeam": "Kansas City Roos",
-            "homeScore": "33",
-            "status": "18:16 - 2nd Half",
+            "homeScore": "36",
+            "status": "16:17 - 2nd Half",
             "tv": "Summit League Network, Midco Sports Plus",
-            "winProb": 0.135,
+            "winProb": 0.034,
             "state": "in"
         },
         {
             "awayTeam": "#20 Arkansas Razorbacks",
             "awayScore": "26",
             "homeTeam": "#7 Florida Gators",
-            "homeScore": "40",
-            "status": "4:55 - 1st Half",
+            "homeScore": "43",
+            "status": "3:54 - 1st Half",
             "tv": "ESPN",
-            "winProb": 0.963,
+            "winProb": 0.973,
             "state": "in"
         },
         {
             "awayTeam": "Villanova Wildcats",
-            "awayScore": "23",
+            "awayScore": "26",
             "homeTeam": "#15 St. John's Red Storm",
-            "homeScore": "48",
-            "status": "Halftime",
+            "homeScore": "52",
+            "status": "18:32 - 2nd Half",
             "tv": "FOX",
-            "winProb": 0.996,
+            "winProb": 0.998,
             "state": "in"
         },
         {
