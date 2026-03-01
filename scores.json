@@ -1,14 +1,14 @@
 {
-    "lastUpdated": "2026-03-01 04:47:00",
+    "lastUpdated": "2026-03-01 04:52:05",
     "games": [
         {
             "awayTeam": "#9 Gonzaga Bulldogs",
             "awayScore": "38",
             "homeTeam": "Saint Mary's Gaels",
             "homeScore": "42",
-            "status": "17:01 - 2nd Half",
+            "status": "15:19 - 2nd Half",
             "tv": "ESPN",
-            "winProb": 0.568,
+            "winProb": 0.611,
             "state": "in"
         },
         {
