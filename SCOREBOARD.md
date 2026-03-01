@@ -1,6 +1,8 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-01 17:49:37*
+*Updated: 2026-03-01 17:54:43*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| North Texas Mean Green @ UAB Blazers | 21 - 28 | Halftime | ESPNU |
+| #8 Purdue Boilermakers @ Ohio State Buckeyes | 0 - 0 | Sun, March 1st at 1:30 PM EST | CBS |
+| #13 Michigan State Spartans @ Indiana Hoosiers | 0 - 0 | Sun, March 1st at 3:45 PM EST | CBS |
+| Belmont Bruins @ Illinois State Redbirds | 0 - 0 | Sun, March 1st at 5:00 PM EST | CBSSN |
