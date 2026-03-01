@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-01 19:26:13",
+    "lastUpdated": "2026-03-01 19:31:18",
     "games": [
         {
             "id": "401825552",
@@ -11,9 +11,9 @@
             "homeScore": "36",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
             "homeAbbr": "OSU",
-            "status": "0:17 - 1st Half",
+            "status": "Halftime",
             "tv": "CBS",
-            "winProb": 0.589,
+            "winProb": 0.5,
             "state": "in"
         },
         {
