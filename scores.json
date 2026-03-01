@@ -1,35 +1,35 @@
 {
-    "lastUpdated": "2026-03-01 03:41:01",
+    "lastUpdated": "2026-03-01 03:46:06",
     "games": [
+        {
+            "awayTeam": "#9 Gonzaga Bulldogs",
+            "awayScore": "4",
+            "homeTeam": "Saint Mary's Gaels",
+            "homeScore": "3",
+            "status": "16:26 - 1st Half",
+            "tv": "ESPN",
+            "winProb": 0.336,
+            "state": "in"
+        },
         {
             "awayTeam": "Virginia Tech Hokies",
             "awayScore": "78",
             "homeTeam": "#18 North Carolina Tar Heels",
-            "homeScore": "84",
-            "status": "1:03 - 2nd Half",
+            "homeScore": "86",
+            "status": "0:48 - 2nd Half",
             "tv": "ESPN2",
-            "winProb": 0.966,
+            "winProb": 0.983,
             "state": "in"
         },
         {
             "awayTeam": "#20 Arkansas Razorbacks",
-            "awayScore": "60",
+            "awayScore": "66",
             "homeTeam": "#7 Florida Gators",
-            "homeScore": "87",
-            "status": "7:29 - 2nd Half",
+            "homeScore": "99",
+            "status": "5:24 - 2nd Half",
             "tv": "ESPN",
             "winProb": 0.999,
             "state": "in"
-        },
-        {
-            "awayTeam": "#9 Gonzaga Bulldogs",
-            "awayScore": "0",
-            "homeTeam": "Saint Mary's Gaels",
-            "homeScore": "0",
-            "status": "Sat, February 28th at 10:30 PM EST",
-            "tv": "ESPN",
-            "winProb": 0.5,
-            "state": "pre"
         },
         {
             "awayTeam": "#11 Virginia Cavaliers",
