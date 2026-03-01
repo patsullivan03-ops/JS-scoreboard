@@ -1,6 +1,46 @@
 {
-    "lastUpdated": "2026-03-01 02:09:31",
+    "lastUpdated": "2026-03-01 02:14:35",
     "games": [
+        {
+            "awayTeam": "Baylor Bears",
+            "awayScore": "56",
+            "homeTeam": "UCF Knights",
+            "homeScore": "42",
+            "status": "Halftime",
+            "tv": "FS1",
+            "winProb": 0.5,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Virginia Tech Hokies",
+            "awayScore": "33",
+            "homeTeam": "#18 North Carolina Tar Heels",
+            "homeScore": "32",
+            "status": "3:42 - 1st Half",
+            "tv": "ESPN2",
+            "winProb": 0.756,
+            "state": "in"
+        },
+        {
+            "awayTeam": "Oral Roberts Golden Eagles",
+            "awayScore": "43",
+            "homeTeam": "Kansas City Roos",
+            "homeScore": "33",
+            "status": "18:16 - 2nd Half",
+            "tv": "Summit League Network, Midco Sports Plus",
+            "winProb": 0.135,
+            "state": "in"
+        },
+        {
+            "awayTeam": "#20 Arkansas Razorbacks",
+            "awayScore": "26",
+            "homeTeam": "#7 Florida Gators",
+            "homeScore": "40",
+            "status": "4:55 - 1st Half",
+            "tv": "ESPN",
+            "winProb": 0.963,
+            "state": "in"
+        },
         {
             "awayTeam": "Villanova Wildcats",
             "awayScore": "23",
@@ -8,47 +48,7 @@
             "homeScore": "48",
             "status": "Halftime",
             "tv": "FOX",
-            "winProb": 0.5,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Virginia Tech Hokies",
-            "awayScore": "22",
-            "homeTeam": "#18 North Carolina Tar Heels",
-            "homeScore": "25",
-            "status": "7:28 - 1st Half",
-            "tv": "ESPN2",
-            "winProb": 0.856,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Oral Roberts Golden Eagles",
-            "awayScore": "43",
-            "homeTeam": "Kansas City Roos",
-            "homeScore": "30",
-            "status": "Halftime",
-            "tv": "Summit League Network, Midco Sports Plus",
-            "winProb": 0.102,
-            "state": "in"
-        },
-        {
-            "awayTeam": "Baylor Bears",
-            "awayScore": "56",
-            "homeTeam": "UCF Knights",
-            "homeScore": "42",
-            "status": "0:13 - 1st Half",
-            "tv": "FS1",
-            "winProb": 0.101,
-            "state": "in"
-        },
-        {
-            "awayTeam": "#20 Arkansas Razorbacks",
-            "awayScore": "22",
-            "homeTeam": "#7 Florida Gators",
-            "homeScore": "33",
-            "status": "7:53 - 1st Half",
-            "tv": "ESPN",
-            "winProb": 0.93,
+            "winProb": 0.996,
             "state": "in"
         },
         {
