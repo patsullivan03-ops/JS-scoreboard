@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-02 00:05:26",
+    "lastUpdated": "2026-03-02 00:10:30",
     "games": [
         {
             "id": "401830217",
@@ -8,13 +8,13 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2057.png",
             "awayAbbr": "BEL",
             "homeTeam": "Illinois State Redbirds",
-            "homeScore": "80",
+            "homeScore": "81",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2287.png",
             "homeAbbr": "ILST",
-            "status": "0:09 - 2nd Half",
+            "status": "Final",
             "tv": "CBSSN",
-            "winProb": 0.968,
-            "state": "in"
+            "winProb": 0.5,
+            "state": "post"
         },
         {
             "id": "401825552",
