@@ -1,21 +1,6 @@
 {
-    "lastUpdated": "2026-03-02 00:10:30",
+    "lastUpdated": "2026-03-02 00:15:35",
     "games": [
-        {
-            "id": "401830217",
-            "awayTeam": "Belmont Bruins",
-            "awayScore": "74",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2057.png",
-            "awayAbbr": "BEL",
-            "homeTeam": "Illinois State Redbirds",
-            "homeScore": "81",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2287.png",
-            "homeAbbr": "ILST",
-            "status": "Final",
-            "tv": "CBSSN",
-            "winProb": 0.5,
-            "state": "post"
-        },
         {
             "id": "401825552",
             "awayTeam": "#8 Purdue Boilermakers",
@@ -43,6 +28,21 @@
             "homeAbbr": "IU",
             "status": "Final",
             "tv": "CBS",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "id": "401830217",
+            "awayTeam": "Belmont Bruins",
+            "awayScore": "74",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2057.png",
+            "awayAbbr": "BEL",
+            "homeTeam": "Illinois State Redbirds",
+            "homeScore": "81",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2287.png",
+            "homeAbbr": "ILST",
+            "status": "Final",
+            "tv": "CBSSN",
             "winProb": 0.5,
             "state": "post"
         }
