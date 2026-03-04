@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-04 01:15:28",
+    "lastUpdated": "2026-03-04 01:20:32",
     "games": [
         {
             "id": "401851430",
             "awayTeam": "Purdue Fort Wayne Mastodons",
-            "awayScore": "6",
+            "awayScore": "8",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2870.png",
             "awayAbbr": "PFW",
             "homeTeam": "Green Bay Phoenix",
-            "homeScore": "10",
+            "homeScore": "12",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2739.png",
             "homeAbbr": "GB",
-            "status": "13:22 - 1st Half",
+            "status": "11:34 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.719,
+            "winProb": 0.743,
             "state": "in"
         }
     ]
