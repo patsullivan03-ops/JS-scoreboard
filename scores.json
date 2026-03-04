@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-04 01:40:52",
+    "lastUpdated": "2026-03-04 01:45:56",
     "games": [
         {
             "id": "401851430",
@@ -11,9 +11,9 @@
             "homeScore": "34",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2739.png",
             "homeAbbr": "GB",
-            "status": "0:32 - 1st Half",
+            "status": "Halftime",
             "tv": "ESPN+",
-            "winProb": 0.921,
+            "winProb": 0.5,
             "state": "in"
         }
     ]
