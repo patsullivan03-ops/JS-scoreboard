@@ -1,20 +1,20 @@
 {
-    "lastUpdated": "2026-03-04 23:28:11",
+    "lastUpdated": "2026-03-04 23:33:16",
     "games": [
         {
             "id": "401825555",
             "awayTeam": "Minnesota Golden Gophers",
-            "awayScore": "0",
+            "awayScore": "2",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/135.png",
             "awayAbbr": "MINN",
             "homeTeam": "Indiana Hoosiers",
-            "homeScore": "0",
+            "homeScore": "1",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
             "homeAbbr": "IU",
-            "status": "Wed, March 4th at 6:30 PM EST",
+            "status": "18:48 - 1st Half",
             "tv": "BTN",
-            "winProb": 0.5,
-            "state": "pre"
+            "winProb": 0.766,
+            "state": "in"
         },
         {
             "id": "401825557",
