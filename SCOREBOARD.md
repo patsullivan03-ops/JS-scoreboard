@@ -1,6 +1,6 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-04 01:10:23*
+*Updated: 2026-03-04 01:15:28*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Purdue Fort Wayne Mastodons @ Green Bay Phoenix | 2 - 10 | 15:47 - 1st Half | ESPN+ |
+| Purdue Fort Wayne Mastodons @ Green Bay Phoenix | 6 - 10 | 13:22 - 1st Half | ESPN+ |
