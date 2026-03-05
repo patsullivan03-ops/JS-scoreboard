@@ -1,34 +1,19 @@
 {
-    "lastUpdated": "2026-03-05 01:14:51",
+    "lastUpdated": "2026-03-05 01:19:56",
     "games": [
         {
             "id": "401825557",
             "awayTeam": "Ohio State Buckeyes",
-            "awayScore": "35",
+            "awayScore": "43",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
             "awayAbbr": "OSU",
             "homeTeam": "Penn State Nittany Lions",
-            "homeScore": "13",
+            "homeScore": "20",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
             "homeAbbr": "PSU",
-            "status": "2:35 - 1st Half",
+            "status": "0:25 - 1st Half",
             "tv": "Peacock",
-            "winProb": 0.009,
-            "state": "in"
-        },
-        {
-            "id": "401825555",
-            "awayTeam": "Minnesota Golden Gophers",
-            "awayScore": "47",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/135.png",
-            "awayAbbr": "MINN",
-            "homeTeam": "Indiana Hoosiers",
-            "homeScore": "77",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
-            "homeAbbr": "IU",
-            "status": "1:41 - 2nd Half",
-            "tv": "BTN",
-            "winProb": 0.999,
+            "winProb": 0.007,
             "state": "in"
         },
         {
@@ -45,6 +30,21 @@
             "tv": "BTN",
             "winProb": 0.5,
             "state": "pre"
+        },
+        {
+            "id": "401825555",
+            "awayTeam": "Minnesota Golden Gophers",
+            "awayScore": "47",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/135.png",
+            "awayAbbr": "MINN",
+            "homeTeam": "Indiana Hoosiers",
+            "homeScore": "77",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
+            "homeAbbr": "IU",
+            "status": "Final",
+            "tv": "BTN",
+            "winProb": 0.5,
+            "state": "post"
         }
     ]
 }
