@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-05 03:17:13",
+    "lastUpdated": "2026-03-05 03:22:18",
     "games": [
         {
             "id": "401825556",
             "awayTeam": "#15 Purdue Boilermakers",
-            "awayScore": "57",
+            "awayScore": "60",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
             "awayAbbr": "PUR",
             "homeTeam": "Northwestern Wildcats",
-            "homeScore": "55",
+            "homeScore": "59",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/77.png",
             "homeAbbr": "NU",
-            "status": "3:58 - 2nd Half",
+            "status": "2:41 - 2nd Half",
             "tv": "BTN",
-            "winProb": 0.308,
+            "winProb": 0.37,
             "state": "in"
         },
         {
