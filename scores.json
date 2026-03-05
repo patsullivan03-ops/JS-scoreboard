@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-05 02:31:27",
+    "lastUpdated": "2026-03-05 02:36:34",
     "games": [
         {
             "id": "401825556",
@@ -13,7 +13,7 @@
             "homeAbbr": "NU",
             "status": "Halftime",
             "tv": "BTN",
-            "winProb": 0.5,
+            "winProb": 0.605,
             "state": "in"
         },
         {
