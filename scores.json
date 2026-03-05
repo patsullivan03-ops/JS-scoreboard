@@ -1,35 +1,20 @@
 {
-    "lastUpdated": "2026-03-05 02:36:34",
+    "lastUpdated": "2026-03-05 02:41:39",
     "games": [
         {
             "id": "401825556",
             "awayTeam": "#15 Purdue Boilermakers",
-            "awayScore": "25",
+            "awayScore": "31",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
             "awayAbbr": "PUR",
             "homeTeam": "Northwestern Wildcats",
-            "homeScore": "34",
+            "homeScore": "38",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/77.png",
             "homeAbbr": "NU",
-            "status": "Halftime",
+            "status": "18:11 - 2nd Half",
             "tv": "BTN",
-            "winProb": 0.605,
+            "winProb": 0.584,
             "state": "in"
-        },
-        {
-            "id": "401825557",
-            "awayTeam": "Ohio State Buckeyes",
-            "awayScore": "94",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
-            "awayAbbr": "OSU",
-            "homeTeam": "Penn State Nittany Lions",
-            "homeScore": "62",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
-            "homeAbbr": "PSU",
-            "status": "Final",
-            "tv": "Peacock",
-            "winProb": 0.5,
-            "state": "post"
         },
         {
             "id": "401825555",
@@ -43,6 +28,21 @@
             "homeAbbr": "IU",
             "status": "Final",
             "tv": "BTN",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "id": "401825557",
+            "awayTeam": "Ohio State Buckeyes",
+            "awayScore": "94",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+            "awayAbbr": "OSU",
+            "homeTeam": "Penn State Nittany Lions",
+            "homeScore": "62",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
+            "homeAbbr": "PSU",
+            "status": "Final",
+            "tv": "Peacock",
             "winProb": 0.5,
             "state": "post"
         }
