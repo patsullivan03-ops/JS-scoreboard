@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-05 03:37:32",
+    "lastUpdated": "2026-03-05 03:42:37",
     "games": [
         {
             "id": "401825556",
@@ -11,10 +11,10 @@
             "homeScore": "66",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/77.png",
             "homeAbbr": "NU",
-            "status": "0:09 - 2nd Half",
+            "status": "Final",
             "tv": "BTN",
-            "winProb": 0.059,
-            "state": "in"
+            "winProb": 0.5,
+            "state": "post"
         },
         {
             "id": "401825555",
