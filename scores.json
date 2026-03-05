@@ -1,35 +1,35 @@
 {
-    "lastUpdated": "2026-03-05 00:29:10",
+    "lastUpdated": "2026-03-05 00:34:14",
     "games": [
-        {
-            "id": "401825555",
-            "awayTeam": "Minnesota Golden Gophers",
-            "awayScore": "28",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/135.png",
-            "awayAbbr": "MINN",
-            "homeTeam": "Indiana Hoosiers",
-            "homeScore": "43",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
-            "homeAbbr": "IU",
-            "status": "Halftime",
-            "tv": "BTN",
-            "winProb": 0.975,
-            "state": "in"
-        },
         {
             "id": "401825557",
             "awayTeam": "Ohio State Buckeyes",
-            "awayScore": "0",
+            "awayScore": "2",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
             "awayAbbr": "OSU",
             "homeTeam": "Penn State Nittany Lions",
             "homeScore": "0",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
             "homeAbbr": "PSU",
-            "status": "Wed, March 4th at 7:30 PM EST",
+            "status": "19:04 - 1st Half",
             "tv": "Peacock",
-            "winProb": 0.5,
-            "state": "pre"
+            "winProb": 0.175,
+            "state": "in"
+        },
+        {
+            "id": "401825555",
+            "awayTeam": "Minnesota Golden Gophers",
+            "awayScore": "34",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/135.png",
+            "awayAbbr": "MINN",
+            "homeTeam": "Indiana Hoosiers",
+            "homeScore": "52",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
+            "homeAbbr": "IU",
+            "status": "16:04 - 2nd Half",
+            "tv": "BTN",
+            "winProb": 0.984,
+            "state": "in"
         },
         {
             "id": "401825556",
