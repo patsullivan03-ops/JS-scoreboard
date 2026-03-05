@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-05 02:21:18",
+    "lastUpdated": "2026-03-05 02:26:22",
     "games": [
         {
             "id": "401825556",
@@ -19,14 +19,14 @@
         {
             "id": "401825557",
             "awayTeam": "Ohio State Buckeyes",
-            "awayScore": "87",
+            "awayScore": "91",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
             "awayAbbr": "OSU",
             "homeTeam": "Penn State Nittany Lions",
-            "homeScore": "55",
+            "homeScore": "59",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
             "homeAbbr": "PSU",
-            "status": "3:01 - 2nd Half",
+            "status": "1:51 - 2nd Half",
             "tv": "Peacock",
             "winProb": 0.001,
             "state": "in"
