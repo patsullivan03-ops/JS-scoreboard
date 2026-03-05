@@ -1,8 +1,6 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-05 16:06:22*
+*Updated: 2026-03-05 16:11:28*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #15 Purdue Boilermakers @ Northwestern Wildcats | 70 - 66 | Final | BTN |
-| Minnesota Golden Gophers @ Indiana Hoosiers | 47 - 77 | Final | BTN |
-| Ohio State Buckeyes @ Penn State Nittany Lions | 94 - 62 | Final | Peacock |
+| Rutgers Scarlet Knights @ #8 Michigan State Spartans | 0 - 0 | Thu, March 5th at 8:00 PM EST | FS1 |
