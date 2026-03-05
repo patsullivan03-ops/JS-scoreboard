@@ -1,8 +1,8 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-05 02:56:53*
+*Updated: 2026-03-05 03:01:58*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #15 Purdue Boilermakers @ Northwestern Wildcats | 43 - 46 | 11:52 - 2nd Half | BTN |
+| #15 Purdue Boilermakers @ Northwestern Wildcats | 44 - 46 | 10:52 - 2nd Half | BTN |
 | Minnesota Golden Gophers @ Indiana Hoosiers | 47 - 77 | Final | BTN |
 | Ohio State Buckeyes @ Penn State Nittany Lions | 94 - 62 | Final | Peacock |
