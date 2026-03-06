@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-06 18:33:27",
+    "lastUpdated": "2026-03-06 18:38:32",
     "games": [
         {
             "id": "401851488",
             "awayTeam": "Drake Bulldogs",
-            "awayScore": "26",
+            "awayScore": "27",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2181.png",
             "awayAbbr": "DRKE",
             "homeTeam": "Belmont Bruins",
-            "homeScore": "28",
+            "homeScore": "30",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2057.png",
             "homeAbbr": "BEL",
-            "status": "8:02 - 1st Half",
+            "status": "7:10 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.831,
+            "winProb": 0.84,
             "state": "in"
         },
         {
