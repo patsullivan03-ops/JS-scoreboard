@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-06 01:00:30",
+    "lastUpdated": "2026-03-06 01:05:35",
     "games": [
         {
             "id": "401825561",
@@ -8,13 +8,13 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/164.png",
             "awayAbbr": "RUTG",
             "homeTeam": "#8 Michigan State Spartans",
-            "homeScore": "0",
+            "homeScore": "2",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
             "homeAbbr": "MSU",
-            "status": "Thu, March 5th at 8:00 PM EST",
+            "status": "18:48 - 1st Half",
             "tv": "FS1",
-            "winProb": 0.5,
-            "state": "pre"
+            "winProb": 0.969,
+            "state": "in"
         }
     ]
 }
