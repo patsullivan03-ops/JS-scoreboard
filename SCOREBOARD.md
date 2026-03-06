@@ -1,7 +1,7 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-06 18:02:59*
+*Updated: 2026-03-06 18:08:04*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Drake Bulldogs @ Belmont Bruins | 0 - 0 | Fri, March 6th at 1:00 PM EST | ESPN+ |
+| Drake Bulldogs @ Belmont Bruins | 0 - 3 | 19:28 - 1st Half | ESPN+ |
 | Northern Iowa Panthers @ Illinois State Redbirds | 0 - 0 | Fri, March 6th at 9:30 PM EST | ESPN+ |
