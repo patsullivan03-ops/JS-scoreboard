@@ -1,21 +1,6 @@
 {
-    "lastUpdated": "2026-03-06 20:10:11",
+    "lastUpdated": "2026-03-06 20:15:19",
     "games": [
-        {
-            "id": "401851488",
-            "awayTeam": "Drake Bulldogs",
-            "awayScore": "73",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2181.png",
-            "awayAbbr": "DRKE",
-            "homeTeam": "Belmont Bruins",
-            "homeScore": "57",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2057.png",
-            "homeAbbr": "BEL",
-            "status": "7:22 - 2nd Half",
-            "tv": "ESPN+",
-            "winProb": 0.013,
-            "state": "in"
-        },
         {
             "id": "401851491",
             "awayTeam": "Northern Iowa Panthers",
@@ -30,6 +15,21 @@
             "tv": "ESPN+",
             "winProb": 0.5,
             "state": "pre"
+        },
+        {
+            "id": "401851488",
+            "awayTeam": "Drake Bulldogs",
+            "awayScore": "100",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2181.png",
+            "awayAbbr": "DRKE",
+            "homeTeam": "Belmont Bruins",
+            "homeScore": "79",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2057.png",
+            "homeAbbr": "BEL",
+            "status": "Final",
+            "tv": "ESPN+",
+            "winProb": 0.5,
+            "state": "post"
         }
     ]
 }
