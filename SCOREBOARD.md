@@ -1,6 +1,6 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-06 01:46:14*
+*Updated: 2026-03-06 01:51:19*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Rutgers Scarlet Knights @ #8 Michigan State Spartans | 28 - 25 | 2:27 - 1st Half | FS1 |
+| Rutgers Scarlet Knights @ #8 Michigan State Spartans | 30 - 31 | Halftime | FS1 |
