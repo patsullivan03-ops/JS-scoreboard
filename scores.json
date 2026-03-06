@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-06 19:09:04",
+    "lastUpdated": "2026-03-06 19:14:10",
     "games": [
         {
             "id": "401851488",
@@ -13,7 +13,7 @@
             "homeAbbr": "BEL",
             "status": "Halftime",
             "tv": "ESPN+",
-            "winProb": 0.5,
+            "winProb": 0.477,
             "state": "in"
         },
         {
