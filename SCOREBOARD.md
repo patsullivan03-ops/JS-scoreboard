@@ -1,6 +1,7 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-06 16:11:07*
+*Updated: 2026-03-06 16:16:14*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Rutgers Scarlet Knights @ #8 Michigan State Spartans | 87 - 91 | Final | FS1 |
+| Drake Bulldogs @ Belmont Bruins | 0 - 0 | Fri, March 6th at 1:00 PM EST | ESPN+ |
+| Northern Iowa Panthers @ Illinois State Redbirds | 0 - 0 | Fri, March 6th at 9:30 PM EST | ESPN+ |
