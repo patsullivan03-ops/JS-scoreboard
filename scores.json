@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-06 03:07:30",
+    "lastUpdated": "2026-03-06 03:12:36",
     "games": [
         {
             "id": "401825561",
             "awayTeam": "Rutgers Scarlet Knights",
-            "awayScore": "78",
+            "awayScore": "82",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/164.png",
             "awayAbbr": "RUTG",
             "homeTeam": "#8 Michigan State Spartans",
-            "homeScore": "85",
+            "homeScore": "86",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
             "homeAbbr": "MSU",
-            "status": "0:43 - 2nd Half",
+            "status": "0:20 - 2nd Half",
             "tv": "FS1",
-            "winProb": 0.985,
+            "winProb": 0.947,
             "state": "in"
         }
     ]
