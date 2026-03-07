@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-07 21:56:02",
+    "lastUpdated": "2026-03-07 22:01:07",
     "games": [
         {
             "id": "401823834",
@@ -14,6 +14,21 @@
             "status": "Halftime",
             "tv": "MWN",
             "winProb": 0.5,
+            "state": "in"
+        },
+        {
+            "id": "401825565",
+            "awayTeam": "Wisconsin Badgers",
+            "awayScore": "47",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
+            "awayAbbr": "WIS",
+            "homeTeam": "#15 Purdue Boilermakers",
+            "homeScore": "40",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
+            "homeAbbr": "PUR",
+            "status": "2:31 - 1st Half",
+            "tv": "CBS",
+            "winProb": 0.507,
             "state": "in"
         },
         {
@@ -32,63 +47,33 @@
             "state": "in"
         },
         {
-            "id": "401825565",
-            "awayTeam": "Wisconsin Badgers",
-            "awayScore": "39",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
-            "awayAbbr": "WIS",
-            "homeTeam": "#15 Purdue Boilermakers",
-            "homeScore": "38",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
-            "homeAbbr": "PUR",
-            "status": "4:05 - 1st Half",
-            "tv": "CBS",
-            "winProb": 0.702,
-            "state": "in"
-        },
-        {
             "id": "401808284",
             "awayTeam": "Georgia Bulldogs",
-            "awayScore": "62",
+            "awayScore": "65",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/61.png",
             "awayAbbr": "UGA",
             "homeTeam": "Mississippi State Bulldogs",
-            "homeScore": "57",
+            "homeScore": "62",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/344.png",
             "homeAbbr": "MSST",
-            "status": "12:04 - 2nd Half",
+            "status": "9:32 - 2nd Half",
             "tv": "SEC Network",
-            "winProb": 0.211,
+            "winProb": 0.228,
             "state": "in"
         },
         {
             "id": "401808281",
             "awayTeam": "#5 Florida Gators",
-            "awayScore": "41",
+            "awayScore": "49",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
             "awayAbbr": "FLA",
             "homeTeam": "Kentucky Wildcats",
-            "homeScore": "25",
+            "homeScore": "32",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
             "homeAbbr": "UK",
-            "status": "2:53 - 1st Half",
+            "status": "0:58 - 1st Half",
             "tv": "ESPN",
-            "winProb": 0.044,
-            "state": "in"
-        },
-        {
-            "id": "401804968",
-            "awayTeam": "Middle Tennessee Blue Raiders",
-            "awayScore": "73",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2393.png",
-            "awayAbbr": "MTSU",
-            "homeTeam": "Missouri State Bears",
-            "homeScore": "63",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2623.png",
-            "homeAbbr": "MOST",
-            "status": "0:28 - 2nd Half",
-            "tv": "ESPN+",
-            "winProb": 0.001,
+            "winProb": 0.038,
             "state": "in"
         },
         {
@@ -315,6 +300,21 @@
             "tv": "FS1",
             "winProb": 0.5,
             "state": "pre"
+        },
+        {
+            "id": "401804968",
+            "awayTeam": "Middle Tennessee Blue Raiders",
+            "awayScore": "75",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2393.png",
+            "awayAbbr": "MTSU",
+            "homeTeam": "Missouri State Bears",
+            "homeScore": "63",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2623.png",
+            "homeAbbr": "MOST",
+            "status": "Final",
+            "tv": "ESPN+",
+            "winProb": 0.5,
+            "state": "post"
         },
         {
             "id": "401827726",

@@ -1,14 +1,13 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-07 21:56:02*
+*Updated: 2026-03-07 22:01:07*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
 | Boise State Broncos @ Colorado State Rams | 36 - 28 | Halftime | MWN |
+| Wisconsin Badgers @ #15 Purdue Boilermakers | 47 - 40 | 2:31 - 1st Half | CBS |
 | #25 Saint Louis Billikens @ George Mason Patriots | 34 - 43 | 0:00 - 1st Half | USA Net |
-| Wisconsin Badgers @ #15 Purdue Boilermakers | 39 - 38 | 4:05 - 1st Half | CBS |
-| Georgia Bulldogs @ Mississippi State Bulldogs | 62 - 57 | 12:04 - 2nd Half | SEC Network |
-| #5 Florida Gators @ Kentucky Wildcats | 41 - 25 | 2:53 - 1st Half | ESPN |
-| Middle Tennessee Blue Raiders @ Missouri State Bears | 73 - 63 | 0:28 - 2nd Half | ESPN+ |
+| Georgia Bulldogs @ Mississippi State Bulldogs | 65 - 62 | 9:32 - 2nd Half | SEC Network |
+| #5 Florida Gators @ Kentucky Wildcats | 49 - 32 | 0:58 - 1st Half | ESPN |
 | Florida Gulf Coast Eagles @ Central Arkansas Bears | 0 - 0 | Sat, March 7th at 5:00 PM EST | ESPN+ |
 | Indiana Hoosiers @ Ohio State Buckeyes | 0 - 0 | Sat, March 7th at 5:30 PM EST | FOX |
 | Texas A&M Aggies @ LSU Tigers | 0 - 0 | Sat, March 7th at 6:00 PM EST | SEC Network |
@@ -24,6 +23,7 @@
 | #10 Texas Tech Red Raiders @ BYU Cougars | 0 - 0 | Sat, March 7th at 10:30 PM EST | ESPN |
 | #2 Arizona Wildcats @ Colorado Buffaloes | 0 - 0 | Sat, March 7th at 11:00 PM EST | ESPN2 |
 | Washington Huskies @ Oregon Ducks | 0 - 0 | Sat, March 7th at 11:00 PM EST | FS1 |
+| Middle Tennessee Blue Raiders @ Missouri State Bears | 75 - 63 | Final | ESPN+ |
 | Arizona State Sun Devils @ #6 Iowa State Cyclones | 65 - 86 | Final | FS1 |
 | #7 Houston Cougars @ Oklahoma State Cowboys | 82 - 75 | Final | CBS |
 | #20 Arkansas Razorbacks @ Missouri Tigers | 88 - 84 | Final/OT | ESPN |
