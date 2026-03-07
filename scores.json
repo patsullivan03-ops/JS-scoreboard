@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-07 04:07:58",
+    "lastUpdated": "2026-03-07 04:13:03",
     "games": [
         {
             "id": "401851491",
             "awayTeam": "Northern Iowa Panthers",
-            "awayScore": "24",
+            "awayScore": "29",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2460.png",
             "awayAbbr": "UNI",
             "homeTeam": "Illinois State Redbirds",
             "homeScore": "20",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2287.png",
             "homeAbbr": "ILST",
-            "status": "3:48 - 1st Half",
+            "status": "2:29 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.322,
+            "winProb": 0.175,
             "state": "in"
         },
         {
