@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-07 23:51:20",
+    "lastUpdated": "2026-03-07 23:56:25",
     "games": [
         {
             "id": "401808282",
@@ -19,16 +19,16 @@
         {
             "id": "401851249",
             "awayTeam": "Florida Gulf Coast Eagles",
-            "awayScore": "57",
+            "awayScore": "59",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/526.png",
             "awayAbbr": "FGCU",
             "homeTeam": "Central Arkansas Bears",
-            "homeScore": "61",
+            "homeScore": "64",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2110.png",
             "homeAbbr": "CARK",
-            "status": "1:51 - 2nd Half",
+            "status": "1:04 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.777,
+            "winProb": 0.898,
             "state": "in"
         },
         {
@@ -38,12 +38,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
             "awayAbbr": "UNC",
             "homeTeam": "#1 Duke Blue Devils",
-            "homeScore": "17",
+            "homeScore": "18",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
             "homeAbbr": "DUKE",
-            "status": "11:55 - 1st Half",
+            "status": "11:06 - 1st Half",
             "tv": "ESPN",
-            "winProb": 0.944,
+            "winProb": 0.943,
             "state": "in"
         },
         {
@@ -53,12 +53,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
             "awayAbbr": "IU",
             "homeTeam": "Ohio State Buckeyes",
-            "homeScore": "58",
+            "homeScore": "61",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
             "homeAbbr": "OSU",
-            "status": "17:11 - 2nd Half",
+            "status": "15:36 - 2nd Half",
             "tv": "FOX",
-            "winProb": 0.987,
+            "winProb": 0.997,
             "state": "in"
         },
         {
