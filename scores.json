@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-07 04:02:53",
+    "lastUpdated": "2026-03-07 04:07:58",
     "games": [
         {
             "id": "401851491",
@@ -8,12 +8,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2460.png",
             "awayAbbr": "UNI",
             "homeTeam": "Illinois State Redbirds",
-            "homeScore": "16",
+            "homeScore": "20",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2287.png",
             "homeAbbr": "ILST",
-            "status": "5:24 - 1st Half",
+            "status": "3:48 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.251,
+            "winProb": 0.322,
             "state": "in"
         },
         {
