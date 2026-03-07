@@ -1,34 +1,19 @@
 {
-    "lastUpdated": "2026-03-07 18:43:07",
+    "lastUpdated": "2026-03-07 18:48:12",
     "games": [
         {
             "id": "401808285",
             "awayTeam": "#20 Arkansas Razorbacks",
-            "awayScore": "59",
+            "awayScore": "61",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
             "awayAbbr": "ARK",
             "homeTeam": "Missouri Tigers",
             "homeScore": "62",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
             "homeAbbr": "MIZ",
-            "status": "8:00 - 2nd Half",
+            "status": "6:57 - 2nd Half",
             "tv": "ESPN",
-            "winProb": 0.673,
-            "state": "in"
-        },
-        {
-            "id": "401827728",
-            "awayTeam": "#7 Houston Cougars",
-            "awayScore": "68",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
-            "awayAbbr": "HOU",
-            "homeTeam": "Oklahoma State Cowboys",
-            "homeScore": "64",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
-            "homeAbbr": "OKST",
-            "status": "5:57 - 2nd Half",
-            "tv": "CBS",
-            "winProb": 0.179,
+            "winProb": 0.533,
             "state": "in"
         },
         {
@@ -41,9 +26,24 @@
             "homeScore": "61",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/228.png",
             "homeAbbr": "CLEM",
-            "status": "8:21 - 2nd Half",
+            "status": "7:11 - 2nd Half",
             "tv": "ACC Network",
-            "winProb": 0.929,
+            "winProb": 0.888,
+            "state": "in"
+        },
+        {
+            "id": "401827728",
+            "awayTeam": "#7 Houston Cougars",
+            "awayScore": "70",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
+            "awayAbbr": "HOU",
+            "homeTeam": "Oklahoma State Cowboys",
+            "homeScore": "64",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
+            "homeAbbr": "OKST",
+            "status": "4:42 - 2nd Half",
+            "tv": "CBS",
+            "winProb": 0.111,
             "state": "in"
         },
         {
@@ -53,12 +53,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2643.png",
             "awayAbbr": "CIT",
             "homeTeam": "East Tennessee State Buccaneers",
-            "homeScore": "71",
+            "homeScore": "72",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2193.png",
             "homeAbbr": "ETSU",
-            "status": "4:33 - 2nd Half",
+            "status": "3:19 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.997,
+            "winProb": 0.999,
             "state": "in"
         },
         {
