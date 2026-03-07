@@ -1,14 +1,14 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-07 21:25:35*
+*Updated: 2026-03-07 21:30:40*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
 | Georgia Bulldogs @ Mississippi State Bulldogs | 42 - 47 | Halftime | SEC Network |
-| Boise State Broncos @ Colorado State Rams | 17 - 14 | 10:37 - 1st Half | MWN |
-| #25 Saint Louis Billikens @ George Mason Patriots | 19 - 20 | 11:06 - 1st Half | USA Net |
-| Wisconsin Badgers @ #15 Purdue Boilermakers | 13 - 11 | 15:54 - 1st Half | CBS |
-| #5 Florida Gators @ Kentucky Wildcats | 11 - 3 | 14:23 - 1st Half | ESPN |
-| Middle Tennessee Blue Raiders @ Missouri State Bears | 54 - 44 | 11:55 - 2nd Half | ESPN+ |
+| Boise State Broncos @ Colorado State Rams | 20 - 19 | 8:54 - 1st Half | MWN |
+| #25 Saint Louis Billikens @ George Mason Patriots | 23 - 21 | 9:44 - 1st Half | USA Net |
+| #5 Florida Gators @ Kentucky Wildcats | 16 - 9 | 11:43 - 1st Half | ESPN |
+| Wisconsin Badgers @ #15 Purdue Boilermakers | 13 - 20 | 12:56 - 1st Half | CBS |
+| Middle Tennessee Blue Raiders @ Missouri State Bears | 59 - 46 | 8:47 - 2nd Half | ESPN+ |
 | Florida Gulf Coast Eagles @ Central Arkansas Bears | 0 - 0 | Sat, March 7th at 5:00 PM EST | ESPN+ |
 | Indiana Hoosiers @ Ohio State Buckeyes | 0 - 0 | Sat, March 7th at 5:30 PM EST | FOX |
 | Texas A&M Aggies @ LSU Tigers | 0 - 0 | Sat, March 7th at 6:00 PM EST | SEC Network |
