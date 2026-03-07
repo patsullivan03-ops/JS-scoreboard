@@ -1,15 +1,14 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-07 19:33:56*
+*Updated: 2026-03-07 19:39:01*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #24 Vanderbilt Commodores @ #23 Tennessee Volunteers | 22 - 11 | 7:52 - 1st Half | ESPNEWS |
-| Western Kentucky Hilltoppers @ Florida International Panthers | 21 - 31 | 7:28 - 1st Half | ESPN+ |
-| Louisville Cardinals @ #22 Miami Hurricanes | 29 - 21 | 7:43 - 1st Half | ESPNU |
-| #20 Arkansas Razorbacks @ Missouri Tigers | 84 - 82 | 0:20 - OT | ESPN |
-| George Washington Revolutionaries @ Loyola Chicago Ramblers | 17 - 15 | 6:47 - 1st Half | USA Net |
-| Sam Houston Bearkats @ Liberty Flames | 24 - 32 | 3:48 - 1st Half | ESPN+ |
-| Arizona State Sun Devils @ #6 Iowa State Cyclones | 23 - 23 | 8:11 - 1st Half | FS1 |
+| Western Kentucky Hilltoppers @ Florida International Panthers | 27 - 33 | 6:09 - 1st Half | ESPN+ |
+| #24 Vanderbilt Commodores @ #23 Tennessee Volunteers | 24 - 13 | 6:24 - 1st Half | ESPNEWS |
+| George Washington Revolutionaries @ Loyola Chicago Ramblers | 23 - 23 | 3:22 - 1st Half | USA Net |
+| Louisville Cardinals @ #22 Miami Hurricanes | 37 - 27 | 5:09 - 1st Half | ESPNU |
+| Sam Houston Bearkats @ Liberty Flames | 28 - 38 | 1:35 - 1st Half | ESPN+ |
+| Arizona State Sun Devils @ #6 Iowa State Cyclones | 23 - 23 | 7:01 - 1st Half | FS1 |
 | Middle Tennessee Blue Raiders @ Missouri State Bears | 0 - 0 | Sat, March 7th at 3:00 PM EST | ESPN+ |
 | Georgia Bulldogs @ Mississippi State Bulldogs | 0 - 0 | Sat, March 7th at 3:30 PM EST | SEC Network |
 | #5 Florida Gators @ Kentucky Wildcats | 0 - 0 | Sat, March 7th at 4:00 PM EST | ESPN |
@@ -31,6 +30,7 @@
 | #10 Texas Tech Red Raiders @ BYU Cougars | 0 - 0 | Sat, March 7th at 10:30 PM EST | ESPN |
 | #2 Arizona Wildcats @ Colorado Buffaloes | 0 - 0 | Sat, March 7th at 11:00 PM EST | ESPN2 |
 | Washington Huskies @ Oregon Ducks | 0 - 0 | Sat, March 7th at 11:00 PM EST | FS1 |
+| #20 Arkansas Razorbacks @ Missouri Tigers | 88 - 84 | Final/OT | ESPN |
 | #7 Houston Cougars @ Oklahoma State Cowboys | 82 - 75 | Final | CBS |
 | The Citadel Bulldogs @ East Tennessee State Buccaneers | 76 - 83 | Final | ESPN+ |
 | Georgia Tech Yellow Jackets @ Clemson Tigers | 76 - 79 | Final | ACC Network |
