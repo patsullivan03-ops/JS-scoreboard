@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-07 18:02:29",
+    "lastUpdated": "2026-03-07 18:07:34",
     "games": [
         {
             "id": "401827728",
@@ -17,36 +17,6 @@
             "state": "in"
         },
         {
-            "id": "401808285",
-            "awayTeam": "#20 Arkansas Razorbacks",
-            "awayScore": "39",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
-            "awayAbbr": "ARK",
-            "homeTeam": "Missouri Tigers",
-            "homeScore": "36",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
-            "homeAbbr": "MIZ",
-            "status": "Halftime",
-            "tv": "ESPN",
-            "winProb": 0.5,
-            "state": "in"
-        },
-        {
-            "id": "401851581",
-            "awayTeam": "The Citadel Bulldogs",
-            "awayScore": "32",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2643.png",
-            "awayAbbr": "CIT",
-            "homeTeam": "East Tennessee State Buccaneers",
-            "homeScore": "36",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2193.png",
-            "homeAbbr": "ETSU",
-            "status": "Halftime",
-            "tv": "ESPN+",
-            "winProb": 0.5,
-            "state": "in"
-        },
-        {
             "id": "401820787",
             "awayTeam": "Georgia Tech Yellow Jackets",
             "awayScore": "39",
@@ -59,6 +29,36 @@
             "status": "Halftime",
             "tv": "ACC Network",
             "winProb": 0.5,
+            "state": "in"
+        },
+        {
+            "id": "401808285",
+            "awayTeam": "#20 Arkansas Razorbacks",
+            "awayScore": "44",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
+            "awayAbbr": "ARK",
+            "homeTeam": "Missouri Tigers",
+            "homeScore": "38",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
+            "homeAbbr": "MIZ",
+            "status": "18:58 - 2nd Half",
+            "tv": "ESPN",
+            "winProb": 0.23,
+            "state": "in"
+        },
+        {
+            "id": "401851581",
+            "awayTeam": "The Citadel Bulldogs",
+            "awayScore": "32",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2643.png",
+            "awayAbbr": "CIT",
+            "homeTeam": "East Tennessee State Buccaneers",
+            "homeScore": "36",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2193.png",
+            "homeAbbr": "ETSU",
+            "status": "20:00 - 2nd Half",
+            "tv": "ESPN+",
+            "winProb": 0.923,
             "state": "in"
         },
         {
