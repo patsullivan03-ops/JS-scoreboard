@@ -1,16 +1,14 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-07 21:20:31*
+*Updated: 2026-03-07 21:25:35*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
 | Georgia Bulldogs @ Mississippi State Bulldogs | 42 - 47 | Halftime | SEC Network |
-| Boise State Broncos @ Colorado State Rams | 15 - 7 | 13:00 - 1st Half | MWN |
-| #25 Saint Louis Billikens @ George Mason Patriots | 13 - 12 | 13:34 - 1st Half | USA Net |
-| Wisconsin Badgers @ #15 Purdue Boilermakers | 11 - 9 | 17:02 - 1st Half | CBS |
-| #5 Florida Gators @ Kentucky Wildcats | 11 - 2 | 15:23 - 1st Half | ESPN |
-| Middle Tennessee Blue Raiders @ Missouri State Bears | 50 - 38 | 13:41 - 2nd Half | ESPN+ |
-| #24 Vanderbilt Commodores @ #23 Tennessee Volunteers | 86 - 80 | 0:15 - 2nd Half | ESPN |
-| Louisville Cardinals @ #22 Miami Hurricanes | 91 - 89 | 0:02 - 2nd Half | ESPNU |
+| Boise State Broncos @ Colorado State Rams | 17 - 14 | 10:37 - 1st Half | MWN |
+| #25 Saint Louis Billikens @ George Mason Patriots | 19 - 20 | 11:06 - 1st Half | USA Net |
+| Wisconsin Badgers @ #15 Purdue Boilermakers | 13 - 11 | 15:54 - 1st Half | CBS |
+| #5 Florida Gators @ Kentucky Wildcats | 11 - 3 | 14:23 - 1st Half | ESPN |
+| Middle Tennessee Blue Raiders @ Missouri State Bears | 54 - 44 | 11:55 - 2nd Half | ESPN+ |
 | Florida Gulf Coast Eagles @ Central Arkansas Bears | 0 - 0 | Sat, March 7th at 5:00 PM EST | ESPN+ |
 | Indiana Hoosiers @ Ohio State Buckeyes | 0 - 0 | Sat, March 7th at 5:30 PM EST | FOX |
 | Texas A&M Aggies @ LSU Tigers | 0 - 0 | Sat, March 7th at 6:00 PM EST | SEC Network |
@@ -26,6 +24,8 @@
 | #10 Texas Tech Red Raiders @ BYU Cougars | 0 - 0 | Sat, March 7th at 10:30 PM EST | ESPN |
 | #2 Arizona Wildcats @ Colorado Buffaloes | 0 - 0 | Sat, March 7th at 11:00 PM EST | ESPN2 |
 | Washington Huskies @ Oregon Ducks | 0 - 0 | Sat, March 7th at 11:00 PM EST | FS1 |
+| Louisville Cardinals @ #22 Miami Hurricanes | 92 - 89 | Final | ESPNU |
+| #24 Vanderbilt Commodores @ #23 Tennessee Volunteers | 86 - 82 | Final | ESPN |
 | Arizona State Sun Devils @ #6 Iowa State Cyclones | 65 - 86 | Final | FS1 |
 | #7 Houston Cougars @ Oklahoma State Cowboys | 82 - 75 | Final | CBS |
 | #20 Arkansas Razorbacks @ Missouri Tigers | 88 - 84 | Final/OT | ESPN |
