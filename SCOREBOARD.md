@@ -1,12 +1,12 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-07 18:07:34*
+*Updated: 2026-03-07 18:12:39*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #7 Houston Cougars @ Oklahoma State Cowboys | 37 - 41 | Halftime | CBS |
-| Georgia Tech Yellow Jackets @ Clemson Tigers | 39 - 33 | Halftime | ACC Network |
-| #20 Arkansas Razorbacks @ Missouri Tigers | 44 - 38 | 18:58 - 2nd Half | ESPN |
-| The Citadel Bulldogs @ East Tennessee State Buccaneers | 32 - 36 | 20:00 - 2nd Half | ESPN+ |
+| #20 Arkansas Razorbacks @ Missouri Tigers | 44 - 45 | 16:39 - 2nd Half | ESPN |
+| #7 Houston Cougars @ Oklahoma State Cowboys | 44 - 44 | 17:16 - 2nd Half | CBS |
+| Georgia Tech Yellow Jackets @ Clemson Tigers | 40 - 37 | 18:21 - 2nd Half | ACC Network |
+| The Citadel Bulldogs @ East Tennessee State Buccaneers | 38 - 45 | 16:29 - 2nd Half | ESPN+ |
 | Arizona State Sun Devils @ #6 Iowa State Cyclones | 0 - 0 | Sat, March 7th at 2:00 PM EST | FS1 |
 | Louisville Cardinals @ #22 Miami Hurricanes | 0 - 0 | Sat, March 7th at 2:00 PM EST | ESPNU |
 | #24 Vanderbilt Commodores @ #23 Tennessee Volunteers | 0 - 0 | Sat, March 7th at 2:00 PM EST | ESPN |
