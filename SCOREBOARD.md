@@ -1,15 +1,15 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-07 19:23:46*
+*Updated: 2026-03-07 19:28:52*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #24 Vanderbilt Commodores @ #23 Tennessee Volunteers | 16 - 8 | 11:14 - 1st Half | ESPNEWS |
-| Western Kentucky Hilltoppers @ Florida International Panthers | 17 - 15 | 11:02 - 1st Half | ESPN+ |
-| Sam Houston Bearkats @ Liberty Flames | 20 - 21 | 8:09 - 1st Half | ESPN+ |
-| #20 Arkansas Razorbacks @ Missouri Tigers | 81 - 77 | 2:21 - OT | ESPN |
-| Louisville Cardinals @ #22 Miami Hurricanes | 18 - 10 | 11:43 - 1st Half | ESPNU |
-| George Washington Revolutionaries @ Loyola Chicago Ramblers | 10 - 4 | 11:22 - 1st Half | USA Net |
-| Arizona State Sun Devils @ #6 Iowa State Cyclones | 20 - 20 | 11:51 - 1st Half | FS1 |
+| #20 Arkansas Razorbacks @ Missouri Tigers | 81 - 81 | 1:31 - OT | ESPN |
+| #24 Vanderbilt Commodores @ #23 Tennessee Volunteers | 18 - 8 | 9:41 - 1st Half | ESPNEWS |
+| Western Kentucky Hilltoppers @ Florida International Panthers | 18 - 25 | 8:35 - 1st Half | ESPN+ |
+| Sam Houston Bearkats @ Liberty Flames | 22 - 28 | 6:33 - 1st Half | ESPN+ |
+| Louisville Cardinals @ #22 Miami Hurricanes | 24 - 14 | 9:43 - 1st Half | ESPNU |
+| George Washington Revolutionaries @ Loyola Chicago Ramblers | 15 - 8 | 8:49 - 1st Half | USA Net |
+| Arizona State Sun Devils @ #6 Iowa State Cyclones | 20 - 20 | 10:30 - 1st Half | FS1 |
 | Middle Tennessee Blue Raiders @ Missouri State Bears | 0 - 0 | Sat, March 7th at 3:00 PM EST | ESPN+ |
 | Georgia Bulldogs @ Mississippi State Bulldogs | 0 - 0 | Sat, March 7th at 3:30 PM EST | SEC Network |
 | #5 Florida Gators @ Kentucky Wildcats | 0 - 0 | Sat, March 7th at 4:00 PM EST | ESPN |
