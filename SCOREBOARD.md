@@ -1,17 +1,16 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-07 19:03:27*
+*Updated: 2026-03-07 19:08:32*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Sam Houston Bearkats @ Liberty Flames | 0 - 0 | 19:58 - 1st Half | ESPN+ |
-| #20 Arkansas Razorbacks @ Missouri Tigers | 71 - 71 | 1:22 - 2nd Half | ESPN |
-| Western Kentucky Hilltoppers @ Florida International Panthers | 1 - 0 | 19:43 - 1st Half | ESPN+ |
-| Georgia Tech Yellow Jackets @ Clemson Tigers | 69 - 72 | 1:52 - 2nd Half | ACC Network |
-| #7 Houston Cougars @ Oklahoma State Cowboys | 80 - 75 | 0:15 - 2nd Half | CBS |
-| Arizona State Sun Devils @ #6 Iowa State Cyclones | 0 - 0 | Sat, March 7th at 2:00 PM EST | FS1 |
-| Louisville Cardinals @ #22 Miami Hurricanes | 0 - 0 | Sat, March 7th at 2:00 PM EST | ESPNU |
-| #24 Vanderbilt Commodores @ #23 Tennessee Volunteers | 0 - 0 | Sat, March 7th at 2:00 PM EST | ESPN |
-| George Washington Revolutionaries @ Loyola Chicago Ramblers | 0 - 0 | Sat, March 7th at 2:00 PM EST | USA Net |
+| #20 Arkansas Razorbacks @ Missouri Tigers | 73 - 74 | 0:31 - 2nd Half | ESPN |
+| #24 Vanderbilt Commodores @ #23 Tennessee Volunteers | 6 - 0 | 18:04 - 1st Half | ESPN |
+| Western Kentucky Hilltoppers @ Florida International Panthers | 9 - 5 | 16:37 - 1st Half | ESPN+ |
+| Sam Houston Bearkats @ Liberty Flames | 7 - 7 | 15:30 - 1st Half | ESPN+ |
+| Louisville Cardinals @ #22 Miami Hurricanes | 3 - 0 | 18:33 - 1st Half | ESPNU |
+| Georgia Tech Yellow Jackets @ Clemson Tigers | 72 - 75 | 1:11 - 2nd Half | ACC Network |
+| George Washington Revolutionaries @ Loyola Chicago Ramblers | 3 - 0 | 17:43 - 1st Half | USA Net |
+| Arizona State Sun Devils @ #6 Iowa State Cyclones | 3 - 2 | 18:26 - 1st Half | FS1 |
 | Middle Tennessee Blue Raiders @ Missouri State Bears | 0 - 0 | Sat, March 7th at 3:00 PM EST | ESPN+ |
 | Georgia Bulldogs @ Mississippi State Bulldogs | 0 - 0 | Sat, March 7th at 3:30 PM EST | SEC Network |
 | #5 Florida Gators @ Kentucky Wildcats | 0 - 0 | Sat, March 7th at 4:00 PM EST | ESPN |
@@ -33,4 +32,5 @@
 | #10 Texas Tech Red Raiders @ BYU Cougars | 0 - 0 | Sat, March 7th at 10:30 PM EST | ESPN |
 | #2 Arizona Wildcats @ Colorado Buffaloes | 0 - 0 | Sat, March 7th at 11:00 PM EST | ESPN2 |
 | Washington Huskies @ Oregon Ducks | 0 - 0 | Sat, March 7th at 11:00 PM EST | FS1 |
+| #7 Houston Cougars @ Oklahoma State Cowboys | 82 - 75 | Final | CBS |
 | The Citadel Bulldogs @ East Tennessee State Buccaneers | 76 - 83 | Final | ESPN+ |
