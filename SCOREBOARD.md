@@ -1,18 +1,18 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-07 21:05:18*
+*Updated: 2026-03-07 21:10:22*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Louisville Cardinals @ #22 Miami Hurricanes | 80 - 81 | 2:47 - 2nd Half | ESPNU |
-| Georgia Bulldogs @ Mississippi State Bulldogs | 26 - 27 | 6:14 - 1st Half | SEC Network |
-| Middle Tennessee Blue Raiders @ Missouri State Bears | 37 - 30 | 18:44 - 2nd Half | ESPN+ |
-| #24 Vanderbilt Commodores @ #23 Tennessee Volunteers | 77 - 71 | 1:15 - 2nd Half | ESPN |
-| Arizona State Sun Devils @ #6 Iowa State Cyclones | 57 - 80 | 3:56 - 2nd Half | FS1 |
-| Western Kentucky Hilltoppers @ Florida International Panthers | 61 - 81 | 2:46 - 2nd Half | ESPN+ |
+| Boise State Broncos @ Colorado State Rams | 6 - 2 | 17:13 - 1st Half | MWN |
+| Louisville Cardinals @ #22 Miami Hurricanes | 86 - 85 | 0:51 - 2nd Half | ESPNU |
+| Georgia Bulldogs @ Mississippi State Bulldogs | 33 - 33 | 3:49 - 1st Half | SEC Network |
+| #25 Saint Louis Billikens @ George Mason Patriots | 4 - 0 | 17:19 - 1st Half | USA Net |
+| Middle Tennessee Blue Raiders @ Missouri State Bears | 40 - 30 | 17:26 - 2nd Half | ESPN+ |
+| #24 Vanderbilt Commodores @ #23 Tennessee Volunteers | 80 - 73 | 0:47 - 2nd Half | ESPN |
+| Arizona State Sun Devils @ #6 Iowa State Cyclones | 63 - 86 | 1:40 - 2nd Half | FS1 |
+| Western Kentucky Hilltoppers @ Florida International Panthers | 67 - 92 | End of 2nd Half | ESPN+ |
 | #5 Florida Gators @ Kentucky Wildcats | 0 - 0 | Sat, March 7th at 4:00 PM EST | ESPN |
 | Wisconsin Badgers @ #15 Purdue Boilermakers | 0 - 0 | Sat, March 7th at 4:00 PM EST | CBS |
-| #25 Saint Louis Billikens @ George Mason Patriots | 0 - 0 | Sat, March 7th at 4:00 PM EST | USA Net |
-| Boise State Broncos @ Colorado State Rams | 0 - 0 | Sat, March 7th at 4:00 PM EST | MWN |
 | Florida Gulf Coast Eagles @ Central Arkansas Bears | 0 - 0 | Sat, March 7th at 5:00 PM EST | ESPN+ |
 | Indiana Hoosiers @ Ohio State Buckeyes | 0 - 0 | Sat, March 7th at 5:30 PM EST | FOX |
 | Texas A&M Aggies @ LSU Tigers | 0 - 0 | Sat, March 7th at 6:00 PM EST | SEC Network |
