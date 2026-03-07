@@ -1,6 +1,21 @@
 {
-    "lastUpdated": "2026-03-07 19:54:15",
+    "lastUpdated": "2026-03-07 19:59:20",
     "games": [
+        {
+            "id": "401827726",
+            "awayTeam": "Arizona State Sun Devils",
+            "awayScore": "41",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
+            "awayAbbr": "ASU",
+            "homeTeam": "#6 Iowa State Cyclones",
+            "homeScore": "37",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/66.png",
+            "homeAbbr": "ISU",
+            "status": "Halftime",
+            "tv": "FS1",
+            "winProb": 0.5,
+            "state": "in"
+        },
         {
             "id": "401820790",
             "awayTeam": "Louisville Cardinals",
@@ -13,6 +28,21 @@
             "homeAbbr": "MIA",
             "status": "Halftime",
             "tv": "ESPNU",
+            "winProb": 0.5,
+            "state": "in"
+        },
+        {
+            "id": "401808286",
+            "awayTeam": "#24 Vanderbilt Commodores",
+            "awayScore": "32",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
+            "awayAbbr": "VAN",
+            "homeTeam": "#23 Tennessee Volunteers",
+            "homeScore": "22",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
+            "homeAbbr": "TENN",
+            "status": "Halftime",
+            "tv": "ESPN",
             "winProb": 0.5,
             "state": "in"
         },
@@ -32,6 +62,21 @@
             "state": "in"
         },
         {
+            "id": "401804967",
+            "awayTeam": "Western Kentucky Hilltoppers",
+            "awayScore": "33",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/98.png",
+            "awayAbbr": "WKU",
+            "homeTeam": "Florida International Panthers",
+            "homeScore": "45",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2229.png",
+            "homeAbbr": "FIU",
+            "status": "Halftime",
+            "tv": "ESPN+",
+            "winProb": 0.5,
+            "state": "in"
+        },
+        {
             "id": "401804963",
             "awayTeam": "Sam Houston Bearkats",
             "awayScore": "31",
@@ -43,52 +88,7 @@
             "homeAbbr": "LIB",
             "status": "Halftime",
             "tv": "ESPN+",
-            "winProb": 0.5,
-            "state": "in"
-        },
-        {
-            "id": "401808286",
-            "awayTeam": "#24 Vanderbilt Commodores",
-            "awayScore": "32",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
-            "awayAbbr": "VAN",
-            "homeTeam": "#23 Tennessee Volunteers",
-            "homeScore": "22",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
-            "homeAbbr": "TENN",
-            "status": "0:24 - 1st Half",
-            "tv": "ESPN",
-            "winProb": 0.249,
-            "state": "in"
-        },
-        {
-            "id": "401804967",
-            "awayTeam": "Western Kentucky Hilltoppers",
-            "awayScore": "30",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/98.png",
-            "awayAbbr": "WKU",
-            "homeTeam": "Florida International Panthers",
-            "homeScore": "39",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2229.png",
-            "homeAbbr": "FIU",
-            "status": "1:56 - 1st Half",
-            "tv": "ESPN+",
-            "winProb": 0.751,
-            "state": "in"
-        },
-        {
-            "id": "401827726",
-            "awayTeam": "Arizona State Sun Devils",
-            "awayScore": "33",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
-            "awayAbbr": "ASU",
-            "homeTeam": "#6 Iowa State Cyclones",
-            "homeScore": "37",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/66.png",
-            "homeAbbr": "ISU",
-            "status": "1:38 - 1st Half",
-            "tv": "FS1",
-            "winProb": 0.939,
+            "winProb": 0.891,
             "state": "in"
         },
         {
