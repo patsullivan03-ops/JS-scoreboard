@@ -1,16 +1,15 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-07 20:50:04*
+*Updated: 2026-03-07 20:55:08*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
 | Middle Tennessee Blue Raiders @ Missouri State Bears | 37 - 27 | Halftime | ESPN+ |
-| Georgia Bulldogs @ Mississippi State Bulldogs | 15 - 16 | 11:28 - 1st Half | SEC Network |
-| George Washington Revolutionaries @ Loyola Chicago Ramblers | 58 - 62 | 1:22 - 2nd Half | USA Net |
-| Louisville Cardinals @ #22 Miami Hurricanes | 77 - 71 | 5:51 - 2nd Half | ESPNU |
-| #24 Vanderbilt Commodores @ #23 Tennessee Volunteers | 69 - 61 | 5:40 - 2nd Half | ESPN |
-| Sam Houston Bearkats @ Liberty Flames | 69 - 75 | 0:32 - 2nd Half | ESPN+ |
-| Western Kentucky Hilltoppers @ Florida International Panthers | 51 - 68 | 8:43 - 2nd Half | ESPN+ |
-| Arizona State Sun Devils @ #6 Iowa State Cyclones | 48 - 67 | 7:48 - 2nd Half | FS1 |
+| Georgia Bulldogs @ Mississippi State Bulldogs | 18 - 21 | 8:40 - 1st Half | SEC Network |
+| Louisville Cardinals @ #22 Miami Hurricanes | 77 - 74 | 5:11 - 2nd Half | ESPNU |
+| #24 Vanderbilt Commodores @ #23 Tennessee Volunteers | 74 - 66 | 3:42 - 2nd Half | ESPN |
+| George Washington Revolutionaries @ Loyola Chicago Ramblers | 60 - 66 | 0:32 - 2nd Half | USA Net |
+| Western Kentucky Hilltoppers @ Florida International Panthers | 56 - 70 | 6:52 - 2nd Half | ESPN+ |
+| Arizona State Sun Devils @ #6 Iowa State Cyclones | 51 - 70 | 5:54 - 2nd Half | FS1 |
 | #5 Florida Gators @ Kentucky Wildcats | 0 - 0 | Sat, March 7th at 4:00 PM EST | ESPN |
 | Wisconsin Badgers @ #15 Purdue Boilermakers | 0 - 0 | Sat, March 7th at 4:00 PM EST | CBS |
 | #25 Saint Louis Billikens @ George Mason Patriots | 0 - 0 | Sat, March 7th at 4:00 PM EST | USA Net |
@@ -30,6 +29,7 @@
 | #10 Texas Tech Red Raiders @ BYU Cougars | 0 - 0 | Sat, March 7th at 10:30 PM EST | ESPN |
 | #2 Arizona Wildcats @ Colorado Buffaloes | 0 - 0 | Sat, March 7th at 11:00 PM EST | ESPN2 |
 | Washington Huskies @ Oregon Ducks | 0 - 0 | Sat, March 7th at 11:00 PM EST | FS1 |
+| Sam Houston Bearkats @ Liberty Flames | 72 - 79 | Final | ESPN+ |
 | #7 Houston Cougars @ Oklahoma State Cowboys | 82 - 75 | Final | CBS |
 | #20 Arkansas Razorbacks @ Missouri Tigers | 88 - 84 | Final/OT | ESPN |
 | The Citadel Bulldogs @ East Tennessee State Buccaneers | 76 - 83 | Final | ESPN+ |
