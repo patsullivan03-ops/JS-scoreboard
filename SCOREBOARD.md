@@ -1,14 +1,14 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-07 22:06:12*
+*Updated: 2026-03-07 22:11:16*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
 | #5 Florida Gators @ Kentucky Wildcats | 49 - 32 | Halftime | ESPN |
+| Wisconsin Badgers @ #15 Purdue Boilermakers | 52 - 47 | Halftime | CBS |
+| Florida Gulf Coast Eagles @ Central Arkansas Bears | 12 - 14 | 14:02 - 1st Half | ESPN+ |
 | #25 Saint Louis Billikens @ George Mason Patriots | 34 - 43 | Halftime | USA Net |
-| Wisconsin Badgers @ #15 Purdue Boilermakers | 52 - 47 | 0:11 - 1st Half | CBS |
-| Florida Gulf Coast Eagles @ Central Arkansas Bears | 4 - 5 | 17:45 - 1st Half | ESPN+ |
-| Boise State Broncos @ Colorado State Rams | 38 - 28 | 17:58 - 2nd Half | MWN |
-| Georgia Bulldogs @ Mississippi State Bulldogs | 75 - 67 | 7:44 - 2nd Half | SEC Network |
+| Boise State Broncos @ Colorado State Rams | 43 - 30 | 15:45 - 2nd Half | MWN |
+| Georgia Bulldogs @ Mississippi State Bulldogs | 84 - 71 | 6:08 - 2nd Half | SEC Network |
 | Indiana Hoosiers @ Ohio State Buckeyes | 0 - 0 | Sat, March 7th at 5:30 PM EST | FOX |
 | Texas A&M Aggies @ LSU Tigers | 0 - 0 | Sat, March 7th at 6:00 PM EST | SEC Network |
 | #17 North Carolina Tar Heels @ #1 Duke Blue Devils | 0 - 0 | Sat, March 7th at 6:30 PM EST | ESPN |
