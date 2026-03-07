@@ -1,14 +1,14 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-07 21:30:40*
+*Updated: 2026-03-07 21:35:44*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
+| #25 Saint Louis Billikens @ George Mason Patriots | 23 - 29 | 7:57 - 1st Half | USA Net |
+| Boise State Broncos @ Colorado State Rams | 25 - 24 | 5:51 - 1st Half | MWN |
 | Georgia Bulldogs @ Mississippi State Bulldogs | 42 - 47 | Halftime | SEC Network |
-| Boise State Broncos @ Colorado State Rams | 20 - 19 | 8:54 - 1st Half | MWN |
-| #25 Saint Louis Billikens @ George Mason Patriots | 23 - 21 | 9:44 - 1st Half | USA Net |
-| #5 Florida Gators @ Kentucky Wildcats | 16 - 9 | 11:43 - 1st Half | ESPN |
-| Wisconsin Badgers @ #15 Purdue Boilermakers | 13 - 20 | 12:56 - 1st Half | CBS |
-| Middle Tennessee Blue Raiders @ Missouri State Bears | 59 - 46 | 8:47 - 2nd Half | ESPN+ |
+| #5 Florida Gators @ Kentucky Wildcats | 16 - 14 | 10:21 - 1st Half | ESPN |
+| Wisconsin Badgers @ #15 Purdue Boilermakers | 16 - 22 | 11:35 - 1st Half | CBS |
+| Middle Tennessee Blue Raiders @ Missouri State Bears | 61 - 51 | 7:30 - 2nd Half | ESPN+ |
 | Florida Gulf Coast Eagles @ Central Arkansas Bears | 0 - 0 | Sat, March 7th at 5:00 PM EST | ESPN+ |
 | Indiana Hoosiers @ Ohio State Buckeyes | 0 - 0 | Sat, March 7th at 5:30 PM EST | FOX |
 | Texas A&M Aggies @ LSU Tigers | 0 - 0 | Sat, March 7th at 6:00 PM EST | SEC Network |
@@ -24,11 +24,11 @@
 | #10 Texas Tech Red Raiders @ BYU Cougars | 0 - 0 | Sat, March 7th at 10:30 PM EST | ESPN |
 | #2 Arizona Wildcats @ Colorado Buffaloes | 0 - 0 | Sat, March 7th at 11:00 PM EST | ESPN2 |
 | Washington Huskies @ Oregon Ducks | 0 - 0 | Sat, March 7th at 11:00 PM EST | FS1 |
-| Louisville Cardinals @ #22 Miami Hurricanes | 92 - 89 | Final | ESPNU |
-| #24 Vanderbilt Commodores @ #23 Tennessee Volunteers | 86 - 82 | Final | ESPN |
 | Arizona State Sun Devils @ #6 Iowa State Cyclones | 65 - 86 | Final | FS1 |
 | #7 Houston Cougars @ Oklahoma State Cowboys | 82 - 75 | Final | CBS |
 | #20 Arkansas Razorbacks @ Missouri Tigers | 88 - 84 | Final/OT | ESPN |
+| Louisville Cardinals @ #22 Miami Hurricanes | 92 - 89 | Final | ESPNU |
+| #24 Vanderbilt Commodores @ #23 Tennessee Volunteers | 86 - 82 | Final | ESPN |
 | The Citadel Bulldogs @ East Tennessee State Buccaneers | 76 - 83 | Final | ESPN+ |
 | Georgia Tech Yellow Jackets @ Clemson Tigers | 76 - 79 | Final | ACC Network |
 | George Washington Revolutionaries @ Loyola Chicago Ramblers | 62 - 68 | Final | USA Net |
