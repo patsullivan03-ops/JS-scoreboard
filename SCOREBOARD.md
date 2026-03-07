@@ -1,15 +1,14 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-07 21:00:13*
+*Updated: 2026-03-07 21:05:18*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Georgia Bulldogs @ Mississippi State Bulldogs | 21 - 25 | 7:12 - 1st Half | SEC Network |
-| Louisville Cardinals @ #22 Miami Hurricanes | 80 - 79 | 3:22 - 2nd Half | ESPNU |
-| Middle Tennessee Blue Raiders @ Missouri State Bears | 37 - 27 | Halftime | ESPN+ |
-| George Washington Revolutionaries @ Loyola Chicago Ramblers | 62 - 66 | 0:12 - 2nd Half | USA Net |
-| #24 Vanderbilt Commodores @ #23 Tennessee Volunteers | 76 - 68 | 1:31 - 2nd Half | ESPN |
-| Arizona State Sun Devils @ #6 Iowa State Cyclones | 57 - 74 | 5:14 - 2nd Half | FS1 |
-| Western Kentucky Hilltoppers @ Florida International Panthers | 59 - 79 | 5:06 - 2nd Half | ESPN+ |
+| Louisville Cardinals @ #22 Miami Hurricanes | 80 - 81 | 2:47 - 2nd Half | ESPNU |
+| Georgia Bulldogs @ Mississippi State Bulldogs | 26 - 27 | 6:14 - 1st Half | SEC Network |
+| Middle Tennessee Blue Raiders @ Missouri State Bears | 37 - 30 | 18:44 - 2nd Half | ESPN+ |
+| #24 Vanderbilt Commodores @ #23 Tennessee Volunteers | 77 - 71 | 1:15 - 2nd Half | ESPN |
+| Arizona State Sun Devils @ #6 Iowa State Cyclones | 57 - 80 | 3:56 - 2nd Half | FS1 |
+| Western Kentucky Hilltoppers @ Florida International Panthers | 61 - 81 | 2:46 - 2nd Half | ESPN+ |
 | #5 Florida Gators @ Kentucky Wildcats | 0 - 0 | Sat, March 7th at 4:00 PM EST | ESPN |
 | Wisconsin Badgers @ #15 Purdue Boilermakers | 0 - 0 | Sat, March 7th at 4:00 PM EST | CBS |
 | #25 Saint Louis Billikens @ George Mason Patriots | 0 - 0 | Sat, March 7th at 4:00 PM EST | USA Net |
@@ -29,8 +28,9 @@
 | #10 Texas Tech Red Raiders @ BYU Cougars | 0 - 0 | Sat, March 7th at 10:30 PM EST | ESPN |
 | #2 Arizona Wildcats @ Colorado Buffaloes | 0 - 0 | Sat, March 7th at 11:00 PM EST | ESPN2 |
 | Washington Huskies @ Oregon Ducks | 0 - 0 | Sat, March 7th at 11:00 PM EST | FS1 |
-| Sam Houston Bearkats @ Liberty Flames | 72 - 79 | Final | ESPN+ |
+| George Washington Revolutionaries @ Loyola Chicago Ramblers | 62 - 68 | Final | USA Net |
 | #7 Houston Cougars @ Oklahoma State Cowboys | 82 - 75 | Final | CBS |
 | #20 Arkansas Razorbacks @ Missouri Tigers | 88 - 84 | Final/OT | ESPN |
 | The Citadel Bulldogs @ East Tennessee State Buccaneers | 76 - 83 | Final | ESPN+ |
 | Georgia Tech Yellow Jackets @ Clemson Tigers | 76 - 79 | Final | ACC Network |
+| Sam Houston Bearkats @ Liberty Flames | 72 - 79 | Final | ESPN+ |
