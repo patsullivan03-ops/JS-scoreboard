@@ -1,18 +1,17 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-07 18:58:21*
+*Updated: 2026-03-07 19:03:27*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #7 Houston Cougars @ Oklahoma State Cowboys | 74 - 73 | 1:49 - 2nd Half | CBS |
-| #20 Arkansas Razorbacks @ Missouri Tigers | 69 - 67 | 3:09 - 2nd Half | ESPN |
-| Georgia Tech Yellow Jackets @ Clemson Tigers | 67 - 68 | 3:40 - 2nd Half | ACC Network |
-| The Citadel Bulldogs @ East Tennessee State Buccaneers | 66 - 78 | 0:34 - 2nd Half | ESPN+ |
+| Sam Houston Bearkats @ Liberty Flames | 0 - 0 | 19:58 - 1st Half | ESPN+ |
+| #20 Arkansas Razorbacks @ Missouri Tigers | 71 - 71 | 1:22 - 2nd Half | ESPN |
+| Western Kentucky Hilltoppers @ Florida International Panthers | 1 - 0 | 19:43 - 1st Half | ESPN+ |
+| Georgia Tech Yellow Jackets @ Clemson Tigers | 69 - 72 | 1:52 - 2nd Half | ACC Network |
+| #7 Houston Cougars @ Oklahoma State Cowboys | 80 - 75 | 0:15 - 2nd Half | CBS |
 | Arizona State Sun Devils @ #6 Iowa State Cyclones | 0 - 0 | Sat, March 7th at 2:00 PM EST | FS1 |
 | Louisville Cardinals @ #22 Miami Hurricanes | 0 - 0 | Sat, March 7th at 2:00 PM EST | ESPNU |
 | #24 Vanderbilt Commodores @ #23 Tennessee Volunteers | 0 - 0 | Sat, March 7th at 2:00 PM EST | ESPN |
 | George Washington Revolutionaries @ Loyola Chicago Ramblers | 0 - 0 | Sat, March 7th at 2:00 PM EST | USA Net |
-| Western Kentucky Hilltoppers @ Florida International Panthers | 0 - 0 | Sat, March 7th at 2:00 PM EST | ESPN+ |
-| Sam Houston Bearkats @ Liberty Flames | 0 - 0 | Sat, March 7th at 2:00 PM EST | ESPN+ |
 | Middle Tennessee Blue Raiders @ Missouri State Bears | 0 - 0 | Sat, March 7th at 3:00 PM EST | ESPN+ |
 | Georgia Bulldogs @ Mississippi State Bulldogs | 0 - 0 | Sat, March 7th at 3:30 PM EST | SEC Network |
 | #5 Florida Gators @ Kentucky Wildcats | 0 - 0 | Sat, March 7th at 4:00 PM EST | ESPN |
@@ -34,3 +33,4 @@
 | #10 Texas Tech Red Raiders @ BYU Cougars | 0 - 0 | Sat, March 7th at 10:30 PM EST | ESPN |
 | #2 Arizona Wildcats @ Colorado Buffaloes | 0 - 0 | Sat, March 7th at 11:00 PM EST | ESPN2 |
 | Washington Huskies @ Oregon Ducks | 0 - 0 | Sat, March 7th at 11:00 PM EST | FS1 |
+| The Citadel Bulldogs @ East Tennessee State Buccaneers | 76 - 83 | Final | ESPN+ |
