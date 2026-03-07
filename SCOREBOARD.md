@@ -1,16 +1,16 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-07 20:29:46*
+*Updated: 2026-03-07 20:34:50*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Middle Tennessee Blue Raiders @ Missouri State Bears | 19 - 17 | 7:50 - 1st Half | ESPN+ |
-| Sam Houston Bearkats @ Liberty Flames | 61 - 65 | 6:05 - 2nd Half | ESPN+ |
-| George Washington Revolutionaries @ Loyola Chicago Ramblers | 47 - 55 | 7:55 - 2nd Half | USA Net |
-| #24 Vanderbilt Commodores @ #23 Tennessee Volunteers | 52 - 40 | 12:45 - 2nd Half | ESPN |
-| Louisville Cardinals @ #22 Miami Hurricanes | 66 - 56 | 11:43 - 2nd Half | ESPNU |
-| Arizona State Sun Devils @ #6 Iowa State Cyclones | 45 - 54 | 13:07 - 2nd Half | FS1 |
-| Western Kentucky Hilltoppers @ Florida International Panthers | 36 - 57 | 15:47 - 2nd Half | ESPN+ |
-| Georgia Bulldogs @ Mississippi State Bulldogs | 0 - 0 | Sat, March 7th at 3:30 PM EST | SEC Network |
+| Georgia Bulldogs @ Mississippi State Bulldogs | 3 - 4 | 17:15 - 1st Half | SEC Network |
+| Middle Tennessee Blue Raiders @ Missouri State Bears | 24 - 19 | 5:07 - 1st Half | ESPN+ |
+| Sam Houston Bearkats @ Liberty Flames | 64 - 67 | 4:19 - 2nd Half | ESPN+ |
+| George Washington Revolutionaries @ Loyola Chicago Ramblers | 49 - 58 | 6:44 - 2nd Half | USA Net |
+| #24 Vanderbilt Commodores @ #23 Tennessee Volunteers | 55 - 44 | 11:24 - 2nd Half | ESPN |
+| Louisville Cardinals @ #22 Miami Hurricanes | 68 - 57 | 11:10 - 2nd Half | ESPNU |
+| Western Kentucky Hilltoppers @ Florida International Panthers | 44 - 61 | 13:32 - 2nd Half | ESPN+ |
+| Arizona State Sun Devils @ #6 Iowa State Cyclones | 45 - 58 | 11:52 - 2nd Half | FS1 |
 | #5 Florida Gators @ Kentucky Wildcats | 0 - 0 | Sat, March 7th at 4:00 PM EST | ESPN |
 | Wisconsin Badgers @ #15 Purdue Boilermakers | 0 - 0 | Sat, March 7th at 4:00 PM EST | CBS |
 | #25 Saint Louis Billikens @ George Mason Patriots | 0 - 0 | Sat, March 7th at 4:00 PM EST | USA Net |
