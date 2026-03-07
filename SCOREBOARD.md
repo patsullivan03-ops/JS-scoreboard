@@ -1,7 +1,7 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-07 16:00:30*
+*Updated: 2026-03-07 16:05:35*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Drake Bulldogs @ Belmont Bruins | 100 - 79 | Final | ESPN+ |
-| Northern Iowa Panthers @ Illinois State Redbirds | 74 - 52 | Final | ESPN+ |
+| Wisconsin Badgers @ #15 Purdue Boilermakers | 0 - 0 | Sat, March 7th at 4:00 PM EST | CBS |
+| Indiana Hoosiers @ Ohio State Buckeyes | 0 - 0 | Sat, March 7th at 5:30 PM EST | FOX |

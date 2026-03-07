@@ -1,35 +1,35 @@
 {
-    "lastUpdated": "2026-03-07 16:00:30",
+    "lastUpdated": "2026-03-07 16:05:35",
     "games": [
         {
-            "id": "401851488",
-            "awayTeam": "Drake Bulldogs",
-            "awayScore": "100",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2181.png",
-            "awayAbbr": "DRKE",
-            "homeTeam": "Belmont Bruins",
-            "homeScore": "79",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2057.png",
-            "homeAbbr": "BEL",
-            "status": "Final",
-            "tv": "ESPN+",
+            "id": "401825565",
+            "awayTeam": "Wisconsin Badgers",
+            "awayScore": "0",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
+            "awayAbbr": "WIS",
+            "homeTeam": "#15 Purdue Boilermakers",
+            "homeScore": "0",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
+            "homeAbbr": "PUR",
+            "status": "Sat, March 7th at 4:00 PM EST",
+            "tv": "CBS",
             "winProb": 0.5,
-            "state": "post"
+            "state": "pre"
         },
         {
-            "id": "401851491",
-            "awayTeam": "Northern Iowa Panthers",
-            "awayScore": "74",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2460.png",
-            "awayAbbr": "UNI",
-            "homeTeam": "Illinois State Redbirds",
-            "homeScore": "52",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2287.png",
-            "homeAbbr": "ILST",
-            "status": "Final",
-            "tv": "ESPN+",
+            "id": "401825563",
+            "awayTeam": "Indiana Hoosiers",
+            "awayScore": "0",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
+            "awayAbbr": "IU",
+            "homeTeam": "Ohio State Buckeyes",
+            "homeScore": "0",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+            "homeAbbr": "OSU",
+            "status": "Sat, March 7th at 5:30 PM EST",
+            "tv": "FOX",
             "winProb": 0.5,
-            "state": "post"
+            "state": "pre"
         }
     ]
 }
