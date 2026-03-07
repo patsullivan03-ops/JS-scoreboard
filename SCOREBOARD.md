@@ -1,15 +1,14 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-07 22:36:47*
+*Updated: 2026-03-07 22:45:30*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Indiana Hoosiers @ Ohio State Buckeyes | 0 - 0 | 19:58 - 1st Half | FOX |
-| Wisconsin Badgers @ #15 Purdue Boilermakers | 61 - 62 | 14:58 - 2nd Half | CBS |
-| Florida Gulf Coast Eagles @ Central Arkansas Bears | 25 - 31 | 4:00 - 1st Half | ESPN+ |
-| Georgia Bulldogs @ Mississippi State Bulldogs | 101 - 96 | 0:16 - 2nd Half | SEC Network |
-| #5 Florida Gators @ Kentucky Wildcats | 56 - 41 | 13:54 - 2nd Half | ESPN |
-| Boise State Broncos @ Colorado State Rams | 61 - 43 | 7:05 - 2nd Half | MWN |
-| #25 Saint Louis Billikens @ George Mason Patriots | 41 - 68 | 9:01 - 2nd Half | USA Net |
+| Wisconsin Badgers @ #15 Purdue Boilermakers | 69 - 65 | 11:52 - 2nd Half | CBS |
+| Indiana Hoosiers @ Ohio State Buckeyes | 8 - 8 | 15:59 - 1st Half | FOX |
+| Florida Gulf Coast Eagles @ Central Arkansas Bears | 28 - 33 | 1:58 - 1st Half | ESPN+ |
+| #5 Florida Gators @ Kentucky Wildcats | 66 - 48 | 10:44 - 2nd Half | ESPN |
+| #25 Saint Louis Billikens @ George Mason Patriots | 45 - 76 | 5:04 - 2nd Half | USA Net |
+| Boise State Broncos @ Colorado State Rams | 65 - 47 | 3:52 - 2nd Half | MWN |
 | Texas A&M Aggies @ LSU Tigers | 0 - 0 | Sat, March 7th at 6:00 PM EST | SEC Network |
 | #17 North Carolina Tar Heels @ #1 Duke Blue Devils | 0 - 0 | Sat, March 7th at 6:30 PM EST | ESPN |
 | Northern Arizona Lumberjacks @ Idaho State Bengals | 0 - 0 | Sat, March 7th at 7:30 PM EST | ESPN+ |
@@ -23,6 +22,7 @@
 | #10 Texas Tech Red Raiders @ BYU Cougars | 0 - 0 | Sat, March 7th at 10:30 PM EST | ESPN |
 | #2 Arizona Wildcats @ Colorado Buffaloes | 0 - 0 | Sat, March 7th at 11:00 PM EST | ESPN2 |
 | Washington Huskies @ Oregon Ducks | 0 - 0 | Sat, March 7th at 11:00 PM EST | FS1 |
+| Georgia Bulldogs @ Mississippi State Bulldogs | 102 - 96 | Final | SEC Network |
 | Arizona State Sun Devils @ #6 Iowa State Cyclones | 65 - 86 | Final | FS1 |
 | #7 Houston Cougars @ Oklahoma State Cowboys | 82 - 75 | Final | CBS |
 | #20 Arkansas Razorbacks @ Missouri Tigers | 88 - 84 | Final/OT | ESPN |
