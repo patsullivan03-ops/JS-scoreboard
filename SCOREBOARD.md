@@ -1,14 +1,14 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-07 19:44:06*
+*Updated: 2026-03-07 19:49:10*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
+| George Washington Revolutionaries @ Loyola Chicago Ramblers | 27 - 31 | Halftime | USA Net |
 | Sam Houston Bearkats @ Liberty Flames | 31 - 41 | Halftime | ESPN+ |
-| #24 Vanderbilt Commodores @ #23 Tennessee Volunteers | 26 - 15 | 4:35 - 1st Half | ESPN |
-| Western Kentucky Hilltoppers @ Florida International Panthers | 30 - 39 | 3:56 - 1st Half | ESPN+ |
-| George Washington Revolutionaries @ Loyola Chicago Ramblers | 25 - 26 | 2:11 - 1st Half | USA Net |
-| Louisville Cardinals @ #22 Miami Hurricanes | 37 - 29 | 4:01 - 1st Half | ESPNU |
-| Arizona State Sun Devils @ #6 Iowa State Cyclones | 24 - 29 | 5:01 - 1st Half | FS1 |
+| #24 Vanderbilt Commodores @ #23 Tennessee Volunteers | 26 - 20 | 3:35 - 1st Half | ESPN |
+| Louisville Cardinals @ #22 Miami Hurricanes | 39 - 35 | 1:35 - 1st Half | ESPNU |
+| Western Kentucky Hilltoppers @ Florida International Panthers | 30 - 39 | 1:55 - 1st Half | ESPN+ |
+| Arizona State Sun Devils @ #6 Iowa State Cyclones | 26 - 33 | 3:46 - 1st Half | FS1 |
 | Middle Tennessee Blue Raiders @ Missouri State Bears | 0 - 0 | Sat, March 7th at 3:00 PM EST | ESPN+ |
 | Georgia Bulldogs @ Mississippi State Bulldogs | 0 - 0 | Sat, March 7th at 3:30 PM EST | SEC Network |
 | #5 Florida Gators @ Kentucky Wildcats | 0 - 0 | Sat, March 7th at 4:00 PM EST | ESPN |
@@ -30,7 +30,7 @@
 | #10 Texas Tech Red Raiders @ BYU Cougars | 0 - 0 | Sat, March 7th at 10:30 PM EST | ESPN |
 | #2 Arizona Wildcats @ Colorado Buffaloes | 0 - 0 | Sat, March 7th at 11:00 PM EST | ESPN2 |
 | Washington Huskies @ Oregon Ducks | 0 - 0 | Sat, March 7th at 11:00 PM EST | FS1 |
-| #20 Arkansas Razorbacks @ Missouri Tigers | 88 - 84 | Final/OT | ESPN |
 | #7 Houston Cougars @ Oklahoma State Cowboys | 82 - 75 | Final | CBS |
+| #20 Arkansas Razorbacks @ Missouri Tigers | 88 - 84 | Final/OT | ESPN |
 | The Citadel Bulldogs @ East Tennessee State Buccaneers | 76 - 83 | Final | ESPN+ |
 | Georgia Tech Yellow Jackets @ Clemson Tigers | 76 - 79 | Final | ACC Network |
