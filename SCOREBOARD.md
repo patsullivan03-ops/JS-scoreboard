@@ -1,12 +1,11 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-08 00:01:30*
+*Updated: 2026-03-08 00:06:35*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
 | Texas A&M Aggies @ LSU Tigers | 33 - 38 | Halftime | SEC Network |
-| Florida Gulf Coast Eagles @ Central Arkansas Bears | 61 - 68 | 0:32 - 2nd Half | ESPN+ |
-| #17 North Carolina Tar Heels @ #1 Duke Blue Devils | 13 - 24 | 9:01 - 1st Half | ESPN |
-| Indiana Hoosiers @ Ohio State Buckeyes | 43 - 63 | 13:17 - 2nd Half | FOX |
+| #17 North Carolina Tar Heels @ #1 Duke Blue Devils | 15 - 24 | 7:50 - 1st Half | ESPN |
+| Indiana Hoosiers @ Ohio State Buckeyes | 47 - 69 | 11:43 - 2nd Half | FOX |
 | Northern Arizona Lumberjacks @ Idaho State Bengals | 0 - 0 | Sat, March 7th at 7:30 PM EST | ESPN+ |
 | Providence Friars @ Georgetown Hoyas | 0 - 0 | Sat, March 7th at 8:00 PM EST | truTV |
 | Auburn Tigers @ #16 Alabama Crimson Tide | 0 - 0 | Sat, March 7th at 8:30 PM EST | ESPN |
@@ -18,6 +17,7 @@
 | #10 Texas Tech Red Raiders @ BYU Cougars | 0 - 0 | Sat, March 7th at 10:30 PM EST | ESPN |
 | #2 Arizona Wildcats @ Colorado Buffaloes | 0 - 0 | Sat, March 7th at 11:00 PM EST | ESPN2 |
 | Washington Huskies @ Oregon Ducks | 0 - 0 | Sat, March 7th at 11:00 PM EST | FS1 |
+| Florida Gulf Coast Eagles @ Central Arkansas Bears | 63 - 73 | Final | ESPN+ |
 | #5 Florida Gators @ Kentucky Wildcats | 84 - 77 | Final | ESPN |
 | Arizona State Sun Devils @ #6 Iowa State Cyclones | 65 - 86 | Final | FS1 |
 | #7 Houston Cougars @ Oklahoma State Cowboys | 82 - 75 | Final | CBS |
