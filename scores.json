@@ -1,34 +1,19 @@
 {
-    "lastUpdated": "2026-03-08 22:06:26",
+    "lastUpdated": "2026-03-08 22:11:30",
     "games": [
-        {
-            "id": "401851589",
-            "awayTeam": "Western Carolina Catamounts",
-            "awayScore": "67",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2717.png",
-            "awayAbbr": "WCU",
-            "homeTeam": "East Tennessee State Buccaneers",
-            "homeScore": "69",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2193.png",
-            "homeAbbr": "ETSU",
-            "status": "0:00 - 2nd Half",
-            "tv": "ESPNU",
-            "winProb": 0.5,
-            "state": "in"
-        },
         {
             "id": "401851602",
             "awayTeam": "Houston Christian Huskies",
-            "awayScore": "2",
+            "awayScore": "6",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2277.png",
             "awayAbbr": "HCU",
             "homeTeam": "New Orleans Privateers",
-            "homeScore": "4",
+            "homeScore": "8",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2443.png",
             "homeAbbr": "UNO",
-            "status": "17:46 - 1st Half",
+            "status": "15:14 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.751,
+            "winProb": 0.747,
             "state": "in"
         },
         {
@@ -75,6 +60,21 @@
             "tv": "ESPN+",
             "winProb": 0.5,
             "state": "pre"
+        },
+        {
+            "id": "401851589",
+            "awayTeam": "Western Carolina Catamounts",
+            "awayScore": "67",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2717.png",
+            "awayAbbr": "WCU",
+            "homeTeam": "East Tennessee State Buccaneers",
+            "homeScore": "69",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2193.png",
+            "homeAbbr": "ETSU",
+            "status": "Final",
+            "tv": "ESPNU",
+            "winProb": 0.5,
+            "state": "post"
         },
         {
             "id": "401851251",
