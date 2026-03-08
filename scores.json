@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-08 00:57:19",
+    "lastUpdated": "2026-03-08 01:02:24",
     "games": [
         {
             "id": "401808282",
@@ -8,27 +8,27 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/245.png",
             "awayAbbr": "TA&M",
             "homeTeam": "LSU Tigers",
-            "homeScore": "67",
+            "homeScore": "70",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
             "homeAbbr": "LSU",
-            "status": "1:29 - 2nd Half",
+            "status": "End of 2nd Half",
             "tv": "SEC Network",
-            "winProb": 0.335,
+            "winProb": 0.5,
             "state": "in"
         },
         {
             "id": "401851325",
             "awayTeam": "Northern Arizona Lumberjacks",
-            "awayScore": "16",
+            "awayScore": "18",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2464.png",
             "awayAbbr": "NAU",
             "homeTeam": "Idaho State Bengals",
-            "homeScore": "28",
+            "homeScore": "33",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/304.png",
             "homeAbbr": "IDST",
-            "status": "7:40 - 1st Half",
+            "status": "6:36 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.855,
+            "winProb": 0.91,
             "state": "in"
         },
         {
@@ -38,12 +38,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
             "awayAbbr": "UNC",
             "homeTeam": "#1 Duke Blue Devils",
-            "homeScore": "53",
+            "homeScore": "58",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
             "homeAbbr": "DUKE",
-            "status": "13:58 - 2nd Half",
+            "status": "13:04 - 2nd Half",
             "tv": "ESPN",
-            "winProb": 0.973,
+            "winProb": 0.988,
             "state": "in"
         },
         {
@@ -195,21 +195,6 @@
             "tv": "FS1",
             "winProb": 0.5,
             "state": "pre"
-        },
-        {
-            "id": "401825563",
-            "awayTeam": "Indiana Hoosiers",
-            "awayScore": "78",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
-            "awayAbbr": "IU",
-            "homeTeam": "Ohio State Buckeyes",
-            "homeScore": "91",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
-            "homeAbbr": "OSU",
-            "status": "Final",
-            "tv": "FOX",
-            "winProb": 0.5,
-            "state": "post"
         },
         {
             "id": "401808281",
@@ -463,6 +448,21 @@
             "homeAbbr": "CARK",
             "status": "Final",
             "tv": "ESPN+",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "id": "401825563",
+            "awayTeam": "Indiana Hoosiers",
+            "awayScore": "78",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
+            "awayAbbr": "IU",
+            "homeTeam": "Ohio State Buckeyes",
+            "homeScore": "91",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+            "homeAbbr": "OSU",
+            "status": "Final",
+            "tv": "FOX",
             "winProb": 0.5,
             "state": "post"
         }
