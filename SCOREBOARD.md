@@ -1,15 +1,15 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-08 02:13:26*
+*Updated: 2026-03-08 02:18:30*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Providence Friars @ Georgetown Hoyas | 34 - 43 | Halftime | truTV |
-| UCLA Bruins @ USC Trojans | 2 - 7 | 17:19 - 1st Half | FS1 |
-| Oklahoma Sooners @ Texas Longhorns | 29 - 25 | 5:10 - 1st Half | SEC Network |
-| Morehead State Eagles @ Tennessee State Tigers | 6 - 7 | 17:09 - 1st Half | ESPN2 |
-| Northwestern Wildcats @ Minnesota Golden Gophers | 2 - 7 | 17:47 - 1st Half | BTN |
-| Auburn Tigers @ #16 Alabama Crimson Tide | 21 - 31 | 7:45 - 1st Half | ESPN |
-| Northern Arizona Lumberjacks @ Idaho State Bengals | 52 - 67 | 3:45 - 2nd Half | ESPN+ |
+| Providence Friars @ Georgetown Hoyas | 44 - 45 | 17:31 - 2nd Half | truTV |
+| Oklahoma Sooners @ Texas Longhorns | 30 - 30 | 4:19 - 1st Half | SEC Network |
+| UCLA Bruins @ USC Trojans | 9 - 7 | 15:12 - 1st Half | FS1 |
+| Northwestern Wildcats @ Minnesota Golden Gophers | 2 - 11 | 16:19 - 1st Half | BTN |
+| Morehead State Eagles @ Tennessee State Tigers | 7 - 17 | 14:59 - 1st Half | ESPN2 |
+| Auburn Tigers @ #16 Alabama Crimson Tide | 21 - 37 | 6:23 - 1st Half | ESPN |
+| Northern Arizona Lumberjacks @ Idaho State Bengals | 55 - 67 | 3:12 - 2nd Half | ESPN+ |
 | Georgia Southern Eagles @ Coastal Carolina Chanticleers | 0 - 0 | Sat, March 7th at 9:24 PM EST | ESPN+ |
 | #10 Texas Tech Red Raiders @ BYU Cougars | 0 - 0 | Sat, March 7th at 10:30 PM EST | ESPN |
 | #2 Arizona Wildcats @ Colorado Buffaloes | 0 - 0 | Sat, March 7th at 11:00 PM EST | ESPN2 |
