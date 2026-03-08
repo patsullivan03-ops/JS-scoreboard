@@ -1,21 +1,6 @@
 {
-    "lastUpdated": "2026-03-08 06:32:20",
+    "lastUpdated": "2026-03-08 06:37:24",
     "games": [
-        {
-            "id": "401827725",
-            "awayTeam": "#2 Arizona Wildcats",
-            "awayScore": "89",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
-            "awayAbbr": "ARIZ",
-            "homeTeam": "Colorado Buffaloes",
-            "homeScore": "79",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
-            "homeAbbr": "COLO",
-            "status": "Final",
-            "tv": "ESPN2",
-            "winProb": 0.5,
-            "state": "post"
-        },
         {
             "id": "401820788",
             "awayTeam": "#17 North Carolina Tar Heels",
@@ -28,6 +13,21 @@
             "homeAbbr": "DUKE",
             "status": "Final",
             "tv": "ESPN",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "id": "401827725",
+            "awayTeam": "#2 Arizona Wildcats",
+            "awayScore": "89",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
+            "awayAbbr": "ARIZ",
+            "homeTeam": "Colorado Buffaloes",
+            "homeScore": "79",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
+            "homeAbbr": "COLO",
+            "status": "Final",
+            "tv": "ESPN2",
             "winProb": 0.5,
             "state": "post"
         },

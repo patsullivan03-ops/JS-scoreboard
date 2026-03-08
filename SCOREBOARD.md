@@ -1,10 +1,10 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-08 06:32:20*
+*Updated: 2026-03-08 06:37:24*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #2 Arizona Wildcats @ Colorado Buffaloes | 89 - 79 | Final | ESPN2 |
 | #17 North Carolina Tar Heels @ #1 Duke Blue Devils | 61 - 76 | Final | ESPN |
+| #2 Arizona Wildcats @ Colorado Buffaloes | 89 - 79 | Final | ESPN2 |
 | #5 Florida Gators @ Kentucky Wildcats | 84 - 77 | Final | ESPN |
 | Arizona State Sun Devils @ #6 Iowa State Cyclones | 65 - 86 | Final | FS1 |
 | #7 Houston Cougars @ Oklahoma State Cowboys | 82 - 75 | Final | CBS |
