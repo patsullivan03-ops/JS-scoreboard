@@ -1,16 +1,13 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-08 04:15:17*
+*Updated: 2026-03-08 04:20:21*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #10 Texas Tech Red Raiders @ BYU Cougars | 31 - 22 | 5:50 - 1st Half | ESPN |
-| #2 Arizona Wildcats @ Colorado Buffaloes | 4 - 4 | 17:39 - 1st Half | ESPN2 |
-| UCLA Bruins @ USC Trojans | 89 - 68 | 0:24 - 2nd Half | FS1 |
-| Georgia Southern Eagles @ Coastal Carolina Chanticleers | 87 - 68 | 3:27 - 2nd Half | ESPN+ |
-| Washington Huskies @ Oregon Ducks | 0 - 0 | Sat, March 7th at 11:00 PM EST | FS1 |
-| Oklahoma Sooners @ Texas Longhorns | 88 - 85 | Final/OT | SEC Network |
-| Morehead State Eagles @ Tennessee State Tigers | 67 - 93 | Final | ESPN2 |
-| Northwestern Wildcats @ Minnesota Golden Gophers | 66 - 67 | Final | BTN |
+| Washington Huskies @ Oregon Ducks | 0 - 6 | 17:01 - 1st Half | FS1 |
+| #10 Texas Tech Red Raiders @ BYU Cougars | 31 - 25 | 4:00 - 1st Half | ESPN |
+| #2 Arizona Wildcats @ Colorado Buffaloes | 6 - 9 | 15:34 - 1st Half | ESPN2 |
+| Georgia Southern Eagles @ Coastal Carolina Chanticleers | 93 - 68 | 1:58 - 2nd Half | ESPN+ |
+| UCLA Bruins @ USC Trojans | 89 - 68 | Final | FS1 |
 | #17 North Carolina Tar Heels @ #1 Duke Blue Devils | 61 - 76 | Final | ESPN |
 | #5 Florida Gators @ Kentucky Wildcats | 84 - 77 | Final | ESPN |
 | Arizona State Sun Devils @ #6 Iowa State Cyclones | 65 - 86 | Final | FS1 |
@@ -34,3 +31,6 @@
 | Texas A&M Aggies @ LSU Tigers | 94 - 91 | Final/3OT | SEC Network |
 | Northern Arizona Lumberjacks @ Idaho State Bengals | 65 - 73 | Final | ESPN+ |
 | Providence Friars @ Georgetown Hoyas | 79 - 80 | Final | truTV |
+| Oklahoma Sooners @ Texas Longhorns | 88 - 85 | Final/OT | SEC Network |
+| Morehead State Eagles @ Tennessee State Tigers | 67 - 93 | Final | ESPN2 |
+| Northwestern Wildcats @ Minnesota Golden Gophers | 66 - 67 | Final | BTN |
