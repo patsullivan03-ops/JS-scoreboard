@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-08 22:41:57",
+    "lastUpdated": "2026-03-08 22:47:01",
     "games": [
         {
             "id": "401851602",
             "awayTeam": "Houston Christian Huskies",
-            "awayScore": "27",
+            "awayScore": "33",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2277.png",
             "awayAbbr": "HCU",
             "homeTeam": "New Orleans Privateers",
-            "homeScore": "28",
+            "homeScore": "34",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2443.png",
             "homeAbbr": "UNO",
-            "status": "2:58 - 1st Half",
+            "status": "Halftime",
             "tv": "ESPN+",
-            "winProb": 0.694,
+            "winProb": 0.5,
             "state": "in"
         },
         {
