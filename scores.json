@@ -1,34 +1,34 @@
 {
-    "lastUpdated": "2026-03-08 20:35:05",
+    "lastUpdated": "2026-03-08 20:40:09",
     "games": [
         {
             "id": "401851589",
             "awayTeam": "Western Carolina Catamounts",
-            "awayScore": "29",
+            "awayScore": "31",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2717.png",
             "awayAbbr": "WCU",
             "homeTeam": "East Tennessee State Buccaneers",
             "homeScore": "17",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2193.png",
             "homeAbbr": "ETSU",
-            "status": "5:10 - 1st Half",
+            "status": "3:38 - 1st Half",
             "tv": "ESPNU",
-            "winProb": 0.23,
+            "winProb": 0.181,
             "state": "in"
         },
         {
             "id": "401851431",
             "awayTeam": "Northern Kentucky Norse",
-            "awayScore": "36",
+            "awayScore": "42",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/94.png",
             "awayAbbr": "NKU",
             "homeTeam": "Green Bay Phoenix",
-            "homeScore": "30",
+            "homeScore": "34",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2739.png",
             "homeAbbr": "GB",
-            "status": "19:44 - 2nd Half",
+            "status": "16:43 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.198,
+            "winProb": 0.138,
             "state": "in"
         },
         {
