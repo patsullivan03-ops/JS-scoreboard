@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-08 21:35:59",
+    "lastUpdated": "2026-03-08 21:41:03",
     "games": [
         {
             "id": "401851589",
             "awayTeam": "Western Carolina Catamounts",
-            "awayScore": "58",
+            "awayScore": "59",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2717.png",
             "awayAbbr": "WCU",
             "homeTeam": "East Tennessee State Buccaneers",
-            "homeScore": "49",
+            "homeScore": "51",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2193.png",
             "homeAbbr": "ETSU",
-            "status": "8:49 - 2nd Half",
+            "status": "7:09 - 2nd Half",
             "tv": "ESPNU",
-            "winProb": 0.18,
+            "winProb": 0.209,
             "state": "in"
         },
         {
