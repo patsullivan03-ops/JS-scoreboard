@@ -1,10 +1,10 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-08 19:29:07*
+*Updated: 2026-03-08 19:34:12*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Queens University Royals @ Central Arkansas Bears | 46 - 45 | 12:23 - 2nd Half | ESPN2 |
-| Northern Kentucky Norse @ Green Bay Phoenix | 0 - 0 | Sun, March 8th at 3:30 PM EDT | ESPN+ |
+| Northern Kentucky Norse @ Green Bay Phoenix | 0 - 0 | 18:24 - 1st Half | ESPN+ |
+| Queens University Royals @ Central Arkansas Bears | 51 - 49 | 10:46 - 2nd Half | ESPN2 |
 | Western Carolina Catamounts @ East Tennessee State Buccaneers | 0 - 0 | Sun, March 8th at 4:00 PM EDT | ESPNU |
 | Houston Christian Huskies @ New Orleans Privateers | 0 - 0 | Sun, March 8th at 6:00 PM EDT | ESPN+ |
 | San Francisco Dons @ Oregon State Beavers | 0 - 0 | Sun, March 8th at 8:30 PM EDT | ESPN2 |
