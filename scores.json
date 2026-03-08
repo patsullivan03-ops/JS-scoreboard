@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-08 18:33:17",
+    "lastUpdated": "2026-03-08 18:38:22",
     "games": [
         {
             "id": "401851251",
             "awayTeam": "Queens University Royals",
-            "awayScore": "23",
+            "awayScore": "25",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2511.png",
             "awayAbbr": "QUC",
             "homeTeam": "Central Arkansas Bears",
-            "homeScore": "20",
+            "homeScore": "22",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2110.png",
             "homeAbbr": "CARK",
-            "status": "7:40 - 1st Half",
+            "status": "6:19 - 1st Half",
             "tv": "ESPN2",
-            "winProb": 0.4,
+            "winProb": 0.43,
             "state": "in"
         },
         {
