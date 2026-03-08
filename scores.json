@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-08 21:56:17",
+    "lastUpdated": "2026-03-08 22:01:22",
     "games": [
         {
             "id": "401851589",
@@ -8,12 +8,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2717.png",
             "awayAbbr": "WCU",
             "homeTeam": "East Tennessee State Buccaneers",
-            "homeScore": "63",
+            "homeScore": "67",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2193.png",
             "homeAbbr": "ETSU",
-            "status": "1:22 - 2nd Half",
+            "status": "0:38 - 2nd Half",
             "tv": "ESPNU",
-            "winProb": 0.198,
+            "winProb": 0.493,
             "state": "in"
         },
         {
