@@ -1,15 +1,15 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-08 02:54:02*
+*Updated: 2026-03-08 02:59:07*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Oklahoma Sooners @ Texas Longhorns | 47 - 45 | 15:49 - 2nd Half | SEC Network |
-| Providence Friars @ Georgetown Hoyas | 75 - 74 | 5:16 - 2nd Half | truTV |
-| Georgia Southern Eagles @ Coastal Carolina Chanticleers | 32 - 25 | 6:59 - 1st Half | ESPN+ |
-| Northwestern Wildcats @ Minnesota Golden Gophers | 29 - 37 | 0:12 - 1st Half | BTN |
-| UCLA Bruins @ USC Trojans | 41 - 26 | 2:23 - 1st Half | FS1 |
-| Morehead State Eagles @ Tennessee State Tigers | 32 - 53 | 0:49 - 1st Half | ESPN2 |
-| Auburn Tigers @ #16 Alabama Crimson Tide | 34 - 54 | 18:11 - 2nd Half | ESPN |
+| Morehead State Eagles @ Tennessee State Tigers | 34 - 55 | Halftime | ESPN2 |
+| Northwestern Wildcats @ Minnesota Golden Gophers | 29 - 39 | Halftime | BTN |
+| Georgia Southern Eagles @ Coastal Carolina Chanticleers | 32 - 32 | 5:14 - 1st Half | ESPN+ |
+| Oklahoma Sooners @ Texas Longhorns | 47 - 47 | 14:52 - 2nd Half | SEC Network |
+| Providence Friars @ Georgetown Hoyas | 75 - 76 | 3:35 - 2nd Half | truTV |
+| UCLA Bruins @ USC Trojans | 43 - 28 | 1:09 - 1st Half | FS1 |
+| Auburn Tigers @ #16 Alabama Crimson Tide | 39 - 64 | 15:47 - 2nd Half | ESPN |
 | #10 Texas Tech Red Raiders @ BYU Cougars | 0 - 0 | Sat, March 7th at 10:30 PM EST | ESPN |
 | #2 Arizona Wildcats @ Colorado Buffaloes | 0 - 0 | Sat, March 7th at 11:00 PM EST | ESPN2 |
 | Washington Huskies @ Oregon Ducks | 0 - 0 | Sat, March 7th at 11:00 PM EST | FS1 |
