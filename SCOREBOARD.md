@@ -1,9 +1,9 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-08 23:27:35*
+*Updated: 2026-03-08 23:32:39*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Houston Christian Huskies @ New Orleans Privateers | 39 - 50 | 12:37 - 2nd Half | ESPN+ |
+| Houston Christian Huskies @ New Orleans Privateers | 39 - 53 | 11:50 - 2nd Half | ESPN+ |
 | San Francisco Dons @ Oregon State Beavers | 0 - 0 | Sun, March 8th at 8:30 PM EDT | ESPN2 |
 | Georgia Southern Eagles @ Marshall Thundering Herd | 0 - 0 | Sun, March 8th at 8:30 PM EDT | ESPN+ |
 | Northwestern State Demons @ Nicholls Colonels | 0 - 0 | Sun, March 8th at 8:30 PM EDT | ESPN+ |
