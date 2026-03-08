@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-08 01:58:13",
+    "lastUpdated": "2026-03-08 02:03:17",
     "games": [
         {
             "id": "401822976",
@@ -19,46 +19,46 @@
         {
             "id": "401808287",
             "awayTeam": "Oklahoma Sooners",
-            "awayScore": "19",
+            "awayScore": "24",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/201.png",
             "awayAbbr": "OU",
             "homeTeam": "Texas Longhorns",
-            "homeScore": "11",
+            "homeScore": "15",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
             "homeAbbr": "TEX",
-            "status": "11:13 - 1st Half",
-            "tv": "SECN+",
-            "winProb": 0.439,
+            "status": "8:49 - 1st Half",
+            "tv": "SEC Network",
+            "winProb": 0.403,
             "state": "in"
         },
         {
             "id": "401808288",
             "awayTeam": "Auburn Tigers",
-            "awayScore": "9",
+            "awayScore": "13",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
             "awayAbbr": "AUB",
             "homeTeam": "#16 Alabama Crimson Tide",
-            "homeScore": "15",
+            "homeScore": "24",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
             "homeAbbr": "ALA",
-            "status": "13:46 - 1st Half",
+            "status": "11:21 - 1st Half",
             "tv": "ESPN",
-            "winProb": 0.856,
+            "winProb": 0.91,
             "state": "in"
         },
         {
             "id": "401851325",
             "awayTeam": "Northern Arizona Lumberjacks",
-            "awayScore": "39",
+            "awayScore": "44",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2464.png",
             "awayAbbr": "NAU",
             "homeTeam": "Idaho State Bengals",
             "homeScore": "60",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/304.png",
             "homeAbbr": "IDST",
-            "status": "10:41 - 2nd Half",
+            "status": "8:03 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.995,
+            "winProb": 0.99,
             "state": "in"
         },
         {
@@ -165,21 +165,6 @@
             "tv": "FS1",
             "winProb": 0.5,
             "state": "pre"
-        },
-        {
-            "id": "401808282",
-            "awayTeam": "Texas A&M Aggies",
-            "awayScore": "94",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/245.png",
-            "awayAbbr": "TA&M",
-            "homeTeam": "LSU Tigers",
-            "homeScore": "91",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
-            "homeAbbr": "LSU",
-            "status": "Final/3OT",
-            "tv": "SEC Network",
-            "winProb": 0.5,
-            "state": "post"
         },
         {
             "id": "401820788",
@@ -463,6 +448,21 @@
             "homeAbbr": "OSU",
             "status": "Final",
             "tv": "FOX",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "id": "401808282",
+            "awayTeam": "Texas A&M Aggies",
+            "awayScore": "94",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/245.png",
+            "awayAbbr": "TA&M",
+            "homeTeam": "LSU Tigers",
+            "homeScore": "91",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
+            "homeAbbr": "LSU",
+            "status": "Final/3OT",
+            "tv": "SEC Network",
             "winProb": 0.5,
             "state": "post"
         }
