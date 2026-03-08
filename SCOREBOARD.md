@@ -1,13 +1,13 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-08 04:25:25*
+*Updated: 2026-03-08 04:30:30*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Georgia Southern Eagles @ Coastal Carolina Chanticleers | 96 - 72 | 0:00 - 2nd Half | ESPN+ |
-| Washington Huskies @ Oregon Ducks | 8 - 13 | 13:20 - 1st Half | FS1 |
-| #10 Texas Tech Red Raiders @ BYU Cougars | 40 - 32 | 1:33 - 1st Half | ESPN |
-| #2 Arizona Wildcats @ Colorado Buffaloes | 14 - 17 | 12:11 - 1st Half | ESPN2 |
+| #10 Texas Tech Red Raiders @ BYU Cougars | 46 - 38 | Halftime | ESPN |
+| Washington Huskies @ Oregon Ducks | 8 - 18 | 11:38 - 1st Half | FS1 |
+| #2 Arizona Wildcats @ Colorado Buffaloes | 16 - 19 | 11:25 - 1st Half | ESPN2 |
 | UCLA Bruins @ USC Trojans | 89 - 68 | Final | FS1 |
+| Georgia Southern Eagles @ Coastal Carolina Chanticleers | 96 - 72 | Final | ESPN+ |
 | #17 North Carolina Tar Heels @ #1 Duke Blue Devils | 61 - 76 | Final | ESPN |
 | #5 Florida Gators @ Kentucky Wildcats | 84 - 77 | Final | ESPN |
 | Arizona State Sun Devils @ #6 Iowa State Cyclones | 65 - 86 | Final | FS1 |
