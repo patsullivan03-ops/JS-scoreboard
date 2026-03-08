@@ -1,34 +1,34 @@
 {
-    "lastUpdated": "2026-03-08 00:16:45",
+    "lastUpdated": "2026-03-08 00:21:49",
     "games": [
         {
             "id": "401808282",
             "awayTeam": "Texas A&M Aggies",
-            "awayScore": "45",
+            "awayScore": "47",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/245.png",
             "awayAbbr": "TA&M",
             "homeTeam": "LSU Tigers",
-            "homeScore": "48",
+            "homeScore": "56",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
             "homeAbbr": "LSU",
-            "status": "15:43 - 2nd Half",
+            "status": "13:10 - 2nd Half",
             "tv": "SEC Network",
-            "winProb": 0.626,
+            "winProb": 0.844,
             "state": "in"
         },
         {
             "id": "401820788",
             "awayTeam": "#17 North Carolina Tar Heels",
-            "awayScore": "22",
+            "awayScore": "27",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
             "awayAbbr": "UNC",
             "homeTeam": "#1 Duke Blue Devils",
-            "homeScore": "32",
+            "homeScore": "35",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
             "homeAbbr": "DUKE",
-            "status": "4:00 - 1st Half",
+            "status": "2:03 - 1st Half",
             "tv": "ESPN",
-            "winProb": 0.967,
+            "winProb": 0.949,
             "state": "in"
         },
         {
@@ -38,12 +38,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
             "awayAbbr": "IU",
             "homeTeam": "Ohio State Buckeyes",
-            "homeScore": "73",
+            "homeScore": "74",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
             "homeAbbr": "OSU",
-            "status": "7:35 - 2nd Half",
+            "status": "6:59 - 2nd Half",
             "tv": "FOX",
-            "winProb": 0.99,
+            "winProb": 0.995,
             "state": "in"
         },
         {
@@ -210,21 +210,6 @@
             "tv": "FS1",
             "winProb": 0.5,
             "state": "pre"
-        },
-        {
-            "id": "401851249",
-            "awayTeam": "Florida Gulf Coast Eagles",
-            "awayScore": "63",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/526.png",
-            "awayAbbr": "FGCU",
-            "homeTeam": "Central Arkansas Bears",
-            "homeScore": "73",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2110.png",
-            "homeAbbr": "CARK",
-            "status": "Final",
-            "tv": "ESPN+",
-            "winProb": 0.5,
-            "state": "post"
         },
         {
             "id": "401808281",
@@ -463,6 +448,21 @@
             "homeAbbr": "CSU",
             "status": "Final",
             "tv": "MWN",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "id": "401851249",
+            "awayTeam": "Florida Gulf Coast Eagles",
+            "awayScore": "63",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/526.png",
+            "awayAbbr": "FGCU",
+            "homeTeam": "Central Arkansas Bears",
+            "homeScore": "73",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2110.png",
+            "homeAbbr": "CARK",
+            "status": "Final",
+            "tv": "ESPN+",
             "winProb": 0.5,
             "state": "post"
         }
