@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-08 22:01:22",
+    "lastUpdated": "2026-03-08 22:06:26",
     "games": [
         {
             "id": "401851589",
@@ -8,28 +8,28 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2717.png",
             "awayAbbr": "WCU",
             "homeTeam": "East Tennessee State Buccaneers",
-            "homeScore": "67",
+            "homeScore": "69",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2193.png",
             "homeAbbr": "ETSU",
-            "status": "0:38 - 2nd Half",
+            "status": "0:00 - 2nd Half",
             "tv": "ESPNU",
-            "winProb": 0.493,
+            "winProb": 0.5,
             "state": "in"
         },
         {
             "id": "401851602",
             "awayTeam": "Houston Christian Huskies",
-            "awayScore": "0",
+            "awayScore": "2",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2277.png",
             "awayAbbr": "HCU",
             "homeTeam": "New Orleans Privateers",
-            "homeScore": "0",
+            "homeScore": "4",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2443.png",
             "homeAbbr": "UNO",
-            "status": "Sun, March 8th at 6:00 PM EDT",
+            "status": "17:46 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.5,
-            "state": "pre"
+            "winProb": 0.751,
+            "state": "in"
         },
         {
             "id": "401851756",

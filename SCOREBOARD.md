@@ -1,10 +1,10 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-08 22:01:22*
+*Updated: 2026-03-08 22:06:26*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Western Carolina Catamounts @ East Tennessee State Buccaneers | 67 - 67 | 0:38 - 2nd Half | ESPNU |
-| Houston Christian Huskies @ New Orleans Privateers | 0 - 0 | Sun, March 8th at 6:00 PM EDT | ESPN+ |
+| Western Carolina Catamounts @ East Tennessee State Buccaneers | 67 - 69 | 0:00 - 2nd Half | ESPNU |
+| Houston Christian Huskies @ New Orleans Privateers | 2 - 4 | 17:46 - 1st Half | ESPN+ |
 | San Francisco Dons @ Oregon State Beavers | 0 - 0 | Sun, March 8th at 8:30 PM EDT | ESPN2 |
 | Georgia Southern Eagles @ Marshall Thundering Herd | 0 - 0 | Sun, March 8th at 8:30 PM EDT | ESPN+ |
 | Northwestern State Demons @ Nicholls Colonels | 0 - 0 | Sun, March 8th at 8:30 PM EDT | ESPN+ |
