@@ -1,34 +1,34 @@
 {
-    "lastUpdated": "2026-03-08 19:44:21",
+    "lastUpdated": "2026-03-08 19:49:26",
     "games": [
         {
             "id": "401851431",
             "awayTeam": "Northern Kentucky Norse",
-            "awayScore": "0",
+            "awayScore": "2",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/94.png",
             "awayAbbr": "NKU",
             "homeTeam": "Green Bay Phoenix",
-            "homeScore": "7",
+            "homeScore": "9",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2739.png",
             "homeAbbr": "GB",
-            "status": "12:34 - 1st Half",
+            "status": "11:23 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.612,
+            "winProb": 0.614,
             "state": "in"
         },
         {
             "id": "401851251",
             "awayTeam": "Queens University Royals",
-            "awayScore": "68",
+            "awayScore": "71",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2511.png",
             "awayAbbr": "QUC",
             "homeTeam": "Central Arkansas Bears",
-            "homeScore": "59",
+            "homeScore": "62",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2110.png",
             "homeAbbr": "CARK",
-            "status": "5:02 - 2nd Half",
+            "status": "3:30 - 2nd Half",
             "tv": "ESPN2",
-            "winProb": 0.071,
+            "winProb": 0.035,
             "state": "in"
         },
         {
