@@ -1,16 +1,16 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-08 04:10:13*
+*Updated: 2026-03-08 04:15:17*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Northwestern Wildcats @ Minnesota Golden Gophers | 66 - 67 | 0:11 - 2nd Half | BTN |
-| #10 Texas Tech Red Raiders @ BYU Cougars | 31 - 18 | 7:40 - 1st Half | ESPN |
-| Georgia Southern Eagles @ Coastal Carolina Chanticleers | 80 - 60 | 6:15 - 2nd Half | ESPN+ |
-| UCLA Bruins @ USC Trojans | 84 - 66 | 2:06 - 2nd Half | FS1 |
-| #2 Arizona Wildcats @ Colorado Buffaloes | 0 - 0 | Sat, March 7th at 11:00 PM EST | ESPN2 |
+| #10 Texas Tech Red Raiders @ BYU Cougars | 31 - 22 | 5:50 - 1st Half | ESPN |
+| #2 Arizona Wildcats @ Colorado Buffaloes | 4 - 4 | 17:39 - 1st Half | ESPN2 |
+| UCLA Bruins @ USC Trojans | 89 - 68 | 0:24 - 2nd Half | FS1 |
+| Georgia Southern Eagles @ Coastal Carolina Chanticleers | 87 - 68 | 3:27 - 2nd Half | ESPN+ |
 | Washington Huskies @ Oregon Ducks | 0 - 0 | Sat, March 7th at 11:00 PM EST | FS1 |
 | Oklahoma Sooners @ Texas Longhorns | 88 - 85 | Final/OT | SEC Network |
 | Morehead State Eagles @ Tennessee State Tigers | 67 - 93 | Final | ESPN2 |
+| Northwestern Wildcats @ Minnesota Golden Gophers | 66 - 67 | Final | BTN |
 | #17 North Carolina Tar Heels @ #1 Duke Blue Devils | 61 - 76 | Final | ESPN |
 | #5 Florida Gators @ Kentucky Wildcats | 84 - 77 | Final | ESPN |
 | Arizona State Sun Devils @ #6 Iowa State Cyclones | 65 - 86 | Final | FS1 |
