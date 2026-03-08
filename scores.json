@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-08 23:12:22",
+    "lastUpdated": "2026-03-08 23:17:26",
     "games": [
         {
             "id": "401851602",
@@ -11,9 +11,9 @@
             "homeScore": "46",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2443.png",
             "homeAbbr": "UNO",
-            "status": "16:17 - 2nd Half",
+            "status": "15:46 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.931,
+            "winProb": 0.947,
             "state": "in"
         },
         {
