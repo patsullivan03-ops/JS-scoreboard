@@ -1,12 +1,12 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-08 01:02:24*
+*Updated: 2026-03-08 01:07:28*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Texas A&M Aggies @ LSU Tigers | 70 - 70 | End of 2nd Half | SEC Network |
-| Northern Arizona Lumberjacks @ Idaho State Bengals | 18 - 33 | 6:36 - 1st Half | ESPN+ |
-| #17 North Carolina Tar Heels @ #1 Duke Blue Devils | 44 - 58 | 13:04 - 2nd Half | ESPN |
-| Providence Friars @ Georgetown Hoyas | 0 - 0 | Sat, March 7th at 8:00 PM EST | truTV |
+| Providence Friars @ Georgetown Hoyas | 5 - 5 | 16:54 - 1st Half | truTV |
+| Texas A&M Aggies @ LSU Tigers | 73 - 74 | 3:11 - OT | SEC Network |
+| Northern Arizona Lumberjacks @ Idaho State Bengals | 22 - 39 | 3:59 - 1st Half | ESPN+ |
+| #17 North Carolina Tar Heels @ #1 Duke Blue Devils | 44 - 60 | 11:51 - 2nd Half | ESPN |
 | Auburn Tigers @ #16 Alabama Crimson Tide | 0 - 0 | Sat, March 7th at 8:30 PM EST | ESPN |
 | Oklahoma Sooners @ Texas Longhorns | 0 - 0 | Sat, March 7th at 8:30 PM EST | SEC Network |
 | Georgia Southern Eagles @ Coastal Carolina Chanticleers | 0 - 0 | Sat, March 7th at 9:00 PM EST | ESPN+ |
