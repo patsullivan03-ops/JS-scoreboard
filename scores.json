@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-08 05:00:56",
+    "lastUpdated": "2026-03-08 05:06:00",
     "games": [
         {
             "id": "401827725",
@@ -34,16 +34,16 @@
         {
             "id": "401827724",
             "awayTeam": "#10 Texas Tech Red Raiders",
-            "awayScore": "52",
+            "awayScore": "57",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
             "awayAbbr": "TTU",
             "homeTeam": "BYU Cougars",
-            "homeScore": "51",
+            "homeScore": "53",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
             "homeAbbr": "BYU",
-            "status": "14:26 - 2nd Half",
+            "status": "12:23 - 2nd Half",
             "tv": "ESPN",
-            "winProb": 0.501,
+            "winProb": 0.383,
             "state": "in"
         },
         {
