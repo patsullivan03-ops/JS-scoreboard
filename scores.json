@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-08 20:24:56",
+    "lastUpdated": "2026-03-08 20:30:00",
     "games": [
         {
             "id": "401851431",
@@ -23,27 +23,27 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2717.png",
             "awayAbbr": "WCU",
             "homeTeam": "East Tennessee State Buccaneers",
-            "homeScore": "13",
+            "homeScore": "15",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2193.png",
             "homeAbbr": "ETSU",
-            "status": "9:16 - 1st Half",
+            "status": "8:18 - 1st Half",
             "tv": "ESPNU",
-            "winProb": 0.384,
+            "winProb": 0.415,
             "state": "in"
         },
         {
             "id": "401851251",
             "awayTeam": "Queens University Royals",
-            "awayScore": "91",
+            "awayScore": "95",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2511.png",
             "awayAbbr": "QUC",
             "homeTeam": "Central Arkansas Bears",
-            "homeScore": "88",
+            "homeScore": "90",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2110.png",
             "homeAbbr": "CARK",
-            "status": "1:44 - OT",
+            "status": "0:17 - OT",
             "tv": "ESPN2",
-            "winProb": 0.257,
+            "winProb": 0.019,
             "state": "in"
         },
         {
