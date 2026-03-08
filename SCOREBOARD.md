@@ -1,15 +1,15 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-08 03:39:44*
+*Updated: 2026-03-08 03:44:48*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Oklahoma Sooners @ Texas Longhorns | 75 - 69 | 0:27 - 2nd Half | SEC Network |
-| Northwestern Wildcats @ Minnesota Golden Gophers | 48 - 58 | 9:17 - 2nd Half | BTN |
-| Georgia Southern Eagles @ Coastal Carolina Chanticleers | 59 - 46 | 15:18 - 2nd Half | ESPN+ |
-| Morehead State Eagles @ Tennessee State Tigers | 58 - 75 | 8:23 - 2nd Half | ESPN2 |
-| UCLA Bruins @ USC Trojans | 65 - 44 | 12:23 - 2nd Half | FS1 |
-| Auburn Tigers @ #16 Alabama Crimson Tide | 71 - 87 | 2:47 - 2nd Half | ESPN |
-| #10 Texas Tech Red Raiders @ BYU Cougars | 0 - 0 | Sat, March 7th at 10:30 PM EST | ESPN |
+| #10 Texas Tech Red Raiders @ BYU Cougars | 3 - 2 | 16:52 - 1st Half | ESPN |
+| Oklahoma Sooners @ Texas Longhorns | 75 - 74 | 0:14 - 2nd Half | SEC Network |
+| Northwestern Wildcats @ Minnesota Golden Gophers | 50 - 58 | 7:19 - 2nd Half | BTN |
+| Georgia Southern Eagles @ Coastal Carolina Chanticleers | 64 - 48 | 13:07 - 2nd Half | ESPN+ |
+| Morehead State Eagles @ Tennessee State Tigers | 59 - 75 | 7:38 - 2nd Half | ESPN2 |
+| UCLA Bruins @ USC Trojans | 70 - 46 | 11:20 - 2nd Half | FS1 |
+| Auburn Tigers @ #16 Alabama Crimson Tide | 78 - 93 | 1:01 - 2nd Half | ESPN |
 | #2 Arizona Wildcats @ Colorado Buffaloes | 0 - 0 | Sat, March 7th at 11:00 PM EST | ESPN2 |
 | Washington Huskies @ Oregon Ducks | 0 - 0 | Sat, March 7th at 11:00 PM EST | FS1 |
 | #17 North Carolina Tar Heels @ #1 Duke Blue Devils | 61 - 76 | Final | ESPN |
