@@ -1,22 +1,22 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-08 04:00:02*
+*Updated: 2026-03-08 04:05:07*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #10 Texas Tech Red Raiders @ BYU Cougars | 17 - 12 | 11:44 - 1st Half | ESPNU |
-| Oklahoma Sooners @ Texas Longhorns | 81 - 79 | 1:51 - OT | SEC Network |
-| Northwestern Wildcats @ Minnesota Golden Gophers | 61 - 63 | 2:03 - 2nd Half | BTN |
-| Georgia Southern Eagles @ Coastal Carolina Chanticleers | 72 - 55 | 9:29 - 2nd Half | ESPN+ |
-| Morehead State Eagles @ Tennessee State Tigers | 65 - 85 | 2:07 - 2nd Half | ESPN2 |
-| UCLA Bruins @ USC Trojans | 79 - 59 | 5:41 - 2nd Half | FS1 |
+| Northwestern Wildcats @ Minnesota Golden Gophers | 65 - 63 | 0:34 - 2nd Half | BTN |
+| #10 Texas Tech Red Raiders @ BYU Cougars | 24 - 16 | 9:41 - 1st Half | ESPNU |
+| Georgia Southern Eagles @ Coastal Carolina Chanticleers | 76 - 58 | 8:00 - 2nd Half | ESPN+ |
+| UCLA Bruins @ USC Trojans | 84 - 63 | 3:28 - 2nd Half | FS1 |
+| Oklahoma Sooners @ Texas Longhorns | 88 - 85 | End of OT | SEC Network |
 | #2 Arizona Wildcats @ Colorado Buffaloes | 0 - 0 | Sat, March 7th at 11:00 PM EST | ESPN2 |
 | Washington Huskies @ Oregon Ducks | 0 - 0 | Sat, March 7th at 11:00 PM EST | FS1 |
-| Auburn Tigers @ #16 Alabama Crimson Tide | 84 - 96 | Final | ESPN |
+| Morehead State Eagles @ Tennessee State Tigers | 67 - 93 | Final | ESPN2 |
 | #17 North Carolina Tar Heels @ #1 Duke Blue Devils | 61 - 76 | Final | ESPN |
 | #5 Florida Gators @ Kentucky Wildcats | 84 - 77 | Final | ESPN |
 | Arizona State Sun Devils @ #6 Iowa State Cyclones | 65 - 86 | Final | FS1 |
 | #7 Houston Cougars @ Oklahoma State Cowboys | 82 - 75 | Final | CBS |
 | Wisconsin Badgers @ #15 Purdue Boilermakers | 97 - 93 | Final | CBS |
+| Auburn Tigers @ #16 Alabama Crimson Tide | 84 - 96 | Final | ESPN |
 | #20 Arkansas Razorbacks @ Missouri Tigers | 88 - 84 | Final/OT | ESPN |
 | Louisville Cardinals @ #22 Miami Hurricanes | 92 - 89 | Final | ESPNU |
 | #24 Vanderbilt Commodores @ #23 Tennessee Volunteers | 86 - 82 | Final | ESPN |
