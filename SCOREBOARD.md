@@ -1,16 +1,16 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-08 02:23:35*
+*Updated: 2026-03-08 02:28:39*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Providence Friars @ Georgetown Hoyas | 52 - 49 | 15:26 - 2nd Half | truTV |
-| UCLA Bruins @ USC Trojans | 15 - 14 | 12:37 - 1st Half | FS1 |
-| Oklahoma Sooners @ Texas Longhorns | 34 - 38 | 2:02 - 1st Half | SEC Network |
-| Northwestern Wildcats @ Minnesota Golden Gophers | 5 - 18 | 13:11 - 1st Half | BTN |
-| Northern Arizona Lumberjacks @ Idaho State Bengals | 62 - 67 | 1:17 - 2nd Half | ESPN+ |
-| Morehead State Eagles @ Tennessee State Tigers | 10 - 23 | 13:11 - 1st Half | ESPN2 |
-| Auburn Tigers @ #16 Alabama Crimson Tide | 23 - 43 | 4:26 - 1st Half | ESPN |
-| Georgia Southern Eagles @ Coastal Carolina Chanticleers | 0 - 0 | Sat, March 7th at 9:24 PM EST | ESPN+ |
+| Oklahoma Sooners @ Texas Longhorns | 36 - 40 | Halftime | SEC Network |
+| Georgia Southern Eagles @ Coastal Carolina Chanticleers | 5 - 2 | 17:45 - 1st Half | ESPN+ |
+| UCLA Bruins @ USC Trojans | 19 - 19 | 10:51 - 1st Half | FS1 |
+| Providence Friars @ Georgetown Hoyas | 54 - 51 | 14:12 - 2nd Half | truTV |
+| Northwestern Wildcats @ Minnesota Golden Gophers | 10 - 22 | 10:21 - 1st Half | BTN |
+| Morehead State Eagles @ Tennessee State Tigers | 10 - 26 | 11:55 - 1st Half | ESPN2 |
+| Auburn Tigers @ #16 Alabama Crimson Tide | 25 - 45 | 3:06 - 1st Half | ESPN |
+| Northern Arizona Lumberjacks @ Idaho State Bengals | 65 - 71 | 0:07 - 2nd Half | ESPN+ |
 | #10 Texas Tech Red Raiders @ BYU Cougars | 0 - 0 | Sat, March 7th at 10:30 PM EST | ESPN |
 | #2 Arizona Wildcats @ Colorado Buffaloes | 0 - 0 | Sat, March 7th at 11:00 PM EST | ESPN2 |
 | Washington Huskies @ Oregon Ducks | 0 - 0 | Sat, March 7th at 11:00 PM EST | FS1 |
