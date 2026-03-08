@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-08 18:28:13",
+    "lastUpdated": "2026-03-08 18:33:17",
     "games": [
         {
             "id": "401851251",
@@ -8,12 +8,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2511.png",
             "awayAbbr": "QUC",
             "homeTeam": "Central Arkansas Bears",
-            "homeScore": "17",
+            "homeScore": "20",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2110.png",
             "homeAbbr": "CARK",
-            "status": "10:21 - 1st Half",
-            "tv": "ESPNEWS",
-            "winProb": 0.35,
+            "status": "7:40 - 1st Half",
+            "tv": "ESPN2",
+            "winProb": 0.4,
             "state": "in"
         },
         {
