@@ -1,15 +1,15 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-08 04:05:07*
+*Updated: 2026-03-08 04:10:13*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Northwestern Wildcats @ Minnesota Golden Gophers | 65 - 63 | 0:34 - 2nd Half | BTN |
-| #10 Texas Tech Red Raiders @ BYU Cougars | 24 - 16 | 9:41 - 1st Half | ESPNU |
-| Georgia Southern Eagles @ Coastal Carolina Chanticleers | 76 - 58 | 8:00 - 2nd Half | ESPN+ |
-| UCLA Bruins @ USC Trojans | 84 - 63 | 3:28 - 2nd Half | FS1 |
-| Oklahoma Sooners @ Texas Longhorns | 88 - 85 | End of OT | SEC Network |
+| Northwestern Wildcats @ Minnesota Golden Gophers | 66 - 67 | 0:11 - 2nd Half | BTN |
+| #10 Texas Tech Red Raiders @ BYU Cougars | 31 - 18 | 7:40 - 1st Half | ESPN |
+| Georgia Southern Eagles @ Coastal Carolina Chanticleers | 80 - 60 | 6:15 - 2nd Half | ESPN+ |
+| UCLA Bruins @ USC Trojans | 84 - 66 | 2:06 - 2nd Half | FS1 |
 | #2 Arizona Wildcats @ Colorado Buffaloes | 0 - 0 | Sat, March 7th at 11:00 PM EST | ESPN2 |
 | Washington Huskies @ Oregon Ducks | 0 - 0 | Sat, March 7th at 11:00 PM EST | FS1 |
+| Oklahoma Sooners @ Texas Longhorns | 88 - 85 | Final/OT | SEC Network |
 | Morehead State Eagles @ Tennessee State Tigers | 67 - 93 | Final | ESPN2 |
 | #17 North Carolina Tar Heels @ #1 Duke Blue Devils | 61 - 76 | Final | ESPN |
 | #5 Florida Gators @ Kentucky Wildcats | 84 - 77 | Final | ESPN |
