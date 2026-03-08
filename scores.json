@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-08 21:25:50",
+    "lastUpdated": "2026-03-08 21:30:54",
     "games": [
         {
             "id": "401851589",
@@ -11,9 +11,9 @@
             "homeScore": "45",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2193.png",
             "homeAbbr": "ETSU",
-            "status": "11:53 - 2nd Half",
+            "status": "11:26 - 2nd Half",
             "tv": "ESPNU",
-            "winProb": 0.166,
+            "winProb": 0.151,
             "state": "in"
         },
         {
