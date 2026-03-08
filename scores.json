@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-08 06:06:56",
+    "lastUpdated": "2026-03-08 06:12:01",
     "games": [
         {
             "id": "401825564",
@@ -8,27 +8,27 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
             "awayAbbr": "WASH",
             "homeTeam": "Oregon Ducks",
-            "homeScore": "79",
+            "homeScore": "82",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png",
             "homeAbbr": "ORE",
-            "status": "0:11 - 2nd Half",
+            "status": "0:05 - 2nd Half",
             "tv": "FS1",
-            "winProb": 0.51,
+            "winProb": 0.5,
             "state": "in"
         },
         {
             "id": "401827725",
             "awayTeam": "#2 Arizona Wildcats",
-            "awayScore": "78",
+            "awayScore": "83",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
             "awayAbbr": "ARIZ",
             "homeTeam": "Colorado Buffaloes",
-            "homeScore": "70",
+            "homeScore": "74",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
             "homeAbbr": "COLO",
-            "status": "3:36 - 2nd Half",
+            "status": "1:16 - 2nd Half",
             "tv": "ESPN2",
-            "winProb": 0.058,
+            "winProb": 0.009,
             "state": "in"
         },
         {
