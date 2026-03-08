@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-08 21:00:28",
+    "lastUpdated": "2026-03-08 21:05:32",
     "games": [
         {
             "id": "401851589",
@@ -13,22 +13,22 @@
             "homeAbbr": "ETSU",
             "status": "Halftime",
             "tv": "ESPNU",
-            "winProb": 0.5,
+            "winProb": 0.136,
             "state": "in"
         },
         {
             "id": "401851431",
             "awayTeam": "Northern Kentucky Norse",
-            "awayScore": "67",
+            "awayScore": "69",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/94.png",
             "awayAbbr": "NKU",
             "homeTeam": "Green Bay Phoenix",
-            "homeScore": "49",
+            "homeScore": "53",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2739.png",
             "homeAbbr": "GB",
-            "status": "8:39 - 2nd Half",
+            "status": "7:05 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.005,
+            "winProb": 0.01,
             "state": "in"
         },
         {
