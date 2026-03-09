@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-09 19:53:24",
+    "lastUpdated": "2026-03-09 19:58:29",
     "games": [
         {
             "id": "401851714",
@@ -8,12 +8,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2016.png",
             "awayAbbr": "ALCN",
             "homeTeam": "Alabama State Hornets",
-            "homeScore": "55",
+            "homeScore": "56",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2011.png",
             "homeAbbr": "ALST",
-            "status": "5:04 - 2nd Half",
+            "status": "4:18 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.368,
+            "winProb": 0.171,
             "state": "in"
         },
         {
