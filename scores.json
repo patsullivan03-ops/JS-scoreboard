@@ -1,35 +1,35 @@
 {
-    "lastUpdated": "2026-03-09 02:35:19",
+    "lastUpdated": "2026-03-09 02:40:24",
     "games": [
         {
             "id": "401851705",
             "awayTeam": "Georgia Southern Eagles",
-            "awayScore": "55",
+            "awayScore": "59",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/290.png",
             "awayAbbr": "GASO",
             "homeTeam": "Marshall Thundering Herd",
             "homeScore": "58",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/276.png",
             "homeAbbr": "MRSH",
-            "status": "11:49 - 2nd Half",
+            "status": "10:09 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.693,
+            "winProb": 0.569,
             "state": "in"
         },
         {
             "id": "401851756",
             "awayTeam": "San Francisco Dons",
-            "awayScore": "72",
+            "awayScore": "77",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2539.png",
             "awayAbbr": "SF",
             "homeTeam": "Oregon State Beavers",
-            "homeScore": "77",
+            "homeScore": "78",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/204.png",
             "homeAbbr": "ORST",
-            "status": "0:07 - 2nd Half",
+            "status": "Final",
             "tv": "ESPN2",
-            "winProb": 0.967,
-            "state": "in"
+            "winProb": 0.5,
+            "state": "post"
         },
         {
             "id": "401851251",
