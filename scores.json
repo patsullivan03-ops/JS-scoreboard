@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-09 02:09:55",
+    "lastUpdated": "2026-03-09 02:15:00",
     "games": [
         {
             "id": "401851705",
@@ -19,29 +19,29 @@
         {
             "id": "401851756",
             "awayTeam": "San Francisco Dons",
-            "awayScore": "58",
+            "awayScore": "60",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2539.png",
             "awayAbbr": "SF",
             "homeTeam": "Oregon State Beavers",
-            "homeScore": "61",
+            "homeScore": "63",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/204.png",
             "homeAbbr": "ORST",
-            "status": "6:42 - 2nd Half",
+            "status": "5:31 - 2nd Half",
             "tv": "ESPN2",
-            "winProb": 0.535,
+            "winProb": 0.576,
             "state": "in"
         },
         {
             "id": "401851604",
             "awayTeam": "Northwestern State Demons",
-            "awayScore": "35",
+            "awayScore": "38",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2466.png",
             "awayAbbr": "NWST",
             "homeTeam": "Nicholls Colonels",
-            "homeScore": "51",
+            "homeScore": "52",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2447.png",
             "homeAbbr": "NICH",
-            "status": "7:53 - 2nd Half",
+            "status": "5:31 - 2nd Half",
             "tv": "ESPN+",
             "winProb": 0.992,
             "state": "in"
