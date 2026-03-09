@@ -1,9 +1,9 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-09 22:00:25*
+*Updated: 2026-03-09 22:05:30*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| New Orleans Privateers @ Texas A&M-Corpus Christi Islanders | 0 - 0 | Mon, March 9th at 6:00 PM EDT | ESPN+ |
+| New Orleans Privateers @ Texas A&M-Corpus Christi Islanders | 2 - 3 | 17:43 - 1st Half | ESPN+ |
 | Georgia Southern Eagles @ Troy Trojans | 0 - 0 | Mon, March 9th at 7:00 PM EDT | ESPN2 |
 | Furman Paladins @ East Tennessee State Buccaneers | 0 - 0 | Mon, March 9th at 7:00 PM EDT | ESPN |
 | Northern Kentucky Norse @ Wright State Raiders | 0 - 0 | Mon, March 9th at 7:00 PM EDT | ESPNU |
