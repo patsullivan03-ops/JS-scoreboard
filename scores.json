@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-09 20:03:34",
+    "lastUpdated": "2026-03-09 20:08:40",
     "games": [
         {
             "id": "401851714",
             "awayTeam": "Alcorn State Braves",
-            "awayScore": "71",
+            "awayScore": "73",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2016.png",
             "awayAbbr": "ALCN",
             "homeTeam": "Alabama State Hornets",
-            "homeScore": "61",
+            "homeScore": "63",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2011.png",
             "homeAbbr": "ALST",
-            "status": "1:47 - 2nd Half",
+            "status": "0:59 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.005,
+            "winProb": 0.004,
             "state": "in"
         },
         {
