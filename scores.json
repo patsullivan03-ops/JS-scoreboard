@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-09 22:20:44",
+    "lastUpdated": "2026-03-09 22:25:49",
     "games": [
         {
             "id": "401851607",
             "awayTeam": "New Orleans Privateers",
-            "awayScore": "10",
+            "awayScore": "15",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2443.png",
             "awayAbbr": "UNO",
             "homeTeam": "Texas A&M-Corpus Christi Islanders",
-            "homeScore": "12",
+            "homeScore": "21",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/357.png",
             "homeAbbr": "AMCC",
-            "status": "11:28 - 1st Half",
+            "status": "9:23 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.657,
+            "winProb": 0.743,
             "state": "in"
         },
         {
