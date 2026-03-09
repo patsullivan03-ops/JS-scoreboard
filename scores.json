@@ -1,21 +1,6 @@
 {
-    "lastUpdated": "2026-03-09 20:08:40",
+    "lastUpdated": "2026-03-09 20:13:44",
     "games": [
-        {
-            "id": "401851714",
-            "awayTeam": "Alcorn State Braves",
-            "awayScore": "73",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2016.png",
-            "awayAbbr": "ALCN",
-            "homeTeam": "Alabama State Hornets",
-            "homeScore": "63",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2011.png",
-            "homeAbbr": "ALST",
-            "status": "0:59 - 2nd Half",
-            "tv": "ESPN+",
-            "winProb": 0.004,
-            "state": "in"
-        },
         {
             "id": "401851607",
             "awayTeam": "New Orleans Privateers",
@@ -135,6 +120,21 @@
             "tv": "ESPN+",
             "winProb": 0.5,
             "state": "pre"
+        },
+        {
+            "id": "401851714",
+            "awayTeam": "Alcorn State Braves",
+            "awayScore": "77",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2016.png",
+            "awayAbbr": "ALCN",
+            "homeTeam": "Alabama State Hornets",
+            "homeScore": "65",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2011.png",
+            "homeAbbr": "ALST",
+            "status": "Final",
+            "tv": "ESPN+",
+            "winProb": 0.5,
+            "state": "post"
         }
     ]
 }
