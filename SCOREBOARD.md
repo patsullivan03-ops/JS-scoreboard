@@ -1,9 +1,9 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-09 03:10:52*
+*Updated: 2026-03-09 03:15:56*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Georgia Southern Eagles @ Marshall Thundering Herd | 76 - 77 | 1:01 - 2nd Half | ESPN+ |
+| Georgia Southern Eagles @ Marshall Thundering Herd | 79 - 77 | 0:25 - 2nd Half | ESPN+ |
 | Queens University Royals @ Central Arkansas Bears | 98 - 93 | Final/OT | ESPN2 |
 | Northern Kentucky Norse @ Green Bay Phoenix | 96 - 76 | Final | ESPN+ |
 | Western Carolina Catamounts @ East Tennessee State Buccaneers | 67 - 69 | Final | ESPNU |
