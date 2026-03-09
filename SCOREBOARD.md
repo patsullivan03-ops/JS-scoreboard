@@ -1,11 +1,11 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-09 01:39:29*
+*Updated: 2026-03-09 01:44:34*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| San Francisco Dons @ Oregon State Beavers | 37 - 38 | 17:47 - 2nd Half | ESPN2 |
-| Northwestern State Demons @ Nicholls Colonels | 24 - 25 | 19:43 - 2nd Half | ESPN+ |
-| Georgia Southern Eagles @ Marshall Thundering Herd | 27 - 19 | 6:36 - 1st Half | ESPN+ |
+| Georgia Southern Eagles @ Marshall Thundering Herd | 30 - 25 | 4:54 - 1st Half | ESPN+ |
+| Northwestern State Demons @ Nicholls Colonels | 28 - 31 | 16:53 - 2nd Half | ESPN+ |
+| San Francisco Dons @ Oregon State Beavers | 44 - 41 | 15:24 - 2nd Half | ESPN2 |
 | Queens University Royals @ Central Arkansas Bears | 98 - 93 | Final/OT | ESPN2 |
 | Northern Kentucky Norse @ Green Bay Phoenix | 96 - 76 | Final | ESPN+ |
 | Western Carolina Catamounts @ East Tennessee State Buccaneers | 67 - 69 | Final | ESPNU |
