@@ -1,9 +1,9 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-09 18:27:01*
+*Updated: 2026-03-09 18:32:07*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Alcorn State Braves @ Alabama State Hornets | 11 - 19 | 8:52 - 1st Half | ESPN+ |
+| Alcorn State Braves @ Alabama State Hornets | 12 - 19 | 7:51 - 1st Half | ESPN+ |
 | New Orleans Privateers @ Texas A&M-Corpus Christi Islanders | 0 - 0 | Mon, March 9th at 6:00 PM EDT | ESPN+ |
 | Georgia Southern Eagles @ Troy Trojans | 0 - 0 | Mon, March 9th at 7:00 PM EDT | ESPN2 |
 | Furman Paladins @ East Tennessee State Buccaneers | 0 - 0 | Mon, March 9th at 7:00 PM EDT | ESPN |
