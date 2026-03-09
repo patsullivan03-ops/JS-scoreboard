@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-09 03:00:43",
+    "lastUpdated": "2026-03-09 03:05:48",
     "games": [
         {
             "id": "401851705",
@@ -8,12 +8,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/290.png",
             "awayAbbr": "GASO",
             "homeTeam": "Marshall Thundering Herd",
-            "homeScore": "72",
+            "homeScore": "74",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/276.png",
             "homeAbbr": "MRSH",
-            "status": "3:33 - 2nd Half",
+            "status": "2:20 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.329,
+            "winProb": 0.454,
             "state": "in"
         },
         {
