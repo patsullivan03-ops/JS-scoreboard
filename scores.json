@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-09 02:40:24",
+    "lastUpdated": "2026-03-09 02:45:29",
     "games": [
         {
             "id": "401851705",
             "awayTeam": "Georgia Southern Eagles",
-            "awayScore": "59",
+            "awayScore": "62",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/290.png",
             "awayAbbr": "GASO",
             "homeTeam": "Marshall Thundering Herd",
-            "homeScore": "58",
+            "homeScore": "63",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/276.png",
             "homeAbbr": "MRSH",
-            "status": "10:09 - 2nd Half",
+            "status": "8:51 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.569,
+            "winProb": 0.584,
             "state": "in"
         },
         {
