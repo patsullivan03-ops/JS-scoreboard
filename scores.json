@@ -1,20 +1,20 @@
 {
-    "lastUpdated": "2026-03-09 00:33:32",
+    "lastUpdated": "2026-03-09 00:38:37",
     "games": [
         {
             "id": "401851756",
             "awayTeam": "San Francisco Dons",
-            "awayScore": "0",
+            "awayScore": "3",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2539.png",
             "awayAbbr": "SF",
             "homeTeam": "Oregon State Beavers",
             "homeScore": "0",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/204.png",
             "homeAbbr": "ORST",
-            "status": "Sun, March 8th at 8:30 PM EDT",
+            "status": "16:09 - 1st Half",
             "tv": "ESPN2",
-            "winProb": 0.5,
-            "state": "pre"
+            "winProb": 0.224,
+            "state": "in"
         },
         {
             "id": "401851705",
@@ -26,7 +26,7 @@
             "homeScore": "0",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/276.png",
             "homeAbbr": "MRSH",
-            "status": "Sun, March 8th at 8:30 PM EDT",
+            "status": "Sun, March 8th at 9:00 PM EDT",
             "tv": "ESPN+",
             "winProb": 0.5,
             "state": "pre"
