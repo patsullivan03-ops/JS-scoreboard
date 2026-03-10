@@ -1,14 +1,14 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-10 02:34:34*
+*Updated: 2026-03-10 02:39:39*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Weber State Wildcats @ Eastern Washington Eagles | 20 - 15 | 11:37 - 1st Half | ESPN+ |
-| Oregon State Beavers @ #12 Gonzaga Bulldogs | 40 - 50 | 10:10 - 2nd Half | ESPN |
-| Mississippi Valley State Delta Devils @ Grambling Tigers | 52 - 77 | Final | ESPN+ |
+| Weber State Wildcats @ Eastern Washington Eagles | 27 - 25 | 7:18 - 1st Half | ESPN+ |
+| Oregon State Beavers @ #12 Gonzaga Bulldogs | 40 - 52 | 8:45 - 2nd Half | ESPN |
 | Alcorn State Braves @ Alabama State Hornets | 77 - 65 | Final | ESPN+ |
 | New Orleans Privateers @ Texas A&M-Corpus Christi Islanders | 61 - 74 | Final | ESPN+ |
 | Georgia Southern Eagles @ Troy Trojans | 61 - 77 | Final | ESPN2 |
 | Furman Paladins @ East Tennessee State Buccaneers | 76 - 61 | Final | ESPN |
 | Northern Kentucky Norse @ Wright State Raiders | 90 - 103 | Final | ESPNU |
 | Northern Colorado Bears @ Montana Grizzlies | 89 - 95 | Final | ESPN+ |
+| Mississippi Valley State Delta Devils @ Grambling Tigers | 52 - 77 | Final | ESPN+ |
