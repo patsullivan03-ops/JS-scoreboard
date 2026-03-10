@@ -1,34 +1,19 @@
 {
-    "lastUpdated": "2026-03-10 22:59:36",
+    "lastUpdated": "2026-03-10 23:04:40",
     "games": [
         {
             "id": "401851405",
             "awayTeam": "Missouri State Bears",
-            "awayScore": "21",
+            "awayScore": "23",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2623.png",
             "awayAbbr": "MOST",
             "homeTeam": "Florida International Panthers",
             "homeScore": "20",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2229.png",
             "homeAbbr": "FIU",
-            "status": "7:15 - 1st Half",
+            "status": "6:18 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.448,
-            "state": "in"
-        },
-        {
-            "id": "401851362",
-            "awayTeam": "Maryland Terrapins",
-            "awayScore": "64",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png",
-            "awayAbbr": "MD",
-            "homeTeam": "Oregon Ducks",
-            "homeScore": "54",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png",
-            "homeAbbr": "ORE",
-            "status": "2:10 - 2nd Half",
-            "tv": "Peacock",
-            "winProb": 0.018,
+            "winProb": 0.376,
             "state": "in"
         },
         {
@@ -38,13 +23,13 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/357.png",
             "awayAbbr": "AMCC",
             "homeTeam": "Stephen F. Austin Lumberjacks",
-            "homeScore": "0",
+            "homeScore": "2",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2617.png",
             "homeAbbr": "SFA",
-            "status": "Tue, March 10th at 7:00 PM EDT",
+            "status": "19:36 - 1st Half",
             "tv": "ESPNU",
-            "winProb": 0.5,
-            "state": "pre"
+            "winProb": 0.732,
+            "state": "in"
         },
         {
             "id": "401851285",
@@ -53,13 +38,28 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2306.png",
             "awayAbbr": "KSU",
             "homeTeam": "BYU Cougars",
-            "homeScore": "0",
+            "homeScore": "2",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
             "homeAbbr": "BYU",
-            "status": "Tue, March 10th at 7:00 PM EDT",
+            "status": "18:25 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.5,
-            "state": "pre"
+            "winProb": 0.858,
+            "state": "in"
+        },
+        {
+            "id": "401851362",
+            "awayTeam": "Maryland Terrapins",
+            "awayScore": "67",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png",
+            "awayAbbr": "MD",
+            "homeTeam": "Oregon Ducks",
+            "homeScore": "58",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png",
+            "homeAbbr": "ORE",
+            "status": "0:50 - 2nd Half",
+            "tv": "Peacock",
+            "winProb": 0.008,
+            "state": "in"
         },
         {
             "id": "401851363",
