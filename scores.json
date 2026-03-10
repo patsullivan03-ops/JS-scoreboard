@@ -1,6 +1,21 @@
 {
-    "lastUpdated": "2026-03-10 00:27:40",
+    "lastUpdated": "2026-03-10 00:32:44",
     "games": [
+        {
+            "id": "401851432",
+            "awayTeam": "Northern Kentucky Norse",
+            "awayScore": "58",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/94.png",
+            "awayAbbr": "NKU",
+            "homeTeam": "Wright State Raiders",
+            "homeScore": "64",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2750.png",
+            "homeAbbr": "WRST",
+            "status": "11:42 - 2nd Half",
+            "tv": "ESPNU",
+            "winProb": 0.775,
+            "state": "in"
+        },
         {
             "id": "401851332",
             "awayTeam": "Northern Colorado Bears",
@@ -13,37 +28,7 @@
             "homeAbbr": "MONT",
             "status": "Halftime",
             "tv": "ESPN+",
-            "winProb": 0.5,
-            "state": "in"
-        },
-        {
-            "id": "401851432",
-            "awayTeam": "Northern Kentucky Norse",
-            "awayScore": "58",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/94.png",
-            "awayAbbr": "NKU",
-            "homeTeam": "Wright State Raiders",
-            "homeScore": "62",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2750.png",
-            "homeAbbr": "WRST",
-            "status": "12:42 - 2nd Half",
-            "tv": "ESPNU",
-            "winProb": 0.709,
-            "state": "in"
-        },
-        {
-            "id": "401851593",
-            "awayTeam": "Furman Paladins",
-            "awayScore": "56",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/231.png",
-            "awayAbbr": "FUR",
-            "homeTeam": "East Tennessee State Buccaneers",
-            "homeScore": "46",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2193.png",
-            "homeAbbr": "ETSU",
-            "status": "11:48 - 2nd Half",
-            "tv": "ESPN",
-            "winProb": 0.103,
+            "winProb": 0.936,
             "state": "in"
         },
         {
@@ -53,12 +38,27 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/290.png",
             "awayAbbr": "GASO",
             "homeTeam": "Troy Trojans",
-            "homeScore": "49",
+            "homeScore": "51",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2653.png",
             "homeAbbr": "TROY",
-            "status": "12:33 - 2nd Half",
+            "status": "11:02 - 2nd Half",
             "tv": "ESPN2",
-            "winProb": 0.928,
+            "winProb": 0.964,
+            "state": "in"
+        },
+        {
+            "id": "401851593",
+            "awayTeam": "Furman Paladins",
+            "awayScore": "61",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/231.png",
+            "awayAbbr": "FUR",
+            "homeTeam": "East Tennessee State Buccaneers",
+            "homeScore": "46",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2193.png",
+            "homeAbbr": "ETSU",
+            "status": "10:24 - 2nd Half",
+            "tv": "ESPN",
+            "winProb": 0.031,
             "state": "in"
         },
         {
