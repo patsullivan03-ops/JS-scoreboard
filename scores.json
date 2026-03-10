@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-10 16:28:08",
+    "lastUpdated": "2026-03-10 16:33:14",
     "games": [
         {
             "id": "401851282",
@@ -11,10 +11,10 @@
             "homeScore": "0",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
             "homeAbbr": "ASU",
-            "status": "Tue, March 10th at 12:30 PM EDT",
+            "status": "19:31 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.5,
-            "state": "pre"
+            "winProb": 0.314,
+            "state": "in"
         },
         {
             "id": "401851362",
