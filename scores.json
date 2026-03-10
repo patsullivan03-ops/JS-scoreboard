@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-10 21:58:40",
+    "lastUpdated": "2026-03-10 22:03:45",
     "games": [
         {
             "id": "401851362",
@@ -13,7 +13,7 @@
             "homeAbbr": "ORE",
             "status": "Halftime",
             "tv": "Peacock",
-            "winProb": 0.5,
+            "winProb": 0.023,
             "state": "in"
         },
         {
