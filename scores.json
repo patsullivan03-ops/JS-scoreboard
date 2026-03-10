@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-10 16:33:14",
+    "lastUpdated": "2026-03-10 16:38:19",
     "games": [
         {
             "id": "401851282",
             "awayTeam": "Baylor Bears",
-            "awayScore": "0",
+            "awayScore": "3",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png",
             "awayAbbr": "BAY",
             "homeTeam": "Arizona State Sun Devils",
-            "homeScore": "0",
+            "homeScore": "6",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
             "homeAbbr": "ASU",
-            "status": "19:31 - 1st Half",
+            "status": "15:24 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.314,
+            "winProb": 0.379,
             "state": "in"
         },
         {
