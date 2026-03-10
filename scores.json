@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-10 23:24:59",
+    "lastUpdated": "2026-03-10 23:30:04",
     "games": [
         {
             "id": "401851405",
@@ -23,27 +23,27 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/357.png",
             "awayAbbr": "AMCC",
             "homeTeam": "Stephen F. Austin Lumberjacks",
-            "homeScore": "13",
+            "homeScore": "16",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2617.png",
             "homeAbbr": "SFA",
-            "status": "8:30 - 1st Half",
+            "status": "8:02 - 1st Half",
             "tv": "ESPNU",
-            "winProb": 0.502,
+            "winProb": 0.599,
             "state": "in"
         },
         {
             "id": "401851285",
             "awayTeam": "Kansas State Wildcats",
-            "awayScore": "22",
+            "awayScore": "26",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2306.png",
             "awayAbbr": "KSU",
             "homeTeam": "BYU Cougars",
-            "homeScore": "27",
+            "homeScore": "36",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
             "homeAbbr": "BYU",
-            "status": "10:16 - 1st Half",
+            "status": "7:55 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.896,
+            "winProb": 0.936,
             "state": "in"
         },
         {
