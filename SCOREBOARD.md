@@ -1,10 +1,10 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-10 22:29:09*
+*Updated: 2026-03-10 22:34:13*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Maryland Terrapins @ Oregon Ducks | 45 - 31 | 12:27 - 2nd Half | Peacock |
-| Missouri State Bears @ Florida International Panthers | 0 - 0 | Tue, March 10th at 6:30 PM EDT | ESPN+ |
+| Missouri State Bears @ Florida International Panthers | 2 - 0 | 19:28 - 1st Half | ESPN+ |
+| Maryland Terrapins @ Oregon Ducks | 51 - 31 | 11:32 - 2nd Half | Peacock |
 | Texas A&M-Corpus Christi Islanders @ Stephen F. Austin Lumberjacks | 0 - 0 | Tue, March 10th at 7:00 PM EDT | ESPNU |
 | Kansas State Wildcats @ BYU Cougars | 0 - 0 | Tue, March 10th at 7:00 PM EDT | ESPN+ |
 | Penn State Nittany Lions @ Northwestern Wildcats | 0 - 0 | Tue, March 10th at 7:30 PM EDT | Peacock |

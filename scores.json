@@ -1,35 +1,35 @@
 {
-    "lastUpdated": "2026-03-10 22:29:09",
+    "lastUpdated": "2026-03-10 22:34:13",
     "games": [
-        {
-            "id": "401851362",
-            "awayTeam": "Maryland Terrapins",
-            "awayScore": "45",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png",
-            "awayAbbr": "MD",
-            "homeTeam": "Oregon Ducks",
-            "homeScore": "31",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png",
-            "homeAbbr": "ORE",
-            "status": "12:27 - 2nd Half",
-            "tv": "Peacock",
-            "winProb": 0.055,
-            "state": "in"
-        },
         {
             "id": "401851405",
             "awayTeam": "Missouri State Bears",
-            "awayScore": "0",
+            "awayScore": "2",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2623.png",
             "awayAbbr": "MOST",
             "homeTeam": "Florida International Panthers",
             "homeScore": "0",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2229.png",
             "homeAbbr": "FIU",
-            "status": "Tue, March 10th at 6:30 PM EDT",
+            "status": "19:28 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.5,
-            "state": "pre"
+            "winProb": 0.459,
+            "state": "in"
+        },
+        {
+            "id": "401851362",
+            "awayTeam": "Maryland Terrapins",
+            "awayScore": "51",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png",
+            "awayAbbr": "MD",
+            "homeTeam": "Oregon Ducks",
+            "homeScore": "31",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png",
+            "homeAbbr": "ORE",
+            "status": "11:32 - 2nd Half",
+            "tv": "Peacock",
+            "winProb": 0.017,
+            "state": "in"
         },
         {
             "id": "401851611",
