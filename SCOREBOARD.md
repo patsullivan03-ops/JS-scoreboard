@@ -1,9 +1,9 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-10 04:11:03*
+*Updated: 2026-03-10 04:16:07*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Weber State Wildcats @ Eastern Washington Eagles | 74 - 77 | 1:17 - 2nd Half | ESPN+ |
+| Weber State Wildcats @ Eastern Washington Eagles | 78 - 82 | 0:23 - 2nd Half | ESPN+ |
 | Oregon State Beavers @ #12 Gonzaga Bulldogs | 56 - 65 | Final | ESPN |
 | Alcorn State Braves @ Alabama State Hornets | 77 - 65 | Final | ESPN+ |
 | New Orleans Privateers @ Texas A&M-Corpus Christi Islanders | 61 - 74 | Final | ESPN+ |
