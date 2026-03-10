@@ -1,34 +1,34 @@
 {
-    "lastUpdated": "2026-03-10 01:38:41",
+    "lastUpdated": "2026-03-10 01:43:46",
     "games": [
-        {
-            "id": "401851715",
-            "awayTeam": "Mississippi Valley State Delta Devils",
-            "awayScore": "19",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2400.png",
-            "awayAbbr": "MVSU",
-            "homeTeam": "Grambling Tigers",
-            "homeScore": "34",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2755.png",
-            "homeAbbr": "GRAM",
-            "status": "Halftime",
-            "tv": "ESPN+",
-            "winProb": 0.5,
-            "state": "in"
-        },
         {
             "id": "401851759",
             "awayTeam": "Oregon State Beavers",
-            "awayScore": "15",
+            "awayScore": "16",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/204.png",
             "awayAbbr": "ORST",
             "homeTeam": "#12 Gonzaga Bulldogs",
             "homeScore": "27",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png",
             "homeAbbr": "GONZ",
-            "status": "5:49 - 1st Half",
+            "status": "4:51 - 1st Half",
             "tv": "ESPN",
-            "winProb": 0.992,
+            "winProb": 0.989,
+            "state": "in"
+        },
+        {
+            "id": "401851715",
+            "awayTeam": "Mississippi Valley State Delta Devils",
+            "awayScore": "21",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2400.png",
+            "awayAbbr": "MVSU",
+            "homeTeam": "Grambling Tigers",
+            "homeScore": "39",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2755.png",
+            "homeAbbr": "GRAM",
+            "status": "17:42 - 2nd Half",
+            "tv": "ESPN+",
+            "winProb": 0.996,
             "state": "in"
         },
         {
