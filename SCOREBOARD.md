@@ -1,9 +1,9 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-10 17:13:56*
+*Updated: 2026-03-10 17:19:01*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Baylor Bears @ Arizona State Sun Devils | 28 - 37 | 2:21 - 1st Half | ESPN+ |
+| Baylor Bears @ Arizona State Sun Devils | 35 - 44 | Halftime | ESPN+ |
 | Maryland Terrapins @ Oregon Ducks | 0 - 0 | Tue, March 10th at 5:00 PM EDT | Peacock |
 | Missouri State Bears @ Florida International Panthers | 0 - 0 | Tue, March 10th at 6:30 PM EDT | ESPN+ |
 | Texas A&M-Corpus Christi Islanders @ Stephen F. Austin Lumberjacks | 0 - 0 | Tue, March 10th at 7:00 PM EDT | ESPNU |
