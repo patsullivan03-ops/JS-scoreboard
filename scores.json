@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-10 01:59:01",
+    "lastUpdated": "2026-03-10 02:04:05",
     "games": [
         {
             "id": "401851759",
@@ -11,22 +11,22 @@
             "homeScore": "38",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png",
             "homeAbbr": "GONZ",
-            "status": "0:03 - 1st Half",
+            "status": "8:01 - 1st Half",
             "tv": "ESPN",
-            "winProb": 0.994,
+            "winProb": 0.5,
             "state": "in"
         },
         {
             "id": "401851715",
             "awayTeam": "Mississippi Valley State Delta Devils",
-            "awayScore": "28",
+            "awayScore": "32",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2400.png",
             "awayAbbr": "MVSU",
             "homeTeam": "Grambling Tigers",
-            "homeScore": "50",
+            "homeScore": "52",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2755.png",
             "homeAbbr": "GRAM",
-            "status": "11:57 - 2nd Half",
+            "status": "10:34 - 2nd Half",
             "tv": "ESPN+",
             "winProb": 0.999,
             "state": "in"
