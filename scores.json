@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-10 03:40:36",
+    "lastUpdated": "2026-03-10 03:45:41",
     "games": [
         {
             "id": "401851333",
             "awayTeam": "Weber State Wildcats",
-            "awayScore": "52",
+            "awayScore": "56",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2692.png",
             "awayAbbr": "WEB",
             "homeTeam": "Eastern Washington Eagles",
-            "homeScore": "60",
+            "homeScore": "66",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/331.png",
             "homeAbbr": "EWU",
-            "status": "11:29 - 2nd Half",
+            "status": "9:19 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.8,
+            "winProb": 0.887,
             "state": "in"
         },
         {
