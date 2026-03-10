@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-10 21:12:55",
+    "lastUpdated": "2026-03-10 21:18:00",
     "games": [
         {
             "id": "401851362",
             "awayTeam": "Maryland Terrapins",
-            "awayScore": "9",
+            "awayScore": "12",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png",
             "awayAbbr": "MD",
             "homeTeam": "Oregon Ducks",
-            "homeScore": "2",
+            "homeScore": "3",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png",
             "homeAbbr": "ORE",
-            "status": "14:50 - 1st Half",
+            "status": "11:54 - 1st Half",
             "tv": "Peacock",
-            "winProb": 0.373,
+            "winProb": 0.306,
             "state": "in"
         },
         {
