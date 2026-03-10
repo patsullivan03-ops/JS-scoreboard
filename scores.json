@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-10 00:22:35",
+    "lastUpdated": "2026-03-10 00:27:40",
     "games": [
         {
             "id": "401851332",
@@ -19,16 +19,31 @@
         {
             "id": "401851432",
             "awayTeam": "Northern Kentucky Norse",
-            "awayScore": "55",
+            "awayScore": "58",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/94.png",
             "awayAbbr": "NKU",
             "homeTeam": "Wright State Raiders",
-            "homeScore": "53",
+            "homeScore": "62",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2750.png",
             "homeAbbr": "WRST",
-            "status": "15:21 - 2nd Half",
+            "status": "12:42 - 2nd Half",
             "tv": "ESPNU",
-            "winProb": 0.464,
+            "winProb": 0.709,
+            "state": "in"
+        },
+        {
+            "id": "401851593",
+            "awayTeam": "Furman Paladins",
+            "awayScore": "56",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/231.png",
+            "awayAbbr": "FUR",
+            "homeTeam": "East Tennessee State Buccaneers",
+            "homeScore": "46",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2193.png",
+            "homeAbbr": "ETSU",
+            "status": "11:48 - 2nd Half",
+            "tv": "ESPN",
+            "winProb": 0.103,
             "state": "in"
         },
         {
@@ -38,27 +53,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/290.png",
             "awayAbbr": "GASO",
             "homeTeam": "Troy Trojans",
-            "homeScore": "44",
+            "homeScore": "49",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2653.png",
             "homeAbbr": "TROY",
-            "status": "13:25 - 2nd Half",
+            "status": "12:33 - 2nd Half",
             "tv": "ESPN2",
-            "winProb": 0.852,
-            "state": "in"
-        },
-        {
-            "id": "401851593",
-            "awayTeam": "Furman Paladins",
-            "awayScore": "53",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/231.png",
-            "awayAbbr": "FUR",
-            "homeTeam": "East Tennessee State Buccaneers",
-            "homeScore": "44",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2193.png",
-            "homeAbbr": "ETSU",
-            "status": "12:59 - 2nd Half",
-            "tv": "ESPN",
-            "winProb": 0.136,
+            "winProb": 0.928,
             "state": "in"
         },
         {
@@ -107,21 +107,6 @@
             "state": "pre"
         },
         {
-            "id": "401851607",
-            "awayTeam": "New Orleans Privateers",
-            "awayScore": "61",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2443.png",
-            "awayAbbr": "UNO",
-            "homeTeam": "Texas A&M-Corpus Christi Islanders",
-            "homeScore": "74",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/357.png",
-            "homeAbbr": "AMCC",
-            "status": "Final",
-            "tv": "ESPN+",
-            "winProb": 0.5,
-            "state": "post"
-        },
-        {
             "id": "401851714",
             "awayTeam": "Alcorn State Braves",
             "awayScore": "77",
@@ -131,6 +116,21 @@
             "homeScore": "65",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2011.png",
             "homeAbbr": "ALST",
+            "status": "Final",
+            "tv": "ESPN+",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "id": "401851607",
+            "awayTeam": "New Orleans Privateers",
+            "awayScore": "61",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2443.png",
+            "awayAbbr": "UNO",
+            "homeTeam": "Texas A&M-Corpus Christi Islanders",
+            "homeScore": "74",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/357.png",
+            "homeAbbr": "AMCC",
             "status": "Final",
             "tv": "ESPN+",
             "winProb": 0.5,
