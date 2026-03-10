@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-10 22:03:45",
+    "lastUpdated": "2026-03-10 22:08:49",
     "games": [
         {
             "id": "401851362",
@@ -8,12 +8,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png",
             "awayAbbr": "MD",
             "homeTeam": "Oregon Ducks",
-            "homeScore": "12",
+            "homeScore": "17",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png",
             "homeAbbr": "ORE",
-            "status": "Halftime",
+            "status": "19:20 - 2nd Half",
             "tv": "Peacock",
-            "winProb": 0.023,
+            "winProb": 0.06,
             "state": "in"
         },
         {
