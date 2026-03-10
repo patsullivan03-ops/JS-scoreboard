@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-10 02:44:43",
+    "lastUpdated": "2026-03-10 02:49:48",
     "games": [
         {
             "id": "401851333",
@@ -8,27 +8,27 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2692.png",
             "awayAbbr": "WEB",
             "homeTeam": "Eastern Washington Eagles",
-            "homeScore": "27",
+            "homeScore": "34",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/331.png",
             "homeAbbr": "EWU",
-            "status": "6:18 - 1st Half",
+            "status": "3:48 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.383,
+            "winProb": 0.598,
             "state": "in"
         },
         {
             "id": "401851759",
             "awayTeam": "Oregon State Beavers",
-            "awayScore": "40",
+            "awayScore": "44",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/204.png",
             "awayAbbr": "ORST",
             "homeTeam": "#12 Gonzaga Bulldogs",
-            "homeScore": "56",
+            "homeScore": "61",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png",
             "homeAbbr": "GONZ",
-            "status": "6:53 - 2nd Half",
+            "status": "5:04 - 2nd Half",
             "tv": "ESPN",
-            "winProb": 0.999,
+            "winProb": 0.998,
             "state": "in"
         },
         {
