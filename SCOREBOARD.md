@@ -1,13 +1,21 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-11 15:10:09*
+*Updated: 2026-03-11 15:15:15*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Baylor Bears @ Arizona State Sun Devils | 79 - 83 | Final | ESPN+ |
-| Maryland Terrapins @ Oregon Ducks | 70 - 60 | Final | Peacock |
-| Missouri State Bears @ Florida International Panthers | 75 - 72 | Final | ESPN+ |
-| Texas A&M-Corpus Christi Islanders @ Stephen F. Austin Lumberjacks | 58 - 60 | Final | ESPNU |
-| Kansas State Wildcats @ BYU Cougars | 91 - 105 | Final | ESPN+ |
-| Penn State Nittany Lions @ Northwestern Wildcats | 66 - 76 | Final | Peacock |
-| Oklahoma State Cowboys @ Colorado Buffaloes | 92 - 83 | Final | ESPN+ |
-| Idaho Vandals @ Eastern Washington Eagles | 81 - 68 | Final | ESPN2 |
+| Arizona State Sun Devils @ #7 Iowa State Cyclones | 0 - 0 | Wed, March 11th at 12:30 PM EDT | ESPN |
+| LSU Tigers @ Kentucky Wildcats | 0 - 0 | Wed, March 11th at 12:30 PM EDT | SEC Network |
+| SMU Mustangs @ #24 Louisville Cardinals | 0 - 0 | Wed, March 11th at 2:30 PM EDT | ESPN |
+| USC Trojans @ Washington Huskies | 0 - 0 | Wed, March 11th at 2:30 PM EDT | Peacock |
+| Mississippi State Bulldogs @ Auburn Tigers | 0 - 0 | Wed, March 11th at 3:00 PM EDT | SEC Network |
+| Providence Friars @ Butler Bulldogs | 0 - 0 | Wed, March 11th at 4:00 PM EDT | Peacock |
+| Missouri State Bears @ Liberty Flames | 0 - 0 | Wed, March 11th at 6:30 PM EDT | ESPN+ |
+| Northwestern Wildcats @ Indiana Hoosiers | 0 - 0 | Wed, March 11th at 6:30 PM EDT | BTN |
+| Ole Miss Rebels @ Texas Longhorns | 0 - 0 | Wed, March 11th at 7:00 PM EDT | SEC Network |
+| BYU Cougars @ West Virginia Mountaineers | 0 - 0 | Wed, March 11th at 7:00 PM EDT | ESPN2 |
+| Fresno State Bulldogs @ Colorado State Rams | 0 - 0 | Wed, March 11th at 9:00 PM EDT | MWN |
+| New Mexico State Aggies @ Sam Houston Bearkats | 0 - 0 | Wed, March 11th at 9:00 PM EDT | ESPN+ |
+| Rutgers Scarlet Knights @ Minnesota Golden Gophers | 0 - 0 | Wed, March 11th at 9:00 PM EDT | BTN |
+| Georgetown Hoyas @ DePaul Blue Demons | 0 - 0 | Wed, March 11th at 9:00 PM EDT | Peacock |
+| South Carolina Gamecocks @ Oklahoma Sooners | 0 - 0 | Wed, March 11th at 9:30 PM EDT | SEC Network |
+| Oklahoma State Cowboys @ TCU Horned Frogs | 0 - 0 | Wed, March 11th at 9:30 PM EDT | ESPNU |
