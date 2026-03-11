@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-11 03:08:34",
+    "lastUpdated": "2026-03-11 03:13:39",
     "games": [
         {
             "id": "401851287",
@@ -8,12 +8,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
             "awayAbbr": "OKST",
             "homeTeam": "Colorado Buffaloes",
-            "homeScore": "50",
+            "homeScore": "53",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
             "homeAbbr": "COLO",
-            "status": "11:19 - 2nd Half",
+            "status": "10:25 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.128,
+            "winProb": 0.182,
             "state": "in"
         },
         {
