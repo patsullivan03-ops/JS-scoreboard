@@ -1,11 +1,11 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-11 18:53:55*
+*Updated: 2026-03-11 18:59:00*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| USC Trojans @ Washington Huskies | 14 - 13 | 10:37 - 1st Half | Peacock |
-| SMU Mustangs @ #24 Louisville Cardinals | 7 - 7 | 14:36 - 1st Half | ESPN |
-| Mississippi State Bulldogs @ Auburn Tigers | 0 - 0 | Wed, March 11th at 3:00 PM EDT | SEC Network |
+| USC Trojans @ Washington Huskies | 18 - 17 | 7:38 - 1st Half | Peacock |
+| SMU Mustangs @ #24 Louisville Cardinals | 12 - 9 | 12:48 - 1st Half | ESPN |
+| Mississippi State Bulldogs @ Auburn Tigers | 0 - 0 | Wed, March 11th at 3:15 PM EDT | SEC Network |
 | Providence Friars @ Butler Bulldogs | 0 - 0 | Wed, March 11th at 4:00 PM EDT | Peacock |
 | Missouri State Bears @ Liberty Flames | 0 - 0 | Wed, March 11th at 6:30 PM EDT | ESPN+ |
 | Northwestern Wildcats @ Indiana Hoosiers | 0 - 0 | Wed, March 11th at 6:30 PM EDT | BTN |
@@ -17,5 +17,5 @@
 | Georgetown Hoyas @ DePaul Blue Demons | 0 - 0 | Wed, March 11th at 9:00 PM EDT | Peacock |
 | South Carolina Gamecocks @ Oklahoma Sooners | 0 - 0 | Wed, March 11th at 9:30 PM EDT | SEC Network |
 | Oklahoma State Cowboys @ TCU Horned Frogs | 0 - 0 | Wed, March 11th at 9:30 PM EDT | ESPNU |
-| LSU Tigers @ Kentucky Wildcats | 82 - 87 | Final | SEC Network |
 | Arizona State Sun Devils @ #7 Iowa State Cyclones | 42 - 91 | Final | ESPN |
+| LSU Tigers @ Kentucky Wildcats | 82 - 87 | Final | SEC Network |
