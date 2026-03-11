@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-11 04:45:07",
+    "lastUpdated": "2026-03-11 04:50:12",
     "games": [
         {
             "id": "401851335",
@@ -11,9 +11,9 @@
             "homeScore": "28",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/331.png",
             "homeAbbr": "EWU",
-            "status": "0:35 - 1st Half",
+            "status": "Halftime",
             "tv": "ESPN2",
-            "winProb": 0.176,
+            "winProb": 0.5,
             "state": "in"
         },
         {
