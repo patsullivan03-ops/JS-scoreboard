@@ -1,21 +1,6 @@
 {
-    "lastUpdated": "2026-03-11 03:49:12",
+    "lastUpdated": "2026-03-11 03:54:17",
     "games": [
-        {
-            "id": "401851287",
-            "awayTeam": "Oklahoma State Cowboys",
-            "awayScore": "90",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
-            "awayAbbr": "OKST",
-            "homeTeam": "Colorado Buffaloes",
-            "homeScore": "83",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
-            "homeAbbr": "COLO",
-            "status": "0:37 - 2nd Half",
-            "tv": "ESPN+",
-            "winProb": 0.016,
-            "state": "in"
-        },
         {
             "id": "401851335",
             "awayTeam": "Idaho Vandals",
@@ -30,6 +15,21 @@
             "tv": "ESPN2",
             "winProb": 0.5,
             "state": "pre"
+        },
+        {
+            "id": "401851287",
+            "awayTeam": "Oklahoma State Cowboys",
+            "awayScore": "92",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
+            "awayAbbr": "OKST",
+            "homeTeam": "Colorado Buffaloes",
+            "homeScore": "83",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
+            "homeAbbr": "COLO",
+            "status": "Final",
+            "tv": "ESPN+",
+            "winProb": 0.5,
+            "state": "post"
         },
         {
             "id": "401851282",
