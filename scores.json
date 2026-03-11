@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-11 03:33:59",
+    "lastUpdated": "2026-03-11 03:39:04",
     "games": [
         {
             "id": "401851287",
@@ -11,9 +11,9 @@
             "homeScore": "71",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
             "homeAbbr": "COLO",
-            "status": "3:21 - 2nd Half",
+            "status": "2:23 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.02,
+            "winProb": 0.01,
             "state": "in"
         },
         {

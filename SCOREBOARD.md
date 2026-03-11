@@ -1,9 +1,9 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-11 03:33:59*
+*Updated: 2026-03-11 03:39:04*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Oklahoma State Cowboys @ Colorado Buffaloes | 83 - 71 | 3:21 - 2nd Half | ESPN+ |
+| Oklahoma State Cowboys @ Colorado Buffaloes | 83 - 71 | 2:23 - 2nd Half | ESPN+ |
 | Idaho Vandals @ Eastern Washington Eagles | 0 - 0 | Tue, March 10th at 11:50 PM EDT | ESPN2 |
 | Baylor Bears @ Arizona State Sun Devils | 79 - 83 | Final | ESPN+ |
 | Maryland Terrapins @ Oregon Ducks | 70 - 60 | Final | Peacock |
