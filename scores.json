@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-11 23:54:52",
+    "lastUpdated": "2026-03-11 23:59:57",
     "games": [
         {
             "id": "401851559",
@@ -32,33 +32,33 @@
             "state": "in"
         },
         {
-            "id": "401851369",
-            "awayTeam": "Northwestern Wildcats",
-            "awayScore": "49",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/77.png",
-            "awayAbbr": "NU",
-            "homeTeam": "Indiana Hoosiers",
-            "homeScore": "44",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
-            "homeAbbr": "IU",
-            "status": "13:17 - 2nd Half",
-            "tv": "BTN",
-            "winProb": 0.384,
-            "state": "in"
-        },
-        {
             "id": "401851407",
             "awayTeam": "Missouri State Bears",
             "awayScore": "58",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2623.png",
             "awayAbbr": "MOST",
             "homeTeam": "Liberty Flames",
-            "homeScore": "52",
+            "homeScore": "57",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2335.png",
             "homeAbbr": "LIB",
-            "status": "9:28 - 2nd Half",
+            "status": "7:46 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.265,
+            "winProb": 0.591,
+            "state": "in"
+        },
+        {
+            "id": "401851369",
+            "awayTeam": "Northwestern Wildcats",
+            "awayScore": "53",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/77.png",
+            "awayAbbr": "NU",
+            "homeTeam": "Indiana Hoosiers",
+            "homeScore": "44",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
+            "homeAbbr": "IU",
+            "status": "11:44 - 2nd Half",
+            "tv": "BTN",
+            "winProb": 0.177,
             "state": "in"
         },
         {
