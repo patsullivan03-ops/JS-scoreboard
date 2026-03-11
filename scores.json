@@ -1,34 +1,34 @@
 {
-    "lastUpdated": "2026-03-11 20:52:13",
+    "lastUpdated": "2026-03-11 20:57:17",
     "games": [
         {
             "id": "401851308",
             "awayTeam": "Providence Friars",
-            "awayScore": "38",
+            "awayScore": "40",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2507.png",
             "awayAbbr": "PROV",
             "homeTeam": "Butler Bulldogs",
-            "homeScore": "39",
+            "homeScore": "42",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2086.png",
             "homeAbbr": "BUT",
-            "status": "0:51 - 1st Half",
+            "status": "Halftime",
             "tv": "Peacock",
-            "winProb": 0.548,
+            "winProb": 0.5,
             "state": "in"
         },
         {
             "id": "401851558",
             "awayTeam": "Mississippi State Bulldogs",
-            "awayScore": "47",
+            "awayScore": "53",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/344.png",
             "awayAbbr": "MSST",
             "homeTeam": "Auburn Tigers",
-            "homeScore": "56",
+            "homeScore": "59",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
             "homeAbbr": "AUB",
-            "status": "10:18 - 2nd Half",
+            "status": "7:57 - 2nd Half",
             "tv": "SEC Network",
-            "winProb": 0.895,
+            "winProb": 0.887,
             "state": "in"
         },
         {
@@ -41,9 +41,9 @@
             "homeScore": "62",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
             "homeAbbr": "LOU",
-            "status": "0:29 - 2nd Half",
+            "status": "0:07 - 2nd Half",
             "tv": "ESPN",
-            "winProb": 0.906,
+            "winProb": 0.949,
             "state": "in"
         },
         {
