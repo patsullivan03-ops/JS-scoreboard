@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-11 05:56:14",
+    "lastUpdated": "2026-03-11 06:01:18",
     "games": [
         {
             "id": "401851335",
@@ -8,12 +8,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/70.png",
             "awayAbbr": "IDHO",
             "homeTeam": "Eastern Washington Eagles",
-            "homeScore": "64",
+            "homeScore": "68",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/331.png",
             "homeAbbr": "EWU",
-            "status": "1:44 - 2nd Half",
+            "status": "0:40 - 2nd Half",
             "tv": "ESPN2",
-            "winProb": 0.003,
+            "winProb": 0.034,
             "state": "in"
         },
         {
