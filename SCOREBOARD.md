@@ -1,9 +1,9 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-11 05:30:51*
+*Updated: 2026-03-11 05:35:56*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Idaho Vandals @ Eastern Washington Eagles | 55 - 48 | 8:56 - 2nd Half | ESPN2 |
+| Idaho Vandals @ Eastern Washington Eagles | 58 - 48 | 8:20 - 2nd Half | ESPN2 |
 | Baylor Bears @ Arizona State Sun Devils | 79 - 83 | Final | ESPN+ |
 | Maryland Terrapins @ Oregon Ducks | 70 - 60 | Final | Peacock |
 | Missouri State Bears @ Florida International Panthers | 75 - 72 | Final | ESPN+ |
