@@ -1,21 +1,6 @@
 {
-    "lastUpdated": "2026-03-11 19:19:19",
+    "lastUpdated": "2026-03-11 19:24:24",
     "games": [
-        {
-            "id": "401851174",
-            "awayTeam": "SMU Mustangs",
-            "awayScore": "16",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2567.png",
-            "awayAbbr": "SMU",
-            "homeTeam": "#24 Louisville Cardinals",
-            "homeScore": "15",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
-            "homeAbbr": "LOU",
-            "status": "6:55 - 1st Half",
-            "tv": "ESPN",
-            "winProb": 0.687,
-            "state": "in"
-        },
         {
             "id": "401851367",
             "awayTeam": "USC Trojans",
@@ -26,24 +11,39 @@
             "homeScore": "33",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
             "homeAbbr": "WASH",
-            "status": "0:41 - 1st Half",
+            "status": "Halftime",
             "tv": "Peacock",
-            "winProb": 0.308,
+            "winProb": 0.5,
             "state": "in"
         },
         {
             "id": "401851558",
             "awayTeam": "Mississippi State Bulldogs",
-            "awayScore": "3",
+            "awayScore": "9",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/344.png",
             "awayAbbr": "MSST",
             "homeTeam": "Auburn Tigers",
-            "homeScore": "7",
+            "homeScore": "9",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
             "homeAbbr": "AUB",
-            "status": "18:10 - 1st Half",
+            "status": "15:56 - 1st Half",
             "tv": "SEC Network",
-            "winProb": 0.844,
+            "winProb": 0.74,
+            "state": "in"
+        },
+        {
+            "id": "401851174",
+            "awayTeam": "SMU Mustangs",
+            "awayScore": "19",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2567.png",
+            "awayAbbr": "SMU",
+            "homeTeam": "#24 Louisville Cardinals",
+            "homeScore": "22",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
+            "homeAbbr": "LOU",
+            "status": "5:12 - 1st Half",
+            "tv": "ESPN",
+            "winProb": 0.807,
             "state": "in"
         },
         {
