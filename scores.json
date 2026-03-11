@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-11 17:32:37",
+    "lastUpdated": "2026-03-11 17:37:41",
     "games": [
         {
             "id": "401851289",
@@ -26,9 +26,9 @@
             "homeScore": "46",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
             "homeAbbr": "UK",
-            "status": "Halftime",
+            "status": "19:36 - 2nd Half",
             "tv": "SEC Network",
-            "winProb": 0.5,
+            "winProb": 0.761,
             "state": "in"
         },
         {
