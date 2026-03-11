@@ -1,12 +1,12 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-11 20:01:28*
+*Updated: 2026-03-11 20:06:32*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Mississippi State Bulldogs @ Auburn Tigers | 28 - 23 | 3:17 - 1st Half | SEC Network |
-| SMU Mustangs @ #24 Louisville Cardinals | 33 - 33 | 17:07 - 2nd Half | ESPN |
-| USC Trojans @ Washington Huskies | 58 - 52 | 11:59 - 2nd Half | Peacock |
-| Providence Friars @ Butler Bulldogs | 0 - 0 | Wed, March 11th at 4:00 PM EDT | Peacock |
+| USC Trojans @ Washington Huskies | 58 - 58 | 10:02 - 2nd Half | Peacock |
+| Mississippi State Bulldogs @ Auburn Tigers | 33 - 27 | 0:48 - 1st Half | SEC Network |
+| Providence Friars @ Butler Bulldogs | 2 - 0 | 19:21 - 1st Half | Peacock |
+| SMU Mustangs @ #24 Louisville Cardinals | 35 - 35 | 15:55 - 2nd Half | ESPN |
 | Missouri State Bears @ Liberty Flames | 0 - 0 | Wed, March 11th at 6:30 PM EDT | ESPN+ |
 | Northwestern Wildcats @ Indiana Hoosiers | 0 - 0 | Wed, March 11th at 6:30 PM EDT | BTN |
 | Ole Miss Rebels @ Texas Longhorns | 0 - 0 | Wed, March 11th at 7:00 PM EDT | SEC Network |
