@@ -1,34 +1,34 @@
 {
-    "lastUpdated": "2026-03-11 19:09:10",
+    "lastUpdated": "2026-03-11 19:14:15",
     "games": [
         {
             "id": "401851367",
             "awayTeam": "USC Trojans",
-            "awayScore": "28",
+            "awayScore": "35",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
             "awayAbbr": "USC",
             "homeTeam": "Washington Huskies",
-            "homeScore": "25",
+            "homeScore": "28",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
             "homeAbbr": "WASH",
-            "status": "4:27 - 1st Half",
+            "status": "2:50 - 1st Half",
             "tv": "Peacock",
-            "winProb": 0.441,
+            "winProb": 0.322,
             "state": "in"
         },
         {
             "id": "401851174",
             "awayTeam": "SMU Mustangs",
-            "awayScore": "14",
+            "awayScore": "16",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2567.png",
             "awayAbbr": "SMU",
             "homeTeam": "#24 Louisville Cardinals",
-            "homeScore": "13",
+            "homeScore": "15",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
             "homeAbbr": "LOU",
-            "status": "9:55 - 1st Half",
+            "status": "7:55 - 1st Half",
             "tv": "ESPN",
-            "winProb": 0.694,
+            "winProb": 0.691,
             "state": "in"
         },
         {
