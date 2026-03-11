@@ -1,9 +1,9 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-11 01:11:41*
+*Updated: 2026-03-11 01:16:46*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Penn State Nittany Lions @ Northwestern Wildcats | 51 - 58 | 9:09 - 2nd Half | Peacock |
+| Penn State Nittany Lions @ Northwestern Wildcats | 55 - 60 | 7:53 - 2nd Half | Peacock |
 | Oklahoma State Cowboys @ Colorado Buffaloes | 0 - 0 | Tue, March 10th at 9:30 PM EDT | ESPN+ |
 | Idaho Vandals @ Eastern Washington Eagles | 0 - 0 | Tue, March 10th at 11:30 PM EDT | ESPN2 |
 | Baylor Bears @ Arizona State Sun Devils | 79 - 83 | Final | ESPN+ |
