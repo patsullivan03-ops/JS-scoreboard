@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-11 21:02:21",
+    "lastUpdated": "2026-03-11 21:07:26",
     "games": [
         {
             "id": "401851308",
@@ -19,16 +19,16 @@
         {
             "id": "401851558",
             "awayTeam": "Mississippi State Bulldogs",
-            "awayScore": "55",
+            "awayScore": "57",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/344.png",
             "awayAbbr": "MSST",
             "homeTeam": "Auburn Tigers",
-            "homeScore": "60",
+            "homeScore": "65",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
             "homeAbbr": "AUB",
-            "status": "6:44 - 2nd Half",
+            "status": "4:19 - 2nd Half",
             "tv": "SEC Network",
-            "winProb": 0.871,
+            "winProb": 0.932,
             "state": "in"
         },
         {
