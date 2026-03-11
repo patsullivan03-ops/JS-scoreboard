@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-11 23:14:19",
+    "lastUpdated": "2026-03-11 23:19:23",
     "games": [
         {
             "id": "401851407",
@@ -17,48 +17,48 @@
             "state": "in"
         },
         {
-            "id": "401851559",
-            "awayTeam": "Ole Miss Rebels",
-            "awayScore": "5",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/145.png",
-            "awayAbbr": "MISS",
-            "homeTeam": "Texas Longhorns",
-            "homeScore": "2",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
-            "homeAbbr": "TEX",
-            "status": "15:04 - 1st Half",
-            "tv": "SEC Network",
-            "winProb": 0.566,
-            "state": "in"
-        },
-        {
-            "id": "401851293",
-            "awayTeam": "BYU Cougars",
-            "awayScore": "9",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
-            "awayAbbr": "BYU",
-            "homeTeam": "West Virginia Mountaineers",
-            "homeScore": "10",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/277.png",
-            "homeAbbr": "WVU",
-            "status": "13:05 - 1st Half",
-            "tv": "ESPN2",
-            "winProb": 0.367,
-            "state": "in"
-        },
-        {
             "id": "401851369",
             "awayTeam": "Northwestern Wildcats",
-            "awayScore": "33",
+            "awayScore": "36",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/77.png",
             "awayAbbr": "NU",
             "homeTeam": "Indiana Hoosiers",
             "homeScore": "37",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
             "homeAbbr": "IU",
-            "status": "1:32 - 1st Half",
+            "status": "Halftime",
             "tv": "BTN",
-            "winProb": 0.771,
+            "winProb": 0.5,
+            "state": "in"
+        },
+        {
+            "id": "401851559",
+            "awayTeam": "Ole Miss Rebels",
+            "awayScore": "14",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/145.png",
+            "awayAbbr": "MISS",
+            "homeTeam": "Texas Longhorns",
+            "homeScore": "6",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+            "homeAbbr": "TEX",
+            "status": "12:01 - 1st Half",
+            "tv": "SEC Network",
+            "winProb": 0.39,
+            "state": "in"
+        },
+        {
+            "id": "401851293",
+            "awayTeam": "BYU Cougars",
+            "awayScore": "11",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
+            "awayAbbr": "BYU",
+            "homeTeam": "West Virginia Mountaineers",
+            "homeScore": "10",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/277.png",
+            "homeAbbr": "WVU",
+            "status": "11:28 - 1st Half",
+            "tv": "ESPN2",
+            "winProb": 0.292,
             "state": "in"
         },
         {
