@@ -1,12 +1,12 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-11 23:39:40*
+*Updated: 2026-03-11 23:44:44*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Northwestern Wildcats @ Indiana Hoosiers | 45 - 41 | 16:41 - 2nd Half | BTN |
-| Ole Miss Rebels @ Texas Longhorns | 29 - 21 | 5:21 - 1st Half | SEC Network |
-| Missouri State Bears @ Liberty Flames | 46 - 50 | 13:15 - 2nd Half | ESPN+ |
-| BYU Cougars @ West Virginia Mountaineers | 25 - 17 | 3:12 - 1st Half | ESPN2 |
+| Northwestern Wildcats @ Indiana Hoosiers | 45 - 43 | 14:59 - 2nd Half | BTN |
+| Ole Miss Rebels @ Texas Longhorns | 31 - 24 | 3:45 - 1st Half | SEC Network |
+| Missouri State Bears @ Liberty Flames | 55 - 50 | 10:28 - 2nd Half | ESPN+ |
+| BYU Cougars @ West Virginia Mountaineers | 28 - 21 | 1:43 - 1st Half | ESPN2 |
 | Fresno State Bulldogs @ Colorado State Rams | 0 - 0 | Wed, March 11th at 9:00 PM EDT | MWN |
 | New Mexico State Aggies @ Sam Houston Bearkats | 0 - 0 | Wed, March 11th at 9:00 PM EDT | ESPN+ |
 | Rutgers Scarlet Knights @ Minnesota Golden Gophers | 0 - 0 | Wed, March 11th at 9:00 PM EDT | BTN |
