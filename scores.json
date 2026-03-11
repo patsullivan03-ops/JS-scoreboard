@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-11 04:55:16",
+    "lastUpdated": "2026-03-11 05:00:22",
     "games": [
         {
             "id": "401851335",
@@ -13,7 +13,7 @@
             "homeAbbr": "EWU",
             "status": "Halftime",
             "tv": "ESPN2",
-            "winProb": 0.5,
+            "winProb": 0.169,
             "state": "in"
         },
         {
