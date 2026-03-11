@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-11 01:26:55",
+    "lastUpdated": "2026-03-11 01:31:59",
     "games": [
         {
             "id": "401851363",
             "awayTeam": "Penn State Nittany Lions",
-            "awayScore": "55",
+            "awayScore": "57",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
             "awayAbbr": "PSU",
             "homeTeam": "Northwestern Wildcats",
-            "homeScore": "68",
+            "homeScore": "70",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/77.png",
             "homeAbbr": "NU",
-            "status": "3:48 - 2nd Half",
+            "status": "2:41 - 2nd Half",
             "tv": "Peacock",
-            "winProb": 0.99,
+            "winProb": 0.992,
             "state": "in"
         },
         {
