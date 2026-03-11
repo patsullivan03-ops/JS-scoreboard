@@ -1,21 +1,6 @@
 {
-    "lastUpdated": "2026-03-11 22:08:20",
+    "lastUpdated": "2026-03-11 22:13:25",
     "games": [
-        {
-            "id": "401851308",
-            "awayTeam": "Providence Friars",
-            "awayScore": "88",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2507.png",
-            "awayAbbr": "PROV",
-            "homeTeam": "Butler Bulldogs",
-            "homeScore": "78",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2086.png",
-            "homeAbbr": "BUT",
-            "status": "0:49 - 2nd Half",
-            "tv": "Peacock",
-            "winProb": 0.008,
-            "state": "in"
-        },
         {
             "id": "401851407",
             "awayTeam": "Missouri State Bears",
@@ -165,6 +150,21 @@
             "tv": "ESPNU",
             "winProb": 0.5,
             "state": "pre"
+        },
+        {
+            "id": "401851308",
+            "awayTeam": "Providence Friars",
+            "awayScore": "91",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2507.png",
+            "awayAbbr": "PROV",
+            "homeTeam": "Butler Bulldogs",
+            "homeScore": "81",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2086.png",
+            "homeAbbr": "BUT",
+            "status": "Final",
+            "tv": "Peacock",
+            "winProb": 0.5,
+            "state": "post"
         },
         {
             "id": "401851289",
