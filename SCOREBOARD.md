@@ -1,9 +1,9 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-11 21:32:49*
+*Updated: 2026-03-11 21:37:54*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Providence Friars @ Butler Bulldogs | 63 - 56 | 11:21 - 2nd Half | Peacock |
+| Providence Friars @ Butler Bulldogs | 70 - 58 | 9:03 - 2nd Half | Peacock |
 | Missouri State Bears @ Liberty Flames | 0 - 0 | Wed, March 11th at 6:30 PM EDT | ESPN+ |
 | Northwestern Wildcats @ Indiana Hoosiers | 0 - 0 | Wed, March 11th at 6:30 PM EDT | BTN |
 | Ole Miss Rebels @ Texas Longhorns | 0 - 0 | Wed, March 11th at 7:00 PM EDT | SEC Network |
