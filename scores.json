@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-11 05:35:56",
+    "lastUpdated": "2026-03-11 05:41:01",
     "games": [
         {
             "id": "401851335",
             "awayTeam": "Idaho Vandals",
-            "awayScore": "58",
+            "awayScore": "63",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/70.png",
             "awayAbbr": "IDHO",
             "homeTeam": "Eastern Washington Eagles",
-            "homeScore": "48",
+            "homeScore": "52",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/331.png",
             "homeAbbr": "EWU",
-            "status": "8:20 - 2nd Half",
+            "status": "6:59 - 2nd Half",
             "tv": "ESPN2",
-            "winProb": 0.103,
+            "winProb": 0.045,
             "state": "in"
         },
         {
