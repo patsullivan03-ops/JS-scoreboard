@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-11 02:12:38",
+    "lastUpdated": "2026-03-11 02:17:43",
     "games": [
         {
             "id": "401851287",
             "awayTeam": "Oklahoma State Cowboys",
-            "awayScore": "25",
+            "awayScore": "27",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
             "awayAbbr": "OKST",
             "homeTeam": "Colorado Buffaloes",
-            "homeScore": "24",
+            "homeScore": "32",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
             "homeAbbr": "COLO",
-            "status": "7:40 - 1st Half",
+            "status": "4:49 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.489,
+            "winProb": 0.637,
             "state": "in"
         },
         {
