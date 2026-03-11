@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-11 00:46:18",
+    "lastUpdated": "2026-03-11 00:51:22",
     "games": [
         {
             "id": "401851611",
@@ -11,39 +11,39 @@
             "homeScore": "58",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2617.png",
             "homeAbbr": "SFA",
-            "status": "1:44 - 2nd Half",
+            "status": "1:06 - 2nd Half",
             "tv": "ESPNU",
-            "winProb": 0.579,
+            "winProb": 0.567,
             "state": "in"
         },
         {
             "id": "401851363",
             "awayTeam": "Penn State Nittany Lions",
-            "awayScore": "35",
+            "awayScore": "38",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
             "awayAbbr": "PSU",
             "homeTeam": "Northwestern Wildcats",
-            "homeScore": "39",
+            "homeScore": "44",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/77.png",
             "homeAbbr": "NU",
-            "status": "17:54 - 2nd Half",
+            "status": "16:00 - 2nd Half",
             "tv": "Peacock",
-            "winProb": 0.787,
+            "winProb": 0.835,
             "state": "in"
         },
         {
             "id": "401851285",
             "awayTeam": "Kansas State Wildcats",
-            "awayScore": "73",
+            "awayScore": "75",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2306.png",
             "awayAbbr": "KSU",
             "homeTeam": "BYU Cougars",
-            "homeScore": "83",
+            "homeScore": "92",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
             "homeAbbr": "BYU",
-            "status": "7:38 - 2nd Half",
+            "status": "5:19 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.972,
+            "winProb": 0.998,
             "state": "in"
         },
         {
