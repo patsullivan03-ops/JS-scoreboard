@@ -1,10 +1,10 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-11 17:12:17*
+*Updated: 2026-03-11 17:17:22*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| LSU Tigers @ Kentucky Wildcats | 39 - 41 | 2:08 - 1st Half | SEC Network |
-| Arizona State Sun Devils @ #7 Iowa State Cyclones | 10 - 29 | 4:30 - 1st Half | ESPN |
+| LSU Tigers @ Kentucky Wildcats | 39 - 41 | 1:21 - 1st Half | SEC Network |
+| Arizona State Sun Devils @ #7 Iowa State Cyclones | 10 - 33 | 2:52 - 1st Half | ESPN |
 | SMU Mustangs @ #24 Louisville Cardinals | 0 - 0 | Wed, March 11th at 2:30 PM EDT | ESPN |
 | USC Trojans @ Washington Huskies | 0 - 0 | Wed, March 11th at 2:30 PM EDT | Peacock |
 | Mississippi State Bulldogs @ Auburn Tigers | 0 - 0 | Wed, March 11th at 3:00 PM EDT | SEC Network |

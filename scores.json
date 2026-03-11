@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-11 17:12:17",
+    "lastUpdated": "2026-03-11 17:17:22",
     "games": [
         {
             "id": "401851557",
@@ -11,9 +11,9 @@
             "homeScore": "41",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
             "homeAbbr": "UK",
-            "status": "2:08 - 1st Half",
+            "status": "1:21 - 1st Half",
             "tv": "SEC Network",
-            "winProb": 0.757,
+            "winProb": 0.768,
             "state": "in"
         },
         {
@@ -23,12 +23,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
             "awayAbbr": "ASU",
             "homeTeam": "#7 Iowa State Cyclones",
-            "homeScore": "29",
+            "homeScore": "33",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/66.png",
             "homeAbbr": "ISU",
-            "status": "4:30 - 1st Half",
+            "status": "2:52 - 1st Half",
             "tv": "ESPN",
-            "winProb": 0.993,
+            "winProb": 0.998,
             "state": "in"
         },
         {
