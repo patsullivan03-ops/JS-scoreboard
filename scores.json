@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-11 21:22:39",
+    "lastUpdated": "2026-03-11 21:27:44",
     "games": [
         {
             "id": "401851308",
             "awayTeam": "Providence Friars",
-            "awayScore": "51",
+            "awayScore": "57",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2507.png",
             "awayAbbr": "PROV",
             "homeTeam": "Butler Bulldogs",
             "homeScore": "52",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2086.png",
             "homeAbbr": "BUT",
-            "status": "15:00 - 2nd Half",
+            "status": "13:37 - 2nd Half",
             "tv": "Peacock",
-            "winProb": 0.56,
+            "winProb": 0.29,
             "state": "in"
         },
         {
