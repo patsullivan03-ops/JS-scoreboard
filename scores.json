@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-11 16:46:51",
+    "lastUpdated": "2026-03-11 16:51:56",
     "games": [
         {
             "id": "401851557",
@@ -8,27 +8,27 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
             "awayAbbr": "LSU",
             "homeTeam": "Kentucky Wildcats",
-            "homeScore": "16",
+            "homeScore": "18",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
             "homeAbbr": "UK",
-            "status": "12:33 - 1st Half",
+            "status": "11:06 - 1st Half",
             "tv": "SEC Network",
-            "winProb": 0.716,
+            "winProb": 0.758,
             "state": "in"
         },
         {
             "id": "401851289",
             "awayTeam": "Arizona State Sun Devils",
-            "awayScore": "2",
+            "awayScore": "6",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
             "awayAbbr": "ASU",
             "homeTeam": "#7 Iowa State Cyclones",
-            "homeScore": "13",
+            "homeScore": "19",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/66.png",
             "homeAbbr": "ISU",
-            "status": "13:25 - 1st Half",
+            "status": "10:28 - 1st Half",
             "tv": "ESPN",
-            "winProb": 0.968,
+            "winProb": 0.979,
             "state": "in"
         },
         {
