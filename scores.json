@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-11 01:21:50",
+    "lastUpdated": "2026-03-11 01:26:55",
     "games": [
         {
             "id": "401851363",
@@ -8,12 +8,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
             "awayAbbr": "PSU",
             "homeTeam": "Northwestern Wildcats",
-            "homeScore": "64",
+            "homeScore": "68",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/77.png",
             "homeAbbr": "NU",
-            "status": "5:53 - 2nd Half",
+            "status": "3:48 - 2nd Half",
             "tv": "Peacock",
-            "winProb": 0.937,
+            "winProb": 0.99,
             "state": "in"
         },
         {
