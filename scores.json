@@ -1,50 +1,35 @@
 {
-    "lastUpdated": "2026-03-11 18:43:46",
+    "lastUpdated": "2026-03-11 18:48:51",
     "games": [
         {
             "id": "401851367",
             "awayTeam": "USC Trojans",
-            "awayScore": "12",
+            "awayScore": "14",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
             "awayAbbr": "USC",
             "homeTeam": "Washington Huskies",
-            "homeScore": "10",
+            "homeScore": "13",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
             "homeAbbr": "WASH",
-            "status": "14:37 - 1st Half",
+            "status": "12:10 - 1st Half",
             "tv": "Peacock",
-            "winProb": 0.499,
-            "state": "in"
-        },
-        {
-            "id": "401851557",
-            "awayTeam": "LSU Tigers",
-            "awayScore": "79",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
-            "awayAbbr": "LSU",
-            "homeTeam": "Kentucky Wildcats",
-            "homeScore": "86",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
-            "homeAbbr": "UK",
-            "status": "0:13 - 2nd Half",
-            "tv": "SEC Network",
-            "winProb": 0.994,
+            "winProb": 0.559,
             "state": "in"
         },
         {
             "id": "401851174",
             "awayTeam": "SMU Mustangs",
-            "awayScore": "0",
+            "awayScore": "3",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2567.png",
             "awayAbbr": "SMU",
             "homeTeam": "#24 Louisville Cardinals",
-            "homeScore": "0",
+            "homeScore": "7",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
             "homeAbbr": "LOU",
-            "status": "Wed, March 11th at 2:45 PM EDT",
+            "status": "17:31 - 1st Half",
             "tv": "ESPN",
-            "winProb": 0.5,
-            "state": "pre"
+            "winProb": 0.83,
+            "state": "in"
         },
         {
             "id": "401851558",
@@ -225,6 +210,21 @@
             "tv": "ESPNU",
             "winProb": 0.5,
             "state": "pre"
+        },
+        {
+            "id": "401851557",
+            "awayTeam": "LSU Tigers",
+            "awayScore": "82",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
+            "awayAbbr": "LSU",
+            "homeTeam": "Kentucky Wildcats",
+            "homeScore": "87",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+            "homeAbbr": "UK",
+            "status": "Final",
+            "tv": "SEC Network",
+            "winProb": 0.5,
+            "state": "post"
         },
         {
             "id": "401851289",
