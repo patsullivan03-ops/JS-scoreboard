@@ -1,6 +1,21 @@
 {
-    "lastUpdated": "2026-03-11 19:49:49",
+    "lastUpdated": "2026-03-11 19:56:24",
     "games": [
+        {
+            "id": "401851558",
+            "awayTeam": "Mississippi State Bulldogs",
+            "awayScore": "28",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/344.png",
+            "awayAbbr": "MSST",
+            "homeTeam": "Auburn Tigers",
+            "homeScore": "22",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
+            "homeAbbr": "AUB",
+            "status": "3:55 - 1st Half",
+            "tv": "SEC Network",
+            "winProb": 0.55,
+            "state": "in"
+        },
         {
             "id": "401851174",
             "awayTeam": "SMU Mustangs",
@@ -11,39 +26,24 @@
             "homeScore": "26",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
             "homeAbbr": "LOU",
-            "status": "Halftime",
+            "status": "End of 2nd Half",
             "tv": "ESPN",
-            "winProb": 0.5,
-            "state": "in"
-        },
-        {
-            "id": "401851558",
-            "awayTeam": "Mississippi State Bulldogs",
-            "awayScore": "23",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/344.png",
-            "awayAbbr": "MSST",
-            "homeTeam": "Auburn Tigers",
-            "homeScore": "22",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
-            "homeAbbr": "AUB",
-            "status": "6:14 - 1st Half",
-            "tv": "SEC Network",
-            "winProb": 0.709,
+            "winProb": 0.679,
             "state": "in"
         },
         {
             "id": "401851367",
             "awayTeam": "USC Trojans",
-            "awayScore": "51",
+            "awayScore": "57",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
             "awayAbbr": "USC",
             "homeTeam": "Washington Huskies",
-            "homeScore": "40",
+            "homeScore": "44",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
             "homeAbbr": "WASH",
-            "status": "15:33 - 2nd Half",
+            "status": "13:06 - 2nd Half",
             "tv": "Peacock",
-            "winProb": 0.147,
+            "winProb": 0.064,
             "state": "in"
         },
         {
