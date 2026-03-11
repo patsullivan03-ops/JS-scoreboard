@@ -1,9 +1,8 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-11 06:11:28*
+*Updated: 2026-03-11 06:16:32*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Idaho Vandals @ Eastern Washington Eagles | 81 - 68 | Final | ESPN2 |
 | Baylor Bears @ Arizona State Sun Devils | 79 - 83 | Final | ESPN+ |
 | Maryland Terrapins @ Oregon Ducks | 70 - 60 | Final | Peacock |
 | Missouri State Bears @ Florida International Panthers | 75 - 72 | Final | ESPN+ |
@@ -11,3 +10,4 @@
 | Kansas State Wildcats @ BYU Cougars | 91 - 105 | Final | ESPN+ |
 | Penn State Nittany Lions @ Northwestern Wildcats | 66 - 76 | Final | Peacock |
 | Oklahoma State Cowboys @ Colorado Buffaloes | 92 - 83 | Final | ESPN+ |
+| Idaho Vandals @ Eastern Washington Eagles | 81 - 68 | Final | ESPN2 |
