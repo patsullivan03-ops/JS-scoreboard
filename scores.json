@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-12 21:30:49",
+    "lastUpdated": "2026-03-12 21:35:54",
     "games": [
         {
             "id": "401851562",
             "awayTeam": "Auburn Tigers",
-            "awayScore": "59",
+            "awayScore": "61",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
             "awayAbbr": "AUB",
             "homeTeam": "#25 Tennessee Volunteers",
-            "homeScore": "65",
+            "homeScore": "66",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
             "homeAbbr": "TENN",
-            "status": "1:34 - 2nd Half",
+            "status": "0:55 - 2nd Half",
             "tv": "SEC Network",
-            "winProb": 0.975,
+            "winProb": 0.929,
             "state": "in"
         },
         {
