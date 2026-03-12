@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-12 21:10:31",
+    "lastUpdated": "2026-03-12 21:15:36",
     "games": [
         {
             "id": "401851562",
@@ -11,39 +11,24 @@
             "homeScore": "51",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
             "homeAbbr": "TENN",
-            "status": "7:31 - 2nd Half",
+            "status": "6:30 - 2nd Half",
             "tv": "SEC Network",
-            "winProb": 0.572,
-            "state": "in"
-        },
-        {
-            "id": "401851178",
-            "awayTeam": "#24 Louisville Cardinals",
-            "awayScore": "71",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
-            "awayAbbr": "LOU",
-            "homeTeam": "Miami Hurricanes",
-            "homeScore": "75",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
-            "homeAbbr": "MIA",
-            "status": "0:19 - 2nd Half",
-            "tv": "ESPN2",
-            "winProb": 0.855,
+            "winProb": 0.647,
             "state": "in"
         },
         {
             "id": "401851299",
             "awayTeam": "UCF Knights",
-            "awayScore": "48",
+            "awayScore": "54",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2116.png",
             "awayAbbr": "UCF",
             "homeTeam": "#2 Arizona Wildcats",
-            "homeScore": "63",
+            "homeScore": "66",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
             "homeAbbr": "ARIZ",
-            "status": "6:09 - 2nd Half",
+            "status": "4:34 - 2nd Half",
             "tv": "ESPN",
-            "winProb": 0.995,
+            "winProb": 0.99,
             "state": "in"
         },
         {
@@ -240,6 +225,21 @@
             "tv": "ESPNU",
             "winProb": 0.5,
             "state": "pre"
+        },
+        {
+            "id": "401851178",
+            "awayTeam": "#24 Louisville Cardinals",
+            "awayScore": "73",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
+            "awayAbbr": "LOU",
+            "homeTeam": "Miami Hurricanes",
+            "homeScore": "78",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
+            "homeAbbr": "MIA",
+            "status": "Final",
+            "tv": "ESPN2",
+            "winProb": 0.5,
+            "state": "post"
         },
         {
             "id": "401851296",
