@@ -1,9 +1,9 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-12 15:19:35*
+*Updated: 2026-03-12 15:24:40*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Massachusetts Minutemen @ #20 Miami (OH) RedHawks | 17 - 16 | 11:26 - 1st Half | ESPN+ |
+| Massachusetts Minutemen @ #20 Miami (OH) RedHawks | 21 - 22 | 8:43 - 1st Half | ESPN+ |
 | George Washington Revolutionaries @ Fordham Rams | 0 - 0 | Thu, March 12th at 11:30 AM EDT | USA Net |
 | Providence Friars @ #13 St. John's Red Storm | 0 - 0 | Thu, March 12th at 12:00 PM EDT | Peacock |
 | Iowa Hawkeyes @ Ohio State Buckeyes | 0 - 0 | Thu, March 12th at 12:00 PM EDT | BTN |
