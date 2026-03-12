@@ -1,17 +1,17 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-12 00:30:26*
+*Updated: 2026-03-12 00:35:31*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Ole Miss Rebels @ Texas Longhorns | 53 - 48 | 12:52 - 2nd Half | SEC Network |
-| BYU Cougars @ West Virginia Mountaineers | 43 - 40 | 9:21 - 2nd Half | ESPN2 |
-| Northwestern Wildcats @ Indiana Hoosiers | 71 - 57 | 2:22 - 2nd Half | BTN |
+| BYU Cougars @ West Virginia Mountaineers | 45 - 40 | 8:35 - 2nd Half | ESPN2 |
+| Ole Miss Rebels @ Texas Longhorns | 57 - 48 | 11:25 - 2nd Half | SEC Network |
 | Fresno State Bulldogs @ Colorado State Rams | 0 - 0 | Wed, March 11th at 9:00 PM EDT | MWN |
 | New Mexico State Aggies @ Sam Houston Bearkats | 0 - 0 | Wed, March 11th at 9:00 PM EDT | ESPN+ |
 | Rutgers Scarlet Knights @ Minnesota Golden Gophers | 0 - 0 | Wed, March 11th at 9:00 PM EDT | BTN |
 | Georgetown Hoyas @ DePaul Blue Demons | 0 - 0 | Wed, March 11th at 9:00 PM EDT | Peacock |
 | South Carolina Gamecocks @ Oklahoma Sooners | 0 - 0 | Wed, March 11th at 9:30 PM EDT | SEC Network |
 | Oklahoma State Cowboys @ TCU Horned Frogs | 0 - 0 | Wed, March 11th at 9:30 PM EDT | ESPNU |
+| Northwestern Wildcats @ Indiana Hoosiers | 74 - 61 | Final | BTN |
 | Arizona State Sun Devils @ #7 Iowa State Cyclones | 42 - 91 | Final | ESPN |
 | SMU Mustangs @ #24 Louisville Cardinals | 58 - 62 | Final | ESPN |
 | LSU Tigers @ Kentucky Wildcats | 82 - 87 | Final | SEC Network |
