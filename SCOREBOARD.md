@@ -1,14 +1,14 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-12 03:07:50*
+*Updated: 2026-03-12 03:12:54*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Oklahoma State Cowboys @ TCU Horned Frogs | 67 - 59 | 13:12 - 2nd Half | ESPNU |
-| South Carolina Gamecocks @ Oklahoma Sooners | 53 - 61 | 11:48 - 2nd Half | SEC Network |
-| Georgetown Hoyas @ DePaul Blue Demons | 57 - 49 | 1:08 - 2nd Half | Peacock |
-| New Mexico State Aggies @ Sam Houston Bearkats | 57 - 66 | 0:26 - 2nd Half | ESPN+ |
-| Rutgers Scarlet Knights @ Minnesota Golden Gophers | 72 - 67 | End of 2nd Half | BTN |
+| Oklahoma State Cowboys @ TCU Horned Frogs | 69 - 61 | 11:59 - 2nd Half | ESPNU |
+| South Carolina Gamecocks @ Oklahoma Sooners | 53 - 61 | 11:12 - 2nd Half | SEC Network |
+| Georgetown Hoyas @ DePaul Blue Demons | 60 - 52 | 0:22 - 2nd Half | Peacock |
+| New Mexico State Aggies @ Sam Houston Bearkats | 61 - 68 | 0:03 - 2nd Half | ESPN+ |
 | Fresno State Bulldogs @ Colorado State Rams | 63 - 67 | Final | MWN |
+| Rutgers Scarlet Knights @ Minnesota Golden Gophers | 72 - 67 | Final | BTN |
 | Arizona State Sun Devils @ #7 Iowa State Cyclones | 42 - 91 | Final | ESPN |
 | SMU Mustangs @ #24 Louisville Cardinals | 58 - 62 | Final | ESPN |
 | LSU Tigers @ Kentucky Wildcats | 82 - 87 | Final | SEC Network |
