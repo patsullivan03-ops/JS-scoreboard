@@ -1,10 +1,10 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-12 03:43:21*
+*Updated: 2026-03-12 03:48:25*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Oklahoma State Cowboys @ TCU Horned Frogs | 84 - 87 | 3:34 - 2nd Half | ESPNU |
-| South Carolina Gamecocks @ Oklahoma Sooners | 74 - 86 | 0:39 - 2nd Half | SEC Network |
+| Oklahoma State Cowboys @ TCU Horned Frogs | 86 - 92 | 0:26 - 2nd Half | ESPNU |
+| South Carolina Gamecocks @ Oklahoma Sooners | 74 - 86 | Final | SEC Network |
 | Arizona State Sun Devils @ #7 Iowa State Cyclones | 42 - 91 | Final | ESPN |
 | SMU Mustangs @ #24 Louisville Cardinals | 58 - 62 | Final | ESPN |
 | LSU Tigers @ Kentucky Wildcats | 82 - 87 | Final | SEC Network |
