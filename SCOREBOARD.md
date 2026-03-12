@@ -1,14 +1,14 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-12 19:54:15*
+*Updated: 2026-03-12 19:59:21*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
 | #24 Louisville Cardinals @ Miami Hurricanes | 38 - 37 | Halftime | ESPN2 |
-| Auburn Tigers @ #25 Tennessee Volunteers | 20 - 15 | 7:07 - 1st Half | SEC Network |
-| Alabama A&M Bulldogs @ Texas Southern Tigers | 60 - 60 | 4:13 - 2nd Half | ESPN+ |
-| St. Bonaventure Bonnies @ George Mason Patriots | 52 - 55 | 4:55 - 2nd Half | USA Net |
-| Washington Huskies @ #23 Wisconsin Badgers | 40 - 51 | 17:03 - 2nd Half | BTN |
-| UCF Knights @ #2 Arizona Wildcats | 16 - 39 | 4:28 - 1st Half | ESPN |
+| Alabama A&M Bulldogs @ Texas Southern Tigers | 63 - 62 | 3:20 - 2nd Half | ESPN+ |
+| Auburn Tigers @ #25 Tennessee Volunteers | 20 - 16 | 6:48 - 1st Half | SEC Network |
+| St. Bonaventure Bonnies @ George Mason Patriots | 54 - 55 | 4:02 - 2nd Half | USA Net |
+| Washington Huskies @ #23 Wisconsin Badgers | 45 - 58 | 15:22 - 2nd Half | BTN |
+| UCF Knights @ #2 Arizona Wildcats | 18 - 41 | 3:26 - 1st Half | ESPN |
 | Northwestern Wildcats @ #18 Purdue Boilermakers | 0 - 0 | Thu, March 12th at 6:30 PM EDT | BTN |
 | Middle Tennessee Blue Raiders @ Louisiana Tech Bulldogs | 0 - 0 | Thu, March 12th at 6:30 PM EDT | ESPN+ |
 | Florida State Seminoles @ #1 Duke Blue Devils | 0 - 0 | Thu, March 12th at 7:00 PM EDT | ESPN |
