@@ -1,14 +1,14 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-12 01:46:36*
+*Updated: 2026-03-12 01:51:41*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Georgetown Hoyas @ DePaul Blue Demons | 15 - 17 | 5:48 - 1st Half | Peacock |
-| Fresno State Bulldogs @ Colorado State Rams | 26 - 22 | 2:25 - 1st Half | MWN |
-| Oklahoma State Cowboys @ TCU Horned Frogs | 6 - 5 | 18:08 - 1st Half | ESPNU |
-| Rutgers Scarlet Knights @ Minnesota Golden Gophers | 26 - 27 | 2:30 - 1st Half | BTN |
-| South Carolina Gamecocks @ Oklahoma Sooners | 8 - 9 | 16:08 - 1st Half | SEC Network |
-| New Mexico State Aggies @ Sam Houston Bearkats | 15 - 28 | 4:26 - 1st Half | ESPN+ |
+| Fresno State Bulldogs @ Colorado State Rams | 32 - 27 | Halftime | MWN |
+| Georgetown Hoyas @ DePaul Blue Demons | 17 - 19 | 3:04 - 1st Half | Peacock |
+| Oklahoma State Cowboys @ TCU Horned Frogs | 12 - 9 | 15:40 - 1st Half | ESPNU |
+| South Carolina Gamecocks @ Oklahoma Sooners | 14 - 11 | 14:39 - 1st Half | SEC Network |
+| Rutgers Scarlet Knights @ Minnesota Golden Gophers | 29 - 31 | 0:04 - 1st Half | BTN |
+| New Mexico State Aggies @ Sam Houston Bearkats | 21 - 32 | 3:04 - 1st Half | ESPN+ |
 | Arizona State Sun Devils @ #7 Iowa State Cyclones | 42 - 91 | Final | ESPN |
 | SMU Mustangs @ #24 Louisville Cardinals | 58 - 62 | Final | ESPN |
 | LSU Tigers @ Kentucky Wildcats | 82 - 87 | Final | SEC Network |
