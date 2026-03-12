@@ -1,5 +1,5 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-12 21:46:04*
+*Updated: 2026-03-12 21:51:09*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
@@ -16,13 +16,13 @@
 | Oklahoma Sooners @ Texas A&M Aggies | 0 - 0 | Thu, March 12th at 9:30 PM EDT | SEC Network |
 | Georgetown Hoyas @ Villanova Wildcats | 0 - 0 | Thu, March 12th at 9:30 PM EDT | FS1 |
 | Florida Atlantic Owls @ North Texas Mean Green | 0 - 0 | Thu, March 12th at 9:30 PM EDT | ESPNU |
-| Auburn Tigers @ #25 Tennessee Volunteers | 62 - 72 | Final | SEC Network |
 | UCF Knights @ #2 Arizona Wildcats | 59 - 81 | Final | ESPN |
 | #7 Iowa State Cyclones @ #16 Texas Tech Red Raiders | 75 - 53 | Final | ESPN |
 | Providence Friars @ #13 St. John's Red Storm | 72 - 85 | Final | Peacock |
 | Massachusetts Minutemen @ #20 Miami (OH) RedHawks | 87 - 83 | Final | ESPN+ |
 | Washington Huskies @ #23 Wisconsin Badgers | 82 - 85 | Final | BTN |
 | #24 Louisville Cardinals @ Miami Hurricanes | 73 - 78 | Final | ESPN2 |
+| Auburn Tigers @ #25 Tennessee Volunteers | 62 - 72 | Final | SEC Network |
 | George Washington Revolutionaries @ Fordham Rams | 66 - 62 | Final | USA Net |
 | Iowa Hawkeyes @ Ohio State Buckeyes | 69 - 72 | Final | BTN |
 | Kentucky Wildcats @ Missouri Tigers | 78 - 72 | Final | SEC Network |

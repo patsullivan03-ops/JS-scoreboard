@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-12 21:46:04",
+    "lastUpdated": "2026-03-12 21:51:09",
     "games": [
         {
             "id": "401851377",
@@ -197,21 +197,6 @@
             "state": "pre"
         },
         {
-            "id": "401851562",
-            "awayTeam": "Auburn Tigers",
-            "awayScore": "62",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
-            "awayAbbr": "AUB",
-            "homeTeam": "#25 Tennessee Volunteers",
-            "homeScore": "72",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
-            "homeAbbr": "TENN",
-            "status": "Final",
-            "tv": "SEC Network",
-            "winProb": 0.5,
-            "state": "post"
-        },
-        {
             "id": "401851299",
             "awayTeam": "UCF Knights",
             "awayScore": "59",
@@ -298,6 +283,21 @@
             "homeAbbr": "MIA",
             "status": "Final",
             "tv": "ESPN2",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "id": "401851562",
+            "awayTeam": "Auburn Tigers",
+            "awayScore": "62",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
+            "awayAbbr": "AUB",
+            "homeTeam": "#25 Tennessee Volunteers",
+            "homeScore": "72",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
+            "homeAbbr": "TENN",
+            "status": "Final",
+            "tv": "SEC Network",
             "winProb": 0.5,
             "state": "post"
         },
