@@ -1,34 +1,34 @@
 {
-    "lastUpdated": "2026-03-12 03:38:16",
+    "lastUpdated": "2026-03-12 03:43:21",
     "games": [
         {
             "id": "401851294",
             "awayTeam": "Oklahoma State Cowboys",
-            "awayScore": "82",
+            "awayScore": "84",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
             "awayAbbr": "OKST",
             "homeTeam": "TCU Horned Frogs",
-            "homeScore": "83",
+            "homeScore": "87",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2628.png",
             "homeAbbr": "TCU",
-            "status": "4:41 - 2nd Half",
+            "status": "3:34 - 2nd Half",
             "tv": "ESPNU",
-            "winProb": 0.587,
+            "winProb": 0.706,
             "state": "in"
         },
         {
             "id": "401851560",
             "awayTeam": "South Carolina Gamecocks",
-            "awayScore": "69",
+            "awayScore": "74",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2579.png",
             "awayAbbr": "SC",
             "homeTeam": "Oklahoma Sooners",
-            "homeScore": "83",
+            "homeScore": "86",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/201.png",
             "homeAbbr": "OU",
-            "status": "2:04 - 2nd Half",
+            "status": "0:39 - 2nd Half",
             "tv": "SEC Network",
-            "winProb": 0.998,
+            "winProb": 0.999,
             "state": "in"
         },
         {
