@@ -1,12 +1,12 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-12 17:42:01*
+*Updated: 2026-03-12 17:47:06*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Kentucky Wildcats @ Missouri Tigers | 38 - 29 | Halftime | SEC Network |
-| #7 Iowa State Cyclones @ #16 Texas Tech Red Raiders | 40 - 36 | 17:39 - 2nd Half | ESPN |
-| Iowa Hawkeyes @ Ohio State Buckeyes | 49 - 58 | 8:23 - 2nd Half | BTN |
-| Providence Friars @ #13 St. John's Red Storm | 53 - 71 | 9:08 - 2nd Half | Peacock |
+| #7 Iowa State Cyclones @ #16 Texas Tech Red Raiders | 47 - 39 | 15:01 - 2nd Half | ESPN |
+| Iowa Hawkeyes @ Ohio State Buckeyes | 51 - 59 | 7:54 - 2nd Half | BTN |
+| Kentucky Wildcats @ Missouri Tigers | 41 - 29 | 18:31 - 2nd Half | SEC Network |
+| Providence Friars @ #13 St. John's Red Storm | 53 - 75 | 7:55 - 2nd Half | Peacock |
 | Alabama A&M Bulldogs @ Texas Southern Tigers | 0 - 0 | Thu, March 12th at 2:00 PM EDT | ESPN+ |
 | St. Bonaventure Bonnies @ George Mason Patriots | 0 - 0 | Thu, March 12th at 2:00 PM EDT | USA Net |
 | Washington Huskies @ #23 Wisconsin Badgers | 0 - 0 | Thu, March 12th at 2:30 PM EDT | BTN |
@@ -26,5 +26,5 @@
 | Oklahoma Sooners @ Texas A&M Aggies | 0 - 0 | Thu, March 12th at 9:30 PM EDT | SEC Network |
 | Georgetown Hoyas @ Villanova Wildcats | 0 - 0 | Thu, March 12th at 9:30 PM EDT | FS1 |
 | Florida Atlantic Owls @ North Texas Mean Green | 0 - 0 | Thu, March 12th at 9:30 PM EDT | ESPNU |
-| George Washington Revolutionaries @ Fordham Rams | 66 - 62 | Final | USA Net |
 | Massachusetts Minutemen @ #20 Miami (OH) RedHawks | 87 - 83 | Final | ESPN+ |
+| George Washington Revolutionaries @ Fordham Rams | 66 - 62 | Final | USA Net |
