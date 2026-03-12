@@ -1,16 +1,14 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-12 01:11:02*
+*Updated: 2026-03-12 01:16:07*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Fresno State Bulldogs @ Colorado State Rams | 7 - 5 | 15:59 - 1st Half | MWN |
-| Rutgers Scarlet Knights @ Minnesota Golden Gophers | 2 - 4 | 18:27 - 1st Half | BTN |
-| New Mexico State Aggies @ Sam Houston Bearkats | 5 - 11 | 15:23 - 1st Half | ESPN+ |
+| Rutgers Scarlet Knights @ Minnesota Golden Gophers | 11 - 8 | 14:53 - 1st Half | BTN |
+| Fresno State Bulldogs @ Colorado State Rams | 10 - 6 | 14:44 - 1st Half | MWN |
+| New Mexico State Aggies @ Sam Houston Bearkats | 7 - 18 | 14:00 - 1st Half | ESPN+ |
 | Georgetown Hoyas @ DePaul Blue Demons | 0 - 0 | Wed, March 11th at 9:15 PM EDT | Peacock |
 | South Carolina Gamecocks @ Oklahoma Sooners | 0 - 0 | Wed, March 11th at 9:30 PM EDT | SEC Network |
 | Oklahoma State Cowboys @ TCU Horned Frogs | 0 - 0 | Wed, March 11th at 9:30 PM EDT | ESPNU |
-| Ole Miss Rebels @ Texas Longhorns | 76 - 66 | Final | SEC Network |
-| BYU Cougars @ West Virginia Mountaineers | 68 - 48 | Final | ESPN2 |
 | Arizona State Sun Devils @ #7 Iowa State Cyclones | 42 - 91 | Final | ESPN |
 | SMU Mustangs @ #24 Louisville Cardinals | 58 - 62 | Final | ESPN |
 | LSU Tigers @ Kentucky Wildcats | 82 - 87 | Final | SEC Network |
@@ -19,3 +17,5 @@
 | Providence Friars @ Butler Bulldogs | 91 - 81 | Final | Peacock |
 | Missouri State Bears @ Liberty Flames | 77 - 69 | Final | ESPN+ |
 | Northwestern Wildcats @ Indiana Hoosiers | 74 - 61 | Final | BTN |
+| Ole Miss Rebels @ Texas Longhorns | 76 - 66 | Final | SEC Network |
+| BYU Cougars @ West Virginia Mountaineers | 68 - 48 | Final | ESPN2 |
