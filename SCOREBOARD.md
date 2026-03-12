@@ -1,12 +1,11 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-12 18:07:27*
+*Updated: 2026-03-12 18:12:32*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Alabama A&M Bulldogs @ Texas Southern Tigers | 4 - 4 | 17:15 - 1st Half | ESPN+ |
-| Kentucky Wildcats @ Missouri Tigers | 53 - 44 | 12:57 - 2nd Half | SEC Network |
-| Iowa Hawkeyes @ Ohio State Buckeyes | 69 - 72 | 0:07 - 2nd Half | BTN |
-| #7 Iowa State Cyclones @ #16 Texas Tech Red Raiders | 65 - 43 | 8:37 - 2nd Half | ESPN |
+| Alabama A&M Bulldogs @ Texas Southern Tigers | 7 - 6 | 15:13 - 1st Half | ESPN+ |
+| Kentucky Wildcats @ Missouri Tigers | 58 - 49 | 11:25 - 2nd Half | SEC Network |
+| #7 Iowa State Cyclones @ #16 Texas Tech Red Raiders | 65 - 45 | 6:48 - 2nd Half | ESPN |
 | St. Bonaventure Bonnies @ George Mason Patriots | 0 - 0 | Thu, March 12th at 2:00 PM EDT | USA Net |
 | Washington Huskies @ #23 Wisconsin Badgers | 0 - 0 | Thu, March 12th at 2:30 PM EDT | BTN |
 | #24 Louisville Cardinals @ Miami Hurricanes | 0 - 0 | Thu, March 12th at 2:30 PM EDT | ESPN2 |
@@ -26,5 +25,6 @@
 | Georgetown Hoyas @ Villanova Wildcats | 0 - 0 | Thu, March 12th at 9:30 PM EDT | FS1 |
 | Florida Atlantic Owls @ North Texas Mean Green | 0 - 0 | Thu, March 12th at 9:30 PM EDT | ESPNU |
 | Providence Friars @ #13 St. John's Red Storm | 72 - 85 | Final | Peacock |
+| Iowa Hawkeyes @ Ohio State Buckeyes | 69 - 72 | Final | BTN |
 | Massachusetts Minutemen @ #20 Miami (OH) RedHawks | 87 - 83 | Final | ESPN+ |
 | George Washington Revolutionaries @ Fordham Rams | 66 - 62 | Final | USA Net |
