@@ -1,13 +1,13 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-12 23:12:24*
+*Updated: 2026-03-12 23:17:29*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Ole Miss Rebels @ Georgia Bulldogs | 9 - 5 | 15:08 - 1st Half | SEC Network |
-| Middle Tennessee Blue Raiders @ Louisiana Tech Bulldogs | 25 - 32 | 2:08 - 1st Half | ESPN+ |
-| BYU Cougars @ #5 Houston Cougars | 4 - 8 | 15:13 - 1st Half | ESPN2 |
-| Florida State Seminoles @ #1 Duke Blue Devils | 7 - 11 | 15:29 - 1st Half | ESPN |
-| Northwestern Wildcats @ #18 Purdue Boilermakers | 19 - 38 | 3:48 - 1st Half | BTN |
+| Ole Miss Rebels @ Georgia Bulldogs | 11 - 5 | 12:47 - 1st Half | SEC Network |
+| BYU Cougars @ #5 Houston Cougars | 10 - 13 | 13:23 - 1st Half | ESPN2 |
+| Middle Tennessee Blue Raiders @ Louisiana Tech Bulldogs | 25 - 39 | 0:00 - 1st Half | ESPN+ |
+| Florida State Seminoles @ #1 Duke Blue Devils | 15 - 11 | 13:29 - 1st Half | ESPN |
+| Northwestern Wildcats @ #18 Purdue Boilermakers | 21 - 43 | 0:44 - 1st Half | BTN |
 | Maryland Eastern Shore Hawks @ North Carolina Central Eagles | 0 - 0 | Thu, March 12th at 8:00 PM EDT | ESPN+ |
 | Colorado State Rams @ San Diego State Aztecs | 0 - 0 | Thu, March 12th at 9:00 PM EDT | CBSSN |
 | Kennesaw State Owls @ Western Kentucky Hilltoppers | 0 - 0 | Thu, March 12th at 9:00 PM EDT | ESPN+ |
