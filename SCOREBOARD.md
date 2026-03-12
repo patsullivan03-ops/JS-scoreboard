@@ -1,14 +1,14 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-12 16:51:11*
+*Updated: 2026-03-12 16:56:16*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #7 Iowa State Cyclones @ #16 Texas Tech Red Raiders | 10 - 17 | 11:59 - 1st Half | ESPN |
-| Iowa Hawkeyes @ Ohio State Buckeyes | 25 - 29 | 1:55 - 1st Half | BTN |
-| Kentucky Wildcats @ Missouri Tigers | 16 - 13 | 12:21 - 1st Half | SEC Network |
-| Massachusetts Minutemen @ #20 Miami (OH) RedHawks | 69 - 71 | 5:43 - 2nd Half | ESPN+ |
-| Providence Friars @ #13 St. John's Red Storm | 23 - 44 | 2:58 - 1st Half | Peacock |
-| George Washington Revolutionaries @ Fordham Rams | 45 - 25 | 15:57 - 2nd Half | USA Net |
+| Providence Friars @ #13 St. John's Red Storm | 27 - 48 | Halftime | Peacock |
+| Iowa Hawkeyes @ Ohio State Buckeyes | 30 - 34 | Halftime | BTN |
+| #7 Iowa State Cyclones @ #16 Texas Tech Red Raiders | 14 - 19 | 11:10 - 1st Half | ESPN |
+| Massachusetts Minutemen @ #20 Miami (OH) RedHawks | 79 - 79 | 3:02 - 2nd Half | ESPN+ |
+| Kentucky Wildcats @ Missouri Tigers | 16 - 16 | 11:35 - 1st Half | SEC Network |
+| George Washington Revolutionaries @ Fordham Rams | 45 - 32 | 14:15 - 2nd Half | USA Net |
 | Alabama A&M Bulldogs @ Texas Southern Tigers | 0 - 0 | Thu, March 12th at 2:00 PM EDT | ESPN+ |
 | St. Bonaventure Bonnies @ George Mason Patriots | 0 - 0 | Thu, March 12th at 2:00 PM EDT | USA Net |
 | Washington Huskies @ #23 Wisconsin Badgers | 0 - 0 | Thu, March 12th at 2:30 PM EDT | BTN |
