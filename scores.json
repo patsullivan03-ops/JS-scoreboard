@@ -1,34 +1,34 @@
 {
-    "lastUpdated": "2026-03-12 22:47:01",
+    "lastUpdated": "2026-03-12 22:52:05",
     "games": [
         {
             "id": "401851410",
             "awayTeam": "Middle Tennessee Blue Raiders",
-            "awayScore": "10",
+            "awayScore": "15",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2393.png",
             "awayAbbr": "MTSU",
             "homeTeam": "Louisiana Tech Bulldogs",
-            "homeScore": "16",
+            "homeScore": "19",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2348.png",
             "homeAbbr": "LT",
-            "status": "12:40 - 1st Half",
+            "status": "11:03 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.642,
+            "winProb": 0.648,
             "state": "in"
         },
         {
             "id": "401851377",
             "awayTeam": "Northwestern Wildcats",
-            "awayScore": "6",
+            "awayScore": "9",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/77.png",
             "awayAbbr": "NU",
             "homeTeam": "#18 Purdue Boilermakers",
-            "homeScore": "11",
+            "homeScore": "19",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
             "homeAbbr": "PUR",
-            "status": "14:55 - 1st Half",
+            "status": "12:01 - 1st Half",
             "tv": "BTN",
-            "winProb": 0.895,
+            "winProb": 0.941,
             "state": "in"
         },
         {
