@@ -1,17 +1,17 @@
 {
-    "lastUpdated": "2026-03-12 15:04:17",
+    "lastUpdated": "2026-03-12 15:09:23",
     "games": [
         {
             "id": "401858186",
             "awayTeam": "Massachusetts Minutemen",
-            "awayScore": "2",
+            "awayScore": "8",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/113.png",
             "awayAbbr": "MASS",
             "homeTeam": "#20 Miami (OH) RedHawks",
-            "homeScore": "2",
+            "homeScore": "8",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/193.png",
             "homeAbbr": "M-OH",
-            "status": "18:32 - 1st Half",
+            "status": "15:45 - 1st Half",
             "tv": "ESPN+",
             "winProb": 0.76,
             "state": "in"
