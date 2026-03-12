@@ -1,12 +1,12 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-12 18:17:38*
+*Updated: 2026-03-12 18:22:44*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Alabama A&M Bulldogs @ Texas Southern Tigers | 12 - 10 | 12:37 - 1st Half | ESPN+ |
-| St. Bonaventure Bonnies @ George Mason Patriots | 2 - 0 | 18:55 - 1st Half | USA Net |
-| Kentucky Wildcats @ Missouri Tigers | 58 - 51 | 10:28 - 2nd Half | SEC Network |
-| #7 Iowa State Cyclones @ #16 Texas Tech Red Raiders | 65 - 45 | 5:43 - 2nd Half | ESPN |
+| Alabama A&M Bulldogs @ Texas Southern Tigers | 16 - 16 | 9:17 - 1st Half | ESPN+ |
+| St. Bonaventure Bonnies @ George Mason Patriots | 4 - 6 | 16:00 - 1st Half | USA Net |
+| Kentucky Wildcats @ Missouri Tigers | 60 - 55 | 9:07 - 2nd Half | SEC Network |
+| #7 Iowa State Cyclones @ #16 Texas Tech Red Raiders | 68 - 49 | 4:20 - 2nd Half | ESPN |
 | Washington Huskies @ #23 Wisconsin Badgers | 0 - 0 | Thu, March 12th at 2:30 PM EDT | BTN |
 | #24 Louisville Cardinals @ Miami Hurricanes | 0 - 0 | Thu, March 12th at 2:30 PM EDT | ESPN2 |
 | UCF Knights @ #2 Arizona Wildcats | 0 - 0 | Thu, March 12th at 3:00 PM EDT | ESPN |
