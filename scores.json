@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-12 19:08:32",
+    "lastUpdated": "2026-03-12 19:13:37",
     "games": [
         {
             "id": "401851264",
@@ -17,48 +17,48 @@
             "state": "in"
         },
         {
-            "id": "401851719",
-            "awayTeam": "Alabama A&M Bulldogs",
-            "awayScore": "30",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2010.png",
-            "awayAbbr": "AAMU",
-            "homeTeam": "Texas Southern Tigers",
-            "homeScore": "34",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2640.png",
-            "homeAbbr": "TXSO",
-            "status": "18:43 - 2nd Half",
-            "tv": "ESPN+",
-            "winProb": 0.594,
-            "state": "in"
-        },
-        {
             "id": "401851178",
             "awayTeam": "#24 Louisville Cardinals",
-            "awayScore": "12",
+            "awayScore": "17",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
             "awayAbbr": "LOU",
             "homeTeam": "Miami Hurricanes",
             "homeScore": "13",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
             "homeAbbr": "MIA",
-            "status": "12:25 - 1st Half",
+            "status": "11:20 - 1st Half",
             "tv": "ESPN2",
-            "winProb": 0.284,
+            "winProb": 0.193,
+            "state": "in"
+        },
+        {
+            "id": "401851719",
+            "awayTeam": "Alabama A&M Bulldogs",
+            "awayScore": "32",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2010.png",
+            "awayAbbr": "AAMU",
+            "homeTeam": "Texas Southern Tigers",
+            "homeScore": "39",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2640.png",
+            "homeAbbr": "TXSO",
+            "status": "15:58 - 2nd Half",
+            "tv": "ESPN+",
+            "winProb": 0.81,
             "state": "in"
         },
         {
             "id": "401851376",
             "awayTeam": "Washington Huskies",
-            "awayScore": "11",
+            "awayScore": "16",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
             "awayAbbr": "WASH",
             "homeTeam": "#23 Wisconsin Badgers",
-            "homeScore": "20",
+            "homeScore": "23",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
             "homeAbbr": "WIS",
-            "status": "10:25 - 1st Half",
+            "status": "7:42 - 1st Half",
             "tv": "BTN",
-            "winProb": 0.879,
+            "winProb": 0.846,
             "state": "in"
         },
         {
@@ -86,7 +86,7 @@
             "homeScore": "0",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
             "homeAbbr": "TENN",
-            "status": "Thu, March 12th at 3:00 PM EDT",
+            "status": "Thu, March 12th at 3:25 PM EDT",
             "tv": "SEC Network",
             "winProb": 0.5,
             "state": "pre"
