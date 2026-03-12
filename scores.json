@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-12 15:50:07",
+    "lastUpdated": "2026-03-12 15:55:14",
     "games": [
         {
             "id": "401858186",
@@ -19,16 +19,16 @@
         {
             "id": "401851263",
             "awayTeam": "George Washington Revolutionaries",
-            "awayScore": "13",
+            "awayScore": "16",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/45.png",
             "awayAbbr": "GW",
             "homeTeam": "Fordham Rams",
-            "homeScore": "4",
+            "homeScore": "8",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2230.png",
             "homeAbbr": "FOR",
-            "status": "12:02 - 1st Half",
+            "status": "10:41 - 1st Half",
             "tv": "USA Net",
-            "winProb": 0.091,
+            "winProb": 0.104,
             "state": "in"
         },
         {
