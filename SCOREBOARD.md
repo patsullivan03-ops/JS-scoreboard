@@ -1,12 +1,12 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-12 16:15:35*
+*Updated: 2026-03-12 16:20:40*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Iowa Hawkeyes @ Ohio State Buckeyes | 8 - 4 | 14:48 - 1st Half | BTN |
-| Massachusetts Minutemen @ #20 Miami (OH) RedHawks | 38 - 45 | 17:23 - 2nd Half | ESPN+ |
-| Providence Friars @ #13 St. John's Red Storm | 0 - 9 | 15:32 - 1st Half | Peacock |
-| George Washington Revolutionaries @ Fordham Rams | 33 - 14 | 3:12 - 1st Half | USA Net |
+| Iowa Hawkeyes @ Ohio State Buckeyes | 10 - 6 | 13:48 - 1st Half | BTN |
+| Massachusetts Minutemen @ #20 Miami (OH) RedHawks | 40 - 46 | 15:58 - 2nd Half | ESPN+ |
+| Providence Friars @ #13 St. John's Red Storm | 2 - 13 | 14:04 - 1st Half | Peacock |
+| George Washington Revolutionaries @ Fordham Rams | 35 - 14 | 1:42 - 1st Half | USA Net |
 | #7 Iowa State Cyclones @ #16 Texas Tech Red Raiders | 0 - 0 | Thu, March 12th at 12:30 PM EDT | ESPN |
 | Kentucky Wildcats @ Missouri Tigers | 0 - 0 | Thu, March 12th at 12:30 PM EDT | SEC Network |
 | Alabama A&M Bulldogs @ Texas Southern Tigers | 0 - 0 | Thu, March 12th at 2:00 PM EDT | ESPN+ |
