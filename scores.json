@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-12 19:39:01",
+    "lastUpdated": "2026-03-12 19:44:06",
     "games": [
         {
             "id": "401851376",
@@ -19,16 +19,16 @@
         {
             "id": "401851562",
             "awayTeam": "Auburn Tigers",
-            "awayScore": "10",
+            "awayScore": "17",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
             "awayAbbr": "AUB",
             "homeTeam": "#25 Tennessee Volunteers",
-            "homeScore": "7",
+            "homeScore": "11",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
             "homeAbbr": "TENN",
-            "status": "14:45 - 1st Half",
+            "status": "11:26 - 1st Half",
             "tv": "SEC Network",
-            "winProb": 0.582,
+            "winProb": 0.449,
             "state": "in"
         },
         {
@@ -43,37 +43,37 @@
             "homeAbbr": "TXSO",
             "status": "8:19 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.676,
+            "winProb": 0.664,
             "state": "in"
         },
         {
             "id": "401851178",
             "awayTeam": "#24 Louisville Cardinals",
-            "awayScore": "34",
+            "awayScore": "36",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
             "awayAbbr": "LOU",
             "homeTeam": "Miami Hurricanes",
-            "homeScore": "33",
+            "homeScore": "35",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
             "homeAbbr": "MIA",
-            "status": "2:57 - 1st Half",
+            "status": "2:01 - 1st Half",
             "tv": "ESPN2",
-            "winProb": 0.274,
+            "winProb": 0.305,
             "state": "in"
         },
         {
             "id": "401851264",
             "awayTeam": "St. Bonaventure Bonnies",
-            "awayScore": "41",
+            "awayScore": "45",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/179.png",
             "awayAbbr": "SBU",
             "homeTeam": "George Mason Patriots",
-            "homeScore": "46",
+            "homeScore": "48",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2244.png",
             "homeAbbr": "GMU",
-            "status": "12:10 - 2nd Half",
+            "status": "9:58 - 2nd Half",
             "tv": "USA Net",
-            "winProb": 0.809,
+            "winProb": 0.733,
             "state": "in"
         },
         {
@@ -83,12 +83,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2116.png",
             "awayAbbr": "UCF",
             "homeTeam": "#2 Arizona Wildcats",
-            "homeScore": "24",
+            "homeScore": "32",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
             "homeAbbr": "ARIZ",
-            "status": "10:47 - 1st Half",
+            "status": "7:56 - 1st Half",
             "tv": "ESPN",
-            "winProb": 0.987,
+            "winProb": 0.997,
             "state": "in"
         },
         {
