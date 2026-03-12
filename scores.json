@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-12 00:45:39",
+    "lastUpdated": "2026-03-12 00:50:43",
     "games": [
         {
             "id": "401851559",
@@ -8,27 +8,27 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/145.png",
             "awayAbbr": "MISS",
             "homeTeam": "Texas Longhorns",
-            "homeScore": "49",
+            "homeScore": "55",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
             "homeAbbr": "TEX",
-            "status": "7:56 - 2nd Half",
+            "status": "6:29 - 2nd Half",
             "tv": "SEC Network",
-            "winProb": 0.056,
+            "winProb": 0.178,
             "state": "in"
         },
         {
             "id": "401851293",
             "awayTeam": "BYU Cougars",
-            "awayScore": "55",
+            "awayScore": "57",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
             "awayAbbr": "BYU",
             "homeTeam": "West Virginia Mountaineers",
             "homeScore": "42",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/277.png",
             "homeAbbr": "WVU",
-            "status": "5:41 - 2nd Half",
+            "status": "3:52 - 2nd Half",
             "tv": "ESPN2",
-            "winProb": 0.018,
+            "winProb": 0.003,
             "state": "in"
         },
         {
