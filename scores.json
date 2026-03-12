@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-12 21:20:40",
+    "lastUpdated": "2026-03-12 21:25:45",
     "games": [
         {
             "id": "401851562",
@@ -8,25 +8,25 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
             "awayAbbr": "AUB",
             "homeTeam": "#25 Tennessee Volunteers",
-            "homeScore": "58",
+            "homeScore": "60",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
             "homeAbbr": "TENN",
-            "status": "4:27 - 2nd Half",
+            "status": "3:56 - 2nd Half",
             "tv": "SEC Network",
-            "winProb": 0.894,
+            "winProb": 0.962,
             "state": "in"
         },
         {
             "id": "401851299",
             "awayTeam": "UCF Knights",
-            "awayScore": "54",
+            "awayScore": "57",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2116.png",
             "awayAbbr": "UCF",
             "homeTeam": "#2 Arizona Wildcats",
-            "homeScore": "73",
+            "homeScore": "78",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
             "homeAbbr": "ARIZ",
-            "status": "3:24 - 2nd Half",
+            "status": "1:24 - 2nd Half",
             "tv": "ESPN",
             "winProb": 0.999,
             "state": "in"

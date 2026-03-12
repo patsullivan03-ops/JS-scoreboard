@@ -1,10 +1,10 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-12 21:20:40*
+*Updated: 2026-03-12 21:25:45*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Auburn Tigers @ #25 Tennessee Volunteers | 51 - 58 | 4:27 - 2nd Half | SEC Network |
-| UCF Knights @ #2 Arizona Wildcats | 54 - 73 | 3:24 - 2nd Half | ESPN |
+| Auburn Tigers @ #25 Tennessee Volunteers | 51 - 60 | 3:56 - 2nd Half | SEC Network |
+| UCF Knights @ #2 Arizona Wildcats | 57 - 78 | 1:24 - 2nd Half | ESPN |
 | Northwestern Wildcats @ #18 Purdue Boilermakers | 0 - 0 | Thu, March 12th at 6:30 PM EDT | BTN |
 | Middle Tennessee Blue Raiders @ Louisiana Tech Bulldogs | 0 - 0 | Thu, March 12th at 6:30 PM EDT | ESPN+ |
 | Florida State Seminoles @ #1 Duke Blue Devils | 0 - 0 | Thu, March 12th at 7:00 PM EDT | ESPN |
