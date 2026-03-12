@@ -1,34 +1,19 @@
 {
-    "lastUpdated": "2026-03-12 21:25:45",
+    "lastUpdated": "2026-03-12 21:30:49",
     "games": [
         {
             "id": "401851562",
             "awayTeam": "Auburn Tigers",
-            "awayScore": "51",
+            "awayScore": "59",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
             "awayAbbr": "AUB",
             "homeTeam": "#25 Tennessee Volunteers",
-            "homeScore": "60",
+            "homeScore": "65",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
             "homeAbbr": "TENN",
-            "status": "3:56 - 2nd Half",
+            "status": "1:34 - 2nd Half",
             "tv": "SEC Network",
-            "winProb": 0.962,
-            "state": "in"
-        },
-        {
-            "id": "401851299",
-            "awayTeam": "UCF Knights",
-            "awayScore": "57",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2116.png",
-            "awayAbbr": "UCF",
-            "homeTeam": "#2 Arizona Wildcats",
-            "homeScore": "78",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
-            "homeAbbr": "ARIZ",
-            "status": "1:24 - 2nd Half",
-            "tv": "ESPN",
-            "winProb": 0.999,
+            "winProb": 0.975,
             "state": "in"
         },
         {
@@ -225,6 +210,21 @@
             "tv": "ESPNU",
             "winProb": 0.5,
             "state": "pre"
+        },
+        {
+            "id": "401851299",
+            "awayTeam": "UCF Knights",
+            "awayScore": "59",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2116.png",
+            "awayAbbr": "UCF",
+            "homeTeam": "#2 Arizona Wildcats",
+            "homeScore": "81",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
+            "homeAbbr": "ARIZ",
+            "status": "Final",
+            "tv": "ESPN",
+            "winProb": 0.5,
+            "state": "post"
         },
         {
             "id": "401851296",
