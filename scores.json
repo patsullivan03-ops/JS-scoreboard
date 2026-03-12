@@ -1,21 +1,6 @@
 {
-    "lastUpdated": "2026-03-12 21:35:54",
+    "lastUpdated": "2026-03-12 21:40:59",
     "games": [
-        {
-            "id": "401851562",
-            "awayTeam": "Auburn Tigers",
-            "awayScore": "61",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
-            "awayAbbr": "AUB",
-            "homeTeam": "#25 Tennessee Volunteers",
-            "homeScore": "66",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
-            "homeAbbr": "TENN",
-            "status": "0:55 - 2nd Half",
-            "tv": "SEC Network",
-            "winProb": 0.929,
-            "state": "in"
-        },
         {
             "id": "401851377",
             "awayTeam": "Northwestern Wildcats",
@@ -210,6 +195,21 @@
             "tv": "ESPNU",
             "winProb": 0.5,
             "state": "pre"
+        },
+        {
+            "id": "401851562",
+            "awayTeam": "Auburn Tigers",
+            "awayScore": "62",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
+            "awayAbbr": "AUB",
+            "homeTeam": "#25 Tennessee Volunteers",
+            "homeScore": "72",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
+            "homeAbbr": "TENN",
+            "status": "Final",
+            "tv": "SEC Network",
+            "winProb": 0.5,
+            "state": "post"
         },
         {
             "id": "401851299",
