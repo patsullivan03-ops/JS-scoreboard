@@ -1,14 +1,13 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-12 17:06:26*
+*Updated: 2026-03-12 17:11:32*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Providence Friars @ #13 St. John's Red Storm | 27 - 48 | Halftime | Peacock |
 | Iowa Hawkeyes @ Ohio State Buckeyes | 30 - 34 | Halftime | BTN |
-| #7 Iowa State Cyclones @ #16 Texas Tech Red Raiders | 22 - 23 | 7:28 - 1st Half | ESPN |
-| Kentucky Wildcats @ Missouri Tigers | 26 - 20 | 6:01 - 1st Half | SEC Network |
-| George Washington Revolutionaries @ Fordham Rams | 49 - 36 | 11:05 - 2nd Half | USA Net |
-| Massachusetts Minutemen @ #20 Miami (OH) RedHawks | 87 - 83 | 0:05 - 2nd Half | ESPN+ |
+| #7 Iowa State Cyclones @ #16 Texas Tech Red Raiders | 28 - 25 | 4:12 - 1st Half | ESPN |
+| Kentucky Wildcats @ Missouri Tigers | 28 - 20 | 4:54 - 1st Half | SEC Network |
+| George Washington Revolutionaries @ Fordham Rams | 53 - 45 | 8:43 - 2nd Half | USA Net |
+| Providence Friars @ #13 St. John's Red Storm | 27 - 48 | Halftime | Peacock |
 | Alabama A&M Bulldogs @ Texas Southern Tigers | 0 - 0 | Thu, March 12th at 2:00 PM EDT | ESPN+ |
 | St. Bonaventure Bonnies @ George Mason Patriots | 0 - 0 | Thu, March 12th at 2:00 PM EDT | USA Net |
 | Washington Huskies @ #23 Wisconsin Badgers | 0 - 0 | Thu, March 12th at 2:30 PM EDT | BTN |
@@ -28,3 +27,4 @@
 | Oklahoma Sooners @ Texas A&M Aggies | 0 - 0 | Thu, March 12th at 9:30 PM EDT | SEC Network |
 | Georgetown Hoyas @ Villanova Wildcats | 0 - 0 | Thu, March 12th at 9:30 PM EDT | FS1 |
 | Florida Atlantic Owls @ North Texas Mean Green | 0 - 0 | Thu, March 12th at 9:30 PM EDT | ESPNU |
+| Massachusetts Minutemen @ #20 Miami (OH) RedHawks | 87 - 83 | Final | ESPN+ |
