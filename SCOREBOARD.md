@@ -1,5 +1,5 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-12 07:57:10*
+*Updated: 2026-03-12 08:02:14*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
