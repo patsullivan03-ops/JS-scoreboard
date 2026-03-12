@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-12 18:58:22",
+    "lastUpdated": "2026-03-12 19:03:27",
     "games": [
         {
             "id": "401851719",
@@ -17,48 +17,48 @@
             "state": "in"
         },
         {
-            "id": "401851178",
-            "awayTeam": "#24 Louisville Cardinals",
-            "awayScore": "4",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
-            "awayAbbr": "LOU",
-            "homeTeam": "Miami Hurricanes",
-            "homeScore": "6",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
-            "homeAbbr": "MIA",
-            "status": "15:58 - 1st Half",
-            "tv": "ESPN2",
-            "winProb": 0.317,
-            "state": "in"
-        },
-        {
-            "id": "401851376",
-            "awayTeam": "Washington Huskies",
-            "awayScore": "4",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
-            "awayAbbr": "WASH",
-            "homeTeam": "#23 Wisconsin Badgers",
-            "homeScore": "11",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
-            "homeAbbr": "WIS",
-            "status": "13:48 - 1st Half",
-            "tv": "BTN",
-            "winProb": 0.826,
-            "state": "in"
-        },
-        {
             "id": "401851264",
             "awayTeam": "St. Bonaventure Bonnies",
             "awayScore": "24",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/179.png",
             "awayAbbr": "SBU",
             "homeTeam": "George Mason Patriots",
-            "homeScore": "32",
+            "homeScore": "34",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2244.png",
             "homeAbbr": "GMU",
-            "status": "1:03 - 1st Half",
+            "status": "Halftime",
             "tv": "USA Net",
-            "winProb": 0.864,
+            "winProb": 0.5,
+            "state": "in"
+        },
+        {
+            "id": "401851178",
+            "awayTeam": "#24 Louisville Cardinals",
+            "awayScore": "8",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
+            "awayAbbr": "LOU",
+            "homeTeam": "Miami Hurricanes",
+            "homeScore": "8",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
+            "homeAbbr": "MIA",
+            "status": "14:38 - 1st Half",
+            "tv": "ESPN2",
+            "winProb": 0.301,
+            "state": "in"
+        },
+        {
+            "id": "401851376",
+            "awayTeam": "Washington Huskies",
+            "awayScore": "7",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
+            "awayAbbr": "WASH",
+            "homeTeam": "#23 Wisconsin Badgers",
+            "homeScore": "19",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
+            "homeAbbr": "WIS",
+            "status": "11:47 - 1st Half",
+            "tv": "BTN",
+            "winProb": 0.915,
             "state": "in"
         },
         {
@@ -287,21 +287,6 @@
             "state": "pre"
         },
         {
-            "id": "401851561",
-            "awayTeam": "Kentucky Wildcats",
-            "awayScore": "78",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
-            "awayAbbr": "UK",
-            "homeTeam": "Missouri Tigers",
-            "homeScore": "72",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
-            "homeAbbr": "MIZ",
-            "status": "Final",
-            "tv": "SEC Network",
-            "winProb": 0.5,
-            "state": "post"
-        },
-        {
             "id": "401851296",
             "awayTeam": "#7 Iowa State Cyclones",
             "awayScore": "75",
@@ -373,6 +358,21 @@
             "homeAbbr": "OSU",
             "status": "Final",
             "tv": "BTN",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "id": "401851561",
+            "awayTeam": "Kentucky Wildcats",
+            "awayScore": "78",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+            "awayAbbr": "UK",
+            "homeTeam": "Missouri Tigers",
+            "homeScore": "72",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
+            "homeAbbr": "MIZ",
+            "status": "Final",
+            "tv": "SEC Network",
             "winProb": 0.5,
             "state": "post"
         }

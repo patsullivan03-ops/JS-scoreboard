@@ -1,12 +1,12 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-12 18:58:22*
+*Updated: 2026-03-12 19:03:27*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
 | Alabama A&M Bulldogs @ Texas Southern Tigers | 27 - 31 | Halftime | ESPN+ |
-| #24 Louisville Cardinals @ Miami Hurricanes | 4 - 6 | 15:58 - 1st Half | ESPN2 |
-| Washington Huskies @ #23 Wisconsin Badgers | 4 - 11 | 13:48 - 1st Half | BTN |
-| St. Bonaventure Bonnies @ George Mason Patriots | 24 - 32 | 1:03 - 1st Half | USA Net |
+| St. Bonaventure Bonnies @ George Mason Patriots | 24 - 34 | Halftime | USA Net |
+| #24 Louisville Cardinals @ Miami Hurricanes | 8 - 8 | 14:38 - 1st Half | ESPN2 |
+| Washington Huskies @ #23 Wisconsin Badgers | 7 - 19 | 11:47 - 1st Half | BTN |
 | UCF Knights @ #2 Arizona Wildcats | 0 - 0 | Thu, March 12th at 3:00 PM EDT | ESPN |
 | Auburn Tigers @ #25 Tennessee Volunteers | 0 - 0 | Thu, March 12th at 3:00 PM EDT | SEC Network |
 | Northwestern Wildcats @ #18 Purdue Boilermakers | 0 - 0 | Thu, March 12th at 6:30 PM EDT | BTN |
@@ -22,9 +22,9 @@
 | Oklahoma Sooners @ Texas A&M Aggies | 0 - 0 | Thu, March 12th at 9:30 PM EDT | SEC Network |
 | Georgetown Hoyas @ Villanova Wildcats | 0 - 0 | Thu, March 12th at 9:30 PM EDT | FS1 |
 | Florida Atlantic Owls @ North Texas Mean Green | 0 - 0 | Thu, March 12th at 9:30 PM EDT | ESPNU |
-| Kentucky Wildcats @ Missouri Tigers | 78 - 72 | Final | SEC Network |
 | #7 Iowa State Cyclones @ #16 Texas Tech Red Raiders | 75 - 53 | Final | ESPN |
 | Providence Friars @ #13 St. John's Red Storm | 72 - 85 | Final | Peacock |
 | Massachusetts Minutemen @ #20 Miami (OH) RedHawks | 87 - 83 | Final | ESPN+ |
 | George Washington Revolutionaries @ Fordham Rams | 66 - 62 | Final | USA Net |
 | Iowa Hawkeyes @ Ohio State Buckeyes | 69 - 72 | Final | BTN |
+| Kentucky Wildcats @ Missouri Tigers | 78 - 72 | Final | SEC Network |
