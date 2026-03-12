@@ -1,12 +1,12 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-12 01:16:07*
+*Updated: 2026-03-12 01:21:11*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Rutgers Scarlet Knights @ Minnesota Golden Gophers | 11 - 8 | 14:53 - 1st Half | BTN |
-| Fresno State Bulldogs @ Colorado State Rams | 10 - 6 | 14:44 - 1st Half | MWN |
-| New Mexico State Aggies @ Sam Houston Bearkats | 7 - 18 | 14:00 - 1st Half | ESPN+ |
-| Georgetown Hoyas @ DePaul Blue Demons | 0 - 0 | Wed, March 11th at 9:15 PM EDT | Peacock |
+| Georgetown Hoyas @ DePaul Blue Demons | 0 - 4 | 17:44 - 1st Half | Peacock |
+| Fresno State Bulldogs @ Colorado State Rams | 10 - 7 | 12:20 - 1st Half | MWN |
+| Rutgers Scarlet Knights @ Minnesota Golden Gophers | 13 - 13 | 13:18 - 1st Half | BTN |
+| New Mexico State Aggies @ Sam Houston Bearkats | 9 - 20 | 11:31 - 1st Half | ESPN+ |
 | South Carolina Gamecocks @ Oklahoma Sooners | 0 - 0 | Wed, March 11th at 9:30 PM EDT | SEC Network |
 | Oklahoma State Cowboys @ TCU Horned Frogs | 0 - 0 | Wed, March 11th at 9:30 PM EDT | ESPNU |
 | Arizona State Sun Devils @ #7 Iowa State Cyclones | 42 - 91 | Final | ESPN |
