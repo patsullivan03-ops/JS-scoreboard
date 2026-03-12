@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-12 15:45:01",
+    "lastUpdated": "2026-03-12 15:50:07",
     "games": [
         {
             "id": "401858186",
@@ -8,27 +8,27 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/113.png",
             "awayAbbr": "MASS",
             "homeTeam": "#20 Miami (OH) RedHawks",
-            "homeScore": "37",
+            "homeScore": "39",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/193.png",
             "homeAbbr": "M-OH",
-            "status": "0:11 - 1st Half",
+            "status": "Halftime",
             "tv": "ESPN+",
-            "winProb": 0.695,
+            "winProb": 0.5,
             "state": "in"
         },
         {
             "id": "401851263",
             "awayTeam": "George Washington Revolutionaries",
-            "awayScore": "9",
+            "awayScore": "13",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/45.png",
             "awayAbbr": "GW",
             "homeTeam": "Fordham Rams",
-            "homeScore": "2",
+            "homeScore": "4",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2230.png",
             "homeAbbr": "FOR",
-            "status": "13:47 - 1st Half",
+            "status": "12:02 - 1st Half",
             "tv": "USA Net",
-            "winProb": 0.102,
+            "winProb": 0.091,
             "state": "in"
         },
         {
