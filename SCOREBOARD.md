@@ -1,10 +1,10 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-13 21:27:55*
+*Updated: 2026-03-13 21:33:00*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| North Texas Mean Green @ Tulsa Golden Hurricane | 58 - 53 | 8:29 - 2nd Half | ESPN2 |
-| #25 Tennessee Volunteers @ #22 Vanderbilt Commodores | 37 - 33 | 17:07 - 2nd Half | ESPN |
+| North Texas Mean Green @ Tulsa Golden Hurricane | 60 - 58 | 7:08 - 2nd Half | ESPN2 |
+| #25 Tennessee Volunteers @ #22 Vanderbilt Commodores | 39 - 38 | 15:37 - 2nd Half | ESPN |
 | #18 Purdue Boilermakers @ #11 Nebraska Cornhuskers | 0 - 0 | Fri, March 13th at 6:30 PM EDT | BTN |
 | #7 Iowa State Cyclones @ #2 Arizona Wildcats | 0 - 0 | Fri, March 13th at 7:00 PM EDT | ESPN |
 | Miami Hurricanes @ #10 Virginia Cavaliers | 0 - 0 | Fri, March 13th at 7:00 PM EDT | ESPN2 |
