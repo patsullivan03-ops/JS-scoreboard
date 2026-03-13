@@ -1,14 +1,11 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-13 03:46:33*
+*Updated: 2026-03-13 03:51:38*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Clemson Tigers @ #19 North Carolina Tar Heels | 76 - 71 | 1:04 - 2nd Half | ESPN |
-| Florida Atlantic Owls @ North Texas Mean Green | 58 - 65 | 1:35 - 2nd Half | ESPNU |
-| Oklahoma Sooners @ Texas A&M Aggies | 75 - 56 | 5:46 - 2nd Half | SEC Network |
-| Kennesaw State Owls @ Western Kentucky Hilltoppers | 96 - 87 | Final | ESPN+ |
-| Maryland Eastern Shore Hawks @ North Carolina Central Eagles | 76 - 83 | Final/OT | ESPN+ |
-| Georgetown Hoyas @ Villanova Wildcats | 78 - 64 | Final | FS1 |
+| Clemson Tigers @ #19 North Carolina Tar Heels | 78 - 76 | 0:12 - 2nd Half | ESPN |
+| Florida Atlantic Owls @ North Texas Mean Green | 63 - 69 | 0:45 - 2nd Half | ESPNU |
+| Oklahoma Sooners @ Texas A&M Aggies | 79 - 58 | 4:15 - 2nd Half | SEC Network |
 | Florida State Seminoles @ #1 Duke Blue Devils | 79 - 80 | Final | ESPN |
 | UCF Knights @ #2 Arizona Wildcats | 59 - 81 | Final | ESPN |
 | BYU Cougars @ #5 Houston Cougars | 66 - 73 | Final | ESPN2 |
@@ -27,4 +24,7 @@
 | Middle Tennessee Blue Raiders @ Louisiana Tech Bulldogs | 69 - 80 | Final | ESPN+ |
 | Ole Miss Rebels @ Georgia Bulldogs | 76 - 72 | Final | SEC Network |
 | Colorado State Rams @ San Diego State Aztecs | 62 - 71 | Final | CBSSN |
+| Kennesaw State Owls @ Western Kentucky Hilltoppers | 96 - 87 | Final | ESPN+ |
 | Rutgers Scarlet Knights @ UCLA Bruins | 59 - 72 | Final | BTN |
+| Maryland Eastern Shore Hawks @ North Carolina Central Eagles | 76 - 83 | Final/OT | ESPN+ |
+| Georgetown Hoyas @ Villanova Wildcats | 78 - 64 | Final | FS1 |
