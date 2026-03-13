@@ -1,14 +1,14 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-13 03:36:25*
+*Updated: 2026-03-13 03:41:29*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Florida Atlantic Owls @ North Texas Mean Green | 55 - 58 | 4:07 - 2nd Half | ESPNU |
-| Maryland Eastern Shore Hawks @ North Carolina Central Eagles | 76 - 79 | 0:48 - OT | ESPN+ |
-| Clemson Tigers @ #19 North Carolina Tar Heels | 73 - 60 | 3:23 - 2nd Half | ESPN |
-| Georgetown Hoyas @ Villanova Wildcats | 69 - 58 | 3:49 - 2nd Half | FS1 |
-| Oklahoma Sooners @ Texas A&M Aggies | 70 - 54 | 7:22 - 2nd Half | SEC Network |
-| Kennesaw State Owls @ Western Kentucky Hilltoppers | 95 - 87 | 0:09 - 2nd Half | ESPN+ |
+| Florida Atlantic Owls @ North Texas Mean Green | 56 - 60 | 3:27 - 2nd Half | ESPNU |
+| Clemson Tigers @ #19 North Carolina Tar Heels | 73 - 65 | 2:22 - 2nd Half | ESPN |
+| Oklahoma Sooners @ Texas A&M Aggies | 71 - 54 | 6:31 - 2nd Half | SEC Network |
+| Georgetown Hoyas @ Villanova Wildcats | 73 - 60 | 1:50 - 2nd Half | FS1 |
+| Kennesaw State Owls @ Western Kentucky Hilltoppers | 96 - 87 | Final | ESPN+ |
+| Maryland Eastern Shore Hawks @ North Carolina Central Eagles | 76 - 83 | Final/OT | ESPN+ |
 | Florida State Seminoles @ #1 Duke Blue Devils | 79 - 80 | Final | ESPN |
 | UCF Knights @ #2 Arizona Wildcats | 59 - 81 | Final | ESPN |
 | BYU Cougars @ #5 Houston Cougars | 66 - 73 | Final | ESPN2 |
