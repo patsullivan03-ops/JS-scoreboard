@@ -1,15 +1,15 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-13 02:55:44*
+*Updated: 2026-03-13 03:00:49*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
 | Georgetown Hoyas @ Villanova Wildcats | 41 - 36 | 15:39 - 2nd Half | FS1 |
-| Florida Atlantic Owls @ North Texas Mean Green | 32 - 38 | 16:21 - 2nd Half | ESPNU |
-| Kennesaw State Owls @ Western Kentucky Hilltoppers | 66 - 61 | 11:39 - 2nd Half | ESPN+ |
-| Maryland Eastern Shore Hawks @ North Carolina Central Eagles | 55 - 61 | 7:53 - 2nd Half | ESPN+ |
-| Clemson Tigers @ #19 North Carolina Tar Heels | 43 - 33 | 16:30 - 2nd Half | ESPN |
-| Oklahoma Sooners @ Texas A&M Aggies | 49 - 27 | 20:00 - 2nd Half | SEC Network |
-| Colorado State Rams @ San Diego State Aztecs | 47 - 60 | 5:18 - 2nd Half | CBSSN |
+| Kennesaw State Owls @ Western Kentucky Hilltoppers | 70 - 66 | 10:20 - 2nd Half | ESPN+ |
+| Florida Atlantic Owls @ North Texas Mean Green | 34 - 42 | 15:35 - 2nd Half | ESPNU |
+| Clemson Tigers @ #19 North Carolina Tar Heels | 48 - 37 | 14:32 - 2nd Half | ESPN |
+| Maryland Eastern Shore Hawks @ North Carolina Central Eagles | 58 - 68 | 5:06 - 2nd Half | ESPN+ |
+| Colorado State Rams @ San Diego State Aztecs | 52 - 60 | 3:25 - 2nd Half | CBSSN |
+| Oklahoma Sooners @ Texas A&M Aggies | 54 - 35 | 17:09 - 2nd Half | SEC Network |
 | Rutgers Scarlet Knights @ UCLA Bruins | 59 - 72 | Final | BTN |
 | Florida State Seminoles @ #1 Duke Blue Devils | 79 - 80 | Final | ESPN |
 | UCF Knights @ #2 Arizona Wildcats | 59 - 81 | Final | ESPN |
