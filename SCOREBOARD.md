@@ -1,12 +1,12 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-13 19:15:58*
+*Updated: 2026-03-13 19:21:03*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #23 Wisconsin Badgers @ #9 Illinois Fighting Illini | 22 - 28 | 6:11 - 1st Half | BTN |
-| Kentucky Wildcats @ #4 Florida Gators | 50 - 62 | 4:02 - 2nd Half | ESPN |
-| Prairie View A&M Panthers @ Alabama A&M Bulldogs | 44 - 22 | 15:56 - 2nd Half | ESPN+ |
-| Kennesaw State Owls @ Sam Houston Bearkats | 0 - 0 | Fri, March 13th at 3:15 PM EDT | CBSSN |
+| Kennesaw State Owls @ Sam Houston Bearkats | 2 - 4 | 18:16 - 1st Half | CBSSN |
+| #23 Wisconsin Badgers @ #9 Illinois Fighting Illini | 25 - 28 | 4:59 - 1st Half | BTN |
+| Kentucky Wildcats @ #4 Florida Gators | 53 - 62 | 3:13 - 2nd Half | ESPN |
+| Prairie View A&M Panthers @ Alabama A&M Bulldogs | 46 - 22 | 14:36 - 2nd Half | ESPN+ |
 | #25 Tennessee Volunteers @ #22 Vanderbilt Commodores | 0 - 0 | Fri, March 13th at 3:30 PM EDT | ESPN |
 | North Texas Mean Green @ Tulsa Golden Hurricane | 0 - 0 | Fri, March 13th at 3:30 PM EDT | ESPN2 |
 | #18 Purdue Boilermakers @ #11 Nebraska Cornhuskers | 0 - 0 | Fri, March 13th at 6:30 PM EDT | BTN |
