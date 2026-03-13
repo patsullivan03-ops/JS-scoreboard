@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-13 21:17:46",
+    "lastUpdated": "2026-03-13 21:22:51",
     "games": [
         {
             "id": "401851226",
@@ -11,9 +11,9 @@
             "homeScore": "48",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/202.png",
             "homeAbbr": "TLSA",
-            "status": "11:46 - 2nd Half",
+            "status": "11:28 - 2nd Half",
             "tv": "ESPN2",
-            "winProb": 0.558,
+            "winProb": 0.599,
             "state": "in"
         },
         {
@@ -26,7 +26,7 @@
             "homeScore": "31",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
             "homeAbbr": "VAN",
-            "status": "19:07 - 2nd Half",
+            "status": "19:06 - 2nd Half",
             "tv": "ESPN",
             "winProb": 0.393,
             "state": "in"
@@ -34,16 +34,16 @@
         {
             "id": "401851414",
             "awayTeam": "Kennesaw State Owls",
-            "awayScore": "76",
+            "awayScore": "79",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/338.png",
             "awayAbbr": "KENN",
             "homeTeam": "Sam Houston Bearkats",
-            "homeScore": "71",
+            "homeScore": "73",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2534.png",
             "homeAbbr": "SHSU",
-            "status": "1:00 - 2nd Half",
+            "status": "End of 2nd Half",
             "tv": "CBSSN",
-            "winProb": 0.103,
+            "winProb": 0.0,
             "state": "in"
         },
         {
@@ -197,21 +197,6 @@
             "state": "pre"
         },
         {
-            "id": "401851381",
-            "awayTeam": "#23 Wisconsin Badgers",
-            "awayScore": "91",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
-            "awayAbbr": "WIS",
-            "homeTeam": "#9 Illinois Fighting Illini",
-            "homeScore": "88",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/356.png",
-            "homeAbbr": "ILL",
-            "status": "Final/OT",
-            "tv": "BTN",
-            "winProb": 0.5,
-            "state": "post"
-        },
-        {
             "id": "401851380",
             "awayTeam": "Ohio State Buckeyes",
             "awayScore": "67",
@@ -238,6 +223,21 @@
             "homeAbbr": "FLA",
             "status": "Final",
             "tv": "ESPN",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "id": "401851381",
+            "awayTeam": "#23 Wisconsin Badgers",
+            "awayScore": "91",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
+            "awayAbbr": "WIS",
+            "homeTeam": "#9 Illinois Fighting Illini",
+            "homeScore": "88",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/356.png",
+            "homeAbbr": "ILL",
+            "status": "Final/OT",
+            "tv": "BTN",
             "winProb": 0.5,
             "state": "post"
         },
