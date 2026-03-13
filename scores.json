@@ -1,34 +1,34 @@
 {
-    "lastUpdated": "2026-03-13 16:08:02",
+    "lastUpdated": "2026-03-13 16:13:07",
     "games": [
         {
             "id": "401851270",
             "awayTeam": "George Washington Revolutionaries",
-            "awayScore": "32",
+            "awayScore": "36",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/45.png",
             "awayAbbr": "GW",
             "homeTeam": "Saint Louis Billikens",
-            "homeScore": "15",
+            "homeScore": "17",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/139.png",
             "homeAbbr": "SLU",
-            "status": "7:14 - 1st Half",
+            "status": "5:13 - 1st Half",
             "tv": "USA Net",
-            "winProb": 0.145,
+            "winProb": 0.105,
             "state": "in"
         },
         {
             "id": "401851380",
             "awayTeam": "Ohio State Buckeyes",
-            "awayScore": "0",
+            "awayScore": "5",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
             "awayAbbr": "OSU",
             "homeTeam": "#3 Michigan Wolverines",
-            "homeScore": "2",
+            "homeScore": "10",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
             "homeAbbr": "MICH",
-            "status": "19:56 - 1st Half",
+            "status": "15:54 - 1st Half",
             "tv": "BTN",
-            "winProb": 0.864,
+            "winProb": 0.897,
             "state": "in"
         },
         {
