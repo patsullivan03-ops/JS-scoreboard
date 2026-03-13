@@ -1,6 +1,21 @@
 {
-    "lastUpdated": "2026-03-13 21:33:00",
+    "lastUpdated": "2026-03-13 21:38:04",
     "games": [
+        {
+            "id": "401851566",
+            "awayTeam": "#25 Tennessee Volunteers",
+            "awayScore": "46",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
+            "awayAbbr": "TENN",
+            "homeTeam": "#22 Vanderbilt Commodores",
+            "homeScore": "43",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
+            "homeAbbr": "VAN",
+            "status": "13:46 - 2nd Half",
+            "tv": "ESPN",
+            "winProb": 0.292,
+            "state": "in"
+        },
         {
             "id": "401851226",
             "awayTeam": "North Texas Mean Green",
@@ -8,27 +23,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/249.png",
             "awayAbbr": "UNT",
             "homeTeam": "Tulsa Golden Hurricane",
-            "homeScore": "58",
+            "homeScore": "61",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/202.png",
             "homeAbbr": "TLSA",
-            "status": "7:08 - 2nd Half",
+            "status": "5:24 - 2nd Half",
             "tv": "ESPN2",
-            "winProb": 0.554,
-            "state": "in"
-        },
-        {
-            "id": "401851566",
-            "awayTeam": "#25 Tennessee Volunteers",
-            "awayScore": "39",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
-            "awayAbbr": "TENN",
-            "homeTeam": "#22 Vanderbilt Commodores",
-            "homeScore": "38",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
-            "homeAbbr": "VAN",
-            "status": "15:37 - 2nd Half",
-            "tv": "ESPN",
-            "winProb": 0.381,
+            "winProb": 0.71,
             "state": "in"
         },
         {
@@ -182,21 +182,6 @@
             "state": "pre"
         },
         {
-            "id": "401851414",
-            "awayTeam": "Kennesaw State Owls",
-            "awayScore": "79",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/338.png",
-            "awayAbbr": "KENN",
-            "homeTeam": "Sam Houston Bearkats",
-            "homeScore": "73",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2534.png",
-            "homeAbbr": "SHSU",
-            "status": "Final",
-            "tv": "CBSSN",
-            "winProb": 0.5,
-            "state": "post"
-        },
-        {
             "id": "401851380",
             "awayTeam": "Ohio State Buckeyes",
             "awayScore": "67",
@@ -283,6 +268,21 @@
             "homeAbbr": "AAMU",
             "status": "Final",
             "tv": "ESPN+",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "id": "401851414",
+            "awayTeam": "Kennesaw State Owls",
+            "awayScore": "79",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/338.png",
+            "awayAbbr": "KENN",
+            "homeTeam": "Sam Houston Bearkats",
+            "homeScore": "73",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2534.png",
+            "homeAbbr": "SHSU",
+            "status": "Final",
+            "tv": "CBSSN",
             "winProb": 0.5,
             "state": "post"
         }
