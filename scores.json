@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-13 17:24:12",
+    "lastUpdated": "2026-03-13 17:29:17",
     "games": [
         {
             "id": "401851413",
@@ -8,12 +8,27 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2623.png",
             "awayAbbr": "MOST",
             "homeTeam": "Louisiana Tech Bulldogs",
-            "homeScore": "28",
+            "homeScore": "30",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2348.png",
             "homeAbbr": "LT",
-            "status": "0:21 - 1st Half",
+            "status": "Halftime",
             "tv": "CBSSN",
-            "winProb": 0.653,
+            "winProb": 0.5,
+            "state": "in"
+        },
+        {
+            "id": "401851565",
+            "awayTeam": "Kentucky Wildcats",
+            "awayScore": "18",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+            "awayAbbr": "UK",
+            "homeTeam": "#4 Florida Gators",
+            "homeScore": "20",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
+            "homeAbbr": "FLA",
+            "status": "10:40 - 1st Half",
+            "tv": "ESPN",
+            "winProb": 0.785,
             "state": "in"
         },
         {
@@ -23,12 +38,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
             "awayAbbr": "OSU",
             "homeTeam": "#3 Michigan Wolverines",
-            "homeScore": "46",
+            "homeScore": "48",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
             "homeAbbr": "MICH",
-            "status": "14:09 - 2nd Half",
+            "status": "13:38 - 2nd Half",
             "tv": "BTN",
-            "winProb": 0.785,
+            "winProb": 0.877,
             "state": "in"
         },
         {
@@ -38,27 +53,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/45.png",
             "awayAbbr": "GW",
             "homeTeam": "Saint Louis Billikens",
-            "homeScore": "72",
+            "homeScore": "77",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/139.png",
             "homeAbbr": "SLU",
-            "status": "5:32 - 2nd Half",
+            "status": "4:11 - 2nd Half",
             "tv": "USA Net",
-            "winProb": 0.808,
-            "state": "in"
-        },
-        {
-            "id": "401851565",
-            "awayTeam": "Kentucky Wildcats",
-            "awayScore": "8",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
-            "awayAbbr": "UK",
-            "homeTeam": "#4 Florida Gators",
-            "homeScore": "18",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
-            "homeAbbr": "FLA",
-            "status": "12:01 - 1st Half",
-            "tv": "ESPN",
-            "winProb": 0.903,
+            "winProb": 0.952,
             "state": "in"
         },
         {
