@@ -1,34 +1,34 @@
 {
-    "lastUpdated": "2026-03-13 00:48:49",
+    "lastUpdated": "2026-03-13 00:53:54",
     "games": [
         {
             "id": "401851563",
             "awayTeam": "Ole Miss Rebels",
-            "awayScore": "64",
+            "awayScore": "66",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/145.png",
             "awayAbbr": "MISS",
             "homeTeam": "Georgia Bulldogs",
             "homeScore": "61",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/61.png",
             "homeAbbr": "UGA",
-            "status": "4:25 - 2nd Half",
+            "status": "3:07 - 2nd Half",
             "tv": "SEC Network",
-            "winProb": 0.349,
+            "winProb": 0.269,
             "state": "in"
         },
         {
             "id": "401851300",
             "awayTeam": "BYU Cougars",
-            "awayScore": "55",
+            "awayScore": "58",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
             "awayAbbr": "BYU",
             "homeTeam": "#5 Houston Cougars",
-            "homeScore": "59",
+            "homeScore": "61",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
             "homeAbbr": "HOU",
-            "status": "7:42 - 2nd Half",
+            "status": "5:50 - 2nd Half",
             "tv": "ESPN2",
-            "winProb": 0.785,
+            "winProb": 0.744,
             "state": "in"
         },
         {
@@ -38,12 +38,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/52.png",
             "awayAbbr": "FSU",
             "homeTeam": "#1 Duke Blue Devils",
-            "homeScore": "69",
+            "homeScore": "70",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
             "homeAbbr": "DUKE",
-            "status": "7:59 - 2nd Half",
+            "status": "6:29 - 2nd Half",
             "tv": "ESPN",
-            "winProb": 0.964,
+            "winProb": 0.976,
             "state": "in"
         },
         {
