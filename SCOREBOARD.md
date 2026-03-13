@@ -1,15 +1,15 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-13 03:05:55*
+*Updated: 2026-03-13 03:11:01*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Georgetown Hoyas @ Villanova Wildcats | 44 - 42 | 14:43 - 2nd Half | FS1 |
-| Kennesaw State Owls @ Western Kentucky Hilltoppers | 74 - 72 | 8:22 - 2nd Half | ESPN+ |
-| Florida Atlantic Owls @ North Texas Mean Green | 38 - 45 | 13:40 - 2nd Half | ESPNU |
-| Clemson Tigers @ #19 North Carolina Tar Heels | 48 - 39 | 14:09 - 2nd Half | ESPN |
-| Maryland Eastern Shore Hawks @ North Carolina Central Eagles | 62 - 68 | 3:32 - 2nd Half | ESPN+ |
-| Colorado State Rams @ San Diego State Aztecs | 55 - 62 | 2:19 - 2nd Half | CBSSN |
-| Oklahoma Sooners @ Texas A&M Aggies | 54 - 40 | 16:19 - 2nd Half | SEC Network |
+| Georgetown Hoyas @ Villanova Wildcats | 51 - 49 | 12:16 - 2nd Half | FS1 |
+| Kennesaw State Owls @ Western Kentucky Hilltoppers | 78 - 75 | 6:32 - 2nd Half | ESPN+ |
+| Florida Atlantic Owls @ North Texas Mean Green | 42 - 47 | 11:39 - 2nd Half | ESPNU |
+| Maryland Eastern Shore Hawks @ North Carolina Central Eagles | 66 - 70 | 2:30 - 2nd Half | ESPN+ |
+| Oklahoma Sooners @ Texas A&M Aggies | 54 - 40 | 15:25 - 2nd Half | SEC Network |
+| Clemson Tigers @ #19 North Carolina Tar Heels | 58 - 41 | 12:00 - 2nd Half | ESPN |
+| Colorado State Rams @ San Diego State Aztecs | 55 - 64 | 1:28 - 2nd Half | CBSSN |
 | Florida State Seminoles @ #1 Duke Blue Devils | 79 - 80 | Final | ESPN |
 | UCF Knights @ #2 Arizona Wildcats | 59 - 81 | Final | ESPN |
 | BYU Cougars @ #5 Houston Cougars | 66 - 73 | Final | ESPN2 |
