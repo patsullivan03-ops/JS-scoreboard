@@ -1,6 +1,21 @@
 {
-    "lastUpdated": "2026-03-13 17:54:42",
+    "lastUpdated": "2026-03-13 17:59:47",
     "games": [
+        {
+            "id": "401851413",
+            "awayTeam": "Missouri State Bears",
+            "awayScore": "41",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2623.png",
+            "awayAbbr": "MOST",
+            "homeTeam": "Louisiana Tech Bulldogs",
+            "homeScore": "43",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2348.png",
+            "homeAbbr": "LT",
+            "status": "11:46 - 2nd Half",
+            "tv": "CBSSN",
+            "winProb": 0.633,
+            "state": "in"
+        },
         {
             "id": "401851380",
             "awayTeam": "Ohio State Buckeyes",
@@ -8,27 +23,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
             "awayAbbr": "OSU",
             "homeTeam": "#3 Michigan Wolverines",
-            "homeScore": "60",
+            "homeScore": "64",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
             "homeAbbr": "MICH",
-            "status": "5:03 - 2nd Half",
+            "status": "3:35 - 2nd Half",
             "tv": "BTN",
-            "winProb": 0.55,
-            "state": "in"
-        },
-        {
-            "id": "401851413",
-            "awayTeam": "Missouri State Bears",
-            "awayScore": "36",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2623.png",
-            "awayAbbr": "MOST",
-            "homeTeam": "Louisiana Tech Bulldogs",
-            "homeScore": "38",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2348.png",
-            "homeAbbr": "LT",
-            "status": "14:39 - 2nd Half",
-            "tv": "CBSSN",
-            "winProb": 0.589,
+            "winProb": 0.772,
             "state": "in"
         },
         {
@@ -38,12 +38,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
             "awayAbbr": "UK",
             "homeTeam": "#4 Florida Gators",
-            "homeScore": "33",
+            "homeScore": "35",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
             "homeAbbr": "FLA",
-            "status": "1:53 - 1st Half",
+            "status": "0:48 - 1st Half",
             "tv": "ESPN",
-            "winProb": 0.875,
+            "winProb": 0.927,
             "state": "in"
         },
         {
