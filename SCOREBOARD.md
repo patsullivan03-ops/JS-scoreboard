@@ -1,11 +1,11 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-13 18:35:21*
+*Updated: 2026-03-13 18:40:26*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Prairie View A&M Panthers @ Alabama A&M Bulldogs | 23 - 19 | 6:19 - 1st Half | ESPN+ |
-| Missouri State Bears @ Louisiana Tech Bulldogs | 64 - 67 | 0:15 - 2nd Half | CBSSN |
-| Kentucky Wildcats @ #4 Florida Gators | 34 - 49 | 12:38 - 2nd Half | ESPN |
+| Prairie View A&M Panthers @ Alabama A&M Bulldogs | 28 - 19 | 3:18 - 1st Half | ESPN+ |
+| Missouri State Bears @ Louisiana Tech Bulldogs | 66 - 68 | 0:03 - 2nd Half | CBSSN |
+| Kentucky Wildcats @ #4 Florida Gators | 36 - 49 | 12:07 - 2nd Half | ESPN |
 | #23 Wisconsin Badgers @ #9 Illinois Fighting Illini | 0 - 0 | Fri, March 13th at 2:30 PM EDT | BTN |
 | Kennesaw State Owls @ Sam Houston Bearkats | 0 - 0 | Fri, March 13th at 3:00 PM EDT | CBSSN |
 | #25 Tennessee Volunteers @ #22 Vanderbilt Commodores | 0 - 0 | Fri, March 13th at 3:30 PM EDT | ESPN |
