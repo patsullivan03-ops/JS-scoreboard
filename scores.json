@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-13 16:38:30",
+    "lastUpdated": "2026-03-13 16:43:35",
     "games": [
         {
             "id": "401851270",
@@ -19,31 +19,31 @@
         {
             "id": "401851413",
             "awayTeam": "Missouri State Bears",
-            "awayScore": "2",
+            "awayScore": "4",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2623.png",
             "awayAbbr": "MOST",
             "homeTeam": "Louisiana Tech Bulldogs",
-            "homeScore": "0",
+            "homeScore": "2",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2348.png",
             "homeAbbr": "LT",
-            "status": "18:45 - 1st Half",
+            "status": "16:40 - 1st Half",
             "tv": "CBSSN",
-            "winProb": 0.484,
+            "winProb": 0.475,
             "state": "in"
         },
         {
             "id": "401851380",
             "awayTeam": "Ohio State Buckeyes",
-            "awayScore": "18",
+            "awayScore": "25",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
             "awayAbbr": "OSU",
             "homeTeam": "#3 Michigan Wolverines",
-            "homeScore": "27",
+            "homeScore": "31",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
             "homeAbbr": "MICH",
-            "status": "7:06 - 1st Half",
+            "status": "4:04 - 1st Half",
             "tv": "BTN",
-            "winProb": 0.929,
+            "winProb": 0.892,
             "state": "in"
         },
         {
