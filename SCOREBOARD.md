@@ -1,16 +1,16 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-13 01:39:33*
+*Updated: 2026-03-13 01:44:38*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Florida Atlantic Owls @ North Texas Mean Green | 5 - 3 | 17:44 - 1st Half | ESPNU |
-| Colorado State Rams @ San Diego State Aztecs | 22 - 25 | 6:13 - 1st Half | CBSSN |
-| Kennesaw State Owls @ Western Kentucky Hilltoppers | 21 - 12 | 12:12 - 1st Half | ESPN+ |
-| Maryland Eastern Shore Hawks @ North Carolina Central Eagles | 24 - 13 | 7:58 - 1st Half | ESPN+ |
-| Rutgers Scarlet Knights @ UCLA Bruins | 22 - 30 | 2:01 - 1st Half | BTN |
-| Clemson Tigers @ #19 North Carolina Tar Heels | 0 - 0 | Thu, March 12th at 9:30 PM EDT | ESPN |
-| Oklahoma Sooners @ Texas A&M Aggies | 0 - 0 | Thu, March 12th at 9:30 PM EDT | SEC Network |
-| Georgetown Hoyas @ Villanova Wildcats | 0 - 0 | Thu, March 12th at 9:30 PM EDT | FS1 |
+| Rutgers Scarlet Knights @ UCLA Bruins | 24 - 30 | Halftime | BTN |
+| Clemson Tigers @ #19 North Carolina Tar Heels | 6 - 3 | 17:44 - 1st Half | ESPN |
+| Florida Atlantic Owls @ North Texas Mean Green | 9 - 3 | 15:45 - 1st Half | ESPNU |
+| Colorado State Rams @ San Diego State Aztecs | 26 - 28 | 4:07 - 1st Half | CBSSN |
+| Georgetown Hoyas @ Villanova Wildcats | 4 - 4 | 17:40 - 1st Half | FS1 |
+| Kennesaw State Owls @ Western Kentucky Hilltoppers | 23 - 15 | 10:29 - 1st Half | ESPN+ |
+| Maryland Eastern Shore Hawks @ North Carolina Central Eagles | 26 - 16 | 6:37 - 1st Half | ESPN+ |
+| Oklahoma Sooners @ Texas A&M Aggies | 0 - 0 | Thu, March 12th at 9:50 PM EDT | SEC Network |
 | Florida State Seminoles @ #1 Duke Blue Devils | 79 - 80 | Final | ESPN |
 | UCF Knights @ #2 Arizona Wildcats | 59 - 81 | Final | ESPN |
 | BYU Cougars @ #5 Houston Cougars | 66 - 73 | Final | ESPN2 |
