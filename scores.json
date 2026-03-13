@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-13 17:03:53",
+    "lastUpdated": "2026-03-13 17:08:58",
     "games": [
         {
             "id": "401851380",
@@ -19,47 +19,47 @@
         {
             "id": "401851270",
             "awayTeam": "George Washington Revolutionaries",
-            "awayScore": "56",
+            "awayScore": "58",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/45.png",
             "awayAbbr": "GW",
             "homeTeam": "Saint Louis Billikens",
-            "homeScore": "52",
+            "homeScore": "54",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/139.png",
             "homeAbbr": "SLU",
-            "status": "13:49 - 2nd Half",
+            "status": "12:31 - 2nd Half",
             "tv": "USA Net",
-            "winProb": 0.459,
+            "winProb": 0.508,
             "state": "in"
         },
         {
             "id": "401851413",
             "awayTeam": "Missouri State Bears",
-            "awayScore": "13",
+            "awayScore": "17",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2623.png",
             "awayAbbr": "MOST",
             "homeTeam": "Louisiana Tech Bulldogs",
-            "homeScore": "10",
+            "homeScore": "17",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2348.png",
             "homeAbbr": "LT",
-            "status": "8:57 - 1st Half",
+            "status": "6:16 - 1st Half",
             "tv": "CBSSN",
-            "winProb": 0.456,
+            "winProb": 0.555,
             "state": "in"
         },
         {
             "id": "401851565",
             "awayTeam": "Kentucky Wildcats",
-            "awayScore": "0",
+            "awayScore": "2",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
             "awayAbbr": "UK",
             "homeTeam": "#4 Florida Gators",
-            "homeScore": "0",
+            "homeScore": "8",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
             "homeAbbr": "FLA",
-            "status": "Fri, March 13th at 1:00 PM EDT",
+            "status": "17:04 - 1st Half",
             "tv": "ESPN",
-            "winProb": 0.5,
-            "state": "pre"
+            "winProb": 0.83,
+            "state": "in"
         },
         {
             "id": "401851722",
