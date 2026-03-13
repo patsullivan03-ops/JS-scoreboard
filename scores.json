@@ -1,34 +1,34 @@
 {
-    "lastUpdated": "2026-03-13 22:44:02",
+    "lastUpdated": "2026-03-13 22:49:07",
     "games": [
         {
             "id": "401851382",
             "awayTeam": "#18 Purdue Boilermakers",
-            "awayScore": "13",
+            "awayScore": "15",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
             "awayAbbr": "PUR",
             "homeTeam": "#11 Nebraska Cornhuskers",
-            "homeScore": "3",
+            "homeScore": "8",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/158.png",
             "homeAbbr": "NEB",
-            "status": "16:02 - 1st Half",
+            "status": "13:28 - 1st Half",
             "tv": "BTN",
-            "winProb": 0.173,
+            "winProb": 0.209,
             "state": "in"
         },
         {
             "id": "401851226",
             "awayTeam": "North Texas Mean Green",
-            "awayScore": "81",
+            "awayScore": "84",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/249.png",
             "awayAbbr": "UNT",
             "homeTeam": "Tulsa Golden Hurricane",
             "homeScore": "86",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/202.png",
             "homeAbbr": "TLSA",
-            "status": "0:52 - 3OT",
+            "status": "0:16 - 3OT",
             "tv": "ESPN2",
-            "winProb": 0.858,
+            "winProb": 0.868,
             "state": "in"
         },
         {
