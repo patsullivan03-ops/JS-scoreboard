@@ -1,14 +1,14 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-13 03:41:29*
+*Updated: 2026-03-13 03:46:33*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Florida Atlantic Owls @ North Texas Mean Green | 56 - 60 | 3:27 - 2nd Half | ESPNU |
-| Clemson Tigers @ #19 North Carolina Tar Heels | 73 - 65 | 2:22 - 2nd Half | ESPN |
-| Oklahoma Sooners @ Texas A&M Aggies | 71 - 54 | 6:31 - 2nd Half | SEC Network |
-| Georgetown Hoyas @ Villanova Wildcats | 73 - 60 | 1:50 - 2nd Half | FS1 |
+| Clemson Tigers @ #19 North Carolina Tar Heels | 76 - 71 | 1:04 - 2nd Half | ESPN |
+| Florida Atlantic Owls @ North Texas Mean Green | 58 - 65 | 1:35 - 2nd Half | ESPNU |
+| Oklahoma Sooners @ Texas A&M Aggies | 75 - 56 | 5:46 - 2nd Half | SEC Network |
 | Kennesaw State Owls @ Western Kentucky Hilltoppers | 96 - 87 | Final | ESPN+ |
 | Maryland Eastern Shore Hawks @ North Carolina Central Eagles | 76 - 83 | Final/OT | ESPN+ |
+| Georgetown Hoyas @ Villanova Wildcats | 78 - 64 | Final | FS1 |
 | Florida State Seminoles @ #1 Duke Blue Devils | 79 - 80 | Final | ESPN |
 | UCF Knights @ #2 Arizona Wildcats | 59 - 81 | Final | ESPN |
 | BYU Cougars @ #5 Houston Cougars | 66 - 73 | Final | ESPN2 |
