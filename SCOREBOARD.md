@@ -1,9 +1,9 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-13 15:42:40*
+*Updated: 2026-03-13 15:47:44*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| George Washington Revolutionaries @ Saint Louis Billikens | 7 - 6 | 16:23 - 1st Half | USA Net |
+| George Washington Revolutionaries @ Saint Louis Billikens | 8 - 11 | 14:49 - 1st Half | USA Net |
 | Ohio State Buckeyes @ #3 Michigan Wolverines | 0 - 0 | Fri, March 13th at 12:00 PM EDT | BTN |
 | Missouri State Bears @ Louisiana Tech Bulldogs | 0 - 0 | Fri, March 13th at 12:30 PM EDT | CBSSN |
 | Kentucky Wildcats @ #4 Florida Gators | 0 - 0 | Fri, March 13th at 1:00 PM EDT | ESPN |
