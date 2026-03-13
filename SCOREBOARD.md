@@ -1,9 +1,9 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-13 22:28:49*
+*Updated: 2026-03-13 22:33:53*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| North Texas Mean Green @ Tulsa Golden Hurricane | 77 - 79 | 0:35 - 2OT | ESPN2 |
+| North Texas Mean Green @ Tulsa Golden Hurricane | 79 - 79 | End of 2OT | ESPN2 |
 | #18 Purdue Boilermakers @ #11 Nebraska Cornhuskers | 0 - 0 | Fri, March 13th at 6:30 PM EDT | BTN |
 | #7 Iowa State Cyclones @ #2 Arizona Wildcats | 0 - 0 | Fri, March 13th at 7:00 PM EDT | ESPN |
 | Miami Hurricanes @ #10 Virginia Cavaliers | 0 - 0 | Fri, March 13th at 7:00 PM EDT | ESPN2 |
