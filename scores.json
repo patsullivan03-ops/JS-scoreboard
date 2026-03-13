@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-13 16:58:48",
+    "lastUpdated": "2026-03-13 17:03:53",
     "games": [
         {
             "id": "401851380",
@@ -17,33 +17,33 @@
             "state": "in"
         },
         {
-            "id": "401851413",
-            "awayTeam": "Missouri State Bears",
-            "awayScore": "9",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2623.png",
-            "awayAbbr": "MOST",
-            "homeTeam": "Louisiana Tech Bulldogs",
-            "homeScore": "7",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2348.png",
-            "homeAbbr": "LT",
-            "status": "11:45 - 1st Half",
-            "tv": "CBSSN",
-            "winProb": 0.5,
-            "state": "in"
-        },
-        {
             "id": "401851270",
             "awayTeam": "George Washington Revolutionaries",
-            "awayScore": "50",
+            "awayScore": "56",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/45.png",
             "awayAbbr": "GW",
             "homeTeam": "Saint Louis Billikens",
-            "homeScore": "45",
+            "homeScore": "52",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/139.png",
             "homeAbbr": "SLU",
-            "status": "16:56 - 2nd Half",
+            "status": "13:49 - 2nd Half",
             "tv": "USA Net",
-            "winProb": 0.518,
+            "winProb": 0.459,
+            "state": "in"
+        },
+        {
+            "id": "401851413",
+            "awayTeam": "Missouri State Bears",
+            "awayScore": "13",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2623.png",
+            "awayAbbr": "MOST",
+            "homeTeam": "Louisiana Tech Bulldogs",
+            "homeScore": "10",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2348.png",
+            "homeAbbr": "LT",
+            "status": "8:57 - 1st Half",
+            "tv": "CBSSN",
+            "winProb": 0.456,
             "state": "in"
         },
         {
