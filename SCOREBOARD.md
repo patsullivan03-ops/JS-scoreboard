@@ -1,12 +1,12 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-13 01:24:20*
+*Updated: 2026-03-13 01:29:25*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Kennesaw State Owls @ Western Kentucky Hilltoppers | 6 - 1 | 18:10 - 1st Half | ESPN+ |
-| Colorado State Rams @ San Diego State Aztecs | 13 - 14 | 11:51 - 1st Half | CBSSN |
-| Maryland Eastern Shore Hawks @ North Carolina Central Eagles | 13 - 4 | 13:27 - 1st Half | ESPN+ |
-| Rutgers Scarlet Knights @ UCLA Bruins | 14 - 18 | 8:12 - 1st Half | BTN |
+| Kennesaw State Owls @ Western Kentucky Hilltoppers | 12 - 8 | 16:16 - 1st Half | ESPN+ |
+| Colorado State Rams @ San Diego State Aztecs | 15 - 18 | 9:42 - 1st Half | CBSSN |
+| Maryland Eastern Shore Hawks @ North Carolina Central Eagles | 18 - 4 | 12:21 - 1st Half | ESPN+ |
+| Rutgers Scarlet Knights @ UCLA Bruins | 16 - 23 | 6:54 - 1st Half | BTN |
 | Clemson Tigers @ #19 North Carolina Tar Heels | 0 - 0 | Thu, March 12th at 9:30 PM EDT | ESPN |
 | Oklahoma Sooners @ Texas A&M Aggies | 0 - 0 | Thu, March 12th at 9:30 PM EDT | SEC Network |
 | Georgetown Hoyas @ Villanova Wildcats | 0 - 0 | Thu, March 12th at 9:30 PM EDT | FS1 |
