@@ -1,12 +1,12 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-13 00:58:58*
+*Updated: 2026-03-13 01:04:02*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| BYU Cougars @ #5 Houston Cougars | 58 - 61 | 3:50 - 2nd Half | ESPN2 |
-| Ole Miss Rebels @ Georgia Bulldogs | 68 - 63 | 1:34 - 2nd Half | SEC Network |
-| Rutgers Scarlet Knights @ UCLA Bruins | 2 - 0 | 19:34 - 1st Half | BTN |
-| Florida State Seminoles @ #1 Duke Blue Devils | 67 - 72 | 4:48 - 2nd Half | ESPN |
+| Florida State Seminoles @ #1 Duke Blue Devils | 70 - 75 | 3:30 - 2nd Half | ESPN |
+| Rutgers Scarlet Knights @ UCLA Bruins | 4 - 6 | 16:07 - 1st Half | BTN |
+| BYU Cougars @ #5 Houston Cougars | 58 - 64 | 2:10 - 2nd Half | ESPN2 |
+| Ole Miss Rebels @ Georgia Bulldogs | 72 - 65 | 0:37 - 2nd Half | SEC Network |
 | Colorado State Rams @ San Diego State Aztecs | 0 - 0 | Thu, March 12th at 9:00 PM EDT | CBSSN |
 | Kennesaw State Owls @ Western Kentucky Hilltoppers | 0 - 0 | Thu, March 12th at 9:00 PM EDT | ESPN+ |
 | Maryland Eastern Shore Hawks @ North Carolina Central Eagles | 0 - 0 | Thu, March 12th at 9:10 PM EDT | ESPN+ |
@@ -14,7 +14,6 @@
 | Oklahoma Sooners @ Texas A&M Aggies | 0 - 0 | Thu, March 12th at 9:30 PM EDT | SEC Network |
 | Georgetown Hoyas @ Villanova Wildcats | 0 - 0 | Thu, March 12th at 9:30 PM EDT | FS1 |
 | Florida Atlantic Owls @ North Texas Mean Green | 0 - 0 | Thu, March 12th at 9:30 PM EDT | ESPNU |
-| Middle Tennessee Blue Raiders @ Louisiana Tech Bulldogs | 69 - 80 | Final | ESPN+ |
 | UCF Knights @ #2 Arizona Wildcats | 59 - 81 | Final | ESPN |
 | #7 Iowa State Cyclones @ #16 Texas Tech Red Raiders | 75 - 53 | Final | ESPN |
 | Providence Friars @ #13 St. John's Red Storm | 72 - 85 | Final | Peacock |
@@ -28,3 +27,4 @@
 | Kentucky Wildcats @ Missouri Tigers | 78 - 72 | Final | SEC Network |
 | Alabama A&M Bulldogs @ Texas Southern Tigers | 85 - 74 | Final/OT | ESPN+ |
 | St. Bonaventure Bonnies @ George Mason Patriots | 63 - 57 | Final | USA Net |
+| Middle Tennessee Blue Raiders @ Louisiana Tech Bulldogs | 69 - 80 | Final | ESPN+ |
