@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-13 20:11:48",
+    "lastUpdated": "2026-03-13 20:16:53",
     "games": [
         {
             "id": "401851414",
@@ -17,48 +17,48 @@
             "state": "in"
         },
         {
-            "id": "401851226",
-            "awayTeam": "North Texas Mean Green",
-            "awayScore": "24",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/249.png",
-            "awayAbbr": "UNT",
-            "homeTeam": "Tulsa Golden Hurricane",
-            "homeScore": "14",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/202.png",
-            "homeAbbr": "TLSA",
-            "status": "10:38 - 1st Half",
-            "tv": "ESPN2",
-            "winProb": 0.384,
-            "state": "in"
-        },
-        {
             "id": "401851566",
             "awayTeam": "#25 Tennessee Volunteers",
-            "awayScore": "6",
+            "awayScore": "8",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
             "awayAbbr": "TENN",
             "homeTeam": "#22 Vanderbilt Commodores",
-            "homeScore": "3",
+            "homeScore": "4",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
             "homeAbbr": "VAN",
-            "status": "15:13 - 1st Half",
+            "status": "14:24 - 1st Half",
             "tv": "ESPN",
-            "winProb": 0.38,
+            "winProb": 0.353,
+            "state": "in"
+        },
+        {
+            "id": "401851226",
+            "awayTeam": "North Texas Mean Green",
+            "awayScore": "28",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/249.png",
+            "awayAbbr": "UNT",
+            "homeTeam": "Tulsa Golden Hurricane",
+            "homeScore": "16",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/202.png",
+            "homeAbbr": "TLSA",
+            "status": "8:41 - 1st Half",
+            "tv": "ESPN2",
+            "winProb": 0.293,
             "state": "in"
         },
         {
             "id": "401851381",
             "awayTeam": "#23 Wisconsin Badgers",
-            "awayScore": "50",
+            "awayScore": "54",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
             "awayAbbr": "WIS",
             "homeTeam": "#9 Illinois Fighting Illini",
             "homeScore": "60",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/356.png",
             "homeAbbr": "ILL",
-            "status": "10:07 - 2nd Half",
+            "status": "8:52 - 2nd Half",
             "tv": "BTN",
-            "winProb": 0.946,
+            "winProb": 0.866,
             "state": "in"
         },
         {
