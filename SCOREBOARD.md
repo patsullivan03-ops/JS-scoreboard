@@ -1,13 +1,13 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-13 19:26:07*
+*Updated: 2026-03-13 19:31:12*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Kennesaw State Owls @ Sam Houston Bearkats | 6 - 12 | 15:27 - 1st Half | CBSSN |
-| #23 Wisconsin Badgers @ #9 Illinois Fighting Illini | 29 - 32 | 1:41 - 1st Half | BTN |
-| Kentucky Wildcats @ #4 Florida Gators | 58 - 66 | 1:37 - 2nd Half | ESPN |
-| Prairie View A&M Panthers @ Alabama A&M Bulldogs | 46 - 25 | 12:12 - 2nd Half | ESPN+ |
-| #25 Tennessee Volunteers @ #22 Vanderbilt Commodores | 0 - 0 | Fri, March 13th at 3:30 PM EDT | ESPN |
+| Kennesaw State Owls @ Sam Houston Bearkats | 12 - 17 | 13:13 - 1st Half | CBSSN |
+| #23 Wisconsin Badgers @ #9 Illinois Fighting Illini | 30 - 36 | 0:48 - 1st Half | BTN |
+| Prairie View A&M Panthers @ Alabama A&M Bulldogs | 48 - 29 | 10:59 - 2nd Half | ESPN+ |
+| Kentucky Wildcats @ #4 Florida Gators | 63 - 70 | 0:11 - 2nd Half | ESPN |
+| #25 Tennessee Volunteers @ #22 Vanderbilt Commodores | 0 - 0 | Fri, March 13th at 4:00 PM EDT | ESPN |
 | North Texas Mean Green @ Tulsa Golden Hurricane | 0 - 0 | Fri, March 13th at 3:30 PM EDT | ESPN2 |
 | #18 Purdue Boilermakers @ #11 Nebraska Cornhuskers | 0 - 0 | Fri, March 13th at 6:30 PM EDT | BTN |
 | #7 Iowa State Cyclones @ #2 Arizona Wildcats | 0 - 0 | Fri, March 13th at 7:00 PM EDT | ESPN |
