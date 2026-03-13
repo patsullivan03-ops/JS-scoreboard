@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-13 15:52:49",
+    "lastUpdated": "2026-03-13 15:57:54",
     "games": [
         {
             "id": "401851270",
             "awayTeam": "George Washington Revolutionaries",
-            "awayScore": "17",
+            "awayScore": "23",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/45.png",
             "awayAbbr": "GW",
             "homeTeam": "Saint Louis Billikens",
-            "homeScore": "11",
+            "homeScore": "13",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/139.png",
             "homeAbbr": "SLU",
-            "status": "11:44 - 1st Half",
+            "status": "10:33 - 1st Half",
             "tv": "USA Net",
-            "winProb": 0.522,
+            "winProb": 0.378,
             "state": "in"
         },
         {
