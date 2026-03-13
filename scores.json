@@ -1,34 +1,19 @@
 {
-    "lastUpdated": "2026-03-13 18:45:31",
+    "lastUpdated": "2026-03-13 18:50:35",
     "games": [
         {
             "id": "401851722",
             "awayTeam": "Prairie View A&M Panthers",
-            "awayScore": "29",
+            "awayScore": "36",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2504.png",
             "awayAbbr": "PV",
             "homeTeam": "Alabama A&M Bulldogs",
-            "homeScore": "19",
+            "homeScore": "21",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2010.png",
             "homeAbbr": "AAMU",
-            "status": "2:06 - 1st Half",
+            "status": "Halftime",
             "tv": "ESPN+",
-            "winProb": 0.143,
-            "state": "in"
-        },
-        {
-            "id": "401851565",
-            "awayTeam": "Kentucky Wildcats",
-            "awayScore": "36",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
-            "awayAbbr": "UK",
-            "homeTeam": "#4 Florida Gators",
-            "homeScore": "50",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
-            "homeAbbr": "FLA",
-            "status": "12:06 - 2nd Half",
-            "tv": "ESPN",
-            "winProb": 0.979,
+            "winProb": 0.5,
             "state": "in"
         },
         {
@@ -41,10 +26,25 @@
             "homeScore": "0",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/356.png",
             "homeAbbr": "ILL",
-            "status": "Fri, March 13th at 2:30 PM EDT",
+            "status": "19:31 - 1st Half",
             "tv": "BTN",
-            "winProb": 0.5,
-            "state": "pre"
+            "winProb": 0.746,
+            "state": "in"
+        },
+        {
+            "id": "401851565",
+            "awayTeam": "Kentucky Wildcats",
+            "awayScore": "40",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+            "awayAbbr": "UK",
+            "homeTeam": "#4 Florida Gators",
+            "homeScore": "54",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
+            "homeAbbr": "FLA",
+            "status": "10:41 - 2nd Half",
+            "tv": "ESPN",
+            "winProb": 0.98,
+            "state": "in"
         },
         {
             "id": "401851414",
@@ -242,21 +242,6 @@
             "state": "pre"
         },
         {
-            "id": "401851413",
-            "awayTeam": "Missouri State Bears",
-            "awayScore": "66",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2623.png",
-            "awayAbbr": "MOST",
-            "homeTeam": "Louisiana Tech Bulldogs",
-            "homeScore": "69",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2348.png",
-            "homeAbbr": "LT",
-            "status": "Final",
-            "tv": "CBSSN",
-            "winProb": 0.5,
-            "state": "post"
-        },
-        {
             "id": "401851380",
             "awayTeam": "Ohio State Buckeyes",
             "awayScore": "67",
@@ -283,6 +268,21 @@
             "homeAbbr": "SLU",
             "status": "Final",
             "tv": "USA Net",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "id": "401851413",
+            "awayTeam": "Missouri State Bears",
+            "awayScore": "66",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2623.png",
+            "awayAbbr": "MOST",
+            "homeTeam": "Louisiana Tech Bulldogs",
+            "homeScore": "69",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2348.png",
+            "homeAbbr": "LT",
+            "status": "Final",
+            "tv": "CBSSN",
             "winProb": 0.5,
             "state": "post"
         }
