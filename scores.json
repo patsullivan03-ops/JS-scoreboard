@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-13 00:28:30",
+    "lastUpdated": "2026-03-13 00:33:36",
     "games": [
         {
             "id": "401851474",
@@ -17,33 +17,33 @@
             "state": "in"
         },
         {
-            "id": "401851300",
-            "awayTeam": "BYU Cougars",
-            "awayScore": "51",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
-            "awayAbbr": "BYU",
-            "homeTeam": "#5 Houston Cougars",
-            "homeScore": "49",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
-            "homeAbbr": "HOU",
-            "status": "13:54 - 2nd Half",
-            "tv": "ESPN2",
-            "winProb": 0.596,
-            "state": "in"
-        },
-        {
             "id": "401851179",
             "awayTeam": "Florida State Seminoles",
-            "awayScore": "54",
+            "awayScore": "59",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/52.png",
             "awayAbbr": "FSU",
             "homeTeam": "#1 Duke Blue Devils",
             "homeScore": "51",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
             "homeAbbr": "DUKE",
-            "status": "15:01 - 2nd Half",
+            "status": "13:01 - 2nd Half",
             "tv": "ESPN",
-            "winProb": 0.772,
+            "winProb": 0.552,
+            "state": "in"
+        },
+        {
+            "id": "401851300",
+            "awayTeam": "BYU Cougars",
+            "awayScore": "51",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
+            "awayAbbr": "BYU",
+            "homeTeam": "#5 Houston Cougars",
+            "homeScore": "51",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
+            "homeAbbr": "HOU",
+            "status": "12:23 - 2nd Half",
+            "tv": "ESPN2",
+            "winProb": 0.622,
             "state": "in"
         },
         {
@@ -56,24 +56,24 @@
             "homeScore": "69",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2348.png",
             "homeAbbr": "LT",
-            "status": "2:51 - 2nd Half",
+            "status": "1:47 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.935,
+            "winProb": 0.931,
             "state": "in"
         },
         {
             "id": "401851563",
             "awayTeam": "Ole Miss Rebels",
-            "awayScore": "55",
+            "awayScore": "57",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/145.png",
             "awayAbbr": "MISS",
             "homeTeam": "Georgia Bulldogs",
-            "homeScore": "38",
+            "homeScore": "41",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/61.png",
             "homeAbbr": "UGA",
-            "status": "11:33 - 2nd Half",
+            "status": "10:05 - 2nd Half",
             "tv": "SEC Network",
-            "winProb": 0.025,
+            "winProb": 0.026,
             "state": "in"
         },
         {
@@ -182,21 +182,6 @@
             "state": "pre"
         },
         {
-            "id": "401851377",
-            "awayTeam": "Northwestern Wildcats",
-            "awayScore": "68",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/77.png",
-            "awayAbbr": "NU",
-            "homeTeam": "#18 Purdue Boilermakers",
-            "homeScore": "81",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
-            "homeAbbr": "PUR",
-            "status": "Final",
-            "tv": "BTN",
-            "winProb": 0.5,
-            "state": "post"
-        },
-        {
             "id": "401851299",
             "awayTeam": "UCF Knights",
             "awayScore": "59",
@@ -238,6 +223,21 @@
             "homeAbbr": "SJU",
             "status": "Final",
             "tv": "Peacock",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "id": "401851377",
+            "awayTeam": "Northwestern Wildcats",
+            "awayScore": "68",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/77.png",
+            "awayAbbr": "NU",
+            "homeTeam": "#18 Purdue Boilermakers",
+            "homeScore": "81",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
+            "homeAbbr": "PUR",
+            "status": "Final",
+            "tv": "BTN",
             "winProb": 0.5,
             "state": "post"
         },
