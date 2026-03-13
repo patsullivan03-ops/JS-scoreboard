@@ -1,20 +1,20 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-13 01:14:12*
+*Updated: 2026-03-13 01:19:16*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Colorado State Rams @ San Diego State Aztecs | 13 - 8 | 14:51 - 1st Half | CBSSN |
-| Maryland Eastern Shore Hawks @ North Carolina Central Eagles | 6 - 2 | 17:53 - 1st Half | ESPN+ |
-| Rutgers Scarlet Knights @ UCLA Bruins | 12 - 11 | 12:16 - 1st Half | BTN |
-| Ole Miss Rebels @ Georgia Bulldogs | 74 - 71 | 0:03 - 2nd Half | SEC Network |
+| Colorado State Rams @ San Diego State Aztecs | 13 - 10 | 13:08 - 1st Half | CBSSN |
+| Maryland Eastern Shore Hawks @ North Carolina Central Eagles | 8 - 2 | 15:42 - 1st Half | ESPN+ |
+| Rutgers Scarlet Knights @ UCLA Bruins | 14 - 18 | 10:07 - 1st Half | BTN |
 | Kennesaw State Owls @ Western Kentucky Hilltoppers | 0 - 0 | Thu, March 12th at 9:00 PM EDT | ESPN+ |
 | Clemson Tigers @ #19 North Carolina Tar Heels | 0 - 0 | Thu, March 12th at 9:30 PM EDT | ESPN |
 | Oklahoma Sooners @ Texas A&M Aggies | 0 - 0 | Thu, March 12th at 9:30 PM EDT | SEC Network |
 | Georgetown Hoyas @ Villanova Wildcats | 0 - 0 | Thu, March 12th at 9:30 PM EDT | FS1 |
 | Florida Atlantic Owls @ North Texas Mean Green | 0 - 0 | Thu, March 12th at 9:30 PM EDT | ESPNU |
+| Ole Miss Rebels @ Georgia Bulldogs | 76 - 72 | Final | SEC Network |
 | Florida State Seminoles @ #1 Duke Blue Devils | 79 - 80 | Final | ESPN |
-| BYU Cougars @ #5 Houston Cougars | 66 - 73 | Final | ESPN2 |
 | UCF Knights @ #2 Arizona Wildcats | 59 - 81 | Final | ESPN |
+| BYU Cougars @ #5 Houston Cougars | 66 - 73 | Final | ESPN2 |
 | #7 Iowa State Cyclones @ #16 Texas Tech Red Raiders | 75 - 53 | Final | ESPN |
 | Providence Friars @ #13 St. John's Red Storm | 72 - 85 | Final | Peacock |
 | Northwestern Wildcats @ #18 Purdue Boilermakers | 68 - 81 | Final | BTN |
