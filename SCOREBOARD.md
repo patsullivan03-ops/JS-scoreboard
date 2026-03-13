@@ -1,17 +1,15 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-13 04:01:47*
+*Updated: 2026-03-13 04:06:52*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Oklahoma Sooners @ Texas A&M Aggies | 83 - 63 | 0:11 - 2nd Half | SEC Network |
-| Clemson Tigers @ #19 North Carolina Tar Heels | 80 - 79 | Final | ESPN |
-| Florida Atlantic Owls @ North Texas Mean Green | 70 - 74 | Final | ESPNU |
 | Florida State Seminoles @ #1 Duke Blue Devils | 79 - 80 | Final | ESPN |
 | UCF Knights @ #2 Arizona Wildcats | 59 - 81 | Final | ESPN |
 | BYU Cougars @ #5 Houston Cougars | 66 - 73 | Final | ESPN2 |
 | #7 Iowa State Cyclones @ #16 Texas Tech Red Raiders | 75 - 53 | Final | ESPN |
 | Providence Friars @ #13 St. John's Red Storm | 72 - 85 | Final | Peacock |
 | Northwestern Wildcats @ #18 Purdue Boilermakers | 68 - 81 | Final | BTN |
+| Clemson Tigers @ #19 North Carolina Tar Heels | 80 - 79 | Final | ESPN |
 | Massachusetts Minutemen @ #20 Miami (OH) RedHawks | 87 - 83 | Final | ESPN+ |
 | Washington Huskies @ #23 Wisconsin Badgers | 82 - 85 | Final | BTN |
 | #24 Louisville Cardinals @ Miami Hurricanes | 73 - 78 | Final | ESPN2 |
@@ -28,3 +26,5 @@
 | Rutgers Scarlet Knights @ UCLA Bruins | 59 - 72 | Final | BTN |
 | Maryland Eastern Shore Hawks @ North Carolina Central Eagles | 76 - 83 | Final/OT | ESPN+ |
 | Georgetown Hoyas @ Villanova Wildcats | 78 - 64 | Final | FS1 |
+| Florida Atlantic Owls @ North Texas Mean Green | 70 - 74 | Final | ESPNU |
+| Oklahoma Sooners @ Texas A&M Aggies | 83 - 63 | Final | SEC Network |
