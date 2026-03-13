@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-13 18:09:57",
+    "lastUpdated": "2026-03-13 18:15:02",
     "games": [
         {
             "id": "401851565",
@@ -19,16 +19,16 @@
         {
             "id": "401851722",
             "awayTeam": "Prairie View A&M Panthers",
-            "awayScore": "5",
+            "awayScore": "7",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2504.png",
             "awayAbbr": "PV",
             "homeTeam": "Alabama A&M Bulldogs",
-            "homeScore": "9",
+            "homeScore": "11",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2010.png",
             "homeAbbr": "AAMU",
-            "status": "15:57 - 1st Half",
+            "status": "14:46 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.592,
+            "winProb": 0.598,
             "state": "in"
         },
         {
@@ -38,27 +38,27 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2623.png",
             "awayAbbr": "MOST",
             "homeTeam": "Louisiana Tech Bulldogs",
-            "homeScore": "50",
+            "homeScore": "57",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2348.png",
             "homeAbbr": "LT",
-            "status": "8:54 - 2nd Half",
+            "status": "6:53 - 2nd Half",
             "tv": "CBSSN",
-            "winProb": 0.616,
+            "winProb": 0.881,
             "state": "in"
         },
         {
             "id": "401851380",
             "awayTeam": "Ohio State Buckeyes",
-            "awayScore": "64",
+            "awayScore": "67",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
             "awayAbbr": "OSU",
             "homeTeam": "#3 Michigan Wolverines",
-            "homeScore": "68",
+            "homeScore": "69",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
             "homeAbbr": "MICH",
-            "status": "0:59 - 2nd Half",
+            "status": "0:06 - 2nd Half",
             "tv": "BTN",
-            "winProb": 0.878,
+            "winProb": 0.961,
             "state": "in"
         },
         {
