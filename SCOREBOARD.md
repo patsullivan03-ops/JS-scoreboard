@@ -1,14 +1,13 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-13 00:23:26*
+*Updated: 2026-03-13 00:28:30*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
 | Maryland Eastern Shore Hawks @ North Carolina Central Eagles | 0 - 0 | Delayed | ESPN+ |
-| BYU Cougars @ #5 Houston Cougars | 46 - 47 | 15:11 - 2nd Half | ESPN2 |
-| Florida State Seminoles @ #1 Duke Blue Devils | 54 - 49 | 15:57 - 2nd Half | ESPN |
-| Middle Tennessee Blue Raiders @ Louisiana Tech Bulldogs | 55 - 67 | 3:52 - 2nd Half | ESPN+ |
-| Ole Miss Rebels @ Georgia Bulldogs | 55 - 35 | 12:26 - 2nd Half | SEC Network |
-| Northwestern Wildcats @ #18 Purdue Boilermakers | 68 - 81 | 0:04 - 2nd Half | BTN |
+| BYU Cougars @ #5 Houston Cougars | 51 - 49 | 13:54 - 2nd Half | ESPN2 |
+| Florida State Seminoles @ #1 Duke Blue Devils | 54 - 51 | 15:01 - 2nd Half | ESPN |
+| Middle Tennessee Blue Raiders @ Louisiana Tech Bulldogs | 61 - 69 | 2:51 - 2nd Half | ESPN+ |
+| Ole Miss Rebels @ Georgia Bulldogs | 55 - 38 | 11:33 - 2nd Half | SEC Network |
 | Colorado State Rams @ San Diego State Aztecs | 0 - 0 | Thu, March 12th at 9:00 PM EDT | CBSSN |
 | Kennesaw State Owls @ Western Kentucky Hilltoppers | 0 - 0 | Thu, March 12th at 9:00 PM EDT | ESPN+ |
 | Rutgers Scarlet Knights @ UCLA Bruins | 0 - 0 | Thu, March 12th at 9:00 PM EDT | BTN |
@@ -16,6 +15,7 @@
 | Oklahoma Sooners @ Texas A&M Aggies | 0 - 0 | Thu, March 12th at 9:30 PM EDT | SEC Network |
 | Georgetown Hoyas @ Villanova Wildcats | 0 - 0 | Thu, March 12th at 9:30 PM EDT | FS1 |
 | Florida Atlantic Owls @ North Texas Mean Green | 0 - 0 | Thu, March 12th at 9:30 PM EDT | ESPNU |
+| Northwestern Wildcats @ #18 Purdue Boilermakers | 68 - 81 | Final | BTN |
 | UCF Knights @ #2 Arizona Wildcats | 59 - 81 | Final | ESPN |
 | #7 Iowa State Cyclones @ #16 Texas Tech Red Raiders | 75 - 53 | Final | ESPN |
 | Providence Friars @ #13 St. John's Red Storm | 72 - 85 | Final | Peacock |
