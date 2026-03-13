@@ -1,21 +1,6 @@
 {
-    "lastUpdated": "2026-03-13 22:08:31",
+    "lastUpdated": "2026-03-13 22:13:36",
     "games": [
-        {
-            "id": "401851226",
-            "awayTeam": "North Texas Mean Green",
-            "awayScore": "71",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/249.png",
-            "awayAbbr": "UNT",
-            "homeTeam": "Tulsa Golden Hurricane",
-            "homeScore": "72",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/202.png",
-            "homeAbbr": "TLSA",
-            "status": "1:34 - OT",
-            "tv": "ESPN2",
-            "winProb": 0.541,
-            "state": "in"
-        },
         {
             "id": "401851566",
             "awayTeam": "#25 Tennessee Volunteers",
@@ -23,12 +8,27 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
             "awayAbbr": "TENN",
             "homeTeam": "#22 Vanderbilt Commodores",
-            "homeScore": "65",
+            "homeScore": "67",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
             "homeAbbr": "VAN",
-            "status": "4:09 - 2nd Half",
+            "status": "4:04 - 2nd Half",
             "tv": "ESPN",
-            "winProb": 0.716,
+            "winProb": 0.773,
+            "state": "in"
+        },
+        {
+            "id": "401851226",
+            "awayTeam": "North Texas Mean Green",
+            "awayScore": "73",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/249.png",
+            "awayAbbr": "UNT",
+            "homeTeam": "Tulsa Golden Hurricane",
+            "homeScore": "72",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/202.png",
+            "homeAbbr": "TLSA",
+            "status": "0:10 - OT",
+            "tv": "ESPN2",
+            "winProb": 0.173,
             "state": "in"
         },
         {
