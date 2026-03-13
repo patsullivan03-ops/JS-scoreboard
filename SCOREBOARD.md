@@ -1,11 +1,11 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-13 23:14:28*
+*Updated: 2026-03-13 23:19:32*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Miami Hurricanes @ #10 Virginia Cavaliers | 4 - 4 | 14:52 - 1st Half | ESPN2 |
-| #7 Iowa State Cyclones @ #2 Arizona Wildcats | 14 - 5 | 14:45 - 1st Half | ESPN |
-| #18 Purdue Boilermakers @ #11 Nebraska Cornhuskers | 35 - 26 | 2:42 - 1st Half | BTN |
+| Miami Hurricanes @ #10 Virginia Cavaliers | 8 - 8 | 12:33 - 1st Half | ESPN2 |
+| #7 Iowa State Cyclones @ #2 Arizona Wildcats | 20 - 12 | 11:46 - 1st Half | ESPN |
+| #18 Purdue Boilermakers @ #11 Nebraska Cornhuskers | 35 - 26 | 1:15 - 1st Half | BTN |
 | Ole Miss Rebels @ #15 Alabama Crimson Tide | 0 - 0 | Fri, March 13th at 7:00 PM EDT | SEC Network |
 | Georgetown Hoyas @ #6 UConn Huskies | 0 - 0 | Fri, March 13th at 8:00 PM EDT | FS1 |
 | Delaware State Hornets @ North Carolina Central Eagles | 0 - 0 | Fri, March 13th at 8:00 PM EDT | ESPN+ |
