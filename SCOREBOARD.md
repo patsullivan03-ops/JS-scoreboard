@@ -1,10 +1,9 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-13 22:49:07*
+*Updated: 2026-03-13 22:54:11*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #18 Purdue Boilermakers @ #11 Nebraska Cornhuskers | 15 - 8 | 13:28 - 1st Half | BTN |
-| North Texas Mean Green @ Tulsa Golden Hurricane | 84 - 86 | 0:16 - 3OT | ESPN2 |
+| #18 Purdue Boilermakers @ #11 Nebraska Cornhuskers | 21 - 16 | 11:18 - 1st Half | BTN |
 | #7 Iowa State Cyclones @ #2 Arizona Wildcats | 0 - 0 | Fri, March 13th at 7:00 PM EDT | ESPN |
 | Miami Hurricanes @ #10 Virginia Cavaliers | 0 - 0 | Fri, March 13th at 7:00 PM EDT | ESPN2 |
 | Ole Miss Rebels @ #15 Alabama Crimson Tide | 0 - 0 | Fri, March 13th at 7:00 PM EDT | SEC Network |
@@ -14,6 +13,7 @@
 | Clemson Tigers @ #1 Duke Blue Devils | 0 - 0 | Fri, March 13th at 9:30 PM EDT | ESPN2 |
 | #14 Kansas Jayhawks @ #5 Houston Cougars | 0 - 0 | Fri, March 13th at 9:30 PM EDT | ESPN |
 | Oklahoma Sooners @ #17 Arkansas Razorbacks | 0 - 0 | Fri, March 13th at 9:30 PM EDT | SEC Network |
+| North Texas Mean Green @ Tulsa Golden Hurricane | 84 - 90 | Final/3OT | ESPN2 |
 | Ohio State Buckeyes @ #3 Michigan Wolverines | 67 - 71 | Final | BTN |
 | Kentucky Wildcats @ #4 Florida Gators | 63 - 71 | Final | ESPN |
 | #23 Wisconsin Badgers @ #9 Illinois Fighting Illini | 91 - 88 | Final/OT | BTN |
