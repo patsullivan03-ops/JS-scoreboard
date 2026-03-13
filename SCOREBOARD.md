@@ -1,12 +1,11 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-13 18:15:02*
+*Updated: 2026-03-13 18:20:06*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Kentucky Wildcats @ #4 Florida Gators | 28 - 37 | Halftime | ESPN |
-| Prairie View A&M Panthers @ Alabama A&M Bulldogs | 7 - 11 | 14:46 - 1st Half | ESPN+ |
-| Missouri State Bears @ Louisiana Tech Bulldogs | 49 - 57 | 6:53 - 2nd Half | CBSSN |
-| Ohio State Buckeyes @ #3 Michigan Wolverines | 67 - 69 | 0:06 - 2nd Half | BTN |
+| Prairie View A&M Panthers @ Alabama A&M Bulldogs | 14 - 13 | 11:55 - 1st Half | ESPN+ |
+| Missouri State Bears @ Louisiana Tech Bulldogs | 53 - 59 | 5:12 - 2nd Half | CBSSN |
+| Kentucky Wildcats @ #4 Florida Gators | 28 - 37 | 18:41 - 2nd Half | ESPN |
 | #23 Wisconsin Badgers @ #9 Illinois Fighting Illini | 0 - 0 | Fri, March 13th at 2:30 PM EDT | BTN |
 | Kennesaw State Owls @ Sam Houston Bearkats | 0 - 0 | Fri, March 13th at 3:00 PM EDT | CBSSN |
 | #25 Tennessee Volunteers @ #22 Vanderbilt Commodores | 0 - 0 | Fri, March 13th at 3:30 PM EDT | ESPN |
@@ -21,4 +20,5 @@
 | Clemson Tigers @ #1 Duke Blue Devils | 0 - 0 | Fri, March 13th at 9:30 PM EDT | ESPN2 |
 | #14 Kansas Jayhawks @ #5 Houston Cougars | 0 - 0 | Fri, March 13th at 9:30 PM EDT | ESPN |
 | Oklahoma Sooners @ #17 Arkansas Razorbacks | 0 - 0 | Fri, March 13th at 9:30 PM EDT | SEC Network |
+| Ohio State Buckeyes @ #3 Michigan Wolverines | 67 - 71 | Final | BTN |
 | George Washington Revolutionaries @ Saint Louis Billikens | 81 - 88 | Final | USA Net |
