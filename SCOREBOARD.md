@@ -1,10 +1,10 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-14 19:47:20*
+*Updated: 2026-03-14 19:52:24*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Ole Miss Rebels @ #17 Arkansas Razorbacks | 2 - 2 | 19:28 - 1st Half | ESPN |
-| #18 Purdue Boilermakers @ UCLA Bruins | 15 - 7 | 14:05 - 1st Half | CBS |
+| Ole Miss Rebels @ #17 Arkansas Razorbacks | 7 - 10 | 14:57 - 1st Half | ESPN |
+| #18 Purdue Boilermakers @ UCLA Bruins | 15 - 9 | 11:25 - 1st Half | CBS |
 | #5 Houston Cougars @ #2 Arizona Wildcats | 0 - 0 | Sat, March 14th at 6:00 PM EDT | ESPN |
 | #10 Virginia Cavaliers @ #1 Duke Blue Devils | 0 - 0 | Sat, March 14th at 8:30 PM EDT | ESPN |
 | #23 Wisconsin Badgers @ #3 Michigan Wolverines | 65 - 68 | Final | CBS |
