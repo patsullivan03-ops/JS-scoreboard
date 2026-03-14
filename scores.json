@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-14 19:01:37",
+    "lastUpdated": "2026-03-14 19:06:42",
     "games": [
         {
             "id": "401851275",
@@ -8,57 +8,42 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2168.png",
             "awayAbbr": "DAY",
             "homeTeam": "Saint Louis Billikens",
-            "homeScore": "55",
+            "homeScore": "59",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/139.png",
             "homeAbbr": "SLU",
-            "status": "4:20 - 2nd Half",
+            "status": "3:04 - 2nd Half",
             "tv": "CBSSN",
-            "winProb": 0.466,
+            "winProb": 0.723,
             "state": "in"
         },
         {
             "id": "401851477",
             "awayTeam": "North Carolina Central Eagles",
-            "awayScore": "53",
+            "awayScore": "58",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2428.png",
             "awayAbbr": "NCCU",
             "homeTeam": "Howard Bison",
-            "homeScore": "60",
+            "homeScore": "64",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/47.png",
             "homeAbbr": "HOW",
-            "status": "3:48 - 2nd Half",
+            "status": "1:39 - 2nd Half",
             "tv": "ESPN2",
-            "winProb": 0.904,
+            "winProb": 0.933,
             "state": "in"
         },
         {
             "id": "401851569",
             "awayTeam": "#22 Vanderbilt Commodores",
-            "awayScore": "80",
+            "awayScore": "84",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
             "awayAbbr": "VAN",
             "homeTeam": "#4 Florida Gators",
             "homeScore": "64",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
             "homeAbbr": "FLA",
-            "status": "4:09 - 2nd Half",
+            "status": "3:23 - 2nd Half",
             "tv": "ESPN",
-            "winProb": 0.005,
-            "state": "in"
-        },
-        {
-            "id": "401851384",
-            "awayTeam": "#23 Wisconsin Badgers",
-            "awayScore": "65",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
-            "awayAbbr": "WIS",
-            "homeTeam": "#3 Michigan Wolverines",
-            "homeScore": "68",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
-            "homeAbbr": "MICH",
-            "status": "0:01 - 2nd Half",
-            "tv": "CBS",
-            "winProb": 0.999,
+            "winProb": 0.001,
             "state": "in"
         },
         {
@@ -120,6 +105,21 @@
             "tv": "ESPN",
             "winProb": 0.5,
             "state": "pre"
+        },
+        {
+            "id": "401851384",
+            "awayTeam": "#23 Wisconsin Badgers",
+            "awayScore": "65",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
+            "awayAbbr": "WIS",
+            "homeTeam": "#3 Michigan Wolverines",
+            "homeScore": "68",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
+            "homeAbbr": "MICH",
+            "status": "Final",
+            "tv": "CBS",
+            "winProb": 0.5,
+            "state": "post"
         }
     ]
 }
