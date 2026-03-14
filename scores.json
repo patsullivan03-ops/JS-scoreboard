@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-14 04:13:48",
+    "lastUpdated": "2026-03-14 04:18:52",
     "games": [
         {
             "id": "401851568",
             "awayTeam": "Oklahoma Sooners",
-            "awayScore": "72",
+            "awayScore": "73",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/201.png",
             "awayAbbr": "OU",
             "homeTeam": "#17 Arkansas Razorbacks",
-            "homeScore": "76",
+            "homeScore": "77",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
             "homeAbbr": "ARK",
-            "status": "1:30 - 2nd Half",
+            "status": "0:53 - 2nd Half",
             "tv": "SEC Network",
-            "winProb": 0.841,
+            "winProb": 0.8,
             "state": "in"
         },
         {
