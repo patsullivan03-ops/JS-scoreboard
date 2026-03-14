@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-14 03:18:00",
+    "lastUpdated": "2026-03-14 03:23:05",
     "games": [
         {
             "id": "401851568",
@@ -11,24 +11,9 @@
             "homeScore": "37",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
             "homeAbbr": "ARK",
-            "status": "Halftime",
+            "status": "18:25 - 2nd Half",
             "tv": "SEC Network",
-            "winProb": 0.5,
-            "state": "in"
-        },
-        {
-            "id": "401851383",
-            "awayTeam": "UCLA Bruins",
-            "awayScore": "85",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
-            "awayAbbr": "UCLA",
-            "homeTeam": "#8 Michigan State Spartans",
-            "homeScore": "82",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
-            "homeAbbr": "MSU",
-            "status": "0:12 - 2nd Half",
-            "tv": "BTN",
-            "winProb": 0.146,
+            "winProb": 0.563,
             "state": "in"
         },
         {
@@ -38,43 +23,28 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/228.png",
             "awayAbbr": "CLEM",
             "homeTeam": "#1 Duke Blue Devils",
-            "homeScore": "60",
+            "homeScore": "62",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
             "homeAbbr": "DUKE",
-            "status": "7:48 - 2nd Half",
+            "status": "6:48 - 2nd Half",
             "tv": "ESPN2",
-            "winProb": 0.99,
+            "winProb": 0.994,
             "state": "in"
         },
         {
             "id": "401851305",
             "awayTeam": "#14 Kansas Jayhawks",
-            "awayScore": "27",
+            "awayScore": "29",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
             "awayAbbr": "KU",
             "homeTeam": "#5 Houston Cougars",
             "homeScore": "51",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
             "homeAbbr": "HOU",
-            "status": "11:31 - 2nd Half",
+            "status": "11:05 - 2nd Half",
             "tv": "ESPN",
-            "winProb": 0.999,
+            "winProb": 0.997,
             "state": "in"
-        },
-        {
-            "id": "401851476",
-            "awayTeam": "Delaware State Hornets",
-            "awayScore": "53",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2169.png",
-            "awayAbbr": "DSU",
-            "homeTeam": "North Carolina Central Eagles",
-            "homeScore": "59",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2428.png",
-            "homeAbbr": "NCCU",
-            "status": "Final",
-            "tv": "ESPN+",
-            "winProb": 0.5,
-            "state": "post"
         },
         {
             "id": "401851304",
@@ -133,6 +103,21 @@
             "homeAbbr": "CONN",
             "status": "Final",
             "tv": "FS1",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "id": "401851383",
+            "awayTeam": "UCLA Bruins",
+            "awayScore": "88",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
+            "awayAbbr": "UCLA",
+            "homeTeam": "#8 Michigan State Spartans",
+            "homeScore": "84",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
+            "homeAbbr": "MSU",
+            "status": "Final",
+            "tv": "BTN",
             "winProb": 0.5,
             "state": "post"
         },
@@ -283,6 +268,21 @@
             "homeAbbr": "TLSA",
             "status": "Final/3OT",
             "tv": "ESPN2",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "id": "401851476",
+            "awayTeam": "Delaware State Hornets",
+            "awayScore": "53",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2169.png",
+            "awayAbbr": "DSU",
+            "homeTeam": "North Carolina Central Eagles",
+            "homeScore": "59",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2428.png",
+            "homeAbbr": "NCCU",
+            "status": "Final",
+            "tv": "ESPN+",
             "winProb": 0.5,
             "state": "post"
         }

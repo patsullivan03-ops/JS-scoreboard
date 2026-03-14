@@ -1,17 +1,16 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-14 03:18:00*
+*Updated: 2026-03-14 03:23:05*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Oklahoma Sooners @ #17 Arkansas Razorbacks | 39 - 37 | Halftime | SEC Network |
-| UCLA Bruins @ #8 Michigan State Spartans | 85 - 82 | 0:12 - 2nd Half | BTN |
-| Clemson Tigers @ #1 Duke Blue Devils | 46 - 60 | 7:48 - 2nd Half | ESPN2 |
-| #14 Kansas Jayhawks @ #5 Houston Cougars | 27 - 51 | 11:31 - 2nd Half | ESPN |
-| Delaware State Hornets @ North Carolina Central Eagles | 53 - 59 | Final | ESPN+ |
+| Oklahoma Sooners @ #17 Arkansas Razorbacks | 39 - 37 | 18:25 - 2nd Half | SEC Network |
+| Clemson Tigers @ #1 Duke Blue Devils | 46 - 62 | 6:48 - 2nd Half | ESPN2 |
+| #14 Kansas Jayhawks @ #5 Houston Cougars | 29 - 51 | 11:05 - 2nd Half | ESPN |
 | #7 Iowa State Cyclones @ #2 Arizona Wildcats | 80 - 82 | Final | ESPN |
 | Ohio State Buckeyes @ #3 Michigan Wolverines | 67 - 71 | Final | BTN |
 | Kentucky Wildcats @ #4 Florida Gators | 63 - 71 | Final | ESPN |
 | Georgetown Hoyas @ #6 UConn Huskies | 51 - 67 | Final | FS1 |
+| UCLA Bruins @ #8 Michigan State Spartans | 88 - 84 | Final | BTN |
 | #23 Wisconsin Badgers @ #9 Illinois Fighting Illini | 91 - 88 | Final/OT | BTN |
 | Miami Hurricanes @ #10 Virginia Cavaliers | 62 - 84 | Final | ESPN2 |
 | #18 Purdue Boilermakers @ #11 Nebraska Cornhuskers | 74 - 58 | Final | BTN |
@@ -22,3 +21,4 @@
 | Prairie View A&M Panthers @ Alabama A&M Bulldogs | 74 - 55 | Final | ESPN+ |
 | Kennesaw State Owls @ Sam Houston Bearkats | 79 - 73 | Final | CBSSN |
 | North Texas Mean Green @ Tulsa Golden Hurricane | 84 - 90 | Final/3OT | ESPN2 |
+| Delaware State Hornets @ North Carolina Central Eagles | 53 - 59 | Final | ESPN+ |
