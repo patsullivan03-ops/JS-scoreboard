@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-14 21:33:49",
+    "lastUpdated": "2026-03-14 21:38:53",
     "games": [
         {
             "id": "401851570",
             "awayTeam": "Ole Miss Rebels",
-            "awayScore": "66",
+            "awayScore": "71",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/145.png",
             "awayAbbr": "MISS",
             "homeTeam": "#17 Arkansas Razorbacks",
-            "homeScore": "72",
+            "homeScore": "75",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
             "homeAbbr": "ARK",
-            "status": "3:59 - 2nd Half",
+            "status": "2:58 - 2nd Half",
             "tv": "ESPN",
-            "winProb": 0.911,
+            "winProb": 0.86,
             "state": "in"
         },
         {
@@ -47,21 +47,6 @@
             "state": "pre"
         },
         {
-            "id": "401851386",
-            "awayTeam": "#18 Purdue Boilermakers",
-            "awayScore": "73",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
-            "awayAbbr": "PUR",
-            "homeTeam": "UCLA Bruins",
-            "homeScore": "66",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
-            "homeAbbr": "UCLA",
-            "status": "Final",
-            "tv": "CBS",
-            "winProb": 0.5,
-            "state": "post"
-        },
-        {
             "id": "401851384",
             "awayTeam": "#23 Wisconsin Badgers",
             "awayScore": "65",
@@ -88,6 +73,21 @@
             "homeAbbr": "FLA",
             "status": "Final",
             "tv": "ESPN",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "id": "401851386",
+            "awayTeam": "#18 Purdue Boilermakers",
+            "awayScore": "73",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
+            "awayAbbr": "PUR",
+            "homeTeam": "UCLA Bruins",
+            "homeScore": "66",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
+            "homeAbbr": "UCLA",
+            "status": "Final",
+            "tv": "CBS",
             "winProb": 0.5,
             "state": "post"
         },
