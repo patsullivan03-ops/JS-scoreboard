@@ -1,16 +1,16 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-14 01:06:06*
+*Updated: 2026-03-14 01:11:11*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Ole Miss Rebels @ #15 Alabama Crimson Tide | 66 - 58 | 9:40 - 2nd Half | SEC Network |
-| #7 Iowa State Cyclones @ #2 Arizona Wildcats | 77 - 78 | 1:04 - 2nd Half | ESPN |
-| Georgetown Hoyas @ #6 UConn Huskies | 14 - 24 | 6:01 - 1st Half | FS1 |
-| UCLA Bruins @ #8 Michigan State Spartans | 0 - 0 | Fri, March 13th at 9:00 PM EDT | BTN |
+| Ole Miss Rebels @ #15 Alabama Crimson Tide | 68 - 62 | 8:42 - 2nd Half | SEC Network |
+| UCLA Bruins @ #8 Michigan State Spartans | 5 - 6 | 16:58 - 1st Half | BTN |
+| Georgetown Hoyas @ #6 UConn Huskies | 20 - 28 | 3:08 - 1st Half | FS1 |
 | Delaware State Hornets @ North Carolina Central Eagles | 0 - 0 | Fri, March 13th at 9:20 PM EDT | ESPN+ |
-| Clemson Tigers @ #1 Duke Blue Devils | 0 - 0 | Fri, March 13th at 9:30 PM EDT | ESPN2 |
+| Clemson Tigers @ #1 Duke Blue Devils | 0 - 0 | Fri, March 13th at 9:45 PM EDT | ESPN2 |
 | #14 Kansas Jayhawks @ #5 Houston Cougars | 0 - 0 | Fri, March 13th at 9:30 PM EDT | ESPN |
 | Oklahoma Sooners @ #17 Arkansas Razorbacks | 0 - 0 | Fri, March 13th at 9:30 PM EDT | SEC Network |
+| #7 Iowa State Cyclones @ #2 Arizona Wildcats | 80 - 82 | Final | ESPN |
 | Ohio State Buckeyes @ #3 Michigan Wolverines | 67 - 71 | Final | BTN |
 | Kentucky Wildcats @ #4 Florida Gators | 63 - 71 | Final | ESPN |
 | #23 Wisconsin Badgers @ #9 Illinois Fighting Illini | 91 - 88 | Final/OT | BTN |
