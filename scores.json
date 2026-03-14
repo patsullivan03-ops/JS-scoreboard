@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-14 01:26:24",
+    "lastUpdated": "2026-03-14 01:31:28",
     "games": [
         {
             "id": "401851316",
@@ -17,48 +17,48 @@
             "state": "in"
         },
         {
+            "id": "401851383",
+            "awayTeam": "UCLA Bruins",
+            "awayScore": "24",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
+            "awayAbbr": "UCLA",
+            "homeTeam": "#8 Michigan State Spartans",
+            "homeScore": "17",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
+            "homeAbbr": "MSU",
+            "status": "9:16 - 1st Half",
+            "tv": "BTN",
+            "winProb": 0.415,
+            "state": "in"
+        },
+        {
             "id": "401851476",
             "awayTeam": "Delaware State Hornets",
             "awayScore": "7",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2169.png",
             "awayAbbr": "DSU",
             "homeTeam": "North Carolina Central Eagles",
-            "homeScore": "4",
+            "homeScore": "6",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2428.png",
             "homeAbbr": "NCCU",
-            "status": "16:00 - 1st Half",
+            "status": "14:01 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.566,
-            "state": "in"
-        },
-        {
-            "id": "401851383",
-            "awayTeam": "UCLA Bruins",
-            "awayScore": "16",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
-            "awayAbbr": "UCLA",
-            "homeTeam": "#8 Michigan State Spartans",
-            "homeScore": "14",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
-            "homeAbbr": "MSU",
-            "status": "11:41 - 1st Half",
-            "tv": "BTN",
-            "winProb": 0.585,
+            "winProb": 0.596,
             "state": "in"
         },
         {
             "id": "401851567",
             "awayTeam": "Ole Miss Rebels",
-            "awayScore": "78",
+            "awayScore": "80",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/145.png",
             "awayAbbr": "MISS",
             "homeTeam": "#15 Alabama Crimson Tide",
-            "homeScore": "71",
+            "homeScore": "75",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
             "homeAbbr": "ALA",
-            "status": "3:42 - 2nd Half",
+            "status": "1:02 - 2nd Half",
             "tv": "SEC Network",
-            "winProb": 0.192,
+            "winProb": 0.204,
             "state": "in"
         },
         {
