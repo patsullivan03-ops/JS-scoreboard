@@ -1,9 +1,8 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-14 04:34:05*
+*Updated: 2026-03-14 04:39:09*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Oklahoma Sooners @ #17 Arkansas Razorbacks | 79 - 82 | Final | SEC Network |
 | Clemson Tigers @ #1 Duke Blue Devils | 61 - 73 | Final | ESPN2 |
 | #7 Iowa State Cyclones @ #2 Arizona Wildcats | 80 - 82 | Final | ESPN |
 | Ohio State Buckeyes @ #3 Michigan Wolverines | 67 - 71 | Final | BTN |
@@ -15,6 +14,7 @@
 | Miami Hurricanes @ #10 Virginia Cavaliers | 62 - 84 | Final | ESPN2 |
 | #18 Purdue Boilermakers @ #11 Nebraska Cornhuskers | 74 - 58 | Final | BTN |
 | Ole Miss Rebels @ #15 Alabama Crimson Tide | 80 - 79 | Final | SEC Network |
+| Oklahoma Sooners @ #17 Arkansas Razorbacks | 79 - 82 | Final | SEC Network |
 | #25 Tennessee Volunteers @ #22 Vanderbilt Commodores | 68 - 75 | Final | ESPN |
 | George Washington Revolutionaries @ Saint Louis Billikens | 81 - 88 | Final | USA Net |
 | Missouri State Bears @ Louisiana Tech Bulldogs | 66 - 69 | Final | CBSSN |
