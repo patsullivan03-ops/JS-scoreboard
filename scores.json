@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-14 23:05:08",
+    "lastUpdated": "2026-03-14 23:10:13",
     "games": [
         {
             "id": "401851306",
@@ -11,9 +11,9 @@
             "homeScore": "44",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
             "homeAbbr": "ARIZ",
-            "status": "0:13 - 1st Half",
+            "status": "Halftime",
             "tv": "ESPN",
-            "winProb": 0.793,
+            "winProb": 0.5,
             "state": "in"
         },
         {
