@@ -1,6 +1,21 @@
 {
-    "lastUpdated": "2026-03-14 16:59:48",
+    "lastUpdated": "2026-03-14 17:04:53",
     "games": [
+        {
+            "id": "401851569",
+            "awayTeam": "#22 Vanderbilt Commodores",
+            "awayScore": "0",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
+            "awayAbbr": "VAN",
+            "homeTeam": "#4 Florida Gators",
+            "homeScore": "0",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
+            "homeAbbr": "FLA",
+            "status": "19:59 - 1st Half",
+            "tv": "ESPN",
+            "winProb": 0.5,
+            "state": "in"
+        },
         {
             "id": "401851384",
             "awayTeam": "#23 Wisconsin Badgers",
@@ -13,21 +28,6 @@
             "homeAbbr": "MICH",
             "status": "Sat, March 14th at 1:00 PM EDT",
             "tv": "CBS",
-            "winProb": 0.5,
-            "state": "pre"
-        },
-        {
-            "id": "401851569",
-            "awayTeam": "#22 Vanderbilt Commodores",
-            "awayScore": "0",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
-            "awayAbbr": "VAN",
-            "homeTeam": "#4 Florida Gators",
-            "homeScore": "0",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
-            "homeAbbr": "FLA",
-            "status": "Sat, March 14th at 1:00 PM EDT",
-            "tv": "ESPN",
             "winProb": 0.5,
             "state": "pre"
         },

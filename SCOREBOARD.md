@@ -1,10 +1,10 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-14 16:59:48*
+*Updated: 2026-03-14 17:04:53*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
+| #22 Vanderbilt Commodores @ #4 Florida Gators | 0 - 0 | 19:59 - 1st Half | ESPN |
 | #23 Wisconsin Badgers @ #3 Michigan Wolverines | 0 - 0 | Sat, March 14th at 1:00 PM EDT | CBS |
-| #22 Vanderbilt Commodores @ #4 Florida Gators | 0 - 0 | Sat, March 14th at 1:00 PM EDT | ESPN |
 | North Carolina Central Eagles @ Howard Bison | 0 - 0 | Sat, March 14th at 1:00 PM EDT | ESPN2 |
 | Dayton Flyers @ Saint Louis Billikens | 0 - 0 | Sat, March 14th at 1:00 PM EDT | CBSSN |
 | Ole Miss Rebels @ #17 Arkansas Razorbacks | 0 - 0 | Sat, March 14th at 3:30 PM EDT | ESPN |
