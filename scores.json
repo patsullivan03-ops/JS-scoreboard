@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-14 19:37:10",
+    "lastUpdated": "2026-03-14 19:42:15",
     "games": [
         {
             "id": "401851386",
             "awayTeam": "#18 Purdue Boilermakers",
-            "awayScore": "0",
+            "awayScore": "15",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
             "awayAbbr": "PUR",
             "homeTeam": "UCLA Bruins",
             "homeScore": "2",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
             "homeAbbr": "UCLA",
-            "status": "19:18 - 1st Half",
+            "status": "16:07 - 1st Half",
             "tv": "CBS",
-            "winProb": 0.366,
+            "winProb": 0.088,
             "state": "in"
         },
         {
@@ -62,21 +62,6 @@
             "state": "pre"
         },
         {
-            "id": "401851275",
-            "awayTeam": "Dayton Flyers",
-            "awayScore": "70",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2168.png",
-            "awayAbbr": "DAY",
-            "homeTeam": "Saint Louis Billikens",
-            "homeScore": "69",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/139.png",
-            "homeAbbr": "SLU",
-            "status": "Final",
-            "tv": "CBSSN",
-            "winProb": 0.5,
-            "state": "post"
-        },
-        {
             "id": "401851384",
             "awayTeam": "#23 Wisconsin Badgers",
             "awayScore": "65",
@@ -118,6 +103,21 @@
             "homeAbbr": "HOW",
             "status": "Final",
             "tv": "ESPN2",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "id": "401851275",
+            "awayTeam": "Dayton Flyers",
+            "awayScore": "70",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2168.png",
+            "awayAbbr": "DAY",
+            "homeTeam": "Saint Louis Billikens",
+            "homeScore": "69",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/139.png",
+            "homeAbbr": "SLU",
+            "status": "Final",
+            "tv": "CBSSN",
             "winProb": 0.5,
             "state": "post"
         }
