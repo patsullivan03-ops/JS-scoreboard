@@ -1,9 +1,9 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-14 22:39:45*
+*Updated: 2026-03-14 22:44:49*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #5 Houston Cougars @ #2 Arizona Wildcats | 16 - 22 | 9:22 - 1st Half | ESPN |
+| #5 Houston Cougars @ #2 Arizona Wildcats | 20 - 22 | 7:59 - 1st Half | ESPN |
 | #10 Virginia Cavaliers @ #1 Duke Blue Devils | 0 - 0 | Sat, March 14th at 8:30 PM EDT | ESPN |
 | #23 Wisconsin Badgers @ #3 Michigan Wolverines | 65 - 68 | Final | CBS |
 | #22 Vanderbilt Commodores @ #4 Florida Gators | 91 - 74 | Final | ESPN |
