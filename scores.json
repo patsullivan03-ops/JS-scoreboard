@@ -1,21 +1,6 @@
 {
-    "lastUpdated": "2026-03-14 00:30:35",
+    "lastUpdated": "2026-03-14 00:35:40",
     "games": [
-        {
-            "id": "401851316",
-            "awayTeam": "Georgetown Hoyas",
-            "awayScore": "0",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/46.png",
-            "awayAbbr": "GTWN",
-            "homeTeam": "#6 UConn Huskies",
-            "homeScore": "0",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
-            "homeAbbr": "CONN",
-            "status": "Delayed",
-            "tv": "FS1",
-            "winProb": 0.5,
-            "state": "in"
-        },
         {
             "id": "401851567",
             "awayTeam": "Ole Miss Rebels",
@@ -49,16 +34,31 @@
         {
             "id": "401851304",
             "awayTeam": "#7 Iowa State Cyclones",
-            "awayScore": "52",
+            "awayScore": "55",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/66.png",
             "awayAbbr": "ISU",
             "homeTeam": "#2 Arizona Wildcats",
-            "homeScore": "48",
+            "homeScore": "52",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
             "homeAbbr": "ARIZ",
-            "status": "14:36 - 2nd Half",
+            "status": "12:51 - 2nd Half",
             "tv": "ESPN",
-            "winProb": 0.421,
+            "winProb": 0.425,
+            "state": "in"
+        },
+        {
+            "id": "401851316",
+            "awayTeam": "Georgetown Hoyas",
+            "awayScore": "0",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/46.png",
+            "awayAbbr": "GTWN",
+            "homeTeam": "#6 UConn Huskies",
+            "homeScore": "4",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+            "homeAbbr": "CONN",
+            "status": "17:51 - 1st Half",
+            "tv": "FS1",
+            "winProb": 0.912,
             "state": "in"
         },
         {
@@ -68,27 +68,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
             "awayAbbr": "MIA",
             "homeTeam": "#10 Virginia Cavaliers",
-            "homeScore": "53",
+            "homeScore": "55",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png",
             "homeAbbr": "UVA",
-            "status": "10:07 - 2nd Half",
+            "status": "9:37 - 2nd Half",
             "tv": "ESPN2",
-            "winProb": 0.932,
-            "state": "in"
-        },
-        {
-            "id": "401851382",
-            "awayTeam": "#18 Purdue Boilermakers",
-            "awayScore": "72",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
-            "awayAbbr": "PUR",
-            "homeTeam": "#11 Nebraska Cornhuskers",
-            "homeScore": "55",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/158.png",
-            "homeAbbr": "NEB",
-            "status": "1:59 - 2nd Half",
-            "tv": "BTN",
-            "winProb": 0.001,
+            "winProb": 0.959,
             "state": "in"
         },
         {
@@ -150,6 +135,21 @@
             "tv": "SEC Network",
             "winProb": 0.5,
             "state": "pre"
+        },
+        {
+            "id": "401851382",
+            "awayTeam": "#18 Purdue Boilermakers",
+            "awayScore": "74",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
+            "awayAbbr": "PUR",
+            "homeTeam": "#11 Nebraska Cornhuskers",
+            "homeScore": "58",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/158.png",
+            "homeAbbr": "NEB",
+            "status": "Final",
+            "tv": "BTN",
+            "winProb": 0.5,
+            "state": "post"
         },
         {
             "id": "401851380",

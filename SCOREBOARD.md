@@ -1,18 +1,18 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-14 00:30:35*
+*Updated: 2026-03-14 00:35:40*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Georgetown Hoyas @ #6 UConn Huskies | 0 - 0 | Delayed | FS1 |
 | Ole Miss Rebels @ #15 Alabama Crimson Tide | 47 - 41 | Halftime | SEC Network |
 | Delaware State Hornets @ North Carolina Central Eagles | 0 - 0 | Delayed | ESPN+ |
-| #7 Iowa State Cyclones @ #2 Arizona Wildcats | 52 - 48 | 14:36 - 2nd Half | ESPN |
-| Miami Hurricanes @ #10 Virginia Cavaliers | 42 - 53 | 10:07 - 2nd Half | ESPN2 |
-| #18 Purdue Boilermakers @ #11 Nebraska Cornhuskers | 72 - 55 | 1:59 - 2nd Half | BTN |
+| #7 Iowa State Cyclones @ #2 Arizona Wildcats | 55 - 52 | 12:51 - 2nd Half | ESPN |
+| Georgetown Hoyas @ #6 UConn Huskies | 0 - 4 | 17:51 - 1st Half | FS1 |
+| Miami Hurricanes @ #10 Virginia Cavaliers | 42 - 55 | 9:37 - 2nd Half | ESPN2 |
 | UCLA Bruins @ #8 Michigan State Spartans | 0 - 0 | Fri, March 13th at 9:00 PM EDT | BTN |
 | Clemson Tigers @ #1 Duke Blue Devils | 0 - 0 | Fri, March 13th at 9:30 PM EDT | ESPN2 |
 | #14 Kansas Jayhawks @ #5 Houston Cougars | 0 - 0 | Fri, March 13th at 9:30 PM EDT | ESPN |
 | Oklahoma Sooners @ #17 Arkansas Razorbacks | 0 - 0 | Fri, March 13th at 9:30 PM EDT | SEC Network |
+| #18 Purdue Boilermakers @ #11 Nebraska Cornhuskers | 74 - 58 | Final | BTN |
 | Ohio State Buckeyes @ #3 Michigan Wolverines | 67 - 71 | Final | BTN |
 | Kentucky Wildcats @ #4 Florida Gators | 63 - 71 | Final | ESPN |
 | #23 Wisconsin Badgers @ #9 Illinois Fighting Illini | 91 - 88 | Final/OT | BTN |
