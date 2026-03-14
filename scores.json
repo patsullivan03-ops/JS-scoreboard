@@ -1,34 +1,34 @@
 {
-    "lastUpdated": "2026-03-14 01:11:11",
+    "lastUpdated": "2026-03-14 01:16:16",
     "games": [
         {
             "id": "401851567",
             "awayTeam": "Ole Miss Rebels",
-            "awayScore": "68",
+            "awayScore": "69",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/145.png",
             "awayAbbr": "MISS",
             "homeTeam": "#15 Alabama Crimson Tide",
             "homeScore": "62",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
             "homeAbbr": "ALA",
-            "status": "8:42 - 2nd Half",
+            "status": "7:24 - 2nd Half",
             "tv": "SEC Network",
-            "winProb": 0.381,
+            "winProb": 0.327,
             "state": "in"
         },
         {
             "id": "401851383",
             "awayTeam": "UCLA Bruins",
-            "awayScore": "5",
+            "awayScore": "8",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
             "awayAbbr": "UCLA",
             "homeTeam": "#8 Michigan State Spartans",
-            "homeScore": "6",
+            "homeScore": "9",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
             "homeAbbr": "MSU",
-            "status": "16:58 - 1st Half",
+            "status": "15:26 - 1st Half",
             "tv": "BTN",
-            "winProb": 0.675,
+            "winProb": 0.681,
             "state": "in"
         },
         {
@@ -38,12 +38,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/46.png",
             "awayAbbr": "GTWN",
             "homeTeam": "#6 UConn Huskies",
-            "homeScore": "28",
+            "homeScore": "30",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
             "homeAbbr": "CONN",
-            "status": "3:08 - 1st Half",
+            "status": "1:34 - 1st Half",
             "tv": "FS1",
-            "winProb": 0.94,
+            "winProb": 0.952,
             "state": "in"
         },
         {
@@ -71,7 +71,7 @@
             "homeScore": "0",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
             "homeAbbr": "DUKE",
-            "status": "Fri, March 13th at 9:45 PM EDT",
+            "status": "Fri, March 13th at 9:35 PM EDT",
             "tv": "ESPN2",
             "winProb": 0.5,
             "state": "pre"
