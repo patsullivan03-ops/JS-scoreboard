@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-14 20:38:03",
+    "lastUpdated": "2026-03-14 20:43:07",
     "games": [
         {
             "id": "401851570",
@@ -19,16 +19,16 @@
         {
             "id": "401851386",
             "awayTeam": "#18 Purdue Boilermakers",
-            "awayScore": "34",
+            "awayScore": "42",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
             "awayAbbr": "PUR",
             "homeTeam": "UCLA Bruins",
-            "homeScore": "27",
+            "homeScore": "34",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
             "homeAbbr": "UCLA",
-            "status": "Halftime",
+            "status": "17:01 - 2nd Half",
             "tv": "CBS",
-            "winProb": 0.5,
+            "winProb": 0.127,
             "state": "in"
         },
         {
