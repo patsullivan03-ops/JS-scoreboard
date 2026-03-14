@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-14 00:05:13",
+    "lastUpdated": "2026-03-14 00:10:17",
     "games": [
         {
             "id": "401851304",
@@ -17,33 +17,18 @@
             "state": "in"
         },
         {
-            "id": "401851181",
-            "awayTeam": "Miami Hurricanes",
-            "awayScore": "23",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
-            "awayAbbr": "MIA",
-            "homeTeam": "#10 Virginia Cavaliers",
-            "homeScore": "38",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png",
-            "homeAbbr": "UVA",
-            "status": "Halftime",
-            "tv": "ESPN2",
-            "winProb": 0.5,
-            "state": "in"
-        },
-        {
             "id": "401851567",
             "awayTeam": "Ole Miss Rebels",
-            "awayScore": "35",
+            "awayScore": "41",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/145.png",
             "awayAbbr": "MISS",
             "homeTeam": "#15 Alabama Crimson Tide",
-            "homeScore": "22",
+            "homeScore": "30",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
             "homeAbbr": "ALA",
-            "status": "7:18 - 1st Half",
+            "status": "4:20 - 1st Half",
             "tv": "SEC Network",
-            "winProb": 0.334,
+            "winProb": 0.371,
             "state": "in"
         },
         {
@@ -56,9 +41,24 @@
             "homeScore": "45",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/158.png",
             "homeAbbr": "NEB",
-            "status": "9:36 - 2nd Half",
+            "status": "8:43 - 2nd Half",
             "tv": "BTN",
-            "winProb": 0.067,
+            "winProb": 0.062,
+            "state": "in"
+        },
+        {
+            "id": "401851181",
+            "awayTeam": "Miami Hurricanes",
+            "awayScore": "23",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
+            "awayAbbr": "MIA",
+            "homeTeam": "#10 Virginia Cavaliers",
+            "homeScore": "38",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png",
+            "homeAbbr": "UVA",
+            "status": "19:46 - 2nd Half",
+            "tv": "ESPN2",
+            "winProb": 0.941,
             "state": "in"
         },
         {
