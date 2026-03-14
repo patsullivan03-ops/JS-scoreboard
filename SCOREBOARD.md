@@ -1,14 +1,14 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-14 02:27:16*
+*Updated: 2026-03-14 02:32:21*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Oklahoma Sooners @ #17 Arkansas Razorbacks | 13 - 12 | 12:36 - 1st Half | SEC Network |
-| Delaware State Hornets @ North Carolina Central Eagles | 32 - 36 | 14:26 - 2nd Half | ESPN+ |
-| UCLA Bruins @ #8 Michigan State Spartans | 51 - 39 | 15:49 - 2nd Half | BTN |
-| #14 Kansas Jayhawks @ #5 Houston Cougars | 20 - 29 | 2:46 - 1st Half | ESPN |
-| Clemson Tigers @ #1 Duke Blue Devils | 22 - 34 | 2:06 - 1st Half | ESPN2 |
-| Georgetown Hoyas @ #6 UConn Huskies | 48 - 59 | 4:05 - 2nd Half | FS1 |
+| Clemson Tigers @ #1 Duke Blue Devils | 22 - 41 | Halftime | ESPN2 |
+| Oklahoma Sooners @ #17 Arkansas Razorbacks | 15 - 16 | 11:15 - 1st Half | SEC Network |
+| Delaware State Hornets @ North Carolina Central Eagles | 32 - 36 | 14:19 - 2nd Half | ESPN+ |
+| UCLA Bruins @ #8 Michigan State Spartans | 54 - 46 | 12:54 - 2nd Half | BTN |
+| #14 Kansas Jayhawks @ #5 Houston Cougars | 25 - 29 | 1:07 - 1st Half | ESPN |
+| Georgetown Hoyas @ #6 UConn Huskies | 48 - 63 | 2:13 - 2nd Half | FS1 |
 | #7 Iowa State Cyclones @ #2 Arizona Wildcats | 80 - 82 | Final | ESPN |
 | Ohio State Buckeyes @ #3 Michigan Wolverines | 67 - 71 | Final | BTN |
 | Kentucky Wildcats @ #4 Florida Gators | 63 - 71 | Final | ESPN |
