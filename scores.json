@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-14 17:55:38",
+    "lastUpdated": "2026-03-14 18:00:42",
     "games": [
         {
             "id": "401851384",
@@ -13,6 +13,21 @@
             "homeAbbr": "MICH",
             "status": "Halftime",
             "tv": "CBS",
+            "winProb": 0.5,
+            "state": "in"
+        },
+        {
+            "id": "401851569",
+            "awayTeam": "#22 Vanderbilt Commodores",
+            "awayScore": "47",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
+            "awayAbbr": "VAN",
+            "homeTeam": "#4 Florida Gators",
+            "homeScore": "34",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
+            "homeAbbr": "FLA",
+            "status": "Halftime",
+            "tv": "ESPN",
             "winProb": 0.5,
             "state": "in"
         },
@@ -34,31 +49,16 @@
         {
             "id": "401851275",
             "awayTeam": "Dayton Flyers",
-            "awayScore": "30",
+            "awayScore": "33",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2168.png",
             "awayAbbr": "DAY",
             "homeTeam": "Saint Louis Billikens",
-            "homeScore": "32",
+            "homeScore": "34",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/139.png",
             "homeAbbr": "SLU",
-            "status": "1:01 - 1st Half",
+            "status": "0:10 - 1st Half",
             "tv": "CBSSN",
-            "winProb": 0.714,
-            "state": "in"
-        },
-        {
-            "id": "401851569",
-            "awayTeam": "#22 Vanderbilt Commodores",
-            "awayScore": "47",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
-            "awayAbbr": "VAN",
-            "homeTeam": "#4 Florida Gators",
-            "homeScore": "33",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
-            "homeAbbr": "FLA",
-            "status": "0:02 - 1st Half",
-            "tv": "ESPN",
-            "winProb": 0.156,
+            "winProb": 0.687,
             "state": "in"
         },
         {
