@@ -1,21 +1,6 @@
 {
-    "lastUpdated": "2026-03-14 18:05:47",
+    "lastUpdated": "2026-03-14 18:10:51",
     "games": [
-        {
-            "id": "401851384",
-            "awayTeam": "#23 Wisconsin Badgers",
-            "awayScore": "28",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
-            "awayAbbr": "WIS",
-            "homeTeam": "#3 Michigan Wolverines",
-            "homeScore": "28",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
-            "homeAbbr": "MICH",
-            "status": "Halftime",
-            "tv": "CBS",
-            "winProb": 0.5,
-            "state": "in"
-        },
         {
             "id": "401851569",
             "awayTeam": "#22 Vanderbilt Commodores",
@@ -47,18 +32,33 @@
             "state": "in"
         },
         {
+            "id": "401851384",
+            "awayTeam": "#23 Wisconsin Badgers",
+            "awayScore": "28",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
+            "awayAbbr": "WIS",
+            "homeTeam": "#3 Michigan Wolverines",
+            "homeScore": "28",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
+            "homeAbbr": "MICH",
+            "status": "Halftime",
+            "tv": "CBS",
+            "winProb": 0.73,
+            "state": "in"
+        },
+        {
             "id": "401851477",
             "awayTeam": "North Carolina Central Eagles",
             "awayScore": "23",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2428.png",
             "awayAbbr": "NCCU",
             "homeTeam": "Howard Bison",
-            "homeScore": "26",
+            "homeScore": "30",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/47.png",
             "homeAbbr": "HOW",
-            "status": "Halftime",
+            "status": "19:04 - 2nd Half",
             "tv": "ESPN2",
-            "winProb": 0.825,
+            "winProb": 0.904,
             "state": "in"
         },
         {
