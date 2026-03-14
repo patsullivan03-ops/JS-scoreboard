@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-14 21:38:53",
+    "lastUpdated": "2026-03-14 21:43:57",
     "games": [
         {
             "id": "401851570",
             "awayTeam": "Ole Miss Rebels",
-            "awayScore": "71",
+            "awayScore": "75",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/145.png",
             "awayAbbr": "MISS",
             "homeTeam": "#17 Arkansas Razorbacks",
-            "homeScore": "75",
+            "homeScore": "78",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
             "homeAbbr": "ARK",
-            "status": "2:58 - 2nd Half",
+            "status": "0:47 - 2nd Half",
             "tv": "ESPN",
-            "winProb": 0.86,
+            "winProb": 0.852,
             "state": "in"
         },
         {
