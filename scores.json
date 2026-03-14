@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-14 01:31:28",
+    "lastUpdated": "2026-03-14 01:36:32",
     "games": [
         {
             "id": "401851316",
@@ -17,33 +17,33 @@
             "state": "in"
         },
         {
-            "id": "401851383",
-            "awayTeam": "UCLA Bruins",
-            "awayScore": "24",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
-            "awayAbbr": "UCLA",
-            "homeTeam": "#8 Michigan State Spartans",
-            "homeScore": "17",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
-            "homeAbbr": "MSU",
-            "status": "9:16 - 1st Half",
-            "tv": "BTN",
-            "winProb": 0.415,
-            "state": "in"
-        },
-        {
             "id": "401851476",
             "awayTeam": "Delaware State Hornets",
-            "awayScore": "7",
+            "awayScore": "12",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2169.png",
             "awayAbbr": "DSU",
             "homeTeam": "North Carolina Central Eagles",
-            "homeScore": "6",
+            "homeScore": "8",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2428.png",
             "homeAbbr": "NCCU",
-            "status": "14:01 - 1st Half",
+            "status": "10:55 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.596,
+            "winProb": 0.518,
+            "state": "in"
+        },
+        {
+            "id": "401851383",
+            "awayTeam": "UCLA Bruins",
+            "awayScore": "26",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
+            "awayAbbr": "UCLA",
+            "homeTeam": "#8 Michigan State Spartans",
+            "homeScore": "20",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
+            "homeAbbr": "MSU",
+            "status": "7:12 - 1st Half",
+            "tv": "BTN",
+            "winProb": 0.438,
             "state": "in"
         },
         {
@@ -53,12 +53,27 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/145.png",
             "awayAbbr": "MISS",
             "homeTeam": "#15 Alabama Crimson Tide",
-            "homeScore": "75",
+            "homeScore": "77",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
             "homeAbbr": "ALA",
-            "status": "1:02 - 2nd Half",
+            "status": "0:12 - 2nd Half",
             "tv": "SEC Network",
-            "winProb": 0.204,
+            "winProb": 0.191,
+            "state": "in"
+        },
+        {
+            "id": "401851182",
+            "awayTeam": "Clemson Tigers",
+            "awayScore": "0",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/228.png",
+            "awayAbbr": "CLEM",
+            "homeTeam": "#1 Duke Blue Devils",
+            "homeScore": "0",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+            "homeAbbr": "DUKE",
+            "status": "19:01 - 1st Half",
+            "tv": "ESPN2",
+            "winProb": 0.873,
             "state": "in"
         },
         {
@@ -73,21 +88,6 @@
             "homeAbbr": "ARK",
             "status": "Fri, March 13th at 9:30 PM EDT",
             "tv": "SEC Network",
-            "winProb": 0.5,
-            "state": "pre"
-        },
-        {
-            "id": "401851182",
-            "awayTeam": "Clemson Tigers",
-            "awayScore": "0",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/228.png",
-            "awayAbbr": "CLEM",
-            "homeTeam": "#1 Duke Blue Devils",
-            "homeScore": "0",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
-            "homeAbbr": "DUKE",
-            "status": "Fri, March 13th at 9:35 PM EDT",
-            "tv": "ESPN2",
             "winProb": 0.5,
             "state": "pre"
         },
