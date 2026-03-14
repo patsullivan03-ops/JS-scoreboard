@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-14 04:03:39",
+    "lastUpdated": "2026-03-14 04:08:43",
     "games": [
         {
             "id": "401851568",
@@ -8,12 +8,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/201.png",
             "awayAbbr": "OU",
             "homeTeam": "#17 Arkansas Razorbacks",
-            "homeScore": "69",
+            "homeScore": "71",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
             "homeAbbr": "ARK",
-            "status": "5:16 - 2nd Half",
+            "status": "4:25 - 2nd Half",
             "tv": "SEC Network",
-            "winProb": 0.669,
+            "winProb": 0.782,
             "state": "in"
         },
         {
