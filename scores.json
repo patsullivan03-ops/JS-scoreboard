@@ -1,34 +1,34 @@
 {
-    "lastUpdated": "2026-03-14 20:53:15",
+    "lastUpdated": "2026-03-14 20:58:19",
     "games": [
         {
             "id": "401851570",
             "awayTeam": "Ole Miss Rebels",
-            "awayScore": "40",
+            "awayScore": "47",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/145.png",
             "awayAbbr": "MISS",
             "homeTeam": "#17 Arkansas Razorbacks",
-            "homeScore": "39",
+            "homeScore": "44",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
             "homeAbbr": "ARK",
-            "status": "18:01 - 2nd Half",
+            "status": "15:32 - 2nd Half",
             "tv": "ESPN",
-            "winProb": 0.694,
+            "winProb": 0.569,
             "state": "in"
         },
         {
             "id": "401851386",
             "awayTeam": "#18 Purdue Boilermakers",
-            "awayScore": "49",
+            "awayScore": "53",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
             "awayAbbr": "PUR",
             "homeTeam": "UCLA Bruins",
-            "homeScore": "40",
+            "homeScore": "43",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
             "homeAbbr": "UCLA",
-            "status": "13:05 - 2nd Half",
+            "status": "11:00 - 2nd Half",
             "tv": "CBS",
-            "winProb": 0.067,
+            "winProb": 0.068,
             "state": "in"
         },
         {
