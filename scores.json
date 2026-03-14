@@ -1,34 +1,19 @@
 {
-    "lastUpdated": "2026-03-14 21:28:45",
+    "lastUpdated": "2026-03-14 21:33:49",
     "games": [
-        {
-            "id": "401851386",
-            "awayTeam": "#18 Purdue Boilermakers",
-            "awayScore": "70",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
-            "awayAbbr": "PUR",
-            "homeTeam": "UCLA Bruins",
-            "homeScore": "64",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
-            "homeAbbr": "UCLA",
-            "status": "0:43 - 2nd Half",
-            "tv": "CBS",
-            "winProb": 0.066,
-            "state": "in"
-        },
         {
             "id": "401851570",
             "awayTeam": "Ole Miss Rebels",
-            "awayScore": "60",
+            "awayScore": "66",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/145.png",
             "awayAbbr": "MISS",
             "homeTeam": "#17 Arkansas Razorbacks",
-            "homeScore": "68",
+            "homeScore": "72",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
             "homeAbbr": "ARK",
-            "status": "5:58 - 2nd Half",
+            "status": "3:59 - 2nd Half",
             "tv": "ESPN",
-            "winProb": 0.953,
+            "winProb": 0.911,
             "state": "in"
         },
         {
@@ -60,6 +45,21 @@
             "tv": "ESPN",
             "winProb": 0.5,
             "state": "pre"
+        },
+        {
+            "id": "401851386",
+            "awayTeam": "#18 Purdue Boilermakers",
+            "awayScore": "73",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
+            "awayAbbr": "PUR",
+            "homeTeam": "UCLA Bruins",
+            "homeScore": "66",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
+            "homeAbbr": "UCLA",
+            "status": "Final",
+            "tv": "CBS",
+            "winProb": 0.5,
+            "state": "post"
         },
         {
             "id": "401851384",
