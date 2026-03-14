@@ -1,14 +1,14 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-14 02:32:21*
+*Updated: 2026-03-14 02:37:25*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
 | Clemson Tigers @ #1 Duke Blue Devils | 22 - 41 | Halftime | ESPN2 |
-| Oklahoma Sooners @ #17 Arkansas Razorbacks | 15 - 16 | 11:15 - 1st Half | SEC Network |
-| Delaware State Hornets @ North Carolina Central Eagles | 32 - 36 | 14:19 - 2nd Half | ESPN+ |
-| UCLA Bruins @ #8 Michigan State Spartans | 54 - 46 | 12:54 - 2nd Half | BTN |
-| #14 Kansas Jayhawks @ #5 Houston Cougars | 25 - 29 | 1:07 - 1st Half | ESPN |
-| Georgetown Hoyas @ #6 UConn Huskies | 48 - 63 | 2:13 - 2nd Half | FS1 |
+| #14 Kansas Jayhawks @ #5 Houston Cougars | 25 - 33 | Halftime | ESPN |
+| Oklahoma Sooners @ #17 Arkansas Razorbacks | 20 - 19 | 9:06 - 1st Half | SEC Network |
+| Delaware State Hornets @ North Carolina Central Eagles | 38 - 40 | 12:12 - 2nd Half | ESPN+ |
+| UCLA Bruins @ #8 Michigan State Spartans | 60 - 51 | 11:33 - 2nd Half | BTN |
+| Georgetown Hoyas @ #6 UConn Huskies | 48 - 67 | 1:38 - 2nd Half | FS1 |
 | #7 Iowa State Cyclones @ #2 Arizona Wildcats | 80 - 82 | Final | ESPN |
 | Ohio State Buckeyes @ #3 Michigan Wolverines | 67 - 71 | Final | BTN |
 | Kentucky Wildcats @ #4 Florida Gators | 63 - 71 | Final | ESPN |
