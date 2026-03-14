@@ -1,14 +1,14 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-14 00:20:26*
+*Updated: 2026-03-14 00:25:31*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
 | Georgetown Hoyas @ #6 UConn Huskies | 0 - 0 | Delayed | FS1 |
+| Ole Miss Rebels @ #15 Alabama Crimson Tide | 47 - 41 | Halftime | SEC Network |
 | Delaware State Hornets @ North Carolina Central Eagles | 0 - 0 | Delayed | ESPN+ |
-| Ole Miss Rebels @ #15 Alabama Crimson Tide | 46 - 40 | 0:43 - 1st Half | SEC Network |
-| #7 Iowa State Cyclones @ #2 Arizona Wildcats | 48 - 42 | 18:06 - 2nd Half | ESPN |
-| Miami Hurricanes @ #10 Virginia Cavaliers | 28 - 45 | 15:09 - 2nd Half | ESPN2 |
-| #18 Purdue Boilermakers @ #11 Nebraska Cornhuskers | 64 - 52 | 4:57 - 2nd Half | BTN |
+| #7 Iowa State Cyclones @ #2 Arizona Wildcats | 52 - 48 | 15:54 - 2nd Half | ESPN |
+| Miami Hurricanes @ #10 Virginia Cavaliers | 32 - 48 | 13:17 - 2nd Half | ESPN2 |
+| #18 Purdue Boilermakers @ #11 Nebraska Cornhuskers | 70 - 52 | 3:50 - 2nd Half | BTN |
 | UCLA Bruins @ #8 Michigan State Spartans | 0 - 0 | Fri, March 13th at 9:00 PM EDT | BTN |
 | Clemson Tigers @ #1 Duke Blue Devils | 0 - 0 | Fri, March 13th at 9:30 PM EDT | ESPN2 |
 | #14 Kansas Jayhawks @ #5 Houston Cougars | 0 - 0 | Fri, March 13th at 9:30 PM EDT | ESPN |
