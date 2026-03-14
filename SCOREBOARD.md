@@ -1,14 +1,14 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-14 01:36:32*
+*Updated: 2026-03-14 01:41:37*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Georgetown Hoyas @ #6 UConn Huskies | 21 - 32 | Halftime | FS1 |
-| Delaware State Hornets @ North Carolina Central Eagles | 12 - 8 | 10:55 - 1st Half | ESPN+ |
-| UCLA Bruins @ #8 Michigan State Spartans | 26 - 20 | 7:12 - 1st Half | BTN |
-| Ole Miss Rebels @ #15 Alabama Crimson Tide | 80 - 77 | 0:12 - 2nd Half | SEC Network |
-| Clemson Tigers @ #1 Duke Blue Devils | 0 - 0 | 19:01 - 1st Half | ESPN2 |
-| Oklahoma Sooners @ #17 Arkansas Razorbacks | 0 - 0 | Fri, March 13th at 9:30 PM EDT | SEC Network |
+| Oklahoma Sooners @ #17 Arkansas Razorbacks | 0 - 0 | Delayed | SEC Network |
+| Delaware State Hornets @ North Carolina Central Eagles | 14 - 13 | 8:53 - 1st Half | ESPN+ |
+| UCLA Bruins @ #8 Michigan State Spartans | 33 - 23 | 3:52 - 1st Half | BTN |
+| Clemson Tigers @ #1 Duke Blue Devils | 5 - 3 | 15:50 - 1st Half | ESPN2 |
+| Georgetown Hoyas @ #6 UConn Huskies | 21 - 32 | 19:46 - 2nd Half | FS1 |
+| Ole Miss Rebels @ #15 Alabama Crimson Tide | 80 - 79 | 0:01 - 2nd Half | SEC Network |
 | #14 Kansas Jayhawks @ #5 Houston Cougars | 0 - 0 | Fri, March 13th at 9:50 PM EDT | ESPN |
 | #7 Iowa State Cyclones @ #2 Arizona Wildcats | 80 - 82 | Final | ESPN |
 | Ohio State Buckeyes @ #3 Michigan Wolverines | 67 - 71 | Final | BTN |
