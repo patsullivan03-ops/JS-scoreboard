@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-15 18:53:01",
+    "lastUpdated": "2026-03-15 18:58:05",
     "games": [
         {
             "id": "401851571",
             "awayTeam": "#22 Vanderbilt Commodores",
-            "awayScore": "68",
+            "awayScore": "72",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
             "awayAbbr": "VAN",
             "homeTeam": "#17 Arkansas Razorbacks",
-            "homeScore": "69",
+            "homeScore": "74",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
             "homeAbbr": "ARK",
-            "status": "5:55 - 2nd Half",
+            "status": "3:40 - 2nd Half",
             "tv": "ESPN",
-            "winProb": 0.535,
+            "winProb": 0.62,
             "state": "in"
         },
         {
