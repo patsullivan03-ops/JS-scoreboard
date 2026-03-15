@@ -1,21 +1,6 @@
 {
-    "lastUpdated": "2026-03-15 19:08:14",
+    "lastUpdated": "2026-03-15 19:13:18",
     "games": [
-        {
-            "id": "401851571",
-            "awayTeam": "#22 Vanderbilt Commodores",
-            "awayScore": "72",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
-            "awayAbbr": "VAN",
-            "homeTeam": "#17 Arkansas Razorbacks",
-            "homeScore": "84",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
-            "homeAbbr": "ARK",
-            "status": "1:07 - 2nd Half",
-            "tv": "ESPN",
-            "winProb": 0.998,
-            "state": "in"
-        },
         {
             "id": "401851388",
             "awayTeam": "#18 Purdue Boilermakers",
@@ -30,6 +15,21 @@
             "tv": "CBS",
             "winProb": 0.5,
             "state": "pre"
+        },
+        {
+            "id": "401851571",
+            "awayTeam": "#22 Vanderbilt Commodores",
+            "awayScore": "75",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
+            "awayAbbr": "VAN",
+            "homeTeam": "#17 Arkansas Razorbacks",
+            "homeScore": "86",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
+            "homeAbbr": "ARK",
+            "status": "Final",
+            "tv": "ESPN",
+            "winProb": 0.5,
+            "state": "post"
         }
     ]
 }
