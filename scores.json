@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-15 20:29:23",
+    "lastUpdated": "2026-03-15 20:34:27",
     "games": [
         {
             "id": "401851388",
@@ -13,7 +13,7 @@
             "homeAbbr": "MICH",
             "status": "Halftime",
             "tv": "CBS",
-            "winProb": 0.5,
+            "winProb": 0.595,
             "state": "in"
         },
         {
