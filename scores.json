@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-15 21:04:52",
+    "lastUpdated": "2026-03-15 21:09:57",
     "games": [
         {
             "id": "401851388",
@@ -8,12 +8,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
             "awayAbbr": "PUR",
             "homeTeam": "#3 Michigan Wolverines",
-            "homeScore": "54",
+            "homeScore": "56",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
             "homeAbbr": "MICH",
-            "status": "7:34 - 2nd Half",
+            "status": "6:32 - 2nd Half",
             "tv": "CBS",
-            "winProb": 0.08,
+            "winProb": 0.122,
             "state": "in"
         },
         {
