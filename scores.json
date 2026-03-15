@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-15 21:09:57",
+    "lastUpdated": "2026-03-15 21:15:01",
     "games": [
         {
             "id": "401851388",
             "awayTeam": "#18 Purdue Boilermakers",
-            "awayScore": "64",
+            "awayScore": "70",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
             "awayAbbr": "PUR",
             "homeTeam": "#3 Michigan Wolverines",
-            "homeScore": "56",
+            "homeScore": "63",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
             "homeAbbr": "MICH",
-            "status": "6:32 - 2nd Half",
+            "status": "3:46 - 2nd Half",
             "tv": "CBS",
-            "winProb": 0.122,
+            "winProb": 0.199,
             "state": "in"
         },
         {
