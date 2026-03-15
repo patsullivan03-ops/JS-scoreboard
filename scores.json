@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-15 01:27:29",
+    "lastUpdated": "2026-03-15 01:32:33",
     "games": [
         {
             "id": "401851183",
             "awayTeam": "#10 Virginia Cavaliers",
-            "awayScore": "34",
+            "awayScore": "36",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png",
             "awayAbbr": "UVA",
             "homeTeam": "#1 Duke Blue Devils",
-            "homeScore": "36",
+            "homeScore": "38",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
             "homeAbbr": "DUKE",
-            "status": "0:46 - 1st Half",
+            "status": "Halftime",
             "tv": "ESPN",
-            "winProb": 0.818,
+            "winProb": 0.5,
             "state": "in"
         },
         {
