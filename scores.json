@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-15 00:21:24",
+    "lastUpdated": "2026-03-15 00:26:29",
     "games": [
         {
             "id": "401851306",
             "awayTeam": "#5 Houston Cougars",
-            "awayScore": "69",
+            "awayScore": "72",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
             "awayAbbr": "HOU",
             "homeTeam": "#2 Arizona Wildcats",
             "homeScore": "75",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
             "homeAbbr": "ARIZ",
-            "status": "1:03 - 2nd Half",
+            "status": "0:28 - 2nd Half",
             "tv": "ESPN",
-            "winProb": 0.934,
+            "winProb": 0.813,
             "state": "in"
         },
         {
