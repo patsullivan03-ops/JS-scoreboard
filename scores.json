@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-15 18:58:05",
+    "lastUpdated": "2026-03-15 19:03:09",
     "games": [
         {
             "id": "401851571",
@@ -8,12 +8,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
             "awayAbbr": "VAN",
             "homeTeam": "#17 Arkansas Razorbacks",
-            "homeScore": "74",
+            "homeScore": "77",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
             "homeAbbr": "ARK",
-            "status": "3:40 - 2nd Half",
+            "status": "2:56 - 2nd Half",
             "tv": "ESPN",
-            "winProb": 0.62,
+            "winProb": 0.747,
             "state": "in"
         },
         {
