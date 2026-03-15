@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-15 02:43:43",
+    "lastUpdated": "2026-03-15 02:48:48",
     "games": [
         {
             "id": "401851183",
@@ -11,9 +11,9 @@
             "homeScore": "70",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
             "homeAbbr": "DUKE",
-            "status": "1:15 - 2nd Half",
+            "status": "0:12 - 2nd Half",
             "tv": "ESPN",
-            "winProb": 0.782,
+            "winProb": 0.814,
             "state": "in"
         },
         {
