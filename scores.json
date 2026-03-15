@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-15 00:11:14",
+    "lastUpdated": "2026-03-15 00:16:19",
     "games": [
         {
             "id": "401851306",
@@ -8,12 +8,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
             "awayAbbr": "HOU",
             "homeTeam": "#2 Arizona Wildcats",
-            "homeScore": "69",
+            "homeScore": "71",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
             "homeAbbr": "ARIZ",
-            "status": "4:38 - 2nd Half",
+            "status": "3:18 - 2nd Half",
             "tv": "ESPN",
-            "winProb": 0.898,
+            "winProb": 0.941,
             "state": "in"
         },
         {
