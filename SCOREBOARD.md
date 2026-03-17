@@ -1,7 +1,9 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-17 05:14:31*
+*Updated: 2026-03-17 05:19:35*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #18 Purdue Boilermakers @ #3 Michigan Wolverines | 80 - 72 | Final | CBS |
-| #22 Vanderbilt Commodores @ #17 Arkansas Razorbacks | 75 - 86 | Final | ESPN |
+| #11 Texas Longhorns @ #11 NC State Wolfpack | 0 - 0 | Tue, March 17th at 9:15 PM EDT | truTV |
+| Liberty Flames @ George Mason Patriots | 0 - 0 | Tue, March 17th at 6:00 PM EDT | ESPN2 |
+| Davidson Wildcats @ Oklahoma State Cowboys | 0 - 0 | Tue, March 17th at 8:00 PM EDT | ESPN2 |
+| South Alabama Jaguars @ Auburn Tigers | 0 - 0 | Tue, March 17th at 10:00 PM EDT | ESPN2 |
