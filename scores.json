@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-17 23:02:35",
+    "lastUpdated": "2026-03-17 23:07:40",
     "games": [
         {
             "id": "401858195",
             "awayTeam": "Liberty Flames",
-            "awayScore": "39",
+            "awayScore": "44",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2335.png",
             "awayAbbr": "LIB",
             "homeTeam": "George Mason Patriots",
-            "homeScore": "24",
+            "homeScore": "33",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2244.png",
             "homeAbbr": "GMU",
-            "status": "19:01 - 2nd Half",
+            "status": "16:05 - 2nd Half",
             "tv": "ESPN2",
-            "winProb": 0.116,
+            "winProb": 0.199,
             "state": "in"
         },
         {
