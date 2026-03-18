@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-18 03:57:08",
+    "lastUpdated": "2026-03-18 04:02:13",
     "games": [
         {
             "id": "401856434",
@@ -11,10 +11,10 @@
             "homeScore": "66",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/152.png",
             "homeAbbr": "NCSU",
-            "status": "0:01 - 2nd Half",
+            "status": "Final",
             "tv": "truTV",
-            "winProb": 0.018,
-            "state": "in"
+            "winProb": 0.5,
+            "state": "post"
         },
         {
             "id": "401858193",
