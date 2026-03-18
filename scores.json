@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-18 01:04:33",
+    "lastUpdated": "2026-03-18 01:09:37",
     "games": [
         {
             "id": "401858339",
@@ -13,7 +13,7 @@
             "homeAbbr": "OKST",
             "status": "Halftime",
             "tv": "ESPN2",
-            "winProb": 0.5,
+            "winProb": 0.294,
             "state": "in"
         },
         {
@@ -26,7 +26,7 @@
             "homeScore": "0",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/152.png",
             "homeAbbr": "NCSU",
-            "status": "Tue, March 17th at 9:15 PM EDT",
+            "status": "Tue, March 17th at 9:29 PM EDT",
             "tv": "truTV",
             "winProb": 0.5,
             "state": "pre"
