@@ -1,34 +1,34 @@
 {
-    "lastUpdated": "2026-03-18 03:16:30",
+    "lastUpdated": "2026-03-18 03:21:35",
     "games": [
         {
             "id": "401856434",
             "awayTeam": "#11 Texas Longhorns",
-            "awayScore": "44",
+            "awayScore": "49",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
             "awayAbbr": "TEX",
             "homeTeam": "#11 NC State Wolfpack",
-            "homeScore": "41",
+            "homeScore": "42",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/152.png",
             "homeAbbr": "NCSU",
-            "status": "9:32 - 2nd Half",
+            "status": "8:20 - 2nd Half",
             "tv": "truTV",
-            "winProb": 0.292,
+            "winProb": 0.161,
             "state": "in"
         },
         {
             "id": "401858193",
             "awayTeam": "South Alabama Jaguars",
-            "awayScore": "38",
+            "awayScore": "42",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/6.png",
             "awayAbbr": "USA",
             "homeTeam": "Auburn Tigers",
-            "homeScore": "41",
+            "homeScore": "46",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
             "homeAbbr": "AUB",
-            "status": "15:21 - 2nd Half",
+            "status": "13:02 - 2nd Half",
             "tv": "ESPN2",
-            "winProb": 0.937,
+            "winProb": 0.944,
             "state": "in"
         },
         {
