@@ -1,34 +1,34 @@
 {
-    "lastUpdated": "2026-03-18 02:00:21",
+    "lastUpdated": "2026-03-18 02:05:25",
     "games": [
         {
             "id": "401856434",
             "awayTeam": "#11 Texas Longhorns",
-            "awayScore": "25",
+            "awayScore": "28",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
             "awayAbbr": "TEX",
             "homeTeam": "#11 NC State Wolfpack",
-            "homeScore": "19",
+            "homeScore": "23",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/152.png",
             "homeAbbr": "NCSU",
-            "status": "5:40 - 1st Half",
+            "status": "4:06 - 1st Half",
             "tv": "truTV",
-            "winProb": 0.28,
+            "winProb": 0.306,
             "state": "in"
         },
         {
             "id": "401858339",
             "awayTeam": "Davidson Wildcats",
-            "awayScore": "73",
+            "awayScore": "76",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2166.png",
             "awayAbbr": "DAV",
             "homeTeam": "Oklahoma State Cowboys",
-            "homeScore": "78",
+            "homeScore": "81",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
             "homeAbbr": "OKST",
-            "status": "0:42 - 2nd Half",
+            "status": "0:23 - 2nd Half",
             "tv": "ESPN2",
-            "winProb": 0.962,
+            "winProb": 0.944,
             "state": "in"
         },
         {
