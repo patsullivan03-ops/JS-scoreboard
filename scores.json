@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-18 00:44:16",
+    "lastUpdated": "2026-03-18 00:49:21",
     "games": [
         {
             "id": "401858339",
             "awayTeam": "Davidson Wildcats",
-            "awayScore": "32",
+            "awayScore": "38",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2166.png",
             "awayAbbr": "DAV",
             "homeTeam": "Oklahoma State Cowboys",
             "homeScore": "32",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
             "homeAbbr": "OKST",
-            "status": "4:14 - 1st Half",
+            "status": "3:11 - 1st Half",
             "tv": "ESPN2",
-            "winProb": 0.638,
+            "winProb": 0.499,
             "state": "in"
         },
         {
