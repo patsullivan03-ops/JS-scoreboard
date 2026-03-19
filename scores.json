@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-19 19:56:29",
+    "lastUpdated": "2026-03-19 20:01:33",
     "games": [
         {
             "id": "401856478",
@@ -23,12 +23,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2377.png",
             "awayAbbr": "MCN",
             "homeTeam": "#5 Vanderbilt Commodores",
-            "homeScore": "30",
+            "homeScore": "33",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
             "homeAbbr": "VAN",
-            "status": "3:10 - 1st Half",
+            "status": "1:45 - 1st Half",
             "tv": "truTV",
-            "winProb": 0.697,
+            "winProb": 0.743,
             "state": "in"
         },
         {
@@ -41,7 +41,7 @@
             "homeScore": "0",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
             "homeAbbr": "ARK",
-            "status": "Thu, March 19th at 4:25 PM EDT",
+            "status": "Thu, March 19th at 4:27 PM EDT",
             "tv": "TBS",
             "winProb": 0.5,
             "state": "pre"
