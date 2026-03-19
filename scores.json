@@ -1,17 +1,17 @@
 {
-    "lastUpdated": "2026-03-19 17:59:13",
+    "lastUpdated": "2026-03-19 18:04:19",
     "games": [
         {
             "id": "401856479",
             "awayTeam": "#9 TCU Horned Frogs",
-            "awayScore": "50",
+            "awayScore": "53",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2628.png",
             "awayAbbr": "TCU",
             "homeTeam": "#8 Ohio State Buckeyes",
-            "homeScore": "51",
+            "homeScore": "55",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
             "homeAbbr": "OSU",
-            "status": "7:05 - 2nd Half",
+            "status": "6:01 - 2nd Half",
             "tv": "CBS",
             "winProb": 0.5,
             "state": "in"
@@ -19,16 +19,16 @@
         {
             "id": "401856480",
             "awayTeam": "#12 High Point Panthers",
-            "awayScore": "5",
+            "awayScore": "12",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2272.png",
             "awayAbbr": "HPU",
             "homeTeam": "#5 Wisconsin Badgers",
             "homeScore": "15",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
             "homeAbbr": "WIS",
-            "status": "15:16 - 1st Half",
+            "status": "12:37 - 1st Half",
             "tv": "TBS",
-            "winProb": 0.918,
+            "winProb": 0.819,
             "state": "in"
         },
         {
@@ -41,9 +41,9 @@
             "homeScore": "24",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
             "homeAbbr": "LOU",
-            "status": "7:46 - 1st Half",
+            "status": "6:25 - 1st Half",
             "tv": "TNT",
-            "winProb": 0.958,
+            "winProb": 0.959,
             "state": "in"
         },
         {
