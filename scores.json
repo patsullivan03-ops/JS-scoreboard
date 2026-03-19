@@ -1,34 +1,34 @@
 {
-    "lastUpdated": "2026-03-19 01:01:45",
+    "lastUpdated": "2026-03-19 01:06:49",
     "games": [
         {
             "id": "401858342",
             "awayTeam": "Sam Houston Bearkats",
-            "awayScore": "0",
+            "awayScore": "7",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2534.png",
             "awayAbbr": "SHSU",
             "homeTeam": "New Mexico Lobos",
-            "homeScore": "0",
+            "homeScore": "14",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/167.png",
             "homeAbbr": "UNM",
-            "status": "20:00 - 1st Half",
+            "status": "16:26 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.5,
+            "winProb": 0.919,
             "state": "in"
         },
         {
             "id": "401858343",
             "awayTeam": "George Washington Revolutionaries",
-            "awayScore": "45",
+            "awayScore": "52",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/45.png",
             "awayAbbr": "GW",
             "homeTeam": "Utah Valley Wolverines",
-            "homeScore": "32",
+            "homeScore": "38",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/3084.png",
             "homeAbbr": "UVU",
-            "status": "19:28 - 2nd Half",
+            "status": "16:44 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.081,
+            "winProb": 0.051,
             "state": "in"
         },
         {
