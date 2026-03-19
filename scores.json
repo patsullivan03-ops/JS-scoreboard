@@ -1,21 +1,6 @@
 {
-    "lastUpdated": "2026-03-19 22:25:26",
+    "lastUpdated": "2026-03-19 22:30:31",
     "games": [
-        {
-            "id": "401856481",
-            "awayTeam": "#13 Hawai'i Rainbow Warriors",
-            "awayScore": "71",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/62.png",
-            "awayAbbr": "HAW",
-            "homeTeam": "#4 Arkansas Razorbacks",
-            "homeScore": "91",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
-            "homeAbbr": "ARK",
-            "status": "2:43 - 2nd Half",
-            "tv": "TBS",
-            "winProb": 0.999,
-            "state": "in"
-        },
         {
             "id": "401856490",
             "awayTeam": "#11 VCU Rams",
@@ -90,6 +75,21 @@
             "tv": "truTV",
             "winProb": 0.5,
             "state": "pre"
+        },
+        {
+            "id": "401856481",
+            "awayTeam": "#13 Hawai'i Rainbow Warriors",
+            "awayScore": "78",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/62.png",
+            "awayAbbr": "HAW",
+            "homeTeam": "#4 Arkansas Razorbacks",
+            "homeScore": "97",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
+            "homeAbbr": "ARK",
+            "status": "Final",
+            "tv": "TBS",
+            "winProb": 0.5,
+            "state": "post"
         },
         {
             "id": "401856478",
