@@ -1,9 +1,9 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-19 04:49:57*
+*Updated: 2026-03-19 04:55:02*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| Saint Joseph's Hawks @ Colorado State Rams | 54 - 45 | 7:34 - 2nd Half | ESPNU |
+| Saint Joseph's Hawks @ Colorado State Rams | 58 - 51 | 4:42 - 2nd Half | ESPNU |
 | #11 Miami (OH) RedHawks @ #11 SMU Mustangs | 89 - 79 | Final | truTV |
 | George Washington Revolutionaries @ Utah Valley Wolverines | 79 - 78 | Final | ESPN+ |
 | Sam Houston Bearkats @ New Mexico Lobos | 83 - 107 | Final | ESPN+ |
