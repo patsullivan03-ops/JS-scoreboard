@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-19 20:18:32",
+    "lastUpdated": "2026-03-19 20:23:36",
     "games": [
         {
             "id": "401856488",
@@ -23,12 +23,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2561.png",
             "awayAbbr": "SIE",
             "homeTeam": "#1 Duke Blue Devils",
-            "homeScore": "38",
+            "homeScore": "41",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
             "homeAbbr": "DUKE",
-            "status": "16:00 - 2nd Half",
+            "status": "15:23 - 2nd Half",
             "tv": "CBS",
-            "winProb": 0.815,
+            "winProb": 0.843,
             "state": "in"
         },
         {
