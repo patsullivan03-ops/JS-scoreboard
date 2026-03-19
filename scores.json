@@ -1,34 +1,34 @@
 {
-    "lastUpdated": "2026-03-19 18:55:26",
+    "lastUpdated": "2026-03-19 19:00:31",
     "games": [
         {
             "id": "401856480",
             "awayTeam": "#12 High Point Panthers",
-            "awayScore": "39",
+            "awayScore": "43",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2272.png",
             "awayAbbr": "HPU",
             "homeTeam": "#5 Wisconsin Badgers",
-            "homeScore": "41",
+            "homeScore": "43",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
             "homeAbbr": "WIS",
-            "status": "Halftime",
+            "status": "16:58 - 2nd Half",
             "tv": "TBS",
-            "winProb": 0.5,
+            "winProb": 0.726,
             "state": "in"
         },
         {
             "id": "401856482",
             "awayTeam": "#11 South Florida Bulls",
-            "awayScore": "34",
+            "awayScore": "37",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/58.png",
             "awayAbbr": "USF",
             "homeTeam": "#6 Louisville Cardinals",
-            "homeScore": "46",
+            "homeScore": "54",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
             "homeAbbr": "LOU",
-            "status": "16:21 - 2nd Half",
+            "status": "14:51 - 2nd Half",
             "tv": "TNT",
-            "winProb": 0.951,
+            "winProb": 0.992,
             "state": "in"
         },
         {
