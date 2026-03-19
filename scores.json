@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-19 20:12:12",
+    "lastUpdated": "2026-03-19 20:18:32",
     "games": [
         {
             "id": "401856488",
@@ -19,16 +19,16 @@
         {
             "id": "401856478",
             "awayTeam": "#16 Siena Saints",
-            "awayScore": "43",
+            "awayScore": "47",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2561.png",
             "awayAbbr": "SIE",
             "homeTeam": "#1 Duke Blue Devils",
-            "homeScore": "32",
+            "homeScore": "38",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
             "homeAbbr": "DUKE",
-            "status": "19:36 - 2nd Half",
+            "status": "16:00 - 2nd Half",
             "tv": "CBS",
-            "winProb": 0.778,
+            "winProb": 0.815,
             "state": "in"
         },
         {
