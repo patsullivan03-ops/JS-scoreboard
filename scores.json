@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-19 21:04:13",
+    "lastUpdated": "2026-03-19 21:09:17",
     "games": [
         {
             "id": "401856488",
@@ -11,39 +11,24 @@
             "homeScore": "65",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
             "homeAbbr": "VAN",
-            "status": "5:40 - 2nd Half",
+            "status": "4:21 - 2nd Half",
             "tv": "truTV",
-            "winProb": 0.891,
+            "winProb": 0.866,
             "state": "in"
         },
         {
             "id": "401856481",
             "awayTeam": "#13 Hawai'i Rainbow Warriors",
-            "awayScore": "27",
+            "awayScore": "34",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/62.png",
             "awayAbbr": "HAW",
             "homeTeam": "#4 Arkansas Razorbacks",
-            "homeScore": "40",
+            "homeScore": "44",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
             "homeAbbr": "ARK",
-            "status": "5:24 - 1st Half",
+            "status": "3:28 - 1st Half",
             "tv": "TBS",
-            "winProb": 0.979,
-            "state": "in"
-        },
-        {
-            "id": "401856478",
-            "awayTeam": "#16 Siena Saints",
-            "awayScore": "65",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2561.png",
-            "awayAbbr": "SIE",
-            "homeTeam": "#1 Duke Blue Devils",
-            "homeScore": "71",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
-            "homeAbbr": "DUKE",
-            "status": "0:02 - 2nd Half",
-            "tv": "CBS",
-            "winProb": 0.999,
+            "winProb": 0.965,
             "state": "in"
         },
         {
@@ -120,6 +105,21 @@
             "tv": "truTV",
             "winProb": 0.5,
             "state": "pre"
+        },
+        {
+            "id": "401856478",
+            "awayTeam": "#16 Siena Saints",
+            "awayScore": "65",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2561.png",
+            "awayAbbr": "SIE",
+            "homeTeam": "#1 Duke Blue Devils",
+            "homeScore": "71",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+            "homeAbbr": "DUKE",
+            "status": "Final",
+            "tv": "CBS",
+            "winProb": 0.5,
+            "state": "post"
         },
         {
             "id": "401856480",
