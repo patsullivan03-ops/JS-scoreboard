@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-19 22:05:08",
+    "lastUpdated": "2026-03-19 22:10:13",
     "games": [
         {
             "id": "401856481",
@@ -8,12 +8,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/62.png",
             "awayAbbr": "HAW",
             "homeTeam": "#4 Arkansas Razorbacks",
-            "homeScore": "75",
+            "homeScore": "79",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
             "homeAbbr": "ARK",
-            "status": "10:07 - 2nd Half",
+            "status": "8:22 - 2nd Half",
             "tv": "TBS",
-            "winProb": 0.995,
+            "winProb": 0.999,
             "state": "in"
         },
         {
