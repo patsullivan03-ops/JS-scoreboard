@@ -1,9 +1,9 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-19 17:23:23*
+*Updated: 2026-03-19 17:28:28*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #9 TCU Horned Frogs @ #8 Ohio State Buckeyes | 39 - 24 | Halftime | CBS |
+| #9 TCU Horned Frogs @ #8 Ohio State Buckeyes | 41 - 28 | 16:38 - 2nd Half | CBS |
 | #11 South Florida Bulls @ #6 Louisville Cardinals | 0 - 0 | Thu, March 19th at 1:30 PM EDT | TNT |
 | #12 High Point Panthers @ #5 Wisconsin Badgers | 0 - 0 | Thu, March 19th at 1:50 PM EDT | TBS |
 | #16 Siena Saints @ #1 Duke Blue Devils | 0 - 0 | Thu, March 19th at 2:50 PM EDT | CBS |
