@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-19 17:18:16",
+    "lastUpdated": "2026-03-19 17:23:23",
     "games": [
         {
             "id": "401856479",
@@ -13,7 +13,7 @@
             "homeAbbr": "OSU",
             "status": "Halftime",
             "tv": "CBS",
-            "winProb": 0.5,
+            "winProb": 0.096,
             "state": "in"
         },
         {
