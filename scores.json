@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-19 22:40:40",
+    "lastUpdated": "2026-03-19 22:45:45",
     "games": [
         {
             "id": "401856490",
@@ -77,21 +77,6 @@
             "state": "pre"
         },
         {
-            "id": "401856481",
-            "awayTeam": "#13 Hawai'i Rainbow Warriors",
-            "awayScore": "78",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/62.png",
-            "awayAbbr": "HAW",
-            "homeTeam": "#4 Arkansas Razorbacks",
-            "homeScore": "97",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
-            "homeAbbr": "ARK",
-            "status": "Final",
-            "tv": "TBS",
-            "winProb": 0.5,
-            "state": "post"
-        },
-        {
             "id": "401856478",
             "awayTeam": "#16 Siena Saints",
             "awayScore": "65",
@@ -103,6 +88,21 @@
             "homeAbbr": "DUKE",
             "status": "Final",
             "tv": "CBS",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "id": "401856481",
+            "awayTeam": "#13 Hawai'i Rainbow Warriors",
+            "awayScore": "78",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/62.png",
+            "awayAbbr": "HAW",
+            "homeTeam": "#4 Arkansas Razorbacks",
+            "homeScore": "97",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
+            "homeAbbr": "ARK",
+            "status": "Final",
+            "tv": "TBS",
             "winProb": 0.5,
             "state": "post"
         },
