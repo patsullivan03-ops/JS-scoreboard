@@ -1,34 +1,34 @@
 {
-    "lastUpdated": "2026-03-19 17:33:39",
+    "lastUpdated": "2026-03-19 17:38:52",
     "games": [
         {
             "id": "401856482",
             "awayTeam": "#11 South Florida Bulls",
-            "awayScore": "0",
+            "awayScore": "7",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/58.png",
             "awayAbbr": "USF",
             "homeTeam": "#6 Louisville Cardinals",
-            "homeScore": "3",
+            "homeScore": "7",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
             "homeAbbr": "LOU",
-            "status": "18:09 - 1st Half",
+            "status": "14:57 - 1st Half",
             "tv": "TNT",
-            "winProb": 0.86,
+            "winProb": 0.787,
             "state": "in"
         },
         {
             "id": "401856479",
             "awayTeam": "#9 TCU Horned Frogs",
-            "awayScore": "41",
+            "awayScore": "43",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2628.png",
             "awayAbbr": "TCU",
             "homeTeam": "#8 Ohio State Buckeyes",
-            "homeScore": "30",
+            "homeScore": "33",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
             "homeAbbr": "OSU",
-            "status": "15:08 - 2nd Half",
+            "status": "14:10 - 2nd Half",
             "tv": "CBS",
-            "winProb": 0.139,
+            "winProb": 0.097,
             "state": "in"
         },
         {
