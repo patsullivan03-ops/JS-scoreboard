@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-19 20:01:33",
+    "lastUpdated": "2026-03-19 20:07:03",
     "games": [
         {
             "id": "401856478",
@@ -19,16 +19,16 @@
         {
             "id": "401856488",
             "awayTeam": "#12 McNeese Cowboys",
-            "awayScore": "33",
+            "awayScore": "35",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2377.png",
             "awayAbbr": "MCN",
             "homeTeam": "#5 Vanderbilt Commodores",
-            "homeScore": "33",
+            "homeScore": "38",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
             "homeAbbr": "VAN",
-            "status": "1:45 - 1st Half",
+            "status": "Halftime",
             "tv": "truTV",
-            "winProb": 0.743,
+            "winProb": 0.5,
             "state": "in"
         },
         {
