@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-19 23:00:58",
+    "lastUpdated": "2026-03-19 23:06:02",
     "games": [
         {
             "id": "401856490",
             "awayTeam": "#11 VCU Rams",
-            "awayScore": "8",
+            "awayScore": "10",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2670.png",
             "awayAbbr": "VCU",
             "homeTeam": "#6 North Carolina Tar Heels",
-            "homeScore": "5",
+            "homeScore": "11",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
             "homeAbbr": "UNC",
-            "status": "15:36 - 1st Half",
+            "status": "12:33 - 1st Half",
             "tv": "TNT",
-            "winProb": 0.531,
+            "winProb": 0.634,
             "state": "in"
         },
         {
