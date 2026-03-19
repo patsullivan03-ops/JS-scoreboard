@@ -1,12 +1,12 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-19 19:46:20*
+*Updated: 2026-03-19 19:51:24*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #12 McNeese Cowboys @ #5 Vanderbilt Commodores | 24 - 16 | 8:33 - 1st Half | truTV |
-| #12 High Point Panthers @ #5 Wisconsin Badgers | 81 - 82 | 0:54 - 2nd Half | TBS |
-| #16 Siena Saints @ #1 Duke Blue Devils | 43 - 32 | 1:10 - 1st Half | CBS |
-| #11 South Florida Bulls @ #6 Louisville Cardinals | 72 - 78 | 0:39 - 2nd Half | TNT |
+| #16 Siena Saints @ #1 Duke Blue Devils | 43 - 32 | Halftime | CBS |
+| #12 McNeese Cowboys @ #5 Vanderbilt Commodores | 26 - 20 | 6:48 - 1st Half | truTV |
+| #12 High Point Panthers @ #5 Wisconsin Badgers | 83 - 82 | 0:01 - 2nd Half | TBS |
+| #11 South Florida Bulls @ #6 Louisville Cardinals | 76 - 81 | 0:10 - 2nd Half | TNT |
 | #13 Hawai'i Rainbow Warriors @ #4 Arkansas Razorbacks | 0 - 0 | Thu, March 19th at 4:25 PM EDT | TBS |
 | #11 VCU Rams @ #6 North Carolina Tar Heels | 0 - 0 | Thu, March 19th at 6:50 PM EDT | TNT |
 | #11 Texas Longhorns @ #6 BYU Cougars | 0 - 0 | Thu, March 19th at 7:25 PM EDT | TBS |
