@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-19 02:43:10",
+    "lastUpdated": "2026-03-19 02:48:14",
     "games": [
         {
             "id": "401856436",
             "awayTeam": "#11 Miami (OH) RedHawks",
-            "awayScore": "53",
+            "awayScore": "58",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/193.png",
             "awayAbbr": "M-OH",
             "homeTeam": "#11 SMU Mustangs",
             "homeScore": "50",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2567.png",
             "homeAbbr": "SMU",
-            "status": "12:43 - 2nd Half",
+            "status": "11:16 - 2nd Half",
             "tv": "truTV",
-            "winProb": 0.511,
+            "winProb": 0.261,
             "state": "in"
         },
         {
@@ -23,10 +23,10 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2534.png",
             "awayAbbr": "SHSU",
             "homeTeam": "New Mexico Lobos",
-            "homeScore": "97",
+            "homeScore": "103",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/167.png",
             "homeAbbr": "UNM",
-            "status": "5:02 - 2nd Half",
+            "status": "3:44 - 2nd Half",
             "tv": "ESPN+",
             "winProb": 0.999,
             "state": "in"
