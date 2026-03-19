@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-19 02:27:57",
+    "lastUpdated": "2026-03-19 02:33:01",
     "games": [
         {
             "id": "401856436",
@@ -8,27 +8,27 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/193.png",
             "awayAbbr": "M-OH",
             "homeTeam": "#11 SMU Mustangs",
-            "homeScore": "42",
+            "homeScore": "45",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2567.png",
             "homeAbbr": "SMU",
-            "status": "16:05 - 2nd Half",
+            "status": "15:11 - 2nd Half",
             "tv": "truTV",
-            "winProb": 0.396,
+            "winProb": 0.575,
             "state": "in"
         },
         {
             "id": "401858342",
             "awayTeam": "Sam Houston Bearkats",
-            "awayScore": "57",
+            "awayScore": "61",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2534.png",
             "awayAbbr": "SHSU",
             "homeTeam": "New Mexico Lobos",
-            "homeScore": "75",
+            "homeScore": "84",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/167.png",
             "homeAbbr": "UNM",
-            "status": "11:14 - 2nd Half",
+            "status": "9:17 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.992,
+            "winProb": 0.999,
             "state": "in"
         },
         {
@@ -41,7 +41,7 @@
             "homeScore": "0",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/36.png",
             "homeAbbr": "CSU",
-            "status": "Wed, March 18th at 11:00 PM EDT",
+            "status": "Wed, March 18th at 11:05 PM EDT",
             "tv": "ESPNU",
             "winProb": 0.5,
             "state": "pre"
