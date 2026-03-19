@@ -1,10 +1,10 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-19 21:09:17*
+*Updated: 2026-03-19 21:14:22*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #12 McNeese Cowboys @ #5 Vanderbilt Commodores | 60 - 65 | 4:21 - 2nd Half | truTV |
-| #13 Hawai'i Rainbow Warriors @ #4 Arkansas Razorbacks | 34 - 44 | 3:28 - 1st Half | TBS |
+| #12 McNeese Cowboys @ #5 Vanderbilt Commodores | 60 - 68 | 2:50 - 2nd Half | truTV |
+| #13 Hawai'i Rainbow Warriors @ #4 Arkansas Razorbacks | 36 - 50 | 1:22 - 1st Half | TBS |
 | #11 VCU Rams @ #6 North Carolina Tar Heels | 0 - 0 | Thu, March 19th at 6:50 PM EDT | TNT |
 | #11 Texas Longhorns @ #6 BYU Cougars | 0 - 0 | Thu, March 19th at 7:25 PM EDT | TBS |
 | #10 Texas A&M Aggies @ #7 Saint Mary's Gaels | 0 - 0 | Thu, March 19th at 7:35 PM EDT | truTV |
