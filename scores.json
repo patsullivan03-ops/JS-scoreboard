@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-19 04:39:49",
+    "lastUpdated": "2026-03-19 04:44:53",
     "games": [
         {
             "id": "401858348",
             "awayTeam": "Saint Joseph's Hawks",
-            "awayScore": "46",
+            "awayScore": "52",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2603.png",
             "awayAbbr": "JOES",
             "homeTeam": "Colorado State Rams",
-            "homeScore": "40",
+            "homeScore": "45",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/36.png",
             "homeAbbr": "CSU",
-            "status": "10:51 - 2nd Half",
+            "status": "8:24 - 2nd Half",
             "tv": "ESPNU",
-            "winProb": 0.392,
+            "winProb": 0.273,
             "state": "in"
         },
         {
