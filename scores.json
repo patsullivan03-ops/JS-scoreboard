@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-19 00:31:11",
+    "lastUpdated": "2026-03-19 00:36:16",
     "games": [
         {
             "id": "401858343",
             "awayTeam": "George Washington Revolutionaries",
-            "awayScore": "29",
+            "awayScore": "34",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/45.png",
             "awayAbbr": "GW",
             "homeTeam": "Utah Valley Wolverines",
             "homeScore": "21",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/3084.png",
             "homeAbbr": "UVU",
-            "status": "4:50 - 1st Half",
+            "status": "3:54 - 1st Half",
             "tv": "ESPN+",
-            "winProb": 0.203,
+            "winProb": 0.099,
             "state": "in"
         },
         {
