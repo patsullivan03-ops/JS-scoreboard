@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-19 23:16:11",
+    "lastUpdated": "2026-03-19 23:21:14",
     "games": [
         {
             "id": "401856490",
@@ -11,9 +11,9 @@
             "homeScore": "24",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
             "homeAbbr": "UNC",
-            "status": "8:34 - 1st Half",
+            "status": "7:43 - 1st Half",
             "tv": "TNT",
-            "winProb": 0.756,
+            "winProb": 0.758,
             "state": "in"
         },
         {
