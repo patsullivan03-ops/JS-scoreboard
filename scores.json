@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-19 18:09:25",
+    "lastUpdated": "2026-03-19 18:14:31",
     "games": [
         {
             "id": "401856479",
@@ -11,7 +11,7 @@
             "homeScore": "57",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
             "homeAbbr": "OSU",
-            "status": "3:45 - 2nd Half",
+            "status": "2:08 - 2nd Half",
             "tv": "CBS",
             "winProb": 0.5,
             "state": "in"
@@ -19,16 +19,16 @@
         {
             "id": "401856480",
             "awayTeam": "#12 High Point Panthers",
-            "awayScore": "16",
+            "awayScore": "23",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2272.png",
             "awayAbbr": "HPU",
             "homeTeam": "#5 Wisconsin Badgers",
-            "homeScore": "22",
+            "homeScore": "29",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
             "homeAbbr": "WIS",
-            "status": "10:48 - 1st Half",
+            "status": "7:48 - 1st Half",
             "tv": "TBS",
-            "winProb": 0.869,
+            "winProb": 0.87,
             "state": "in"
         },
         {
@@ -41,7 +41,7 @@
             "homeScore": "30",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
             "homeAbbr": "LOU",
-            "status": "4:00 - 1st Half",
+            "status": "2:52 - 1st Half",
             "tv": "TNT",
             "winProb": 0.937,
             "state": "in"
