@@ -1,9 +1,9 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-19 01:37:15*
+*Updated: 2026-03-19 01:42:20*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| George Washington Revolutionaries @ Utah Valley Wolverines | 66 - 65 | 5:13 - 2nd Half | ESPN+ |
-| #11 Miami (OH) RedHawks @ #11 SMU Mustangs | 15 - 13 | 9:19 - 1st Half | truTV |
-| Sam Houston Bearkats @ New Mexico Lobos | 28 - 40 | 5:49 - 1st Half | ESPN+ |
+| #11 Miami (OH) RedHawks @ #11 SMU Mustangs | 20 - 13 | 7:41 - 1st Half | truTV |
+| George Washington Revolutionaries @ Utah Valley Wolverines | 70 - 69 | 3:58 - 2nd Half | ESPN+ |
+| Sam Houston Bearkats @ New Mexico Lobos | 34 - 42 | 3:43 - 1st Half | ESPN+ |
 | Saint Joseph's Hawks @ Colorado State Rams | 0 - 0 | Wed, March 18th at 11:00 PM EDT | ESPNU |
