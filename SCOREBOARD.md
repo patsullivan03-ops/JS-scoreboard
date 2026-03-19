@@ -1,9 +1,9 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-19 21:44:50*
+*Updated: 2026-03-19 21:49:55*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #13 Hawai'i Rainbow Warriors @ #4 Arkansas Razorbacks | 47 - 58 | 16:53 - 2nd Half | TBS |
+| #13 Hawai'i Rainbow Warriors @ #4 Arkansas Razorbacks | 47 - 64 | 14:59 - 2nd Half | TBS |
 | #11 VCU Rams @ #6 North Carolina Tar Heels | 0 - 0 | Thu, March 19th at 6:50 PM EDT | TNT |
 | #11 Texas Longhorns @ #6 BYU Cougars | 0 - 0 | Thu, March 19th at 7:25 PM EDT | TBS |
 | #10 Texas A&M Aggies @ #7 Saint Mary's Gaels | 0 - 0 | Thu, March 19th at 7:35 PM EDT | truTV |
