@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-19 03:33:51",
+    "lastUpdated": "2026-03-19 03:38:56",
     "games": [
         {
             "id": "401858348",
@@ -8,12 +8,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2603.png",
             "awayAbbr": "JOES",
             "homeTeam": "Colorado State Rams",
-            "homeScore": "16",
+            "homeScore": "18",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/36.png",
             "homeAbbr": "CSU",
-            "status": "7:43 - 1st Half",
+            "status": "6:29 - 1st Half",
             "tv": "ESPNU",
-            "winProb": 0.458,
+            "winProb": 0.539,
             "state": "in"
         },
         {
