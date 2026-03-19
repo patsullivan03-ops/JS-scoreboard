@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-19 16:41:46",
+    "lastUpdated": "2026-03-19 16:46:51",
     "games": [
         {
             "id": "401856479",
             "awayTeam": "#9 TCU Horned Frogs",
-            "awayScore": "14",
+            "awayScore": "23",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2628.png",
             "awayAbbr": "TCU",
             "homeTeam": "#8 Ohio State Buckeyes",
-            "homeScore": "13",
+            "homeScore": "17",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
             "homeAbbr": "OSU",
-            "status": "9:26 - 1st Half",
+            "status": "6:08 - 1st Half",
             "tv": "CBS",
-            "winProb": 0.595,
+            "winProb": 0.443,
             "state": "in"
         },
         {
