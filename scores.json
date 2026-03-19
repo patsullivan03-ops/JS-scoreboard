@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-19 01:52:28",
+    "lastUpdated": "2026-03-19 01:57:33",
     "games": [
         {
             "id": "401858342",
@@ -19,16 +19,16 @@
         {
             "id": "401856436",
             "awayTeam": "#11 Miami (OH) RedHawks",
-            "awayScore": "34",
+            "awayScore": "43",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/193.png",
             "awayAbbr": "M-OH",
             "homeTeam": "#11 SMU Mustangs",
-            "homeScore": "30",
+            "homeScore": "32",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2567.png",
             "homeAbbr": "SMU",
-            "status": "2:57 - 1st Half",
+            "status": "0:59 - 1st Half",
             "tv": "truTV",
-            "winProb": 0.478,
+            "winProb": 0.282,
             "state": "in"
         },
         {
@@ -38,12 +38,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/45.png",
             "awayAbbr": "GW",
             "homeTeam": "Utah Valley Wolverines",
-            "homeScore": "75",
+            "homeScore": "78",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/3084.png",
             "homeAbbr": "UVU",
-            "status": "0:41 - 2nd Half",
+            "status": "0:09 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.19,
+            "winProb": 0.208,
             "state": "in"
         },
         {
