@@ -1,6 +1,21 @@
 {
-    "lastUpdated": "2026-03-19 00:56:39",
+    "lastUpdated": "2026-03-19 01:01:45",
     "games": [
+        {
+            "id": "401858342",
+            "awayTeam": "Sam Houston Bearkats",
+            "awayScore": "0",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2534.png",
+            "awayAbbr": "SHSU",
+            "homeTeam": "New Mexico Lobos",
+            "homeScore": "0",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/167.png",
+            "homeAbbr": "UNM",
+            "status": "20:00 - 1st Half",
+            "tv": "ESPN+",
+            "winProb": 0.5,
+            "state": "in"
+        },
         {
             "id": "401858343",
             "awayTeam": "George Washington Revolutionaries",
@@ -8,12 +23,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/45.png",
             "awayAbbr": "GW",
             "homeTeam": "Utah Valley Wolverines",
-            "homeScore": "29",
+            "homeScore": "32",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/3084.png",
             "homeAbbr": "UVU",
-            "status": "Halftime",
+            "status": "19:28 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.5,
+            "winProb": 0.081,
             "state": "in"
         },
         {
@@ -28,21 +43,6 @@
             "homeAbbr": "SMU",
             "status": "Wed, March 18th at 9:15 PM EDT",
             "tv": "truTV",
-            "winProb": 0.5,
-            "state": "pre"
-        },
-        {
-            "id": "401858342",
-            "awayTeam": "Sam Houston Bearkats",
-            "awayScore": "0",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2534.png",
-            "awayAbbr": "SHSU",
-            "homeTeam": "New Mexico Lobos",
-            "homeScore": "0",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/167.png",
-            "homeAbbr": "UNM",
-            "status": "Wed, March 18th at 9:00 PM EDT",
-            "tv": "ESPN+",
             "winProb": 0.5,
             "state": "pre"
         },
