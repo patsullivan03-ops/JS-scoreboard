@@ -1,11 +1,11 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-19 23:51:39*
+*Updated: 2026-03-19 23:56:44*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
 | #11 VCU Rams @ #6 North Carolina Tar Heels | 28 - 39 | Halftime | TNT |
-| #10 Texas A&M Aggies @ #7 Saint Mary's Gaels | 13 - 10 | 11:28 - 1st Half | truTV |
-| #11 Texas Longhorns @ #6 BYU Cougars | 20 - 21 | 12:02 - 1st Half | TBS |
+| #10 Texas A&M Aggies @ #7 Saint Mary's Gaels | 15 - 13 | 10:26 - 1st Half | truTV |
+| #11 Texas Longhorns @ #6 BYU Cougars | 23 - 21 | 11:01 - 1st Half | TBS |
 | #9 Saint Louis Billikens @ #8 Georgia Bulldogs | 0 - 0 | Thu, March 19th at 9:55 PM EDT | CBS |
 | #15 Idaho Vandals @ #2 Houston Cougars | 0 - 0 | Thu, March 19th at 10:10 PM EDT | truTV |
 | #16 Siena Saints @ #1 Duke Blue Devils | 65 - 71 | Final | CBS |
