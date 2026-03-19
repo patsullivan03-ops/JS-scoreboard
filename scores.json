@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-19 03:13:35",
+    "lastUpdated": "2026-03-19 03:18:39",
     "games": [
         {
             "id": "401858348",
@@ -8,27 +8,27 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2603.png",
             "awayAbbr": "JOES",
             "homeTeam": "Colorado State Rams",
-            "homeScore": "4",
+            "homeScore": "6",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/36.png",
             "homeAbbr": "CSU",
-            "status": "14:12 - 1st Half",
+            "status": "12:36 - 1st Half",
             "tv": "ESPNU",
-            "winProb": 0.509,
+            "winProb": 0.562,
             "state": "in"
         },
         {
             "id": "401856436",
             "awayTeam": "#11 Miami (OH) RedHawks",
-            "awayScore": "81",
+            "awayScore": "83",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/193.png",
             "awayAbbr": "M-OH",
             "homeTeam": "#11 SMU Mustangs",
-            "homeScore": "70",
+            "homeScore": "76",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2567.png",
             "homeAbbr": "SMU",
-            "status": "2:31 - 2nd Half",
+            "status": "1:10 - 2nd Half",
             "tv": "truTV",
-            "winProb": 0.026,
+            "winProb": 0.05,
             "state": "in"
         },
         {
