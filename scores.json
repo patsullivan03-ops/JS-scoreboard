@@ -1,21 +1,6 @@
 {
-    "lastUpdated": "2026-03-19 20:07:03",
+    "lastUpdated": "2026-03-19 20:12:12",
     "games": [
-        {
-            "id": "401856478",
-            "awayTeam": "#16 Siena Saints",
-            "awayScore": "43",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2561.png",
-            "awayAbbr": "SIE",
-            "homeTeam": "#1 Duke Blue Devils",
-            "homeScore": "32",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
-            "homeAbbr": "DUKE",
-            "status": "Halftime",
-            "tv": "CBS",
-            "winProb": 0.5,
-            "state": "in"
-        },
         {
             "id": "401856488",
             "awayTeam": "#12 McNeese Cowboys",
@@ -29,6 +14,21 @@
             "status": "Halftime",
             "tv": "truTV",
             "winProb": 0.5,
+            "state": "in"
+        },
+        {
+            "id": "401856478",
+            "awayTeam": "#16 Siena Saints",
+            "awayScore": "43",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2561.png",
+            "awayAbbr": "SIE",
+            "homeTeam": "#1 Duke Blue Devils",
+            "homeScore": "32",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+            "homeAbbr": "DUKE",
+            "status": "19:36 - 2nd Half",
+            "tv": "CBS",
+            "winProb": 0.778,
             "state": "in"
         },
         {
