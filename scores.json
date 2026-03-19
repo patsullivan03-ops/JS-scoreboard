@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-19 18:40:12",
+    "lastUpdated": "2026-03-19 18:45:16",
     "games": [
         {
             "id": "401856480",
@@ -28,7 +28,7 @@
             "homeAbbr": "LOU",
             "status": "Halftime",
             "tv": "TNT",
-            "winProb": 0.5,
+            "winProb": 0.94,
             "state": "in"
         },
         {
