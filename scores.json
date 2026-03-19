@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-19 22:00:03",
+    "lastUpdated": "2026-03-19 22:05:08",
     "games": [
         {
             "id": "401856481",
             "awayTeam": "#13 Hawai'i Rainbow Warriors",
-            "awayScore": "55",
+            "awayScore": "60",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/62.png",
             "awayAbbr": "HAW",
             "homeTeam": "#4 Arkansas Razorbacks",
-            "homeScore": "73",
+            "homeScore": "75",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
             "homeAbbr": "ARK",
-            "status": "11:26 - 2nd Half",
+            "status": "10:07 - 2nd Half",
             "tv": "TBS",
-            "winProb": 0.998,
+            "winProb": 0.995,
             "state": "in"
         },
         {
