@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-20 17:43:48",
+    "lastUpdated": "2026-03-20 17:48:53",
     "games": [
         {
             "id": "401856520",
@@ -19,29 +19,29 @@
         {
             "id": "401856525",
             "awayTeam": "#10 Santa Clara Broncos",
-            "awayScore": "47",
+            "awayScore": "52",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2541.png",
             "awayAbbr": "SCU",
             "homeTeam": "#7 Kentucky Wildcats",
-            "homeScore": "51",
+            "homeScore": "53",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
             "homeAbbr": "UK",
-            "status": "11:45 - 2nd Half",
+            "status": "9:25 - 2nd Half",
             "tv": "CBS",
-            "winProb": 0.831,
+            "winProb": 0.672,
             "state": "in"
         },
         {
             "id": "401856529",
             "awayTeam": "#16 Long Island University Sharks",
-            "awayScore": "4",
+            "awayScore": "6",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/112358.png",
             "awayAbbr": "LIU",
             "homeTeam": "#1 Arizona Wildcats",
             "homeScore": "15",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
             "homeAbbr": "ARIZ",
-            "status": "16:02 - 1st Half",
+            "status": "14:47 - 1st Half",
             "tv": "TNT",
             "winProb": 0.996,
             "state": "in"
