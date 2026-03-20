@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-20 01:43:34",
+    "lastUpdated": "2026-03-20 01:48:39",
     "games": [
         {
             "id": "401856484",
             "awayTeam": "#11 Texas Longhorns",
-            "awayScore": "75",
+            "awayScore": "77",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
             "awayAbbr": "TEX",
             "homeTeam": "#6 BYU Cougars",
             "homeScore": "71",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
             "homeAbbr": "BYU",
-            "status": "0:49 - 2nd Half",
+            "status": "0:09 - 2nd Half",
             "tv": "TBS",
-            "winProb": 0.123,
+            "winProb": 0.004,
             "state": "in"
         },
         {
