@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-20 22:43:41",
+    "lastUpdated": "2026-03-20 22:48:45",
     "games": [
         {
             "id": "401856496",
@@ -62,21 +62,6 @@
             "state": "pre"
         },
         {
-            "id": "401856527",
-            "awayTeam": "#11 Miami (OH) RedHawks",
-            "awayScore": "56",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/193.png",
-            "awayAbbr": "M-OH",
-            "homeTeam": "#6 Tennessee Volunteers",
-            "homeScore": "78",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
-            "homeAbbr": "TENN",
-            "status": "Final",
-            "tv": "TBS",
-            "winProb": 0.5,
-            "state": "post"
-        },
-        {
             "id": "401856529",
             "awayTeam": "#16 Long Island University Sharks",
             "awayScore": "58",
@@ -133,6 +118,21 @@
             "homeAbbr": "TTU",
             "status": "Final",
             "tv": "truTV",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "id": "401856527",
+            "awayTeam": "#11 Miami (OH) RedHawks",
+            "awayScore": "56",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/193.png",
+            "awayAbbr": "M-OH",
+            "homeTeam": "#6 Tennessee Volunteers",
+            "homeScore": "78",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
+            "homeAbbr": "TENN",
+            "status": "Final",
+            "tv": "TBS",
             "winProb": 0.5,
             "state": "post"
         },
