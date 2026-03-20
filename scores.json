@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-20 20:26:29",
+    "lastUpdated": "2026-03-20 20:31:34",
     "games": [
         {
             "id": "401856521",
@@ -8,25 +8,25 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2275.png",
             "awayAbbr": "HOF",
             "homeTeam": "#4 Alabama Crimson Tide",
-            "homeScore": "37",
+            "homeScore": "41",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
             "homeAbbr": "ALA",
-            "status": "Halftime",
+            "status": "19:06 - 2nd Half",
             "tv": "truTV",
-            "winProb": 0.5,
+            "winProb": 0.916,
             "state": "in"
         },
         {
             "id": "401856524",
             "awayTeam": "#15 Tennessee State Tigers",
-            "awayScore": "29",
+            "awayScore": "37",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2634.png",
             "awayAbbr": "TNST",
             "homeTeam": "#2 Iowa State Cyclones",
-            "homeScore": "55",
+            "homeScore": "65",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/66.png",
             "homeAbbr": "ISU",
-            "status": "19:39 - 2nd Half",
+            "status": "16:15 - 2nd Half",
             "tv": "CBS",
             "winProb": 0.999,
             "state": "in"
