@@ -1,9 +1,9 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-20 23:14:06*
+*Updated: 2026-03-20 23:19:10*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #10 UCF Knights @ #7 UCLA Bruins | 0 - 0 | Fri, March 20th at 7:25 PM EDT | TBS |
+| #10 UCF Knights @ #7 UCLA Bruins | 0 - 0 | Fri, March 20th at 7:31 PM EDT | TBS |
 | #15 Queens University Royals @ #2 Purdue Boilermakers | 0 - 0 | Fri, March 20th at 7:35 PM EDT | truTV |
 | #16 Prairie View A&M Panthers @ #1 Florida Gators | 0 - 0 | Fri, March 20th at 9:25 PM EDT | TNT |
 | #10 Missouri Tigers @ #7 Miami Hurricanes | 0 - 0 | Fri, March 20th at 10:10 PM EDT | truTV |
