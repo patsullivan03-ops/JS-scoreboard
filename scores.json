@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-20 16:12:17",
+    "lastUpdated": "2026-03-20 16:17:22",
     "games": [
         {
             "id": "401856525",
@@ -8,13 +8,13 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2541.png",
             "awayAbbr": "SCU",
             "homeTeam": "#7 Kentucky Wildcats",
-            "homeScore": "0",
+            "homeScore": "5",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
             "homeAbbr": "UK",
-            "status": "Fri, March 20th at 12:15 PM EDT",
+            "status": "19:04 - 1st Half",
             "tv": "CBS",
-            "winProb": 0.5,
-            "state": "pre"
+            "winProb": 0.813,
+            "state": "in"
         },
         {
             "id": "401856520",
