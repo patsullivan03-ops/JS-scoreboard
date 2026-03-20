@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-20 17:33:37",
+    "lastUpdated": "2026-03-20 17:38:43",
     "games": [
         {
             "id": "401856520",
@@ -26,25 +26,25 @@
             "homeScore": "46",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
             "homeAbbr": "UK",
-            "status": "13:21 - 2nd Half",
+            "status": "13:06 - 2nd Half",
             "tv": "CBS",
-            "winProb": 0.736,
+            "winProb": 0.752,
             "state": "in"
         },
         {
             "id": "401856529",
             "awayTeam": "#16 Long Island University Sharks",
-            "awayScore": "0",
+            "awayScore": "2",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/112358.png",
             "awayAbbr": "LIU",
             "homeTeam": "#1 Arizona Wildcats",
-            "homeScore": "0",
+            "homeScore": "6",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
             "homeAbbr": "ARIZ",
-            "status": "Fri, March 20th at 1:35 PM EDT",
+            "status": "17:34 - 1st Half",
             "tv": "TNT",
-            "winProb": 0.5,
-            "state": "pre"
+            "winProb": 0.993,
+            "state": "in"
         },
         {
             "id": "401856524",
