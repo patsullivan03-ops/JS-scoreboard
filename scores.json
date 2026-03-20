@@ -1,6 +1,21 @@
 {
-    "lastUpdated": "2026-03-20 03:04:49",
+    "lastUpdated": "2026-03-20 03:09:53",
     "games": [
+        {
+            "id": "401856493",
+            "awayTeam": "#15 Idaho Vandals",
+            "awayScore": "24",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/70.png",
+            "awayAbbr": "IDHO",
+            "homeTeam": "#2 Houston Cougars",
+            "homeScore": "48",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
+            "homeAbbr": "HOU",
+            "status": "Halftime",
+            "tv": "truTV",
+            "winProb": 0.5,
+            "state": "in"
+        },
         {
             "id": "401856487",
             "awayTeam": "#9 Saint Louis Billikens",
@@ -14,21 +29,6 @@
             "status": "Halftime",
             "tv": "CBS",
             "winProb": 0.5,
-            "state": "in"
-        },
-        {
-            "id": "401856493",
-            "awayTeam": "#15 Idaho Vandals",
-            "awayScore": "24",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/70.png",
-            "awayAbbr": "IDHO",
-            "homeTeam": "#2 Houston Cougars",
-            "homeScore": "46",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
-            "homeAbbr": "HOU",
-            "status": "0:50 - 1st Half",
-            "tv": "truTV",
-            "winProb": 0.999,
             "state": "in"
         },
         {
