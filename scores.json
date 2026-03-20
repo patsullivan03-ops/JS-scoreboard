@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-20 17:08:09",
+    "lastUpdated": "2026-03-20 17:13:13",
     "games": [
         {
             "id": "401856525",
@@ -19,16 +19,16 @@
         {
             "id": "401856520",
             "awayTeam": "#12 Akron Zips",
-            "awayScore": "22",
+            "awayScore": "23",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
             "awayAbbr": "AKR",
             "homeTeam": "#5 Texas Tech Red Raiders",
             "homeScore": "29",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
             "homeAbbr": "TTU",
-            "status": "6:31 - 1st Half",
+            "status": "5:51 - 1st Half",
             "tv": "truTV",
-            "winProb": 0.905,
+            "winProb": 0.877,
             "state": "in"
         },
         {
