@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-20 23:44:31",
+    "lastUpdated": "2026-03-20 23:49:36",
     "games": [
         {
             "id": "401856496",
@@ -11,24 +11,24 @@
             "homeScore": "18",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
             "homeAbbr": "UCLA",
-            "status": "12:04 - 1st Half",
+            "status": "11:50 - 1st Half",
             "tv": "TBS",
-            "winProb": 0.84,
+            "winProb": 0.842,
             "state": "in"
         },
         {
             "id": "401856519",
             "awayTeam": "#15 Queens University Royals",
-            "awayScore": "10",
+            "awayScore": "12",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2511.png",
             "awayAbbr": "QUC",
             "homeTeam": "#2 Purdue Boilermakers",
-            "homeScore": "13",
+            "homeScore": "17",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
             "homeAbbr": "PUR",
-            "status": "15:04 - 1st Half",
+            "status": "12:11 - 1st Half",
             "tv": "truTV",
-            "winProb": 0.98,
+            "winProb": 0.984,
             "state": "in"
         },
         {
