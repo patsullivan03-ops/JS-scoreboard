@@ -1,34 +1,34 @@
 {
-    "lastUpdated": "2026-03-20 01:28:20",
+    "lastUpdated": "2026-03-20 01:33:25",
     "games": [
         {
             "id": "401856484",
             "awayTeam": "#11 Texas Longhorns",
-            "awayScore": "70",
+            "awayScore": "72",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
             "awayAbbr": "TEX",
             "homeTeam": "#6 BYU Cougars",
             "homeScore": "64",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
             "homeAbbr": "BYU",
-            "status": "4:08 - 2nd Half",
+            "status": "3:28 - 2nd Half",
             "tv": "TBS",
-            "winProb": 0.221,
+            "winProb": 0.076,
             "state": "in"
         },
         {
             "id": "401856492",
             "awayTeam": "#10 Texas A&M Aggies",
-            "awayScore": "59",
+            "awayScore": "61",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/245.png",
             "awayAbbr": "TA&M",
             "homeTeam": "#7 Saint Mary's Gaels",
-            "homeScore": "46",
+            "homeScore": "48",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2608.png",
             "homeAbbr": "SMC",
-            "status": "5:16 - 2nd Half",
+            "status": "3:32 - 2nd Half",
             "tv": "truTV",
-            "winProb": 0.015,
+            "winProb": 0.009,
             "state": "in"
         },
         {
