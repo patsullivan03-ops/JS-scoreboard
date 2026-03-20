@@ -1,11 +1,11 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-20 20:46:58*
+*Updated: 2026-03-20 20:52:02*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #11 Miami (OH) RedHawks @ #6 Tennessee Volunteers | 13 - 16 | 13:23 - 1st Half | TBS |
-| #13 Hofstra Pride @ #4 Alabama Crimson Tide | 43 - 52 | 13:53 - 2nd Half | truTV |
-| #15 Tennessee State Tigers @ #2 Iowa State Cyclones | 47 - 82 | 11:12 - 2nd Half | CBS |
+| #11 Miami (OH) RedHawks @ #6 Tennessee Volunteers | 15 - 23 | 11:03 - 1st Half | TBS |
+| #13 Hofstra Pride @ #4 Alabama Crimson Tide | 48 - 59 | 11:51 - 2nd Half | truTV |
+| #15 Tennessee State Tigers @ #2 Iowa State Cyclones | 49 - 86 | 9:20 - 2nd Half | CBS |
 | #10 UCF Knights @ #7 UCLA Bruins | 0 - 0 | Fri, March 20th at 7:25 PM EDT | TBS |
 | #15 Queens University Royals @ #2 Purdue Boilermakers | 0 - 0 | Fri, March 20th at 7:35 PM EDT | truTV |
 | #16 Prairie View A&M Panthers @ #1 Florida Gators | 0 - 0 | Fri, March 20th at 9:25 PM EDT | TNT |
