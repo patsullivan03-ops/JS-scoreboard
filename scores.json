@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-20 21:42:50",
+    "lastUpdated": "2026-03-20 21:47:54",
     "games": [
         {
             "id": "401856527",
@@ -11,9 +11,9 @@
             "homeScore": "51",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
             "homeAbbr": "TENN",
-            "status": "Halftime",
+            "status": "19:23 - 2nd Half",
             "tv": "TBS",
-            "winProb": 0.5,
+            "winProb": 0.994,
             "state": "in"
         },
         {
