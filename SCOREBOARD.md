@@ -1,9 +1,9 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-20 21:58:03*
+*Updated: 2026-03-20 22:03:07*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #11 Miami (OH) RedHawks @ #6 Tennessee Volunteers | 36 - 55 | 14:59 - 2nd Half | TBS |
+| #11 Miami (OH) RedHawks @ #6 Tennessee Volunteers | 36 - 60 | 11:45 - 2nd Half | TBS |
 | #10 UCF Knights @ #7 UCLA Bruins | 0 - 0 | Fri, March 20th at 7:25 PM EDT | TBS |
 | #15 Queens University Royals @ #2 Purdue Boilermakers | 0 - 0 | Fri, March 20th at 7:35 PM EDT | truTV |
 | #16 Prairie View A&M Panthers @ #1 Florida Gators | 0 - 0 | Fri, March 20th at 9:25 PM EDT | TNT |

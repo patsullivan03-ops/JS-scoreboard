@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-20 21:58:03",
+    "lastUpdated": "2026-03-20 22:03:07",
     "games": [
         {
             "id": "401856527",
@@ -8,12 +8,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/193.png",
             "awayAbbr": "M-OH",
             "homeTeam": "#6 Tennessee Volunteers",
-            "homeScore": "55",
+            "homeScore": "60",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
             "homeAbbr": "TENN",
-            "status": "14:59 - 2nd Half",
+            "status": "11:45 - 2nd Half",
             "tv": "TBS",
-            "winProb": 0.995,
+            "winProb": 0.999,
             "state": "in"
         },
         {
