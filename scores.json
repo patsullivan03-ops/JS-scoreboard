@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-20 01:38:29",
+    "lastUpdated": "2026-03-20 01:43:34",
     "games": [
         {
             "id": "401856484",
@@ -8,43 +8,13 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
             "awayAbbr": "TEX",
             "homeTeam": "#6 BYU Cougars",
-            "homeScore": "68",
+            "homeScore": "71",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
             "homeAbbr": "BYU",
-            "status": "1:21 - 2nd Half",
+            "status": "0:49 - 2nd Half",
             "tv": "TBS",
-            "winProb": 0.096,
+            "winProb": 0.123,
             "state": "in"
-        },
-        {
-            "id": "401856492",
-            "awayTeam": "#10 Texas A&M Aggies",
-            "awayScore": "63",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/245.png",
-            "awayAbbr": "TA&M",
-            "homeTeam": "#7 Saint Mary's Gaels",
-            "homeScore": "50",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2608.png",
-            "homeAbbr": "SMC",
-            "status": "0:51 - 2nd Half",
-            "tv": "truTV",
-            "winProb": 0.001,
-            "state": "in"
-        },
-        {
-            "id": "401856487",
-            "awayTeam": "#9 Saint Louis Billikens",
-            "awayScore": "0",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/139.png",
-            "awayAbbr": "SLU",
-            "homeTeam": "#8 Georgia Bulldogs",
-            "homeScore": "0",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/61.png",
-            "homeAbbr": "UGA",
-            "status": "Thu, March 19th at 10:10 PM EDT",
-            "tv": "CBS",
-            "winProb": 0.5,
-            "state": "pre"
         },
         {
             "id": "401856493",
@@ -58,6 +28,21 @@
             "homeAbbr": "HOU",
             "status": "Thu, March 19th at 10:10 PM EDT",
             "tv": "truTV",
+            "winProb": 0.5,
+            "state": "pre"
+        },
+        {
+            "id": "401856487",
+            "awayTeam": "#9 Saint Louis Billikens",
+            "awayScore": "0",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/139.png",
+            "awayAbbr": "SLU",
+            "homeTeam": "#8 Georgia Bulldogs",
+            "homeScore": "0",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/61.png",
+            "homeAbbr": "UGA",
+            "status": "Thu, March 19th at 10:10 PM EDT",
+            "tv": "CBS",
             "winProb": 0.5,
             "state": "pre"
         },
@@ -148,6 +133,21 @@
             "homeAbbr": "UNC",
             "status": "Final/OT",
             "tv": "TNT",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "id": "401856492",
+            "awayTeam": "#10 Texas A&M Aggies",
+            "awayScore": "63",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/245.png",
+            "awayAbbr": "TA&M",
+            "homeTeam": "#7 Saint Mary's Gaels",
+            "homeScore": "50",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2608.png",
+            "homeAbbr": "SMC",
+            "status": "Final",
+            "tv": "truTV",
             "winProb": 0.5,
             "state": "post"
         },
