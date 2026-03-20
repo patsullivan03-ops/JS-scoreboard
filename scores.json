@@ -1,21 +1,6 @@
 {
-    "lastUpdated": "2026-03-20 01:48:39",
+    "lastUpdated": "2026-03-20 01:53:44",
     "games": [
-        {
-            "id": "401856484",
-            "awayTeam": "#11 Texas Longhorns",
-            "awayScore": "77",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
-            "awayAbbr": "TEX",
-            "homeTeam": "#6 BYU Cougars",
-            "homeScore": "71",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
-            "homeAbbr": "BYU",
-            "status": "0:09 - 2nd Half",
-            "tv": "TBS",
-            "winProb": 0.004,
-            "state": "in"
-        },
         {
             "id": "401856493",
             "awayTeam": "#15 Idaho Vandals",
@@ -45,6 +30,21 @@
             "tv": "CBS",
             "winProb": 0.5,
             "state": "pre"
+        },
+        {
+            "id": "401856484",
+            "awayTeam": "#11 Texas Longhorns",
+            "awayScore": "79",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+            "awayAbbr": "TEX",
+            "homeTeam": "#6 BYU Cougars",
+            "homeScore": "71",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
+            "homeAbbr": "BYU",
+            "status": "Final",
+            "tv": "TBS",
+            "winProb": 0.5,
+            "state": "post"
         },
         {
             "id": "401856478",
