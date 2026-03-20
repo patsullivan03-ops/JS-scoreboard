@@ -1,16 +1,16 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-20 02:39:26*
+*Updated: 2026-03-20 02:44:31*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #9 Saint Louis Billikens @ #8 Georgia Bulldogs | 27 - 18 | 7:57 - 1st Half | CBS |
-| #15 Idaho Vandals @ #2 Houston Cougars | 15 - 27 | 10:18 - 1st Half | truTV |
-| #16 Siena Saints @ #1 Duke Blue Devils | 65 - 71 | Final | CBS |
+| #9 Saint Louis Billikens @ #8 Georgia Bulldogs | 35 - 18 | 6:29 - 1st Half | CBS |
+| #15 Idaho Vandals @ #2 Houston Cougars | 15 - 33 | 7:24 - 1st Half | truTV |
 | #13 Hawai'i Rainbow Warriors @ #4 Arkansas Razorbacks | 78 - 97 | Final | TBS |
+| #16 Siena Saints @ #1 Duke Blue Devils | 65 - 71 | Final | CBS |
 | #12 High Point Panthers @ #5 Wisconsin Badgers | 83 - 82 | Final | TBS |
 | #12 McNeese Cowboys @ #5 Vanderbilt Commodores | 68 - 78 | Final | truTV |
 | #11 South Florida Bulls @ #6 Louisville Cardinals | 79 - 83 | Final | TNT |
+| #9 TCU Horned Frogs @ #8 Ohio State Buckeyes | 66 - 64 | Final | CBS |
 | #11 VCU Rams @ #6 North Carolina Tar Heels | 82 - 78 | Final/OT | TNT |
 | #11 Texas Longhorns @ #6 BYU Cougars | 79 - 71 | Final | TBS |
 | #10 Texas A&M Aggies @ #7 Saint Mary's Gaels | 63 - 50 | Final | truTV |
-| #9 TCU Horned Frogs @ #8 Ohio State Buckeyes | 66 - 64 | Final | CBS |
