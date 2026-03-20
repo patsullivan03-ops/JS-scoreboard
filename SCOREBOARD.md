@@ -1,11 +1,11 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-20 18:19:22*
+*Updated: 2026-03-20 18:24:27*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #10 Santa Clara Broncos @ #7 Kentucky Wildcats | 73 - 73 | 4:38 - OT | CBS |
-| #12 Akron Zips @ #5 Texas Tech Red Raiders | 59 - 64 | 9:42 - 2nd Half | truTV |
-| #16 Long Island University Sharks @ #1 Arizona Wildcats | 20 - 47 | 3:46 - 1st Half | TNT |
+| #10 Santa Clara Broncos @ #7 Kentucky Wildcats | 79 - 79 | 1:12 - OT | CBS |
+| #12 Akron Zips @ #5 Texas Tech Red Raiders | 60 - 66 | 7:57 - 2nd Half | truTV |
+| #16 Long Island University Sharks @ #1 Arizona Wildcats | 27 - 51 | 1:53 - 1st Half | TNT |
 | #15 Tennessee State Tigers @ #2 Iowa State Cyclones | 0 - 0 | Fri, March 20th at 2:50 PM EDT | CBS |
 | #13 Hofstra Pride @ #4 Alabama Crimson Tide | 0 - 0 | Fri, March 20th at 3:15 PM EDT | truTV |
 | #11 Miami (OH) RedHawks @ #6 Tennessee Volunteers | 0 - 0 | Fri, March 20th at 4:25 PM EDT | TBS |
