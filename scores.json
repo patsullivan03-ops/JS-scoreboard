@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-20 16:27:32",
+    "lastUpdated": "2026-03-20 16:32:36",
     "games": [
         {
             "id": "401856525",
             "awayTeam": "#10 Santa Clara Broncos",
-            "awayScore": "11",
+            "awayScore": "13",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2541.png",
             "awayAbbr": "SCU",
             "homeTeam": "#7 Kentucky Wildcats",
-            "homeScore": "10",
+            "homeScore": "14",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
             "homeAbbr": "UK",
-            "status": "13:54 - 1st Half",
+            "status": "11:35 - 1st Half",
             "tv": "CBS",
-            "winProb": 0.667,
+            "winProb": 0.742,
             "state": "in"
         },
         {
