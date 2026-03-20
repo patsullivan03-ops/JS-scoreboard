@@ -1,6 +1,21 @@
 {
-    "lastUpdated": "2026-03-20 20:57:12",
+    "lastUpdated": "2026-03-20 21:02:16",
     "games": [
+        {
+            "id": "401856521",
+            "awayTeam": "#13 Hofstra Pride",
+            "awayScore": "59",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2275.png",
+            "awayAbbr": "HOF",
+            "homeTeam": "#4 Alabama Crimson Tide",
+            "homeScore": "67",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
+            "homeAbbr": "ALA",
+            "status": "8:01 - 2nd Half",
+            "tv": "truTV",
+            "winProb": 0.939,
+            "state": "in"
+        },
         {
             "id": "401856527",
             "awayTeam": "#11 Miami (OH) RedHawks",
@@ -8,27 +23,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/193.png",
             "awayAbbr": "M-OH",
             "homeTeam": "#6 Tennessee Volunteers",
-            "homeScore": "23",
+            "homeScore": "28",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
             "homeAbbr": "TENN",
-            "status": "9:08 - 1st Half",
+            "status": "7:51 - 1st Half",
             "tv": "TBS",
-            "winProb": 0.935,
-            "state": "in"
-        },
-        {
-            "id": "401856521",
-            "awayTeam": "#13 Hofstra Pride",
-            "awayScore": "52",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2275.png",
-            "awayAbbr": "HOF",
-            "homeTeam": "#4 Alabama Crimson Tide",
-            "homeScore": "62",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
-            "homeAbbr": "ALA",
-            "status": "10:11 - 2nd Half",
-            "tv": "truTV",
-            "winProb": 0.958,
+            "winProb": 0.967,
             "state": "in"
         },
         {
@@ -41,7 +41,7 @@
             "homeScore": "90",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/66.png",
             "homeAbbr": "ISU",
-            "status": "7:38 - 2nd Half",
+            "status": "7:30 - 2nd Half",
             "tv": "CBS",
             "winProb": 0.999,
             "state": "in"
