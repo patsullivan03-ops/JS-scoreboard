@@ -1,20 +1,20 @@
 {
-    "lastUpdated": "2026-03-20 02:08:59",
+    "lastUpdated": "2026-03-20 02:14:04",
     "games": [
         {
             "id": "401856487",
             "awayTeam": "#9 Saint Louis Billikens",
-            "awayScore": "0",
+            "awayScore": "4",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/139.png",
             "awayAbbr": "SLU",
             "homeTeam": "#8 Georgia Bulldogs",
             "homeScore": "0",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/61.png",
             "homeAbbr": "UGA",
-            "status": "Thu, March 19th at 10:10 PM EDT",
+            "status": "18:20 - 1st Half",
             "tv": "CBS",
-            "winProb": 0.5,
-            "state": "pre"
+            "winProb": 0.405,
+            "state": "in"
         },
         {
             "id": "401856493",
