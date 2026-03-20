@@ -1,21 +1,6 @@
 {
-    "lastUpdated": "2026-03-20 22:28:28",
+    "lastUpdated": "2026-03-20 22:33:32",
     "games": [
-        {
-            "id": "401856527",
-            "awayTeam": "#11 Miami (OH) RedHawks",
-            "awayScore": "54",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/193.png",
-            "awayAbbr": "M-OH",
-            "homeTeam": "#6 Tennessee Volunteers",
-            "homeScore": "76",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
-            "homeAbbr": "TENN",
-            "status": "2:14 - 2nd Half",
-            "tv": "TBS",
-            "winProb": 0.999,
-            "state": "in"
-        },
         {
             "id": "401856496",
             "awayTeam": "#10 UCF Knights",
@@ -75,6 +60,21 @@
             "tv": "truTV",
             "winProb": 0.5,
             "state": "pre"
+        },
+        {
+            "id": "401856527",
+            "awayTeam": "#11 Miami (OH) RedHawks",
+            "awayScore": "56",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/193.png",
+            "awayAbbr": "M-OH",
+            "homeTeam": "#6 Tennessee Volunteers",
+            "homeScore": "78",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
+            "homeAbbr": "TENN",
+            "status": "Final",
+            "tv": "TBS",
+            "winProb": 0.5,
+            "state": "post"
         },
         {
             "id": "401856529",
