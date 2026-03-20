@@ -1,34 +1,34 @@
 {
-    "lastUpdated": "2026-03-20 02:19:08",
+    "lastUpdated": "2026-03-20 02:24:13",
     "games": [
         {
             "id": "401856487",
             "awayTeam": "#9 Saint Louis Billikens",
-            "awayScore": "8",
+            "awayScore": "10",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/139.png",
             "awayAbbr": "SLU",
             "homeTeam": "#8 Georgia Bulldogs",
-            "homeScore": "2",
+            "homeScore": "8",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/61.png",
             "homeAbbr": "UGA",
-            "status": "15:27 - 1st Half",
+            "status": "14:18 - 1st Half",
             "tv": "CBS",
-            "winProb": 0.351,
+            "winProb": 0.446,
             "state": "in"
         },
         {
             "id": "401856493",
             "awayTeam": "#15 Idaho Vandals",
-            "awayScore": "2",
+            "awayScore": "10",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/70.png",
             "awayAbbr": "IDHO",
             "homeTeam": "#2 Houston Cougars",
-            "homeScore": "4",
+            "homeScore": "7",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
             "homeAbbr": "HOU",
-            "status": "18:00 - 1st Half",
+            "status": "15:23 - 1st Half",
             "tv": "truTV",
-            "winProb": 0.983,
+            "winProb": 0.969,
             "state": "in"
         },
         {
