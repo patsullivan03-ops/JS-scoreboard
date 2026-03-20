@@ -1,10 +1,10 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-20 19:15:27*
+*Updated: 2026-03-20 19:20:31*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #15 Tennessee State Tigers @ #2 Iowa State Cyclones | 3 - 5 | 16:58 - 1st Half | CBS |
-| #16 Long Island University Sharks @ #1 Arizona Wildcats | 45 - 67 | 10:00 - 2nd Half | TNT |
+| #15 Tennessee State Tigers @ #2 Iowa State Cyclones | 3 - 9 | 15:45 - 1st Half | CBS |
+| #16 Long Island University Sharks @ #1 Arizona Wildcats | 45 - 76 | 6:46 - 2nd Half | TNT |
 | #13 Hofstra Pride @ #4 Alabama Crimson Tide | 0 - 0 | Fri, March 20th at 3:15 PM EDT | truTV |
 | #11 Miami (OH) RedHawks @ #6 Tennessee Volunteers | 0 - 0 | Fri, March 20th at 4:25 PM EDT | TBS |
 | #10 UCF Knights @ #7 UCLA Bruins | 0 - 0 | Fri, March 20th at 7:25 PM EDT | TBS |
