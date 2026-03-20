@@ -1,21 +1,6 @@
 {
-    "lastUpdated": "2026-03-20 01:53:44",
+    "lastUpdated": "2026-03-20 01:58:49",
     "games": [
-        {
-            "id": "401856493",
-            "awayTeam": "#15 Idaho Vandals",
-            "awayScore": "0",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/70.png",
-            "awayAbbr": "IDHO",
-            "homeTeam": "#2 Houston Cougars",
-            "homeScore": "0",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
-            "homeAbbr": "HOU",
-            "status": "Thu, March 19th at 10:10 PM EDT",
-            "tv": "truTV",
-            "winProb": 0.5,
-            "state": "pre"
-        },
         {
             "id": "401856487",
             "awayTeam": "#9 Saint Louis Billikens",
@@ -32,19 +17,19 @@
             "state": "pre"
         },
         {
-            "id": "401856484",
-            "awayTeam": "#11 Texas Longhorns",
-            "awayScore": "79",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
-            "awayAbbr": "TEX",
-            "homeTeam": "#6 BYU Cougars",
-            "homeScore": "71",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
-            "homeAbbr": "BYU",
-            "status": "Final",
-            "tv": "TBS",
+            "id": "401856493",
+            "awayTeam": "#15 Idaho Vandals",
+            "awayScore": "0",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/70.png",
+            "awayAbbr": "IDHO",
+            "homeTeam": "#2 Houston Cougars",
+            "homeScore": "0",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
+            "homeAbbr": "HOU",
+            "status": "Thu, March 19th at 10:15 PM EDT",
+            "tv": "truTV",
             "winProb": 0.5,
-            "state": "post"
+            "state": "pre"
         },
         {
             "id": "401856478",
@@ -133,6 +118,21 @@
             "homeAbbr": "UNC",
             "status": "Final/OT",
             "tv": "TNT",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "id": "401856484",
+            "awayTeam": "#11 Texas Longhorns",
+            "awayScore": "79",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+            "awayAbbr": "TEX",
+            "homeTeam": "#6 BYU Cougars",
+            "homeScore": "71",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
+            "homeAbbr": "BYU",
+            "status": "Final",
+            "tv": "TBS",
             "winProb": 0.5,
             "state": "post"
         },
