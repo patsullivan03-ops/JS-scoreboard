@@ -1,10 +1,10 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-20 02:14:04*
+*Updated: 2026-03-20 02:19:08*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #9 Saint Louis Billikens @ #8 Georgia Bulldogs | 4 - 0 | 18:20 - 1st Half | CBS |
-| #15 Idaho Vandals @ #2 Houston Cougars | 0 - 0 | Thu, March 19th at 10:15 PM EDT | truTV |
+| #9 Saint Louis Billikens @ #8 Georgia Bulldogs | 8 - 2 | 15:27 - 1st Half | CBS |
+| #15 Idaho Vandals @ #2 Houston Cougars | 2 - 4 | 18:00 - 1st Half | truTV |
 | #16 Siena Saints @ #1 Duke Blue Devils | 65 - 71 | Final | CBS |
 | #13 Hawai'i Rainbow Warriors @ #4 Arkansas Razorbacks | 78 - 97 | Final | TBS |
 | #12 High Point Panthers @ #5 Wisconsin Badgers | 83 - 82 | Final | TBS |
