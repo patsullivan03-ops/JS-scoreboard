@@ -1,6 +1,21 @@
 {
-    "lastUpdated": "2026-03-20 00:42:26",
+    "lastUpdated": "2026-03-20 00:47:30",
     "games": [
+        {
+            "id": "401856490",
+            "awayTeam": "#11 VCU Rams",
+            "awayScore": "68",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2670.png",
+            "awayAbbr": "VCU",
+            "homeTeam": "#6 North Carolina Tar Heels",
+            "homeScore": "72",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
+            "homeAbbr": "UNC",
+            "status": "3:25 - 2nd Half",
+            "tv": "TNT",
+            "winProb": 0.704,
+            "state": "in"
+        },
         {
             "id": "401856484",
             "awayTeam": "#11 Texas Longhorns",
@@ -11,9 +26,9 @@
             "homeScore": "37",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
             "homeAbbr": "BYU",
-            "status": "Halftime",
+            "status": "20:00 - 2nd Half",
             "tv": "TBS",
-            "winProb": 0.5,
+            "winProb": 0.239,
             "state": "in"
         },
         {
@@ -26,24 +41,9 @@
             "homeScore": "26",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2608.png",
             "homeAbbr": "SMC",
-            "status": "Halftime",
+            "status": "19:26 - 2nd Half",
             "tv": "truTV",
-            "winProb": 0.5,
-            "state": "in"
-        },
-        {
-            "id": "401856490",
-            "awayTeam": "#11 VCU Rams",
-            "awayScore": "64",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2670.png",
-            "awayAbbr": "VCU",
-            "homeTeam": "#6 North Carolina Tar Heels",
-            "homeScore": "70",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
-            "homeAbbr": "UNC",
-            "status": "4:12 - 2nd Half",
-            "tv": "TNT",
-            "winProb": 0.889,
+            "winProb": 0.14,
             "state": "in"
         },
         {
