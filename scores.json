@@ -1,21 +1,6 @@
 {
-    "lastUpdated": "2026-03-20 17:28:27",
+    "lastUpdated": "2026-03-20 17:33:37",
     "games": [
-        {
-            "id": "401856525",
-            "awayTeam": "#10 Santa Clara Broncos",
-            "awayScore": "37",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2541.png",
-            "awayAbbr": "SCU",
-            "homeTeam": "#7 Kentucky Wildcats",
-            "homeScore": "38",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
-            "homeAbbr": "UK",
-            "status": "17:30 - 2nd Half",
-            "tv": "CBS",
-            "winProb": 0.681,
-            "state": "in"
-        },
         {
             "id": "401856520",
             "awayTeam": "#12 Akron Zips",
@@ -26,9 +11,24 @@
             "homeScore": "40",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
             "homeAbbr": "TTU",
-            "status": "0:01 - 1st Half",
+            "status": "Halftime",
             "tv": "truTV",
-            "winProb": 0.854,
+            "winProb": 0.5,
+            "state": "in"
+        },
+        {
+            "id": "401856525",
+            "awayTeam": "#10 Santa Clara Broncos",
+            "awayScore": "44",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2541.png",
+            "awayAbbr": "SCU",
+            "homeTeam": "#7 Kentucky Wildcats",
+            "homeScore": "46",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+            "homeAbbr": "UK",
+            "status": "13:21 - 2nd Half",
+            "tv": "CBS",
+            "winProb": 0.736,
             "state": "in"
         },
         {
