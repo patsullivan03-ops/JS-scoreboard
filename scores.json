@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-20 03:20:02",
+    "lastUpdated": "2026-03-20 03:25:07",
     "games": [
         {
             "id": "401856493",
@@ -26,9 +26,9 @@
             "homeScore": "32",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/61.png",
             "homeAbbr": "UGA",
-            "status": "Halftime",
+            "status": "19:54 - 2nd Half",
             "tv": "CBS",
-            "winProb": 0.5,
+            "winProb": 0.053,
             "state": "in"
         },
         {
