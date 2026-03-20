@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-20 16:37:40",
+    "lastUpdated": "2026-03-20 16:42:45",
     "games": [
         {
             "id": "401856525",
             "awayTeam": "#10 Santa Clara Broncos",
-            "awayScore": "16",
+            "awayScore": "18",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2541.png",
             "awayAbbr": "SCU",
             "homeTeam": "#7 Kentucky Wildcats",
-            "homeScore": "18",
+            "homeScore": "20",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
             "homeAbbr": "UK",
-            "status": "9:37 - 1st Half",
+            "status": "7:26 - 1st Half",
             "tv": "CBS",
-            "winProb": 0.736,
+            "winProb": 0.759,
             "state": "in"
         },
         {
@@ -23,13 +23,13 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
             "awayAbbr": "AKR",
             "homeTeam": "#5 Texas Tech Red Raiders",
-            "homeScore": "0",
+            "homeScore": "4",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
             "homeAbbr": "TTU",
-            "status": "Fri, March 20th at 12:40 PM EDT",
+            "status": "18:22 - 1st Half",
             "tv": "truTV",
-            "winProb": 0.5,
-            "state": "pre"
+            "winProb": 0.872,
+            "state": "in"
         },
         {
             "id": "401856529",
