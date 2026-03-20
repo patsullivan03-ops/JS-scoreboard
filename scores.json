@@ -1,34 +1,19 @@
 {
-    "lastUpdated": "2026-03-20 21:22:33",
+    "lastUpdated": "2026-03-20 21:27:37",
     "games": [
         {
             "id": "401856527",
             "awayTeam": "#11 Miami (OH) RedHawks",
-            "awayScore": "28",
+            "awayScore": "32",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/193.png",
             "awayAbbr": "M-OH",
             "homeTeam": "#6 Tennessee Volunteers",
-            "homeScore": "45",
+            "homeScore": "51",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
             "homeAbbr": "TENN",
-            "status": "1:26 - 1st Half",
+            "status": "Halftime",
             "tv": "TBS",
-            "winProb": 0.989,
-            "state": "in"
-        },
-        {
-            "id": "401856521",
-            "awayTeam": "#13 Hofstra Pride",
-            "awayScore": "66",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2275.png",
-            "awayAbbr": "HOF",
-            "homeTeam": "#4 Alabama Crimson Tide",
-            "homeScore": "82",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
-            "homeAbbr": "ALA",
-            "status": "1:47 - 2nd Half",
-            "tv": "truTV",
-            "winProb": 0.999,
+            "winProb": 0.5,
             "state": "in"
         },
         {
@@ -103,6 +88,21 @@
             "homeAbbr": "ISU",
             "status": "Final",
             "tv": "CBS",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "id": "401856521",
+            "awayTeam": "#13 Hofstra Pride",
+            "awayScore": "70",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2275.png",
+            "awayAbbr": "HOF",
+            "homeTeam": "#4 Alabama Crimson Tide",
+            "homeScore": "90",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
+            "homeAbbr": "ALA",
+            "status": "Final",
+            "tv": "truTV",
             "winProb": 0.5,
             "state": "post"
         },
