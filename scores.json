@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-20 22:13:15",
+    "lastUpdated": "2026-03-20 22:18:20",
     "games": [
         {
             "id": "401856527",
             "awayTeam": "#11 Miami (OH) RedHawks",
-            "awayScore": "36",
+            "awayScore": "49",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/193.png",
             "awayAbbr": "M-OH",
             "homeTeam": "#6 Tennessee Volunteers",
-            "homeScore": "64",
+            "homeScore": "68",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
             "homeAbbr": "TENN",
-            "status": "7:49 - 2nd Half",
+            "status": "6:15 - 2nd Half",
             "tv": "TBS",
-            "winProb": 0.997,
+            "winProb": 0.999,
             "state": "in"
         },
         {
