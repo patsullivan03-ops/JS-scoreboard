@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-21 19:10:49",
+    "lastUpdated": "2026-03-21 19:15:53",
     "games": [
         {
             "id": "401856531",
@@ -8,12 +8,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
             "awayAbbr": "LOU",
             "homeTeam": "#3 Michigan State Spartans",
-            "homeScore": "22",
+            "homeScore": "27",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
             "homeAbbr": "MSU",
-            "status": "8:31 - 1st Half",
+            "status": "7:06 - 1st Half",
             "tv": "CBS",
-            "winProb": 0.584,
+            "winProb": 0.739,
             "state": "in"
         },
         {
