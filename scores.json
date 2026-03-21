@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-21 23:09:00",
+    "lastUpdated": "2026-03-21 23:14:04",
     "games": [
         {
             "id": "401856535",
@@ -17,34 +17,34 @@
             "state": "in"
         },
         {
-            "id": "401856530",
-            "awayTeam": "#9 TCU Horned Frogs",
-            "awayScore": "44",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2628.png",
-            "awayAbbr": "TCU",
-            "homeTeam": "#1 Duke Blue Devils",
-            "homeScore": "53",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
-            "homeAbbr": "DUKE",
-            "status": "11:48 - 2nd Half",
-            "tv": "CBS",
-            "winProb": 0.963,
-            "state": "in"
-        },
-        {
             "id": "401856537",
             "awayTeam": "#11 Texas Longhorns",
-            "awayScore": "0",
+            "awayScore": "2",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
             "awayAbbr": "TEX",
             "homeTeam": "#3 Gonzaga Bulldogs",
-            "homeScore": "0",
+            "homeScore": "2",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png",
             "homeAbbr": "GONZ",
-            "status": "Sat, March 21st at 7:10 PM EDT",
+            "status": "17:44 - 1st Half",
             "tv": "truTV, TBS",
-            "winProb": 0.5,
-            "state": "pre"
+            "winProb": 0.756,
+            "state": "in"
+        },
+        {
+            "id": "401856530",
+            "awayTeam": "#9 TCU Horned Frogs",
+            "awayScore": "47",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2628.png",
+            "awayAbbr": "TCU",
+            "homeTeam": "#1 Duke Blue Devils",
+            "homeScore": "54",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+            "homeAbbr": "DUKE",
+            "status": "10:43 - 2nd Half",
+            "tv": "CBS",
+            "winProb": 0.954,
+            "state": "in"
         },
         {
             "id": "401856534",
