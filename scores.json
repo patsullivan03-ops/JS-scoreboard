@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-21 00:55:35",
+    "lastUpdated": "2026-03-21 01:00:39",
     "games": [
         {
             "id": "401856496",
             "awayTeam": "#10 UCF Knights",
-            "awayScore": "37",
+            "awayScore": "43",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2116.png",
             "awayAbbr": "UCF",
             "homeTeam": "#7 UCLA Bruins",
-            "homeScore": "46",
+            "homeScore": "48",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
             "homeAbbr": "UCLA",
-            "status": "15:21 - 2nd Half",
+            "status": "13:00 - 2nd Half",
             "tv": "TBS",
-            "winProb": 0.89,
+            "winProb": 0.786,
             "state": "in"
         },
         {
@@ -23,10 +23,10 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2511.png",
             "awayAbbr": "QUC",
             "homeTeam": "#2 Purdue Boilermakers",
-            "homeScore": "58",
+            "homeScore": "63",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
             "homeAbbr": "PUR",
-            "status": "15:55 - 2nd Half",
+            "status": "14:24 - 2nd Half",
             "tv": "truTV",
             "winProb": 0.999,
             "state": "in"
