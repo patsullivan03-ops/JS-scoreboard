@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-21 22:03:08",
+    "lastUpdated": "2026-03-21 22:08:12",
     "games": [
         {
             "id": "401856530",
             "awayTeam": "#9 TCU Horned Frogs",
-            "awayScore": "23",
+            "awayScore": "25",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2628.png",
             "awayAbbr": "TCU",
             "homeTeam": "#1 Duke Blue Devils",
-            "homeScore": "31",
+            "homeScore": "33",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
             "homeAbbr": "DUKE",
-            "status": "5:24 - 1st Half",
+            "status": "3:59 - 1st Half",
             "tv": "CBS",
-            "winProb": 0.95,
+            "winProb": 0.949,
             "state": "in"
         },
         {

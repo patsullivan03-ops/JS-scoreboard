@@ -1,9 +1,9 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-21 22:03:08*
+*Updated: 2026-03-21 22:08:12*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #9 TCU Horned Frogs @ #1 Duke Blue Devils | 23 - 31 | 5:24 - 1st Half | CBS |
+| #9 TCU Horned Frogs @ #1 Duke Blue Devils | 25 - 33 | 3:59 - 1st Half | CBS |
 | #10 Texas A&M Aggies @ #2 Houston Cougars | 0 - 0 | Sat, March 21st at 6:10 PM EDT | TNT |
 | #11 Texas Longhorns @ #3 Gonzaga Bulldogs | 0 - 0 | Sat, March 21st at 7:10 PM EDT | truTV, TBS |
 | #5 Vanderbilt Commodores @ #4 Nebraska Cornhuskers | 0 - 0 | Sat, March 21st at 8:45 PM EDT | TNT |
