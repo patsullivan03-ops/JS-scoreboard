@@ -1,9 +1,9 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-21 18:04:56*
+*Updated: 2026-03-21 18:10:00*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #9 Saint Louis Billikens @ #1 Michigan Wolverines | 66 - 90 | 4:55 - 2nd Half | CBS |
+| #9 Saint Louis Billikens @ #1 Michigan Wolverines | 70 - 90 | 2:30 - 2nd Half | CBS |
 | #6 Louisville Cardinals @ #3 Michigan State Spartans | 0 - 0 | Sat, March 21st at 2:45 PM EDT | CBS |
 | #9 TCU Horned Frogs @ #1 Duke Blue Devils | 0 - 0 | Sat, March 21st at 5:15 PM EDT | CBS |
 | #10 Texas A&M Aggies @ #2 Houston Cougars | 0 - 0 | Sat, March 21st at 6:10 PM EDT | TNT |
