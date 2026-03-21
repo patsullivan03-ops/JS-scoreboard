@@ -1,9 +1,9 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-21 02:01:31*
+*Updated: 2026-03-21 02:06:35*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #16 Prairie View A&M Panthers @ #1 Florida Gators | 15 - 23 | 11:08 - 1st Half | TNT |
+| #16 Prairie View A&M Panthers @ #1 Florida Gators | 15 - 26 | 10:15 - 1st Half | TNT |
 | #10 Missouri Tigers @ #7 Miami Hurricanes | 0 - 0 | Fri, March 20th at 10:07 PM EDT | truTV |
 | #16 Long Island University Sharks @ #1 Arizona Wildcats | 58 - 92 | Final | TNT |
 | #15 Tennessee State Tigers @ #2 Iowa State Cyclones | 74 - 108 | Final | CBS |
