@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-21 16:53:59",
+    "lastUpdated": "2026-03-21 16:59:03",
     "games": [
         {
             "id": "401856532",
@@ -8,12 +8,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/139.png",
             "awayAbbr": "SLU",
             "homeTeam": "#1 Michigan Wolverines",
-            "homeScore": "42",
+            "homeScore": "46",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
             "homeAbbr": "MICH",
-            "status": "2:42 - 1st Half",
+            "status": "1:46 - 1st Half",
             "tv": "CBS",
-            "winProb": 0.924,
+            "winProb": 0.954,
             "state": "in"
         },
         {
