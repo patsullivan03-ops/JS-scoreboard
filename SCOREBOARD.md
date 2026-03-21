@@ -1,10 +1,10 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-21 01:15:54*
+*Updated: 2026-03-21 01:20:58*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #10 UCF Knights @ #7 UCLA Bruins | 44 - 58 | 7:47 - 2nd Half | TBS |
-| #15 Queens University Royals @ #2 Purdue Boilermakers | 53 - 82 | 7:18 - 2nd Half | truTV |
+| #10 UCF Knights @ #7 UCLA Bruins | 51 - 60 | 5:14 - 2nd Half | TBS |
+| #15 Queens University Royals @ #2 Purdue Boilermakers | 58 - 89 | 5:43 - 2nd Half | truTV |
 | #16 Prairie View A&M Panthers @ #1 Florida Gators | 0 - 0 | Fri, March 20th at 9:25 PM EDT | TNT |
 | #10 Missouri Tigers @ #7 Miami Hurricanes | 0 - 0 | Fri, March 20th at 10:10 PM EDT | truTV |
 | #16 Long Island University Sharks @ #1 Arizona Wildcats | 58 - 92 | Final | TNT |
