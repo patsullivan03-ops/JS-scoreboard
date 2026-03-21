@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-21 20:11:38",
+    "lastUpdated": "2026-03-21 20:16:42",
     "games": [
         {
             "id": "401856531",
             "awayTeam": "#6 Louisville Cardinals",
-            "awayScore": "37",
+            "awayScore": "44",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
             "awayAbbr": "LOU",
             "homeTeam": "#3 Michigan State Spartans",
-            "homeScore": "42",
+            "homeScore": "50",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
             "homeAbbr": "MSU",
-            "status": "15:52 - 2nd Half",
+            "status": "12:56 - 2nd Half",
             "tv": "CBS",
-            "winProb": 0.663,
+            "winProb": 0.76,
             "state": "in"
         },
         {
