@@ -1,21 +1,6 @@
 {
-    "lastUpdated": "2026-03-21 18:15:05",
+    "lastUpdated": "2026-03-21 18:20:10",
     "games": [
-        {
-            "id": "401856532",
-            "awayTeam": "#9 Saint Louis Billikens",
-            "awayScore": "72",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/139.png",
-            "awayAbbr": "SLU",
-            "homeTeam": "#1 Michigan Wolverines",
-            "homeScore": "94",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
-            "homeAbbr": "MICH",
-            "status": "0:25 - 2nd Half",
-            "tv": "CBS",
-            "winProb": 0.999,
-            "state": "in"
-        },
         {
             "id": "401856531",
             "awayTeam": "#6 Louisville Cardinals",
@@ -105,6 +90,21 @@
             "tv": "truTV, TBS",
             "winProb": 0.5,
             "state": "pre"
+        },
+        {
+            "id": "401856532",
+            "awayTeam": "#9 Saint Louis Billikens",
+            "awayScore": "72",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/139.png",
+            "awayAbbr": "SLU",
+            "homeTeam": "#1 Michigan Wolverines",
+            "homeScore": "95",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
+            "homeAbbr": "MICH",
+            "status": "Final",
+            "tv": "CBS",
+            "winProb": 0.5,
+            "state": "post"
         }
     ]
 }
