@@ -1,10 +1,10 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-21 01:46:19*
+*Updated: 2026-03-21 01:51:23*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #10 UCF Knights @ #7 UCLA Bruins | 62 - 71 | 0:34 - 2nd Half | TBS |
-| #16 Prairie View A&M Panthers @ #1 Florida Gators | 0 - 4 | 18:04 - 1st Half | TNT |
+| #10 UCF Knights @ #7 UCLA Bruins | 65 - 72 | 0:21 - 2nd Half | TBS |
+| #16 Prairie View A&M Panthers @ #1 Florida Gators | 9 - 11 | 14:47 - 1st Half | TNT |
 | #10 Missouri Tigers @ #7 Miami Hurricanes | 0 - 0 | Fri, March 20th at 10:07 PM EDT | truTV |
 | #16 Long Island University Sharks @ #1 Arizona Wildcats | 58 - 92 | Final | TNT |
 | #15 Tennessee State Tigers @ #2 Iowa State Cyclones | 74 - 108 | Final | CBS |

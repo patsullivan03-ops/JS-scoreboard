@@ -1,34 +1,34 @@
 {
-    "lastUpdated": "2026-03-21 01:46:19",
+    "lastUpdated": "2026-03-21 01:51:23",
     "games": [
         {
             "id": "401856496",
             "awayTeam": "#10 UCF Knights",
-            "awayScore": "62",
+            "awayScore": "65",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2116.png",
             "awayAbbr": "UCF",
             "homeTeam": "#7 UCLA Bruins",
-            "homeScore": "71",
+            "homeScore": "72",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
             "homeAbbr": "UCLA",
-            "status": "0:34 - 2nd Half",
+            "status": "0:21 - 2nd Half",
             "tv": "TBS",
-            "winProb": 0.951,
+            "winProb": 0.99,
             "state": "in"
         },
         {
             "id": "401856523",
             "awayTeam": "#16 Prairie View A&M Panthers",
-            "awayScore": "0",
+            "awayScore": "9",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2504.png",
             "awayAbbr": "PV",
             "homeTeam": "#1 Florida Gators",
-            "homeScore": "4",
+            "homeScore": "11",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
             "homeAbbr": "FLA",
-            "status": "18:04 - 1st Half",
+            "status": "14:47 - 1st Half",
             "tv": "TNT",
-            "winProb": 0.995,
+            "winProb": 0.993,
             "state": "in"
         },
         {
