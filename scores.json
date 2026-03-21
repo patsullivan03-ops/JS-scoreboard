@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-21 23:39:26",
+    "lastUpdated": "2026-03-21 23:44:30",
     "games": [
         {
             "id": "401856537",
@@ -8,41 +8,26 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
             "awayAbbr": "TEX",
             "homeTeam": "#3 Gonzaga Bulldogs",
-            "homeScore": "26",
+            "homeScore": "28",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png",
             "homeAbbr": "GONZ",
-            "status": "5:33 - 1st Half",
+            "status": "4:20 - 1st Half",
             "tv": "truTV, TBS",
-            "winProb": 0.84,
+            "winProb": 0.877,
             "state": "in"
         },
         {
             "id": "401856535",
             "awayTeam": "#10 Texas A&M Aggies",
-            "awayScore": "33",
+            "awayScore": "37",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/245.png",
             "awayAbbr": "TA&M",
             "homeTeam": "#2 Houston Cougars",
-            "homeScore": "56",
+            "homeScore": "61",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
             "homeAbbr": "HOU",
-            "status": "15:53 - 2nd Half",
+            "status": "14:08 - 2nd Half",
             "tv": "TNT",
-            "winProb": 0.998,
-            "state": "in"
-        },
-        {
-            "id": "401856530",
-            "awayTeam": "#9 TCU Horned Frogs",
-            "awayScore": "56",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2628.png",
-            "awayAbbr": "TCU",
-            "homeTeam": "#1 Duke Blue Devils",
-            "homeScore": "78",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
-            "homeAbbr": "DUKE",
-            "status": "1:12 - 2nd Half",
-            "tv": "CBS",
             "winProb": 0.999,
             "state": "in"
         },
@@ -75,6 +60,21 @@
             "tv": "truTV, TBS",
             "winProb": 0.5,
             "state": "pre"
+        },
+        {
+            "id": "401856530",
+            "awayTeam": "#9 TCU Horned Frogs",
+            "awayScore": "58",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2628.png",
+            "awayAbbr": "TCU",
+            "homeTeam": "#1 Duke Blue Devils",
+            "homeScore": "81",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+            "homeAbbr": "DUKE",
+            "status": "Final",
+            "tv": "CBS",
+            "winProb": 0.5,
+            "state": "post"
         },
         {
             "id": "401856532",
