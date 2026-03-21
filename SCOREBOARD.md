@@ -1,9 +1,9 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-21 19:15:53*
+*Updated: 2026-03-21 19:20:57*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #6 Louisville Cardinals @ #3 Michigan State Spartans | 19 - 27 | 7:06 - 1st Half | CBS |
+| #6 Louisville Cardinals @ #3 Michigan State Spartans | 23 - 27 | 4:18 - 1st Half | CBS |
 | #9 TCU Horned Frogs @ #1 Duke Blue Devils | 0 - 0 | Sat, March 21st at 5:15 PM EDT | CBS |
 | #10 Texas A&M Aggies @ #2 Houston Cougars | 0 - 0 | Sat, March 21st at 6:10 PM EDT | TNT |
 | #11 Texas Longhorns @ #3 Gonzaga Bulldogs | 0 - 0 | Sat, March 21st at 7:10 PM EDT | truTV, TBS |
