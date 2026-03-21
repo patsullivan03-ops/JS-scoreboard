@@ -1,17 +1,17 @@
 {
-    "lastUpdated": "2026-03-21 04:08:15",
+    "lastUpdated": "2026-03-21 04:13:19",
     "games": [
         {
             "id": "401856518",
             "awayTeam": "#10 Missouri Tigers",
-            "awayScore": "54",
+            "awayScore": "57",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
             "awayAbbr": "MIZ",
             "homeTeam": "#7 Miami Hurricanes",
-            "homeScore": "61",
+            "homeScore": "63",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
             "homeAbbr": "MIA",
-            "status": "5:04 - 2nd Half",
+            "status": "3:40 - 2nd Half",
             "tv": "truTV",
             "winProb": 0.893,
             "state": "in"
