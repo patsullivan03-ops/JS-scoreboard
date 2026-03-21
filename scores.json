@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-21 23:54:37",
+    "lastUpdated": "2026-03-21 23:59:41",
     "games": [
         {
             "id": "401856537",
@@ -19,14 +19,14 @@
         {
             "id": "401856535",
             "awayTeam": "#10 Texas A&M Aggies",
-            "awayScore": "41",
+            "awayScore": "43",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/245.png",
             "awayAbbr": "TA&M",
             "homeTeam": "#2 Houston Cougars",
-            "homeScore": "67",
+            "homeScore": "69",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
             "homeAbbr": "HOU",
-            "status": "10:19 - 2nd Half",
+            "status": "9:42 - 2nd Half",
             "tv": "TNT",
             "winProb": 0.999,
             "state": "in"
