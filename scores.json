@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-21 19:51:21",
+    "lastUpdated": "2026-03-21 19:56:25",
     "games": [
         {
             "id": "401856531",
@@ -13,7 +13,7 @@
             "homeAbbr": "MSU",
             "status": "Halftime",
             "tv": "CBS",
-            "winProb": 0.5,
+            "winProb": 0.666,
             "state": "in"
         },
         {
