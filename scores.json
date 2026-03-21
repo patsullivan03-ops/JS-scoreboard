@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-21 04:03:11",
+    "lastUpdated": "2026-03-21 04:08:15",
     "games": [
         {
             "id": "401856518",
@@ -8,12 +8,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
             "awayAbbr": "MIZ",
             "homeTeam": "#7 Miami Hurricanes",
-            "homeScore": "53",
+            "homeScore": "61",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
             "homeAbbr": "MIA",
-            "status": "7:23 - 2nd Half",
+            "status": "5:04 - 2nd Half",
             "tv": "truTV",
-            "winProb": 0.481,
+            "winProb": 0.893,
             "state": "in"
         },
         {
