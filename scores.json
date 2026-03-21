@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-21 20:42:03",
+    "lastUpdated": "2026-03-21 20:47:07",
     "games": [
         {
             "id": "401856531",
@@ -11,9 +11,9 @@
             "homeScore": "66",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
             "homeAbbr": "MSU",
-            "status": "4:23 - 2nd Half",
+            "status": "4:08 - 2nd Half",
             "tv": "CBS",
-            "winProb": 0.967,
+            "winProb": 0.957,
             "state": "in"
         },
         {
