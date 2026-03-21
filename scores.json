@@ -1,21 +1,6 @@
 {
-    "lastUpdated": "2026-03-21 04:28:31",
+    "lastUpdated": "2026-03-21 04:33:35",
     "games": [
-        {
-            "id": "401856518",
-            "awayTeam": "#10 Missouri Tigers",
-            "awayScore": "66",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
-            "awayAbbr": "MIZ",
-            "homeTeam": "#7 Miami Hurricanes",
-            "homeScore": "80",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
-            "homeAbbr": "MIA",
-            "status": "0:27 - 2nd Half",
-            "tv": "truTV",
-            "winProb": 0.999,
-            "state": "in"
-        },
         {
             "id": "401856529",
             "awayTeam": "#16 Long Island University Sharks",
@@ -148,6 +133,21 @@
             "homeAbbr": "UCLA",
             "status": "Final",
             "tv": "TBS",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "id": "401856518",
+            "awayTeam": "#10 Missouri Tigers",
+            "awayScore": "66",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
+            "awayAbbr": "MIZ",
+            "homeTeam": "#7 Miami Hurricanes",
+            "homeScore": "80",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
+            "homeAbbr": "MIA",
+            "status": "Final",
+            "tv": "truTV",
             "winProb": 0.5,
             "state": "post"
         }
