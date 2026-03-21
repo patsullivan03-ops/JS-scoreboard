@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-21 02:11:40",
+    "lastUpdated": "2026-03-21 02:16:44",
     "games": [
         {
             "id": "401856518",
@@ -8,27 +8,27 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
             "awayAbbr": "MIZ",
             "homeTeam": "#7 Miami Hurricanes",
-            "homeScore": "2",
+            "homeScore": "5",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
             "homeAbbr": "MIA",
-            "status": "17:17 - 1st Half",
+            "status": "15:38 - 1st Half",
             "tv": "truTV",
-            "winProb": 0.533,
+            "winProb": 0.62,
             "state": "in"
         },
         {
             "id": "401856523",
             "awayTeam": "#16 Prairie View A&M Panthers",
-            "awayScore": "15",
+            "awayScore": "17",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2504.png",
             "awayAbbr": "PV",
             "homeTeam": "#1 Florida Gators",
             "homeScore": "33",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
             "homeAbbr": "FLA",
-            "status": "8:01 - 1st Half",
+            "status": "7:05 - 1st Half",
             "tv": "TNT",
-            "winProb": 0.999,
+            "winProb": 0.998,
             "state": "in"
         },
         {
