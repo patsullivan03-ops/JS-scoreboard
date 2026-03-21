@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-21 03:07:27",
+    "lastUpdated": "2026-03-21 03:12:32",
     "games": [
         {
             "id": "401856518",
@@ -23,10 +23,10 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2504.png",
             "awayAbbr": "PV",
             "homeTeam": "#1 Florida Gators",
-            "homeScore": "77",
+            "homeScore": "79",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
             "homeAbbr": "FLA",
-            "status": "13:07 - 2nd Half",
+            "status": "11:59 - 2nd Half",
             "tv": "TNT",
             "winProb": 0.999,
             "state": "in"
