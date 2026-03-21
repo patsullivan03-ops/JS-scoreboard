@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-21 16:28:39",
+    "lastUpdated": "2026-03-21 16:33:43",
     "games": [
         {
             "id": "401856532",
             "awayTeam": "#9 Saint Louis Billikens",
-            "awayScore": "21",
+            "awayScore": "27",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/139.png",
             "awayAbbr": "SLU",
             "homeTeam": "#1 Michigan Wolverines",
-            "homeScore": "20",
+            "homeScore": "23",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
             "homeAbbr": "MICH",
-            "status": "11:14 - 1st Half",
+            "status": "10:22 - 1st Half",
             "tv": "CBS",
-            "winProb": 0.799,
+            "winProb": 0.72,
             "state": "in"
         },
         {
