@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-21 21:17:32",
+    "lastUpdated": "2026-03-21 21:22:36",
     "games": [
         {
             "id": "401856530",
@@ -11,7 +11,7 @@
             "homeScore": "0",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
             "homeAbbr": "DUKE",
-            "status": "Sat, March 21st at 5:15 PM EDT",
+            "status": "Sat, March 21st at 5:25 PM EDT",
             "tv": "CBS",
             "winProb": 0.5,
             "state": "pre"
@@ -77,21 +77,6 @@
             "state": "pre"
         },
         {
-            "id": "401856531",
-            "awayTeam": "#6 Louisville Cardinals",
-            "awayScore": "69",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
-            "awayAbbr": "LOU",
-            "homeTeam": "#3 Michigan State Spartans",
-            "homeScore": "77",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
-            "homeAbbr": "MSU",
-            "status": "Final",
-            "tv": "CBS",
-            "winProb": 0.5,
-            "state": "post"
-        },
-        {
             "id": "401856532",
             "awayTeam": "#9 Saint Louis Billikens",
             "awayScore": "72",
@@ -101,6 +86,21 @@
             "homeScore": "95",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
             "homeAbbr": "MICH",
+            "status": "Final",
+            "tv": "CBS",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "id": "401856531",
+            "awayTeam": "#6 Louisville Cardinals",
+            "awayScore": "69",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
+            "awayAbbr": "LOU",
+            "homeTeam": "#3 Michigan State Spartans",
+            "homeScore": "77",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
+            "homeAbbr": "MSU",
             "status": "Final",
             "tv": "CBS",
             "winProb": 0.5,
