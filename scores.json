@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-22 21:03:15",
+    "lastUpdated": "2026-03-22 21:08:21",
     "games": [
         {
             "id": "401856562",
@@ -122,21 +122,6 @@
             "state": "pre"
         },
         {
-            "id": "401856561",
-            "awayTeam": "#7 Kentucky Wildcats",
-            "awayScore": "63",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
-            "awayAbbr": "UK",
-            "homeTeam": "#2 Iowa State Cyclones",
-            "homeScore": "82",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/66.png",
-            "homeAbbr": "ISU",
-            "status": "Final",
-            "tv": "CBS",
-            "winProb": 0.5,
-            "state": "post"
-        },
-        {
             "id": "401856564",
             "awayTeam": "#7 Miami Hurricanes",
             "awayScore": "69",
@@ -146,6 +131,21 @@
             "homeScore": "79",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
             "homeAbbr": "PUR",
+            "status": "Final",
+            "tv": "CBS",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "id": "401856561",
+            "awayTeam": "#7 Kentucky Wildcats",
+            "awayScore": "63",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+            "awayAbbr": "UK",
+            "homeTeam": "#2 Iowa State Cyclones",
+            "homeScore": "82",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/66.png",
+            "homeAbbr": "ISU",
             "status": "Final",
             "tv": "CBS",
             "winProb": 0.5,

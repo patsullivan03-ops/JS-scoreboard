@@ -1,5 +1,5 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-22 21:03:15*
+*Updated: 2026-03-22 21:08:21*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
@@ -11,5 +11,5 @@
 | Seattle U Redhawks @ Auburn Tigers | 0 - 0 | Sun, March 22nd at 6:30 PM EDT | ESPN2 |
 | George Washington Revolutionaries @ New Mexico Lobos | 0 - 0 | Sun, March 22nd at 8:00 PM EDT | ESPN+ |
 | Wichita State Shockers @ Oklahoma State Cowboys | 0 - 0 | Sun, March 22nd at 8:30 PM EDT | ESPN2 |
-| #7 Kentucky Wildcats @ #2 Iowa State Cyclones | 63 - 82 | Final | CBS |
 | #7 Miami Hurricanes @ #2 Purdue Boilermakers | 69 - 79 | Final | CBS |
+| #7 Kentucky Wildcats @ #2 Iowa State Cyclones | 63 - 82 | Final | CBS |
