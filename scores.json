@@ -1,21 +1,6 @@
 {
-    "lastUpdated": "2026-03-22 18:15:46",
+    "lastUpdated": "2026-03-22 18:20:50",
     "games": [
-        {
-            "id": "401856564",
-            "awayTeam": "#7 Miami Hurricanes",
-            "awayScore": "69",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
-            "awayAbbr": "MIA",
-            "homeTeam": "#2 Purdue Boilermakers",
-            "homeScore": "77",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
-            "homeAbbr": "PUR",
-            "status": "0:23 - 2nd Half",
-            "tv": "CBS",
-            "winProb": 0.999,
-            "state": "in"
-        },
         {
             "id": "401856561",
             "awayTeam": "#7 Kentucky Wildcats",
@@ -150,6 +135,21 @@
             "tv": "ESPN2",
             "winProb": 0.5,
             "state": "pre"
+        },
+        {
+            "id": "401856564",
+            "awayTeam": "#7 Miami Hurricanes",
+            "awayScore": "69",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
+            "awayAbbr": "MIA",
+            "homeTeam": "#2 Purdue Boilermakers",
+            "homeScore": "79",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
+            "homeAbbr": "PUR",
+            "status": "Final",
+            "tv": "CBS",
+            "winProb": 0.5,
+            "state": "post"
         }
     ]
 }

@@ -1,9 +1,8 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-22 18:15:46*
+*Updated: 2026-03-22 18:20:50*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #7 Miami Hurricanes @ #2 Purdue Boilermakers | 69 - 77 | 0:23 - 2nd Half | CBS |
 | #7 Kentucky Wildcats @ #2 Iowa State Cyclones | 0 - 0 | Sun, March 22nd at 2:45 PM EDT | CBS |
 | #6 Tennessee Volunteers @ #3 Virginia Cavaliers | 0 - 0 | Sun, March 22nd at 6:10 PM EDT | TNT |
 | #9 Iowa Hawkeyes @ #1 Florida Gators | 0 - 0 | Sun, March 22nd at 7:10 PM EDT | TBS |
@@ -13,3 +12,4 @@
 | Seattle U Redhawks @ Auburn Tigers | 0 - 0 | Sun, March 22nd at 6:30 PM EDT | ESPN2 |
 | George Washington Revolutionaries @ New Mexico Lobos | 0 - 0 | Sun, March 22nd at 8:00 PM EDT | ESPN+ |
 | Wichita State Shockers @ Oklahoma State Cowboys | 0 - 0 | Sun, March 22nd at 8:30 PM EDT | ESPN2 |
+| #7 Miami Hurricanes @ #2 Purdue Boilermakers | 69 - 79 | Final | CBS |
