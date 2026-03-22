@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-22 00:45:18",
+    "lastUpdated": "2026-03-22 00:50:23",
     "games": [
         {
             "id": "401856537",
             "awayTeam": "#11 Texas Longhorns",
-            "awayScore": "57",
+            "awayScore": "58",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
             "awayAbbr": "TEX",
             "homeTeam": "#3 Gonzaga Bulldogs",
-            "homeScore": "54",
+            "homeScore": "56",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png",
             "homeAbbr": "GONZ",
-            "status": "7:05 - 2nd Half",
+            "status": "6:15 - 2nd Half",
             "tv": "truTV, TBS",
-            "winProb": 0.513,
+            "winProb": 0.491,
             "state": "in"
         },
         {
