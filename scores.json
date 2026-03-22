@@ -1,19 +1,34 @@
 {
-    "lastUpdated": "2026-03-22 22:34:35",
+    "lastUpdated": "2026-03-22 22:39:39",
     "games": [
         {
             "id": "401856562",
             "awayTeam": "#6 Tennessee Volunteers",
-            "awayScore": "20",
+            "awayScore": "28",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
             "awayAbbr": "TENN",
             "homeTeam": "#3 Virginia Cavaliers",
             "homeScore": "20",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png",
             "homeAbbr": "UVA",
-            "status": "9:09 - 1st Half",
+            "status": "6:32 - 1st Half",
             "tv": "TNT",
-            "winProb": 0.403,
+            "winProb": 0.199,
+            "state": "in"
+        },
+        {
+            "id": "401858351",
+            "awayTeam": "Seattle U Redhawks",
+            "awayScore": "0",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2547.png",
+            "awayAbbr": "SEA",
+            "homeTeam": "Auburn Tigers",
+            "homeScore": "1",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
+            "homeAbbr": "AUB",
+            "status": "18:24 - 1st Half",
+            "tv": "ESPN2",
+            "winProb": 0.932,
             "state": "in"
         },
         {
@@ -73,21 +88,6 @@
             "homeAbbr": "ALA",
             "status": "Sun, March 22nd at 9:45 PM EDT",
             "tv": "TBS",
-            "winProb": 0.5,
-            "state": "pre"
-        },
-        {
-            "id": "401858351",
-            "awayTeam": "Seattle U Redhawks",
-            "awayScore": "0",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2547.png",
-            "awayAbbr": "SEA",
-            "homeTeam": "Auburn Tigers",
-            "homeScore": "0",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
-            "homeAbbr": "AUB",
-            "status": "Sun, March 22nd at 6:30 PM EDT",
-            "tv": "ESPN2",
             "winProb": 0.5,
             "state": "pre"
         },
