@@ -1,34 +1,34 @@
 {
-    "lastUpdated": "2026-03-22 22:44:43",
+    "lastUpdated": "2026-03-22 22:49:47",
     "games": [
         {
             "id": "401856562",
             "awayTeam": "#6 Tennessee Volunteers",
-            "awayScore": "28",
+            "awayScore": "33",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
             "awayAbbr": "TENN",
             "homeTeam": "#3 Virginia Cavaliers",
-            "homeScore": "22",
+            "homeScore": "25",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png",
             "homeAbbr": "UVA",
-            "status": "5:47 - 1st Half",
+            "status": "3:16 - 1st Half",
             "tv": "TNT",
-            "winProb": 0.251,
+            "winProb": 0.193,
             "state": "in"
         },
         {
             "id": "401858351",
             "awayTeam": "Seattle U Redhawks",
-            "awayScore": "6",
+            "awayScore": "9",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2547.png",
             "awayAbbr": "SEA",
             "homeTeam": "Auburn Tigers",
-            "homeScore": "5",
+            "homeScore": "10",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
             "homeAbbr": "AUB",
-            "status": "16:31 - 1st Half",
+            "status": "15:11 - 1st Half",
             "tv": "ESPN2",
-            "winProb": 0.92,
+            "winProb": 0.926,
             "state": "in"
         },
         {
