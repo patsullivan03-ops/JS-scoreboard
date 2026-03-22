@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-22 01:35:58",
+    "lastUpdated": "2026-03-22 01:41:03",
     "games": [
         {
             "id": "401856534",
             "awayTeam": "#5 Vanderbilt Commodores",
-            "awayScore": "17",
+            "awayScore": "21",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
             "awayAbbr": "VAN",
             "homeTeam": "#4 Nebraska Cornhuskers",
-            "homeScore": "21",
+            "homeScore": "27",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/158.png",
             "homeAbbr": "NEB",
-            "status": "7:54 - 1st Half",
+            "status": "4:21 - 1st Half",
             "tv": "TNT",
-            "winProb": 0.618,
+            "winProb": 0.698,
             "state": "in"
         },
         {
