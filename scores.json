@@ -1,34 +1,34 @@
 {
-    "lastUpdated": "2026-03-22 02:21:36",
+    "lastUpdated": "2026-03-22 02:26:40",
     "games": [
         {
             "id": "401856534",
             "awayTeam": "#5 Vanderbilt Commodores",
-            "awayScore": "36",
+            "awayScore": "44",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
             "awayAbbr": "VAN",
             "homeTeam": "#4 Nebraska Cornhuskers",
-            "homeScore": "41",
+            "homeScore": "48",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/158.png",
             "homeAbbr": "NEB",
-            "status": "17:42 - 2nd Half",
+            "status": "14:55 - 2nd Half",
             "tv": "TNT",
-            "winProb": 0.652,
+            "winProb": 0.598,
             "state": "in"
         },
         {
             "id": "401856536",
             "awayTeam": "#12 High Point Panthers",
-            "awayScore": "35",
+            "awayScore": "39",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2272.png",
             "awayAbbr": "HPU",
             "homeTeam": "#4 Arkansas Razorbacks",
-            "homeScore": "37",
+            "homeScore": "40",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
             "homeAbbr": "ARK",
-            "status": "2:27 - 1st Half",
+            "status": "0:46 - 1st Half",
             "tv": "truTV, TBS",
-            "winProb": 0.797,
+            "winProb": 0.767,
             "state": "in"
         },
         {
