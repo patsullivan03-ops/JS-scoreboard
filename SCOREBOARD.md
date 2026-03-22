@@ -1,9 +1,9 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-22 01:10:39*
+*Updated: 2026-03-22 01:15:42*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #5 Vanderbilt Commodores @ #4 Nebraska Cornhuskers | 2 - 8 | 16:31 - 1st Half | TNT |
+| #5 Vanderbilt Commodores @ #4 Nebraska Cornhuskers | 4 - 11 | 15:23 - 1st Half | TNT |
 | #12 High Point Panthers @ #4 Arkansas Razorbacks | 0 - 0 | Sat, March 21st at 9:45 PM EDT | truTV, TBS |
 | #11 Texas Longhorns @ #3 Gonzaga Bulldogs | 74 - 68 | Final | truTV, TBS |
 | #9 Saint Louis Billikens @ #1 Michigan Wolverines | 72 - 95 | Final | CBS |
