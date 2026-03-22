@@ -1,9 +1,9 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-22 22:09:12*
+*Updated: 2026-03-22 22:14:18*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #6 Tennessee Volunteers @ #3 Virginia Cavaliers | 0 - 0 | Sun, March 22nd at 6:10 PM EDT | TNT |
+| #6 Tennessee Volunteers @ #3 Virginia Cavaliers | 6 - 2 | 17:43 - 1st Half | TNT |
 | #9 Iowa Hawkeyes @ #1 Florida Gators | 0 - 0 | Sun, March 22nd at 7:10 PM EDT | TBS |
 | #9 Utah State Aggies @ #1 Arizona Wildcats | 0 - 0 | Sun, March 22nd at 7:50 PM EDT | truTV |
 | #7 UCLA Bruins @ #2 UConn Huskies | 0 - 0 | Sun, March 22nd at 8:45 PM EDT | TNT |
