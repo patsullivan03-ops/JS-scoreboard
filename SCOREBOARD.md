@@ -1,9 +1,9 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-22 03:22:27*
+*Updated: 2026-03-22 03:27:31*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #12 High Point Panthers @ #4 Arkansas Razorbacks | 66 - 67 | 8:59 - 2nd Half | truTV, TBS |
+| #12 High Point Panthers @ #4 Arkansas Razorbacks | 72 - 73 | 6:25 - 2nd Half | truTV, TBS |
 | #9 Saint Louis Billikens @ #1 Michigan Wolverines | 72 - 95 | Final | CBS |
 | #9 TCU Horned Frogs @ #1 Duke Blue Devils | 58 - 81 | Final | CBS |
 | #10 Texas A&M Aggies @ #2 Houston Cougars | 57 - 88 | Final | TNT |

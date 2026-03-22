@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-22 03:22:27",
+    "lastUpdated": "2026-03-22 03:27:31",
     "games": [
         {
             "id": "401856536",
             "awayTeam": "#12 High Point Panthers",
-            "awayScore": "66",
+            "awayScore": "72",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2272.png",
             "awayAbbr": "HPU",
             "homeTeam": "#4 Arkansas Razorbacks",
-            "homeScore": "67",
+            "homeScore": "73",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
             "homeAbbr": "ARK",
-            "status": "8:59 - 2nd Half",
+            "status": "6:25 - 2nd Half",
             "tv": "truTV, TBS",
-            "winProb": 0.686,
+            "winProb": 0.711,
             "state": "in"
         },
         {
