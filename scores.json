@@ -1,34 +1,19 @@
 {
-    "lastUpdated": "2026-03-22 01:05:35",
+    "lastUpdated": "2026-03-22 01:10:39",
     "games": [
         {
             "id": "401856534",
             "awayTeam": "#5 Vanderbilt Commodores",
-            "awayScore": "0",
+            "awayScore": "2",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
             "awayAbbr": "VAN",
             "homeTeam": "#4 Nebraska Cornhuskers",
-            "homeScore": "3",
+            "homeScore": "8",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/158.png",
             "homeAbbr": "NEB",
-            "status": "18:32 - 1st Half",
+            "status": "16:31 - 1st Half",
             "tv": "TNT",
-            "winProb": 0.543,
-            "state": "in"
-        },
-        {
-            "id": "401856537",
-            "awayTeam": "#11 Texas Longhorns",
-            "awayScore": "69",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
-            "awayAbbr": "TEX",
-            "homeTeam": "#3 Gonzaga Bulldogs",
-            "homeScore": "68",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png",
-            "homeAbbr": "GONZ",
-            "status": "0:32 - 2nd Half",
-            "tv": "truTV, TBS",
-            "winProb": 0.428,
+            "winProb": 0.631,
             "state": "in"
         },
         {
@@ -45,6 +30,21 @@
             "tv": "truTV, TBS",
             "winProb": 0.5,
             "state": "pre"
+        },
+        {
+            "id": "401856537",
+            "awayTeam": "#11 Texas Longhorns",
+            "awayScore": "74",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+            "awayAbbr": "TEX",
+            "homeTeam": "#3 Gonzaga Bulldogs",
+            "homeScore": "68",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png",
+            "homeAbbr": "GONZ",
+            "status": "Final",
+            "tv": "truTV, TBS",
+            "winProb": 0.5,
+            "state": "post"
         },
         {
             "id": "401856532",
