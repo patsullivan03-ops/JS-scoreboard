@@ -1,21 +1,6 @@
 {
-    "lastUpdated": "2026-03-22 01:00:30",
+    "lastUpdated": "2026-03-22 01:05:35",
     "games": [
-        {
-            "id": "401856537",
-            "awayTeam": "#11 Texas Longhorns",
-            "awayScore": "69",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
-            "awayAbbr": "TEX",
-            "homeTeam": "#3 Gonzaga Bulldogs",
-            "homeScore": "64",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png",
-            "homeAbbr": "GONZ",
-            "status": "2:25 - 2nd Half",
-            "tv": "truTV, TBS",
-            "winProb": 0.286,
-            "state": "in"
-        },
         {
             "id": "401856534",
             "awayTeam": "#5 Vanderbilt Commodores",
@@ -23,13 +8,28 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
             "awayAbbr": "VAN",
             "homeTeam": "#4 Nebraska Cornhuskers",
-            "homeScore": "0",
+            "homeScore": "3",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/158.png",
             "homeAbbr": "NEB",
-            "status": "Sat, March 21st at 9:02 PM EDT",
+            "status": "18:32 - 1st Half",
             "tv": "TNT",
-            "winProb": 0.5,
-            "state": "pre"
+            "winProb": 0.543,
+            "state": "in"
+        },
+        {
+            "id": "401856537",
+            "awayTeam": "#11 Texas Longhorns",
+            "awayScore": "69",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+            "awayAbbr": "TEX",
+            "homeTeam": "#3 Gonzaga Bulldogs",
+            "homeScore": "68",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png",
+            "homeAbbr": "GONZ",
+            "status": "0:32 - 2nd Half",
+            "tv": "truTV, TBS",
+            "winProb": 0.428,
+            "state": "in"
         },
         {
             "id": "401856536",
