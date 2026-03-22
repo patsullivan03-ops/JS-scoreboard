@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-22 17:14:54",
+    "lastUpdated": "2026-03-22 17:19:59",
     "games": [
         {
             "id": "401856564",
             "awayTeam": "#7 Miami Hurricanes",
-            "awayScore": "40",
+            "awayScore": "42",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
             "awayAbbr": "MIA",
             "homeTeam": "#2 Purdue Boilermakers",
-            "homeScore": "38",
+            "homeScore": "41",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
             "homeAbbr": "PUR",
-            "status": "Halftime",
+            "status": "18:48 - 2nd Half",
             "tv": "CBS",
-            "winProb": 0.5,
+            "winProb": 0.652,
             "state": "in"
         },
         {
