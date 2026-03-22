@@ -1,12 +1,15 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-22 15:02:52*
+*Updated: 2026-03-22 15:07:58*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #9 Saint Louis Billikens @ #1 Michigan Wolverines | 72 - 95 | Final | CBS |
-| #9 TCU Horned Frogs @ #1 Duke Blue Devils | 58 - 81 | Final | CBS |
-| #10 Texas A&M Aggies @ #2 Houston Cougars | 57 - 88 | Final | TNT |
-| #6 Louisville Cardinals @ #3 Michigan State Spartans | 69 - 77 | Final | CBS |
-| #11 Texas Longhorns @ #3 Gonzaga Bulldogs | 74 - 68 | Final | truTV, TBS |
-| #5 Vanderbilt Commodores @ #4 Nebraska Cornhuskers | 72 - 74 | Final | TNT |
-| #12 High Point Panthers @ #4 Arkansas Razorbacks | 88 - 94 | Final | truTV, TBS |
+| #7 Miami Hurricanes @ #2 Purdue Boilermakers | 0 - 0 | Sun, March 22nd at 12:10 PM EDT | CBS |
+| #7 Kentucky Wildcats @ #2 Iowa State Cyclones | 0 - 0 | Sun, March 22nd at 2:45 PM EDT | CBS |
+| #6 Tennessee Volunteers @ #3 Virginia Cavaliers | 0 - 0 | Sun, March 22nd at 6:10 PM EDT | TNT |
+| #9 Iowa Hawkeyes @ #1 Florida Gators | 0 - 0 | Sun, March 22nd at 7:10 PM EDT | TBS |
+| #9 Utah State Aggies @ #1 Arizona Wildcats | 0 - 0 | Sun, March 22nd at 7:50 PM EDT | truTV |
+| #7 UCLA Bruins @ #2 UConn Huskies | 0 - 0 | Sun, March 22nd at 8:45 PM EDT | TNT |
+| #5 Texas Tech Red Raiders @ #4 Alabama Crimson Tide | 0 - 0 | Sun, March 22nd at 9:45 PM EDT | TBS |
+| Seattle U Redhawks @ Auburn Tigers | 0 - 0 | Sun, March 22nd at 6:30 PM EDT | ESPN2 |
+| George Washington Revolutionaries @ New Mexico Lobos | 0 - 0 | Sun, March 22nd at 8:00 PM EDT | ESPN+ |
+| Wichita State Shockers @ Oklahoma State Cowboys | 0 - 0 | Sun, March 22nd at 8:30 PM EDT | ESPN2 |
