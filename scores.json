@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-22 19:06:28",
+    "lastUpdated": "2026-03-22 19:11:32",
     "games": [
         {
             "id": "401856561",
@@ -8,12 +8,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
             "awayAbbr": "UK",
             "homeTeam": "#2 Iowa State Cyclones",
-            "homeScore": "9",
+            "homeScore": "12",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/66.png",
             "homeAbbr": "ISU",
-            "status": "11:30 - 1st Half",
+            "status": "10:48 - 1st Half",
             "tv": "CBS",
-            "winProb": 0.358,
+            "winProb": 0.455,
             "state": "in"
         },
         {
