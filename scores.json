@@ -1,35 +1,20 @@
 {
-    "lastUpdated": "2026-03-22 03:17:23",
+    "lastUpdated": "2026-03-22 03:22:27",
     "games": [
         {
             "id": "401856536",
             "awayTeam": "#12 High Point Panthers",
-            "awayScore": "65",
+            "awayScore": "66",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2272.png",
             "awayAbbr": "HPU",
             "homeTeam": "#4 Arkansas Razorbacks",
-            "homeScore": "64",
+            "homeScore": "67",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
             "homeAbbr": "ARK",
-            "status": "9:45 - 2nd Half",
+            "status": "8:59 - 2nd Half",
             "tv": "truTV, TBS",
-            "winProb": 0.663,
+            "winProb": 0.686,
             "state": "in"
-        },
-        {
-            "id": "401856534",
-            "awayTeam": "#5 Vanderbilt Commodores",
-            "awayScore": "72",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
-            "awayAbbr": "VAN",
-            "homeTeam": "#4 Nebraska Cornhuskers",
-            "homeScore": "74",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/158.png",
-            "homeAbbr": "NEB",
-            "status": "Final",
-            "tv": "TNT",
-            "winProb": 0.5,
-            "state": "post"
         },
         {
             "id": "401856532",
@@ -103,6 +88,21 @@
             "homeAbbr": "GONZ",
             "status": "Final",
             "tv": "truTV, TBS",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "id": "401856534",
+            "awayTeam": "#5 Vanderbilt Commodores",
+            "awayScore": "72",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
+            "awayAbbr": "VAN",
+            "homeTeam": "#4 Nebraska Cornhuskers",
+            "homeScore": "74",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/158.png",
+            "homeAbbr": "NEB",
+            "status": "Final",
+            "tv": "TNT",
             "winProb": 0.5,
             "state": "post"
         }
