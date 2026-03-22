@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-22 19:21:41",
+    "lastUpdated": "2026-03-22 19:26:45",
     "games": [
         {
             "id": "401856561",
@@ -11,9 +11,9 @@
             "homeScore": "20",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/66.png",
             "homeAbbr": "ISU",
-            "status": "7:56 - 1st Half",
+            "status": "6:37 - 1st Half",
             "tv": "CBS",
-            "winProb": 0.606,
+            "winProb": 0.624,
             "state": "in"
         },
         {
