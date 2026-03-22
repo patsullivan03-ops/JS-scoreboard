@@ -1,9 +1,9 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-22 19:01:24*
+*Updated: 2026-03-22 19:06:28*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #7 Kentucky Wildcats @ #2 Iowa State Cyclones | 13 - 6 | 13:56 - 1st Half | CBS |
+| #7 Kentucky Wildcats @ #2 Iowa State Cyclones | 20 - 9 | 11:30 - 1st Half | CBS |
 | #6 Tennessee Volunteers @ #3 Virginia Cavaliers | 0 - 0 | Sun, March 22nd at 6:10 PM EDT | TNT |
 | #9 Iowa Hawkeyes @ #1 Florida Gators | 0 - 0 | Sun, March 22nd at 7:10 PM EDT | TBS |
 | #9 Utah State Aggies @ #1 Arizona Wildcats | 0 - 0 | Sun, March 22nd at 7:50 PM EDT | truTV |
