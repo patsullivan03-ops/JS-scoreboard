@@ -1,21 +1,6 @@
 {
-    "lastUpdated": "2026-03-22 04:02:59",
+    "lastUpdated": "2026-03-22 04:08:04",
     "games": [
-        {
-            "id": "401856536",
-            "awayTeam": "#12 High Point Panthers",
-            "awayScore": "88",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2272.png",
-            "awayAbbr": "HPU",
-            "homeTeam": "#4 Arkansas Razorbacks",
-            "homeScore": "94",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
-            "homeAbbr": "ARK",
-            "status": "Final",
-            "tv": "truTV, TBS",
-            "winProb": 0.5,
-            "state": "post"
-        },
         {
             "id": "401856532",
             "awayTeam": "#9 Saint Louis Billikens",
@@ -103,6 +88,21 @@
             "homeAbbr": "NEB",
             "status": "Final",
             "tv": "TNT",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "id": "401856536",
+            "awayTeam": "#12 High Point Panthers",
+            "awayScore": "88",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2272.png",
+            "awayAbbr": "HPU",
+            "homeTeam": "#4 Arkansas Razorbacks",
+            "homeScore": "94",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
+            "homeAbbr": "ARK",
+            "status": "Final",
+            "tv": "truTV, TBS",
             "winProb": 0.5,
             "state": "post"
         }
