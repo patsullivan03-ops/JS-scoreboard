@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-22 20:02:14",
+    "lastUpdated": "2026-03-22 20:07:19",
     "games": [
         {
             "id": "401856561",
             "awayTeam": "#7 Kentucky Wildcats",
-            "awayScore": "30",
+            "awayScore": "34",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
             "awayAbbr": "UK",
             "homeTeam": "#2 Iowa State Cyclones",
-            "homeScore": "31",
+            "homeScore": "39",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/66.png",
             "homeAbbr": "ISU",
-            "status": "Halftime",
+            "status": "16:44 - 2nd Half",
             "tv": "CBS",
-            "winProb": 0.668,
+            "winProb": 0.792,
             "state": "in"
         },
         {
