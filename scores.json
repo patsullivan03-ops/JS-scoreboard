@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-22 22:24:27",
+    "lastUpdated": "2026-03-22 22:29:31",
     "games": [
         {
             "id": "401856562",
             "awayTeam": "#6 Tennessee Volunteers",
-            "awayScore": "14",
+            "awayScore": "16",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
             "awayAbbr": "TENN",
             "homeTeam": "#3 Virginia Cavaliers",
-            "homeScore": "14",
+            "homeScore": "20",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png",
             "homeAbbr": "UVA",
-            "status": "12:53 - 1st Half",
+            "status": "11:22 - 1st Half",
             "tv": "TNT",
-            "winProb": 0.397,
+            "winProb": 0.52,
             "state": "in"
         },
         {
