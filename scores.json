@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-22 19:57:09",
+    "lastUpdated": "2026-03-22 20:02:14",
     "games": [
         {
             "id": "401856561",
@@ -13,7 +13,7 @@
             "homeAbbr": "ISU",
             "status": "Halftime",
             "tv": "CBS",
-            "winProb": 0.5,
+            "winProb": 0.668,
             "state": "in"
         },
         {
