@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-22 23:30:22",
+    "lastUpdated": "2026-03-22 23:35:26",
     "games": [
         {
             "id": "401858351",
@@ -19,16 +19,16 @@
         {
             "id": "401856563",
             "awayTeam": "#9 Iowa Hawkeyes",
-            "awayScore": "17",
+            "awayScore": "19",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2294.png",
             "awayAbbr": "IOWA",
             "homeTeam": "#1 Florida Gators",
-            "homeScore": "12",
+            "homeScore": "13",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
             "homeAbbr": "FLA",
-            "status": "10:51 - 1st Half",
+            "status": "8:34 - 1st Half",
             "tv": "TBS",
-            "winProb": 0.642,
+            "winProb": 0.565,
             "state": "in"
         },
         {
@@ -41,9 +41,9 @@
             "homeScore": "37",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png",
             "homeAbbr": "UVA",
-            "status": "16:27 - 2nd Half",
+            "status": "15:46 - 2nd Half",
             "tv": "TNT",
-            "winProb": 0.221,
+            "winProb": 0.243,
             "state": "in"
         },
         {
@@ -56,7 +56,7 @@
             "homeScore": "0",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
             "homeAbbr": "ARIZ",
-            "status": "Sun, March 22nd at 7:50 PM EDT",
+            "status": "Sun, March 22nd at 8:10 PM EDT",
             "tv": "truTV",
             "winProb": 0.5,
             "state": "pre"
