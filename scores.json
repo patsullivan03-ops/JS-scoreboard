@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-22 16:24:08",
+    "lastUpdated": "2026-03-22 16:29:13",
     "games": [
         {
             "id": "401856564",
@@ -8,12 +8,12 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
             "awayAbbr": "MIA",
             "homeTeam": "#2 Purdue Boilermakers",
-            "homeScore": "15",
+            "homeScore": "19",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
             "homeAbbr": "PUR",
-            "status": "13:03 - 1st Half",
+            "status": "11:55 - 1st Half",
             "tv": "CBS",
-            "winProb": 0.83,
+            "winProb": 0.877,
             "state": "in"
         },
         {
