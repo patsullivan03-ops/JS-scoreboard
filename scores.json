@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-22 01:15:42",
+    "lastUpdated": "2026-03-22 01:20:46",
     "games": [
         {
             "id": "401856534",
             "awayTeam": "#5 Vanderbilt Commodores",
-            "awayScore": "4",
+            "awayScore": "8",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
             "awayAbbr": "VAN",
             "homeTeam": "#4 Nebraska Cornhuskers",
-            "homeScore": "11",
+            "homeScore": "14",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/158.png",
             "homeAbbr": "NEB",
-            "status": "15:23 - 1st Half",
+            "status": "13:29 - 1st Half",
             "tv": "TNT",
-            "winProb": 0.665,
+            "winProb": 0.641,
             "state": "in"
         },
         {
@@ -30,21 +30,6 @@
             "tv": "truTV, TBS",
             "winProb": 0.5,
             "state": "pre"
-        },
-        {
-            "id": "401856537",
-            "awayTeam": "#11 Texas Longhorns",
-            "awayScore": "74",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
-            "awayAbbr": "TEX",
-            "homeTeam": "#3 Gonzaga Bulldogs",
-            "homeScore": "68",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png",
-            "homeAbbr": "GONZ",
-            "status": "Final",
-            "tv": "truTV, TBS",
-            "winProb": 0.5,
-            "state": "post"
         },
         {
             "id": "401856532",
@@ -103,6 +88,21 @@
             "homeAbbr": "MSU",
             "status": "Final",
             "tv": "CBS",
+            "winProb": 0.5,
+            "state": "post"
+        },
+        {
+            "id": "401856537",
+            "awayTeam": "#11 Texas Longhorns",
+            "awayScore": "74",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+            "awayAbbr": "TEX",
+            "homeTeam": "#3 Gonzaga Bulldogs",
+            "homeScore": "68",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png",
+            "homeAbbr": "GONZ",
+            "status": "Final",
+            "tv": "truTV, TBS",
             "winProb": 0.5,
             "state": "post"
         }
