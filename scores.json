@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-23 02:48:13",
+    "lastUpdated": "2026-03-23 02:53:17",
     "games": [
         {
             "id": "401856559",
@@ -11,24 +11,24 @@
             "homeScore": "51",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
             "homeAbbr": "CONN",
-            "status": "12:06 - 2nd Half",
+            "status": "11:55 - 2nd Half",
             "tv": "TNT",
-            "winProb": 0.838,
+            "winProb": 0.866,
             "state": "in"
         },
         {
             "id": "401856560",
             "awayTeam": "#5 Texas Tech Red Raiders",
-            "awayScore": "19",
+            "awayScore": "21",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
             "awayAbbr": "TTU",
             "homeTeam": "#4 Alabama Crimson Tide",
             "homeScore": "37",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
             "homeAbbr": "ALA",
-            "status": "4:35 - 1st Half",
+            "status": "3:39 - 1st Half",
             "tv": "TBS",
-            "winProb": 0.957,
+            "winProb": 0.94,
             "state": "in"
         },
         {
