@@ -1,19 +1,19 @@
 {
-    "lastUpdated": "2026-03-23 03:23:43",
+    "lastUpdated": "2026-03-23 03:28:48",
     "games": [
         {
             "id": "401856560",
             "awayTeam": "#5 Texas Tech Red Raiders",
-            "awayScore": "28",
+            "awayScore": "35",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
             "awayAbbr": "TTU",
             "homeTeam": "#4 Alabama Crimson Tide",
-            "homeScore": "52",
+            "homeScore": "58",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
             "homeAbbr": "ALA",
-            "status": "19:02 - 2nd Half",
+            "status": "16:05 - 2nd Half",
             "tv": "TBS",
-            "winProb": 0.992,
+            "winProb": 0.993,
             "state": "in"
         },
         {
@@ -23,13 +23,13 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
             "awayAbbr": "UCLA",
             "homeTeam": "#2 UConn Huskies",
-            "homeScore": "71",
+            "homeScore": "73",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
             "homeAbbr": "CONN",
-            "status": "1:10 - 2nd Half",
+            "status": "Final",
             "tv": "TNT",
-            "winProb": 0.999,
-            "state": "in"
+            "winProb": 0.5,
+            "state": "post"
         },
         {
             "id": "401856563",
