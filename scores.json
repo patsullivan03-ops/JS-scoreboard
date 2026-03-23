@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-23 03:13:35",
+    "lastUpdated": "2026-03-23 03:18:39",
     "games": [
         {
             "id": "401856560",
@@ -13,22 +13,22 @@
             "homeAbbr": "ALA",
             "status": "Halftime",
             "tv": "TBS",
-            "winProb": 0.5,
+            "winProb": 0.991,
             "state": "in"
         },
         {
             "id": "401856559",
             "awayTeam": "#7 UCLA Bruins",
-            "awayScore": "54",
+            "awayScore": "57",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
             "awayAbbr": "UCLA",
             "homeTeam": "#2 UConn Huskies",
-            "homeScore": "67",
+            "homeScore": "69",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
             "homeAbbr": "CONN",
-            "status": "4:18 - 2nd Half",
+            "status": "2:16 - 2nd Half",
             "tv": "TNT",
-            "winProb": 0.987,
+            "winProb": 0.996,
             "state": "in"
         },
         {
