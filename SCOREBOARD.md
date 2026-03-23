@@ -1,12 +1,12 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-23 01:42:13*
+*Updated: 2026-03-23 01:47:18*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #7 UCLA Bruins @ #2 UConn Huskies | 20 - 17 | 7:13 - 1st Half | TNT |
-| Wichita State Shockers @ Oklahoma State Cowboys | 44 - 37 | Halftime | ESPN2 |
-| #9 Utah State Aggies @ #1 Arizona Wildcats | 35 - 51 | 13:44 - 2nd Half | truTV |
-| George Washington Revolutionaries @ New Mexico Lobos | 51 - 67 | 7:26 - 2nd Half | ESPN+ |
+| Wichita State Shockers @ Oklahoma State Cowboys | 46 - 47 | 17:01 - 2nd Half | ESPN2 |
+| #7 UCLA Bruins @ #2 UConn Huskies | 21 - 23 | 5:36 - 1st Half | TNT |
+| #9 Utah State Aggies @ #1 Arizona Wildcats | 39 - 51 | 11:48 - 2nd Half | truTV |
+| George Washington Revolutionaries @ New Mexico Lobos | 56 - 72 | 5:01 - 2nd Half | ESPN+ |
 | #5 Texas Tech Red Raiders @ #4 Alabama Crimson Tide | 0 - 0 | Sun, March 22nd at 10:00 PM EDT | TBS |
 | #9 Iowa Hawkeyes @ #1 Florida Gators | 73 - 72 | Final | TBS |
 | #7 Miami Hurricanes @ #2 Purdue Boilermakers | 69 - 79 | Final | CBS |
