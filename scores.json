@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-23 01:32:05",
+    "lastUpdated": "2026-03-23 01:37:09",
     "games": [
         {
             "id": "401858356",
@@ -19,31 +19,16 @@
         {
             "id": "401856559",
             "awayTeam": "#7 UCLA Bruins",
-            "awayScore": "14",
+            "awayScore": "18",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
             "awayAbbr": "UCLA",
             "homeTeam": "#2 UConn Huskies",
-            "homeScore": "12",
+            "homeScore": "15",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
             "homeAbbr": "CONN",
-            "status": "11:47 - 1st Half",
+            "status": "9:07 - 1st Half",
             "tv": "TNT",
-            "winProb": 0.571,
-            "state": "in"
-        },
-        {
-            "id": "401856563",
-            "awayTeam": "#9 Iowa Hawkeyes",
-            "awayScore": "73",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2294.png",
-            "awayAbbr": "IOWA",
-            "homeTeam": "#1 Florida Gators",
-            "homeScore": "72",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
-            "homeAbbr": "FLA",
-            "status": "0:04 - 2nd Half",
-            "tv": "TBS",
-            "winProb": 0.098,
+            "winProb": 0.53,
             "state": "in"
         },
         {
@@ -53,27 +38,27 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/328.png",
             "awayAbbr": "USU",
             "homeTeam": "#1 Arizona Wildcats",
-            "homeScore": "44",
+            "homeScore": "51",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
             "homeAbbr": "ARIZ",
-            "status": "16:18 - 2nd Half",
+            "status": "14:41 - 2nd Half",
             "tv": "truTV",
-            "winProb": 0.951,
+            "winProb": 0.992,
             "state": "in"
         },
         {
             "id": "401858353",
             "awayTeam": "George Washington Revolutionaries",
-            "awayScore": "41",
+            "awayScore": "48",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/45.png",
             "awayAbbr": "GW",
             "homeTeam": "New Mexico Lobos",
-            "homeScore": "57",
+            "homeScore": "65",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/167.png",
             "homeAbbr": "UNM",
-            "status": "11:17 - 2nd Half",
+            "status": "8:39 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.992,
+            "winProb": 0.995,
             "state": "in"
         },
         {
@@ -90,6 +75,21 @@
             "tv": "TBS",
             "winProb": 0.5,
             "state": "pre"
+        },
+        {
+            "id": "401856563",
+            "awayTeam": "#9 Iowa Hawkeyes",
+            "awayScore": "73",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2294.png",
+            "awayAbbr": "IOWA",
+            "homeTeam": "#1 Florida Gators",
+            "homeScore": "72",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
+            "homeAbbr": "FLA",
+            "status": "Final",
+            "tv": "TBS",
+            "winProb": 0.5,
+            "state": "post"
         },
         {
             "id": "401856564",
