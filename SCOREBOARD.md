@@ -1,11 +1,11 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-22 23:55:43*
+*Updated: 2026-03-23 00:00:47*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #9 Iowa Hawkeyes @ #1 Florida Gators | 28 - 25 | 2:54 - 1st Half | TBS |
-| #6 Tennessee Volunteers @ #3 Virginia Cavaliers | 62 - 55 | 8:37 - 2nd Half | TNT |
-| Seattle U Redhawks @ Auburn Tigers | 48 - 63 | 12:42 - 2nd Half | ESPN2 |
+| #9 Iowa Hawkeyes @ #1 Florida Gators | 31 - 27 | 1:59 - 1st Half | TBS |
+| #6 Tennessee Volunteers @ #3 Virginia Cavaliers | 63 - 58 | 7:28 - 2nd Half | TNT |
+| Seattle U Redhawks @ Auburn Tigers | 50 - 63 | 11:06 - 2nd Half | ESPN2 |
 | #9 Utah State Aggies @ #1 Arizona Wildcats | 0 - 0 | Sun, March 22nd at 8:11 PM EDT | truTV |
 | #7 UCLA Bruins @ #2 UConn Huskies | 0 - 0 | Sun, March 22nd at 8:45 PM EDT | TNT |
 | #5 Texas Tech Red Raiders @ #4 Alabama Crimson Tide | 0 - 0 | Sun, March 22nd at 9:45 PM EDT | TBS |
