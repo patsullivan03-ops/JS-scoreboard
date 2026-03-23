@@ -1,9 +1,9 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-23 03:54:08*
+*Updated: 2026-03-23 03:59:12*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #5 Texas Tech Red Raiders @ #4 Alabama Crimson Tide | 49 - 80 | 7:45 - 2nd Half | TBS |
+| #5 Texas Tech Red Raiders @ #4 Alabama Crimson Tide | 56 - 85 | 5:30 - 2nd Half | TBS |
 | #9 Iowa Hawkeyes @ #1 Florida Gators | 73 - 72 | Final | TBS |
 | #9 Utah State Aggies @ #1 Arizona Wildcats | 66 - 78 | Final | truTV |
 | #7 Miami Hurricanes @ #2 Purdue Boilermakers | 69 - 79 | Final | CBS |
