@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-23 00:51:30",
+    "lastUpdated": "2026-03-23 00:56:35",
     "games": [
         {
             "id": "401858353",
@@ -17,48 +17,48 @@
             "state": "in"
         },
         {
-            "id": "401858356",
-            "awayTeam": "Wichita State Shockers",
-            "awayScore": "10",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2724.png",
-            "awayAbbr": "WICH",
-            "homeTeam": "Oklahoma State Cowboys",
-            "homeScore": "2",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
-            "homeAbbr": "OKST",
-            "status": "15:09 - 1st Half",
-            "tv": "ESPN2",
-            "winProb": 0.435,
-            "state": "in"
-        },
-        {
             "id": "401856563",
             "awayTeam": "#9 Iowa Hawkeyes",
             "awayScore": "55",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2294.png",
             "awayAbbr": "IOWA",
             "homeTeam": "#1 Florida Gators",
-            "homeScore": "46",
+            "homeScore": "49",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
             "homeAbbr": "FLA",
-            "status": "12:05 - 2nd Half",
+            "status": "11:25 - 2nd Half",
             "tv": "TBS",
-            "winProb": 0.25,
+            "winProb": 0.386,
+            "state": "in"
+        },
+        {
+            "id": "401858356",
+            "awayTeam": "Wichita State Shockers",
+            "awayScore": "18",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2724.png",
+            "awayAbbr": "WICH",
+            "homeTeam": "Oklahoma State Cowboys",
+            "homeScore": "8",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
+            "homeAbbr": "OKST",
+            "status": "12:01 - 1st Half",
+            "tv": "ESPN2",
+            "winProb": 0.321,
             "state": "in"
         },
         {
             "id": "401856565",
             "awayTeam": "#9 Utah State Aggies",
-            "awayScore": "16",
+            "awayScore": "18",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/328.png",
             "awayAbbr": "USU",
             "homeTeam": "#1 Arizona Wildcats",
             "homeScore": "27",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
             "homeAbbr": "ARIZ",
-            "status": "4:21 - 1st Half",
+            "status": "3:23 - 1st Half",
             "tv": "truTV",
-            "winProb": 0.946,
+            "winProb": 0.926,
             "state": "in"
         },
         {
