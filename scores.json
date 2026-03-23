@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-23 01:11:49",
+    "lastUpdated": "2026-03-23 01:16:53",
     "games": [
         {
             "id": "401856565",
@@ -17,6 +17,21 @@
             "state": "in"
         },
         {
+            "id": "401858356",
+            "awayTeam": "Wichita State Shockers",
+            "awayScore": "34",
+            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2724.png",
+            "awayAbbr": "WICH",
+            "homeTeam": "Oklahoma State Cowboys",
+            "homeScore": "31",
+            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
+            "homeAbbr": "OKST",
+            "status": "3:41 - 1st Half",
+            "tv": "ESPN2",
+            "winProb": 0.509,
+            "state": "in"
+        },
+        {
             "id": "401856563",
             "awayTeam": "#9 Iowa Hawkeyes",
             "awayScore": "66",
@@ -26,54 +41,39 @@
             "homeScore": "65",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
             "homeAbbr": "FLA",
-            "status": "3:55 - 2nd Half",
+            "status": "3:23 - 2nd Half",
             "tv": "TBS",
-            "winProb": 0.567,
+            "winProb": 0.555,
             "state": "in"
         },
         {
             "id": "401856559",
             "awayTeam": "#7 UCLA Bruins",
-            "awayScore": "2",
+            "awayScore": "6",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
             "awayAbbr": "UCLA",
             "homeTeam": "#2 UConn Huskies",
-            "homeScore": "0",
+            "homeScore": "4",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
             "homeAbbr": "CONN",
-            "status": "19:12 - 1st Half",
+            "status": "16:46 - 1st Half",
             "tv": "TNT",
-            "winProb": 0.599,
-            "state": "in"
-        },
-        {
-            "id": "401858356",
-            "awayTeam": "Wichita State Shockers",
-            "awayScore": "32",
-            "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2724.png",
-            "awayAbbr": "WICH",
-            "homeTeam": "Oklahoma State Cowboys",
-            "homeScore": "19",
-            "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
-            "homeAbbr": "OKST",
-            "status": "6:51 - 1st Half",
-            "tv": "ESPN2",
-            "winProb": 0.217,
+            "winProb": 0.617,
             "state": "in"
         },
         {
             "id": "401858353",
             "awayTeam": "George Washington Revolutionaries",
-            "awayScore": "32",
+            "awayScore": "34",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/45.png",
             "awayAbbr": "GW",
             "homeTeam": "New Mexico Lobos",
-            "homeScore": "43",
+            "homeScore": "48",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/167.png",
             "homeAbbr": "UNM",
-            "status": "18:03 - 2nd Half",
+            "status": "15:21 - 2nd Half",
             "tv": "ESPN+",
-            "winProb": 0.924,
+            "winProb": 0.973,
             "state": "in"
         },
         {
@@ -86,7 +86,7 @@
             "homeScore": "0",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
             "homeAbbr": "ALA",
-            "status": "Sun, March 22nd at 9:45 PM EDT",
+            "status": "Sun, March 22nd at 9:55 PM EDT",
             "tv": "TBS",
             "winProb": 0.5,
             "state": "pre"
