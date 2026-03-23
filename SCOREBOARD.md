@@ -1,10 +1,10 @@
 # 🏀 NCAAB Scoreboard
-*Updated: 2026-03-23 03:18:39*
+*Updated: 2026-03-23 03:23:43*
 
 | Matchup | Score | Status | TV |
 | :--- | :--- | :--- | :--- |
-| #5 Texas Tech Red Raiders @ #4 Alabama Crimson Tide | 25 - 49 | Halftime | TBS |
-| #7 UCLA Bruins @ #2 UConn Huskies | 57 - 69 | 2:16 - 2nd Half | TNT |
+| #5 Texas Tech Red Raiders @ #4 Alabama Crimson Tide | 28 - 52 | 19:02 - 2nd Half | TBS |
+| #7 UCLA Bruins @ #2 UConn Huskies | 57 - 71 | 1:10 - 2nd Half | TNT |
 | #9 Iowa Hawkeyes @ #1 Florida Gators | 73 - 72 | Final | TBS |
 | #9 Utah State Aggies @ #1 Arizona Wildcats | 66 - 78 | Final | truTV |
 | #7 Miami Hurricanes @ #2 Purdue Boilermakers | 69 - 79 | Final | CBS |
