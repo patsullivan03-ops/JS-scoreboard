@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-03-23 02:22:50",
+    "lastUpdated": "2026-03-23 02:27:54",
     "games": [
         {
             "id": "401856559",
@@ -13,7 +13,7 @@
             "homeAbbr": "CONN",
             "status": "Halftime",
             "tv": "TNT",
-            "winProb": 0.5,
+            "winProb": 0.799,
             "state": "in"
         },
         {
@@ -23,42 +23,42 @@
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
             "awayAbbr": "TTU",
             "homeTeam": "#4 Alabama Crimson Tide",
-            "homeScore": "17",
+            "homeScore": "20",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
             "homeAbbr": "ALA",
-            "status": "12:49 - 1st Half",
+            "status": "11:50 - 1st Half",
             "tv": "TBS",
-            "winProb": 0.776,
+            "winProb": 0.839,
             "state": "in"
         },
         {
             "id": "401856565",
             "awayTeam": "#9 Utah State Aggies",
-            "awayScore": "61",
+            "awayScore": "64",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/328.png",
             "awayAbbr": "USU",
             "homeTeam": "#1 Arizona Wildcats",
-            "homeScore": "68",
+            "homeScore": "73",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
             "homeAbbr": "ARIZ",
-            "status": "3:02 - 2nd Half",
+            "status": "1:13 - 2nd Half",
             "tv": "truTV",
-            "winProb": 0.953,
+            "winProb": 0.99,
             "state": "in"
         },
         {
             "id": "401858356",
             "awayTeam": "Wichita State Shockers",
-            "awayScore": "75",
+            "awayScore": "83",
             "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2724.png",
             "awayAbbr": "WICH",
             "homeTeam": "Oklahoma State Cowboys",
-            "homeScore": "60",
+            "homeScore": "62",
             "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
             "homeAbbr": "OKST",
-            "status": "6:02 - 2nd Half",
+            "status": "4:13 - 2nd Half",
             "tv": "ESPN2",
-            "winProb": 0.017,
+            "winProb": 0.001,
             "state": "in"
         },
         {
